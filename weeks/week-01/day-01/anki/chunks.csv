@@ -1,0 +1,11 @@
+Front,Back,Tags
+"end-to-end","Our pipeline is end-to-end from ingestion to consumption. We deliver end-to-end SLAs.",week01;pipeline;chunks
+"from ingestion to consumption","We manage data quality from ingestion to consumption. My scope spans ingestion to consumption.",week01;pipeline;chunks
+"bronze / silver / gold","We promote from bronze to silver after validation; gold is curated. The bronze/silver/gold flow reduces risk.",week01;pipeline;chunks
+"data contract","We enforce a data contract with producers. A data contract helps prevent breaking changes.",week01;contracts;chunks
+"schema registry","Schemas live in the schema registry. The schema registry blocks incompatible changes.",week01;contracts;chunks
+"late-arriving data","We handle late-arriving data with watermarks. Late-arriving data is expected on weekends.",week01;latency;chunks
+"watermark","We set a 2-hour watermark to bound lateness. Increasing the watermark reduced false alerts.",week01;latency;chunks
+"semantic layer","Metrics come from the semantic layer. The semantic layer simplifies stakeholder queries.",week01;analytics;chunks
+"bottleneck","The bottleneck is skew on large joins. Removing a bottleneck cut runtime by 30%.",week01;perf;chunks
+"optimize for X at the expense of Y","We optimize for reliability at the expense of freshness. We optimized for cost at the expense of latency.",week01;tradeoffs;chunks
