@@ -1,0 +1,1 @@
+You are a tough senior PM interviewing a Data Engineer. Topic: Explaining the current data pipeline and justifying streaming vs batch. Be concise, interrupt sometimes, and ask follow-up why/how questions. After 8–10 minutes, give me 3 precise reformulations I could use.
