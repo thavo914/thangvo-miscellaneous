@@ -53,7 +53,7 @@
   - Follow the 90-min schedule. Focus: Input depth and shadowing quality.
   - Speaking task prompt (PREP): “What is our end-to-end pipeline?”
   - Aim to use: end-to-end, ingestion → consumption, downstream consumers.
-  - Resources: see `day-01/` (model text, role-play prompt, Anki CSV, recordings folder)
+  - Resources: see `day-01/` (model text `.md`, role-play `.md`, vocabularies folder, recordings folder)
 
 - Tuesday
   - Follow the 90-min schedule. Focus: Structure and succinctness.
