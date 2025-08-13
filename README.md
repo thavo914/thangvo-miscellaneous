@@ -1,6 +1,6 @@
 # DE-English
 
-## Evergreen Daily English Practice (B2 → C1 Speaking)
+## Evergreen Daily English Practice (B1 → C1 Speaking)
 
 Build a durable, topic-based routine you can follow indefinitely. Pick one topic per day, speak a lot, capture errors, and recycle your best language.
 
