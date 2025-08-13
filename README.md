@@ -203,6 +203,8 @@ You are a tough senior PM interviewing a Data Engineer. Be concise, interrupt so
 
 - Weekly plans live in `weeks/`. Start at `weeks/README.md`.
 
+- Coaching settings live in `COACHING.md` and `coach.config.yaml`. I will follow these by default.
+
 Suggested structure:
 
 ```text

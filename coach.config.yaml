@@ -1,0 +1,29 @@
+speaking_first: true
+level: B1
+session_minutes_default: 90
+blocks:
+  warmup: 10
+  input: 15
+  shadowing: 15
+  vocabulary: 10
+  speaking_task: 25
+  pronunciation: 10
+  log: 5
+feedback:
+  reformulations: 3
+  pronunciation_cues: 1
+  grammar_upgrades: 1
+personas:
+  default: Senior PM
+  alternates:
+    - Finance lead
+    - Platform lead
+    - New hire
+metrics:
+  - wpm
+  - chunks_used
+  - complex_sentences
+  - intelligibility
+vocabulary:
+  path: weeks/week-01/day-01/vocabularies
+  format: ipa,definition,pos,usage5,synonyms
