@@ -193,6 +193,33 @@ Reflection (1 error, 1 fix, 1 goal):
 You are a tough senior PM interviewing a Data Engineer. Be concise, interrupt sometimes, and ask follow-up why/how questions. Topic: <TODAY'S TOPIC>. Evaluate clarity, trade-offs, and stakeholder alignment. After 6–8 minutes, give me 3 precise reformulations I could use.
 ```
 
+### Conversation practice template (B1/B2)
+
+Direction: Read aloud in a warm, welcoming tone. Use clear sentences. Keep answers concise (1–2 sentences).
+
+Participants: Speaker 1 (you), Speaker 2 (PM)
+
+```markdown
+# Conversation title (topic)
+
+- Speaker 1: [Opening one sentence with status + next step]
+- Speaker 2: [Prompt/question]
+- Speaker 1: [Answer]
+- Speaker 2: [Follow-up]
+- Speaker 1: [Answer]
+- Speaker 2: [Cross‑question]
+- Speaker 1: [Answer]
+- Speaker 2: [Plan/timeline]
+- Speaker 1: [Bullet-like plan in 1–2 sentences]
+- Speaker 2: [Ask/need]
+- Speaker 1: [Direct ask]
+
+## Optional reformulations
+- "[Polished sentence 1]"
+- "[Polished sentence 2]"
+- "[Polished sentence 3]"
+
+```
 ---
 
 ## How to use this repo
