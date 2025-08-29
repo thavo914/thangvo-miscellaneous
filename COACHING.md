@@ -5,6 +5,7 @@ Use this document to keep our collaboration consistent across sessions. I will f
 ## Core principle
 
 - Speaking-first: spend ~60–70% of time on live speaking (drills, role-plays, Q&A). Keep listening, vocabulary, pronunciation, and light writing as support.
+- Balance professional and everyday topics for well-rounded language development.
 
 ## Level and pacing (B1)
 
@@ -38,8 +39,13 @@ Use this document to keep our collaboration consistent across sessions. I will f
 
 ## Role-play personas (default and alternates)
 
+### Professional Topics:
 - Default: Senior PM (tough, concise, interrupts, asks why/how)
 - Alternates: Finance lead (cost pressure), Platform lead (reliability/perf), New hire (clarity)
+
+### Everyday Life Topics:
+- Default: Curious friend (warm, interested, shares experiences)
+- Alternates: Family member, colleague outside work, new acquaintance
 
 ## Tracked weekly metrics (light)
 

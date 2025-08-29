@@ -1,6 +1,12 @@
 speaking_first: true
 level: B1
 session_minutes_default: 90
+language_style:
+  conversational: true
+  natural_us_speech: true
+  avoid_formal_jargon: true
+  use_contractions: true
+  focus_clarity_over_perfection: true
 blocks:
   warmup: 10
   input: 15
@@ -14,11 +20,18 @@ feedback:
   pronunciation_cues: 1
   grammar_upgrades: 1
 personas:
-  default: Senior PM
-  alternates:
-    - Finance lead
-    - Platform lead
-    - New hire
+  professional:
+    default: Senior PM
+    alternates:
+      - Finance lead
+      - Platform lead
+      - New hire
+  everyday:
+    default: Curious friend
+    alternates:
+      - Family member
+      - Colleague outside work
+      - New acquaintance
 metrics:
   - wpm
   - chunks_used
