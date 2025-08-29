@@ -1,56 +1,53 @@
-# Week 02 – Batch vs. streaming trade-offs
+# Week 02: Advanced Communication & Project Planning
 
-## Outcomes (by end of week)
+## Overview
+This week focuses on advanced communication skills, project planning, and Phase 2 kickoff for the SAS to MSSQL migration.
 
-- Explain trade-offs clearly and make a recommendation under constraints.
-- Use 6–8 chunks about latency, cost, reliability, complexity.
-- Handle pushback with paraphrasing and reformulations.
+## Topics Covered
 
-## Inputs (choose 1–2)
+### Communication Skills
+- Compare, contrast, and recommend techniques
+- Objection handling and stakeholder management
+- PM catch-up meetings and status updates
+- Grammar focus: cleft sentences and contrastive stress
 
-- Talk/article comparing batch and streaming architectures
-- Case study on streaming adoption or rollback
+### Project Planning
+- Phase 2 project scope and timeline
+- Parallel workstream management
+- Risk assessment and mitigation
+- Technical architecture planning
 
-## Chunk Bank (8–12)
+## Learning Materials
 
-- latency budget; freshness; end-to-end SLA
-- exactly-once vs at-least-once vs idempotent
-- operational overhead; on-call burden
-- total cost of ownership; run cost; data egress
-- failure domains; backpressure; scaling characteristics
-- degrade gracefully; replay; checkpointing
-- eventual consistency; consumer expectations
-- recommendation given constraints …
+### Prompts
+- **Compare-Contrast-Recommend**: Practice analyzing trade-offs between different approaches
+- **Objection Handling**: Learn to address stakeholder concerns professionally
+- **PM Catch-up**: Simulate regular project management meetings
+- **4-3-2 Drill**: Improve speaking fluency and confidence
+- **Meeting Status Update**: Phase 2 kickoff and project planning
 
-## Grammar/Pronunciation Focus
+### Grammar
+- **Cleft Sentences**: Emphasizing specific information in sentences
+- **Contrastive Stress**: Using intonation to highlight differences
+- **Emphasis Techniques**: Various ways to make important points stand out
 
-- Grammar: Clefts for emphasis ("What really matters is reliability under spikes.")
-- Pronunciation: Contrastive stress for trade-offs
+### Vocabularies
+- **backpressure**: System flow control mechanisms
+- **batch-processing**: Traditional data processing approach
+- **operational-overhead**: Management and maintenance costs
+- **streaming**: Real-time data processing
+- **trade-off**: Balancing competing priorities
+- **cleft-sentence**: Sentence structure for emphasis
+- **contrastive-stress**: Intonation for highlighting differences
 
-## Daily Plan
+## Practice Focus
+- Advanced communication techniques
+- Project planning and stakeholder management
+- Technical concept comparison
+- Grammar and pronunciation improvement
 
-- Mon: Input + shadowing; chunks to SRS
-- Tue: Compare–Contrast–Recommend; 4-3-2 drill
-- Wed: Objection handling role-play
-- Thu: Writing-to-speaking (pros/cons table → 2-min talk)
-- Fri: Simulation: Stakeholder review; defend your choice
-- Sat: Retell without notes; record
-- Sun: Light review; plan next week
-
-## Exercises & Prompts
-
-- Compare–Contrast–Recommend: Streaming vs Batch for `your use case`.
-- Problem–Solution–Impact: Backpressure incident and mitigation.
-- PREP: "We should keep batch for now because …"
-- Role-play prompt:
-
-  ```text
-  You are a skeptical finance lead challenging run costs and complexity. Topic: Batch vs streaming trade-offs. Interrupt, ask for numbers, and push on reliability. After 6–8 minutes, give me 3 reformulations.
-  ```
-
-## Checklist
-
-- [ ] 5+ sessions completed
-- [ ] 2 recordings
-- [ ] 6–8 chunks added & used
-- [ ] One error added to personal doc and addressed
+## Weekly Goals
+- Master advanced communication techniques
+- Develop project planning skills
+- Improve grammar and pronunciation
+- Build confidence in complex discussions

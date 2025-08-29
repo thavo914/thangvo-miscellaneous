@@ -2,7 +2,7 @@
 
 ## Evergreen Daily English Practice (B1 → C1 Speaking)
 
-Build a durable, topic-based routine you can follow indefinitely. Pick one topic per day, speak a lot, capture errors, and recycle your best language.
+Build a durable, topic-based routine you can follow indefinitely. Practice both professional (data engineering) and everyday life conversations. Pick one topic per day, speak a lot, capture errors, and recycle your best language.
 
 ### Quick start
 
@@ -94,8 +94,34 @@ Default: 60 minutes. Also includes 30-min Lite and 90-min Power.
 - A decision you reversed and why
 - A failure you learned from
 - A tough conversation handled well
+- Daily routines and productivity
+- Food and cooking experiences
+- Hobbies and interests
+- Family and relationships
+- Shopping and consumer decisions
+- Transportation and commuting
+- Entertainment and media
+- Learning new skills
+- Cultural experiences and differences
 
 Tip: Alternate work and everyday topics to broaden vocabulary and keep it fresh.
+
+---
+
+## Topic Guidelines
+
+### Professional Topics (Data Engineering)
+- Use formal, technical vocabulary
+- Focus on problem-solving and technical explanations
+- Practice stakeholder communication
+- Use business-appropriate language
+
+### Everyday Life Topics
+- Use casual, conversational language
+- Focus on personal experiences and feelings
+- Practice natural speech patterns
+- Use everyday vocabulary and expressions
+- Include cultural context when relevant
 
 ---
 
@@ -189,15 +215,27 @@ Reflection (1 error, 1 fix, 1 goal):
 
 ### AI Role-Play Prompt (paste into your chatbot)
 
+#### For Professional Topics:
 ```text
 You are a tough senior PM interviewing a Data Engineer. Be concise, interrupt sometimes, and ask follow-up why/how questions. Topic: <TODAY'S TOPIC>. Evaluate clarity, trade-offs, and stakeholder alignment. After 6–8 minutes, give me 3 precise reformulations I could use.
 ```
 
+#### For Everyday Life Topics:
+```text
+You are a friendly, curious friend having a casual conversation. Ask follow-up questions naturally, show interest, and share your own experiences when relevant. Topic: <TODAY'S TOPIC>. Keep the tone warm and conversational. After 6–8 minutes, give me 3 natural ways to express the same ideas.
+```
+
 ### Conversation practice template (B1/B2)
 
+#### For Professional Topics:
 Direction: Read aloud in a warm, welcoming tone. Use clear sentences. Keep answers concise (1–2 sentences).
 
 Participants: Speaker 1 (you), Speaker 2 (PM)
+
+#### For Everyday Life Topics:
+Direction: Read aloud in a warm, conversational tone. Use clear sentences. Keep answers concise (1–2 sentences). This is a casual conversation between friends.
+
+Participants: Speaker 1 (you), Speaker 2 (friend/colleague)
 
 ```markdown
 # Conversation title (topic)
