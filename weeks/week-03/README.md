@@ -1,55 +1,57 @@
-# Week 03 – Data quality, SLAs, and observability
+# Week 03: People and Relationships at Work
 
-## Outcomes (by end of week)
+## Overview
+This week focuses on building effective workplace relationships, managing stakeholders, and developing soft skills essential for data engineering success.
 
-- Explain quality dimensions and monitoring strategy.
-- Use 6–8 chunks around SLAs, alerts, lineage, and ownership.
-- Tell a clear incident story with prevention steps.
+## Topics Covered
 
-## Inputs (choose 1–2)
+### Interpersonal Skills
+- Building trust with new team members
+- Managing different personality types
+- Handling conflicts and disagreements professionally
+- Giving and receiving constructive feedback
 
-- Article on data quality frameworks (Great Expectations/Monte Carlo/Datadog)
-- Talk on observability in modern data stacks
+### Stakeholder Management
+- Working across departments
+- Managing expectations with different stakeholders
+- Building relationships with business users
+- Effective communication strategies
 
-## Chunk Bank (8–12)
+### Team Dynamics
+- Conflict resolution techniques
+- Cross-functional collaboration
+- Professional behavior in challenging situations
+- Mentoring and knowledge sharing
 
-- freshness, completeness, accuracy, timeliness
-- schema drift; contract breach; null explosion
-- alert fatigue; actionable alerts; SLO vs SLA
-- data lineage; blast radius; ownership
-- anomaly detection; threshold; runbook
-- remediation; backfill; prevention
-- golden datasets; governance
-- incident review; corrective actions
+## Learning Materials
 
-## Grammar/Pronunciation Focus
+### Prompts
+- **People and Relationships**: Practice workplace relationship scenarios
+- **Stakeholder Communication**: Learn effective stakeholder management
+- **Team Collaboration**: Develop team dynamics skills
 
-- Grammar: Relative clauses to add precision ("alerts that page the on-call only when …")
-- Pronunciation: Clear final consonants; -ed endings
+### Vocabularies
+- **stakeholder**: Person with interest in project outcome
+- **conflict-resolution**: Solving disagreements professionally
+- **trust-building**: Developing confidence in others
+- **cross-functional**: Working across departments
+- **feedback**: Constructive criticism for improvement
 
-## Daily Plan
+## Practice Focus
+- Building workplace relationships
+- Managing difficult conversations
+- Stakeholder communication
+- Professional development
 
-- Mon: Input + shadowing; chunks to SRS
-- Tue: PREP: why quality matters + example
-- Wed: Incident role-play; root cause and corrective action
-- Thu: Writing-to-speaking: incident postmortem → 2-min talk
-- Fri: Simulation: Quality review with stakeholders
-- Sat: Retell without notes; record
-- Sun: Light review; plan next week
+## Weekly Goals
+- Master interpersonal communication skills
+- Develop stakeholder management abilities
+- Build confidence in difficult conversations
+- Improve team collaboration skills
 
-## Exercises & Prompts
-
-- Problem–Solution–Impact: A contract breach and its downstream impact.
-- STAR: An incident you owned; what you changed.
-- Role-play prompt:
-
-  ```text
-  You are a product manager who experienced a KPI dashboard outage. Topic: Data quality and SLAs. Ask about detection, response, and prevention. After 6–8 minutes, give me 3 reformulations.
-  ```
-
-## Checklist
-
-- [ ] 5+ sessions completed
-- [ ] 2 recordings
-- [ ] 6–8 chunks added & used
-- [ ] One error added to personal doc and addressed
+## Key Learning Outcomes
+- Handle workplace conflicts professionally
+- Build trust with new team members
+- Adapt communication style to different stakeholders
+- Give and receive feedback effectively
+- Work successfully across departments
