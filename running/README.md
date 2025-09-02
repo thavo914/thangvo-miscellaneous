@@ -16,6 +16,8 @@ A comprehensive 26-week Full Marathon training plan following the MAF (Maximum A
 - **[Workout Guidelines](workout-guidelines.md)** - How to execute different types of workouts
 - **[Nutrition & Hydration](nutrition-hydration.md)** - Fueling strategies for training and race day
 - **[Recovery & Injury Prevention](recovery-injury-prevention.md)** - Rest, mobility, and injury prevention
+- **[Strength Training Routine](strength-training-routine.md)** - Complete strength, mobility & core routine
+- **[Week CB-1 Schedule](week-cb1-schedule.md)** - Detailed recovery week schedule with running + supplementary training
 
 ## 🗓️ Weekly Schedule
 
