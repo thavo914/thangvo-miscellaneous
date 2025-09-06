@@ -25,6 +25,9 @@
 ## Grammar/Pronunciation Focus
 
 - Grammar: Inversion for emphasis ("Only when dependencies are explicit do failures localize.")
+- Grammar: Advanced patterns - relative clauses, reported speech, mixed conditionals, cleft sentences
+- Grammar: Echoing method for speaking practice and pronunciation improvement
+- Grammar: Presentation language for technical discussions
 - Pronunciation: Clear articulation of acronyms and initialisms
 
 ## Daily Plan

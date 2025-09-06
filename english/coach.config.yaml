@@ -40,3 +40,8 @@ metrics:
 vocabulary:
   path: weeks/week-01/day-01/vocabularies
   format: ipa,definition,pos,usage5,synonyms
+weekly_requirements:
+  grammar_monologue: true
+  grammar_lessons: true
+  teaching_transcript: true
+  echoing_practice_transcript: true

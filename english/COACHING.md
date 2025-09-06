@@ -64,6 +64,26 @@ Use this document to keep our collaboration consistent across sessions. I will f
   4. Usage & 5 Examples
   5. Synonyms & Related Terms
 
+## Weekly Grammar Monologue Requirement
+
+**MANDATORY**: Each week must include:
+- **Grammar Lessons**: New grammar patterns relevant to the week's topic
+- **Teaching Transcript**: Clean text-to-speech transcript for monologue practice
+- **Echoing Practice Transcript**: Dedicated transcript for pronunciation and rhythm practice
+- **Grammar Focus**: Specific patterns to practice during the week
+
+**Structure for each week:**
+- `weeks/week-XX/grammar/grammar-lessons.md` - Detailed grammar patterns and examples
+- `weeks/week-XX/grammar/grammar-teaching-transcript.md` - Monologue transcript for practice
+- `weeks/week-XX/grammar/echoing-practice-transcript.md` - Echoing practice materials
+- Update `weeks/week-XX/README.md` with grammar focus areas
+
+**Grammar patterns should:**
+- Connect to the week's technical topic
+- Include practical examples from data engineering context
+- Provide clear structures and practice exercises
+- Be suitable for monologue-style teaching practice
+
 ## Quick commands you can say
 
 - "Start role-play" → begin Q&A with default persona
@@ -71,6 +91,7 @@ Use this document to keep our collaboration consistent across sessions. I will f
 - "Give reformulations" → get 3 reusable sentences
 - "Switch persona: Finance" → change role-play persona
 - "Add vocab: [term]" → I create a new entry using the 5-part format
+- "Create grammar monologue" → build teaching transcript for current week
 
 ## Personalization fields (fill or edit anytime)
 

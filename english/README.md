@@ -152,7 +152,23 @@ Useful starter chunks:
 - Do 3 passes: slow (over-articulate), normal (linking), faster (natural reductions).
 - Record the last pass and compare with the original for rhythm and stress.
 
-Recommended sources: [TED Talks](https://www.ted.com/talks), [NPR](https://www.npr.org), YouTube channels on data engineering (e.g., “Seattle Data Guy”, “Alex The Analyst”).
+Recommended sources: [TED Talks](https://www.ted.com/talks), [NPR](https://www.npr.org), YouTube channels on data engineering (e.g., "Seattle Data Guy", "Alex The Analyst").
+
+## Echoing Method: pronunciation and rhythm practice
+
+- Listen to a phrase or sentence (use text-to-speech or recordings).
+- Pause the audio immediately.
+- Repeat exactly what you heard, focusing on pronunciation, stress, and rhythm.
+- Record yourself and compare with the original.
+- Start with single words, progress to phrases, then complex sentences.
+- Practice daily for 10-20 minutes for best results.
+
+**Progressive Levels:**
+1. **Level 1**: Technical vocabulary with correct stress patterns
+2. **Level 2**: Complete sentences with natural rhythm
+3. **Level 3**: Complex explanations with proper linking and intonation
+
+**Practice Materials**: Each week includes dedicated echoing practice transcripts in `weeks/week-XX/grammar/echoing-practice-transcript.md`
 
 ---
 
@@ -172,11 +188,12 @@ Anki model (suggestion):
 
 ## Micro-Pronunciation Drills (rotate)
 
-- Linking: “want to” → “wanna”, consonant-vowel connections
+- Linking: "want to" → "wanna", consonant-vowel connections
 - Stress: put emphasis on new information in a sentence
 - Reductions: gonna, gotta, kinda; function words de-stressed
-- Endings: past tense “-ed”, plural “-s”, third-person “-s”
+- Endings: past tense "-ed", plural "-s", third-person "-s"
 - Problem sounds: pick one (e.g., /θ/ vs. /s/, /v/ vs. /w/) and drill 10–20 reps
+- Echoing: repeat phrases/sentences exactly to improve pronunciation and rhythm
 
 ---
 
