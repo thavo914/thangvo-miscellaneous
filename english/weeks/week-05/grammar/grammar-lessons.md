@@ -1,370 +1,200 @@
-# Week 05 - Grammar Lessons for Advanced dbt Communication
+# Week 05 - Grammar Lessons for Orchestration Design Communication
 
 ## Overview
-This week focuses on advanced grammar patterns for complex dbt discussions, including relative clauses, reported speech, and advanced conditional structures for technical presentations and stakeholder communication.
+This week focuses on using relative clauses, reported speech, and conditional sentences effectively in orchestration design discussions, plus developing clear, professional communication patterns for technical architecture topics.
 
 ## Lesson 1: Relative Clauses for Technical Definitions
 
-### Defining Relative Clauses
-**Structure:** Noun + who/which/that + verb + object
-**Use:** To define or identify specific technical concepts
+### Defining Relative Clauses (Essential Information)
+**Structure:** Subject + relative pronoun (who/which/that) + verb + object
+**Use:** When the information is essential to understand the subject
 
-**dbt Examples:**
-- "A model is a SQL query that transforms raw data into analytical tables."
-- "Tests are validation rules that ensure data quality and integrity."
-- "Macros are reusable code blocks that reduce duplication in dbt projects."
-- "Materialization is a strategy that determines how models are stored."
-- "The semantic layer is a system that provides business-friendly access to data."
+**Orchestration Examples:**
+- "A DAG is a workflow that defines task dependencies and execution order."
+- "Sensors are components that monitor external conditions and trigger workflows."
+- "Retry mechanisms are systems that automatically attempt failed operations again."
 
 **Practice Sentences:**
-- A _____ is a _____ that/which _____.
-- Models are _____ that/which _____.
-- The system _____ that/which _____.
+- A DAG _____ (be) a workflow _____ (define) task dependencies.
+- Sensors _____ (be) components _____ (monitor) external conditions.
+- Idempotent tasks _____ (be) operations _____ (can) run multiple times safely.
 
-### Non-defining Relative Clauses
-**Structure:** Noun, + which/where/when + additional information
-**Use:** To add extra information about something already identified
+### Non-defining Relative Clauses (Additional Information)
+**Structure:** Subject + comma + relative pronoun (which/who) + verb + object + comma
+**Use:** When the information is additional but not essential
 
-**dbt Examples:**
-- "dbt Cloud, which is a hosted service, provides CI/CD capabilities."
-- "Incremental models, which process only new data, improve performance significantly."
-- "Our production environment, where all models run, is monitored continuously."
-- "Testing, which we implement comprehensively, catches data quality issues early."
+**Orchestration Examples:**
+- "Airflow, which was developed by Airbnb, is widely used for workflow orchestration."
+- "Dagster, which provides data lineage tracking, is gaining popularity in data teams."
+- "Our monitoring system, which we implemented last year, has improved reliability significantly."
 
 **Practice Sentences:**
-- _____, which _____, _____.
-- The system, where _____, _____.
-- Our approach, which _____, _____.
-
-### Relative Pronouns in Technical Context
-
-#### Which vs That
-- **That:** For essential information (no comma)
-  - "Models that fail tests are not deployed."
-  - "Tests that validate business logic are crucial."
-
-- **Which:** For non-essential information (with comma)
-  - "Our staging environment, which runs daily, tests all models."
-  - "The documentation, which is auto-generated, helps analysts understand the data."
-
-#### Where vs When
-- **Where:** For locations/environments
-  - "The production environment, where models run 24/7, requires high availability."
-  - "The data warehouse, where all transformed data is stored, is our single source of truth."
-
-- **When:** For timing/schedules
-  - "The nightly run, when all models are refreshed, takes four hours."
-  - "Testing, when it runs automatically, validates data quality."
+- Airflow, _____ (develop) by Airbnb, _____ (be) widely used.
+- Dagster, _____ (provide) data lineage, _____ (be) gaining popularity.
+- Our system, _____ (implement) last year, _____ (improve) reliability.
 
 ## Lesson 2: Reported Speech for Stakeholder Updates
 
 ### Present Tense Reporting
-**Pattern:** Subject + says/tells + (that) + present simple/present perfect
-
-**dbt Examples:**
-- "The team says that data quality has improved significantly."
-- "She tells me that the new testing strategy is working well."
-- "They report that processing time has decreased by 50%."
-- "The analyst says that the documentation is very helpful."
-
-**Practice Sentences:**
-- The _____ says/tells me that _____.
-- They report that _____.
-- According to _____, _____.
-
-### Past Tense Reporting
-**Pattern:** Subject + said/told + (that) + past simple/past perfect
-
-**dbt Examples:**
-- "The manager said that the project was completed successfully."
-- "They told me that the models had been deployed yesterday."
-- "She reported that the testing had caught several issues."
-- "The team said that they had optimized the queries."
-
-**Practice Sentences:**
-- _____ said/told me that _____.
-- They reported that _____.
-- According to _____, _____.
-
-### Reporting Questions
-**Pattern:** Subject + asked + if/whether + subject + verb
-
-**dbt Examples:**
-- "She asked if we had implemented comprehensive testing."
-- "They asked whether the models were running successfully."
-- "He asked if we could optimize the processing time."
-- "The stakeholder asked whether the documentation was complete."
-
-**Practice Sentences:**
-- _____ asked if/whether _____.
-- They wanted to know if/whether _____.
-- The question was whether _____.
-
-## Lesson 3: Advanced Conditional Structures
-
-### Mixed Conditionals
-**Structure:** If + past perfect, would + base form
-**Use:** Past hypothetical with present consequences
-
-**dbt Examples:**
-- "If we had implemented testing earlier, we would have fewer issues now."
-- "If the team had documented the models properly, analysts would be more independent today."
-- "If we had chosen incremental models, we would save processing time now."
-
-### Unless and As Long As
-**Unless:** "If not" - negative condition
-**As long as:** "If" - positive condition
-
-**dbt Examples:**
-- "Unless we implement proper testing, we will have data quality issues."
-- "As long as we follow best practices, our models will be reliable."
-- "Unless we optimize our queries, processing time will increase."
-- "As long as we maintain good documentation, the team will be productive."
-
-### Providing That / Provided That
-**Use:** Formal way to say "if"
-
-**dbt Examples:**
-- "Provided that we test thoroughly, we can deploy with confidence."
-- "Providing that the data is available, the models will run successfully."
-- "Provided that we follow the schedule, we will meet our deadlines."
-
-## Lesson 4: Complex Sentence Structures
-
-### Cleft Sentences for Emphasis
-**Structure:** It + be + emphasized element + that/who clause
-
-**dbt Examples:**
-- "It was the testing strategy that improved our data quality."
-- "It is incremental models that reduce processing time."
-- "It was the team's documentation that enabled self-service analytics."
-- "It is comprehensive monitoring that prevents data issues."
-
-### Inversion for Formal Style
-**Structure:** Negative/conditional expression + auxiliary + subject + verb
-
-**dbt Examples:**
-- "Never before have we had such reliable data quality."
-- "Only when we implemented testing did we see real improvements."
-- "Not only does dbt transform data, but it also validates it."
-- "Hardly had we deployed the models when we noticed the performance improvement."
-
-## Lesson 5: Echoing Method for Speaking Practice
-
-### What is Echoing?
-**Echoing** is a speaking practice technique where you repeat key phrases, sentences, or patterns to improve pronunciation, fluency, and natural speech rhythm.
-
-**Purpose:**
-- Improve pronunciation and intonation
-- Build muscle memory for correct speech patterns
-- Practice natural rhythm and stress patterns
-- Develop confidence in technical vocabulary
-- Internalize grammatical structures through repetition
-
-### Echoing Patterns for Speaking Practice
-
-#### Technical Vocabulary Echoing
-**Pattern:** Repeat technical terms with correct pronunciation and stress
-
-**Orchestration Examples to Practice:**
-- "Task dependencies" - stress on "de-PEN-den-cies"
-- "Retry mechanism" - stress on "ME-chan-ism"  
-- "Idempotent tasks" - stress on "i-DEM-po-tent"
-- "Deferrable operators" - stress on "de-FER-ra-ble"
-- "Dynamic task mapping" - stress on "dy-NAM-ic" and "MAP-ping"
-
-#### Sentence Pattern Echoing
-**Pattern:** Repeat complete sentences to practice grammar and rhythm
-
-**Orchestration Examples to Practice:**
-- "The DAG is failing because upstream tasks aren't completing."
-- "We set it to 3 retries but it's still failing."
-- "Too many dependencies and the failure modes aren't clear."
-- "We can't see why tasks are failing or how long they take."
-
-#### Question Pattern Echoing
-**Pattern:** Practice question intonation and structure
-
-**Orchestration Examples to Practice:**
-- "What specifically are you missing?"
-- "How does the retry mechanism work?"
-- "When did the failures start occurring?"
-- "Which tasks are causing the bottleneck?"
-- "Why isn't the monitoring system alerting us?"
-
-#### Explanation Pattern Echoing
-**Pattern:** Practice explaining technical concepts clearly
-
-**Orchestration Examples to Practice:**
-- "The SLA monitoring is critical because downstream systems depend on timely data delivery."
-- "Idempotent tasks prevent duplicate processing when tasks restart."
-- "Dynamic task mapping allows us to scale based on data volume."
-- "Deferrable operators free up worker slots while waiting for external conditions."
-
-### Advanced Echoing Techniques
-
-#### Rhythm and Stress Echoing
-**Pattern:** Practice natural speech rhythm and stress patterns
-
-**Orchestration Examples to Practice:**
-- "We implemented dynamic task mapping" - stress on "DY-nam-ic TASK MAP-ping"
-- "The deferrable operators are game-changing" - stress on "de-FER-ra-ble OP-er-a-tors" and "GAME-CHANG-ing"
-- "We're seeing cascading failures across DAGs" - stress on "cas-CAD-ing FAIL-ures" and "a-CROSS DAGs"
-- "The backpressure is causing resource exhaustion" - stress on "BACK-pres-sure" and "re-SOURCE ex-HAUS-tion"
-
-#### Intonation Pattern Echoing
-**Pattern:** Practice different intonation patterns for various contexts
-
-**Orchestration Examples to Practice:**
-- **Statement**: "The SLA monitoring is critical for this pipeline." (falling intonation)
-- **Question**: "Is the SLA monitoring critical for this pipeline?" (rising intonation)
-- **Emphasis**: "The SLA monitoring is CRITICAL for this pipeline." (stress on "critical")
-- **Contrast**: "The SLA monitoring is critical, but the retry mechanism needs work." (pause and contrast)
-
-#### Complex Sentence Echoing
-**Pattern:** Practice longer, more complex sentences with proper linking
-
-**Orchestration Examples to Practice:**
-- "Dynamic task mapping allows us to scale based on data volume, which reduces DAG complexity significantly."
-- "Deferrable operators free up worker slots while waiting for external conditions, improving overall resource utilization."
-- "Cascading failures across DAGs create a domino effect that's hard to debug and affects multiple downstream systems."
-- "Backpressure causing resource exhaustion impacts overall performance, so we need to implement proper throttling mechanisms."
-
-### Echoing Practice Methods
-
-#### Daily Echoing Routine
-**Practice Structure:**
-1. **Morning**: 5 minutes of technical vocabulary echoing
-2. **Afternoon**: 10 minutes of sentence pattern echoing  
-3. **Evening**: 5 minutes of complex sentence echoing
-
-#### Echoing with Audio
-**Method:** Use recordings or text-to-speech to practice echoing
-- Listen to a phrase/sentence
-- Pause the audio
-- Repeat exactly what you heard
-- Focus on pronunciation, stress, and rhythm
-- Record yourself and compare
-
-#### Progressive Echoing
-**Level 1:** Single words and short phrases
-- "Task dependencies"
-- "Retry mechanism"
-- "SLA monitoring"
-
-**Level 2:** Complete sentences
-- "The DAG is failing because upstream tasks aren't completing."
-- "We need better observability to debug these issues."
-
-#### During Stakeholder Updates
-**Use echoing to:**
-- Confirm business impact
-- Clarify priorities
-- Understand constraints
-
-#### Partner Echoing
-**Method:** Practice with a study partner or AI
-- Take turns being the speaker and echoer
-- Give feedback on pronunciation and rhythm
-- Practice natural conversation flow
-- Build confidence in technical discussions
-
-## Lesson 6: Technical Presentation Language
-
-### Introducing Topics
-**Patterns:**
-- "Let me begin by discussing..."
-- "I'd like to start with..."
-- "The first point I want to address is..."
-- "We'll be covering three main areas..."
+**Structure:** Subject + say/tell + (that) + reported statement
+**Use:** When reporting current or ongoing situations
 
 **Orchestration Examples:**
-- "Let me begin by discussing our DAG design principles."
-- "I'd like to start with the reliability improvements we've achieved."
-- "The first point I want to address is task dependency management."
-- "We'll be covering three main areas: orchestration, monitoring, and optimization."
+- "The team says that the new DAG design reduces complexity by 40%."
+- "Our monitoring shows that retry mechanisms are working effectively."
+- "The stakeholders tell us that they need better observability."
 
-### Transitioning Between Points
-**Patterns:**
-- "Moving on to..."
-- "Another important aspect is..."
-- "In addition to this..."
-- "Furthermore..."
-- "On the other hand..."
+**Practice Sentences:**
+- The team _____ (say) that the new design _____ (reduce) complexity.
+- Monitoring _____ (show) that retries _____ (work) effectively.
+- Stakeholders _____ (tell) us that they _____ (need) better observability.
 
-**dbt Examples:**
-- "Moving on to our optimization efforts..."
-- "Another important aspect is our documentation strategy."
-- "In addition to testing, we've also improved monitoring."
-- "Furthermore, we've implemented automated deployment."
-- "On the other hand, we need to consider the maintenance overhead."
+### Past Tense Reporting
+**Structure:** Subject + said/told + (that) + reported statement (past tense)
+**Use:** When reporting past events or decisions
 
-### Concluding Points
-**Patterns:**
-- "To summarize..."
-- "In conclusion..."
-- "The key takeaway is..."
-- "What this means for us is..."
+**Orchestration Examples:**
+- "The team said that they had implemented the new retry logic successfully."
+- "Management told us that they approved the orchestration platform upgrade."
+- "The engineers reported that the DAG had failed due to a dependency issue."
 
-**dbt Examples:**
-- "To summarize, our testing strategy has improved data quality by 80%."
-- "In conclusion, incremental models have reduced processing time significantly."
-- "The key takeaway is that comprehensive documentation enables self-service analytics."
-- "What this means for us is faster delivery and higher quality."
+**Practice Sentences:**
+- The team _____ (say) that they _____ (implement) the new logic.
+- Management _____ (tell) us that they _____ (approve) the upgrade.
+- Engineers _____ (report) that the DAG _____ (fail) due to dependencies.
+
+## Lesson 3: Simple Conditionals for Orchestration Logic
+
+### First Conditional (Real Possibility)
+**Structure:** If + present simple, will + base form
+**Use:** When discussing real possibilities and likely outcomes
+
+**Orchestration Examples:**
+- "If we implement proper error handling, our workflows will be more reliable."
+- "If the sensor detects new data, the DAG will trigger automatically."
+- "If we use idempotent tasks, we will avoid duplicate processing."
+
+**Practice Sentences:**
+- If we _____ (implement) proper error handling, workflows _____ (be) more reliable.
+- If the sensor _____ (detect) new data, the DAG _____ (trigger) automatically.
+- If we _____ (use) idempotent tasks, we _____ (avoid) duplicate processing.
+
+### Second Conditional (Hypothetical)
+**Structure:** If + past simple, would + base form
+**Use:** When discussing hypothetical situations or recommendations
+
+**Orchestration Examples:**
+- "If we had better monitoring, we would detect issues faster."
+- "If we used dynamic mapping, we would handle variable workloads better."
+- "If we implemented circuit breakers, we would prevent cascade failures."
+
+**Practice Sentences:**
+- If we _____ (have) better monitoring, we _____ (detect) issues faster.
+- If we _____ (use) dynamic mapping, we _____ (handle) workloads better.
+- If we _____ (implement) circuit breakers, we _____ (prevent) failures.
+
+## Lesson 4: Cleft Sentences for Emphasis
+
+### It-cleft Sentences
+**Structure:** It + be + emphasized element + that/who + rest of sentence
+**Use:** To emphasize a specific part of the sentence
+
+**Orchestration Examples:**
+- "It was the retry mechanism that saved our workflow from complete failure."
+- "It is the DAG design that determines the overall system performance."
+- "It was the monitoring system that alerted us to the performance issue."
+
+**Practice Sentences:**
+- It _____ (be) the retry mechanism _____ (save) our workflow.
+- It _____ (be) the DAG design _____ (determine) performance.
+- It _____ (be) the monitoring system _____ (alert) us to issues.
+
+### What-cleft Sentences
+**Structure:** What + subject + verb + be + emphasized element
+**Use:** To emphasize the action or result
+
+**Orchestration Examples:**
+- "What we need is a more robust error handling strategy."
+- "What caused the failure was a circular dependency in the DAG."
+- "What improved our reliability was implementing proper retry logic."
+
+**Practice Sentences:**
+- What we _____ (need) _____ (be) a more robust error handling strategy.
+- What _____ (cause) the failure _____ (be) a circular dependency.
+- What _____ (improve) our reliability _____ (be) implementing retry logic.
+
+## Lesson 5: Presentation Language for Technical Discussions
+
+### Introducing Topics
+**Useful Phrases:**
+- "Let me walk you through..."
+- "I'd like to explain how..."
+- "The key point here is..."
+- "What's important to understand is..."
+
+**Orchestration Examples:**
+- "Let me walk you through our DAG architecture and how it handles failures."
+- "I'd like to explain how our retry mechanism works in practice."
+- "The key point here is that idempotent tasks make our system more reliable."
+
+### Explaining Benefits
+**Useful Patterns:**
+- "By implementing X, we can achieve Y"
+- "This approach allows us to..."
+- "The advantage of this method is..."
+
+**Orchestration Examples:**
+- "By implementing proper error handling, we can achieve 99.9% uptime."
+- "This approach allows us to handle variable workloads efficiently."
+- "The advantage of using sensors is that we only process data when it's available."
+
+### Making Recommendations
+**Useful Patterns:**
+- "I recommend X because Y"
+- "We should consider X for the following reasons..."
+- "The best approach would be to..."
+
+**Orchestration Examples:**
+- "I recommend implementing circuit breakers because they prevent cascade failures."
+- "We should consider using dynamic mapping for the following reasons: scalability and cost efficiency."
+- "The best approach would be to start with basic retry logic and then add more sophisticated error handling."
 
 ## Practice Exercises
 
 ### Exercise 1: Relative Clauses
-Create relative clauses for these dbt concepts:
-1. A data model
-2. Testing framework
-3. Deployment process
-4. Monitoring system
-5. Documentation strategy
+Complete these sentences with appropriate relative clauses:
+
+1. A DAG is a workflow _____ defines task execution order.
+2. Sensors, _____ monitor external conditions, trigger workflows automatically.
+3. Idempotent tasks _____ can run multiple times safely are essential for reliability.
 
 ### Exercise 2: Reported Speech
 Convert these direct statements to reported speech:
-1. "The models are running successfully."
-2. "We have implemented comprehensive testing."
-3. "Data quality has improved significantly."
-4. "The documentation is very helpful."
-5. "Processing time has decreased by 50%."
 
-### Exercise 3: Advanced Conditionals
-Create sentences using:
-1. Mixed conditionals
-2. Unless/As long as
-3. Provided that
-4. Cleft sentences
-5. Inversion
+1. "We have implemented the new retry mechanism." → The team said that...
+2. "The DAG failed due to a dependency issue." → The engineer reported that...
+3. "We need better monitoring for our workflows." → The stakeholders told us that...
 
-### Exercise 4: Presentation Language
-Practice introducing, transitioning, and concluding on these topics:
-1. Testing strategy implementation
-2. Performance optimization results
-3. Documentation improvements
-4. Monitoring system benefits
-5. Team productivity gains
+### Exercise 3: Conditionals
+Complete these conditional sentences:
 
-## Common Mistakes to Avoid
+1. If we implement proper error handling, our workflows _____ (be) more reliable.
+2. If we _____ (have) better monitoring, we would detect issues faster.
+3. If the sensor _____ (detect) new data, the DAG will trigger automatically.
 
-### Grammar Errors
-- Confusing "which" and "that" in relative clauses
-- Incorrect tense changes in reported speech
-- Wrong word order in questions and conditionals
-- Misusing relative pronouns
-- Incorrect inversion patterns
+### Exercise 4: Cleft Sentences
+Rewrite these sentences using cleft structures for emphasis:
 
-### Communication Errors
-- Being too formal for casual conversations
-- Overusing complex structures unnecessarily
-- Losing clarity in long sentences
-- Not varying sentence structure
-- Forgetting to pause between complex clauses
+1. The retry mechanism saved our workflow. → It was...
+2. We need a more robust error handling strategy. → What we need is...
+3. The DAG design determines performance. → It is...
 
-### Technical Accuracy
-- Misrepresenting technical facts in reported speech
-- Confusing dbt concepts in definitions
-- Providing incorrect examples
-- Mixing up technical terminology
-- Oversimplifying complex processes
+## Key Takeaways
+
+- **Relative clauses** help define technical concepts clearly
+- **Reported speech** is essential for stakeholder communication
+- **Conditionals** allow you to discuss possibilities and recommendations
+- **Cleft sentences** help emphasize important points in technical discussions
+- **Presentation language** makes your communication more professional and clear
+
+Practice these patterns regularly to build confidence in technical communication!

@@ -24,21 +24,25 @@
 
 ## Grammar/Pronunciation Focus
 
-- Grammar: Inversion for emphasis ("Only when dependencies are explicit do failures localize.")
-- Grammar: Advanced patterns - relative clauses, reported speech, mixed conditionals, cleft sentences
-- Grammar: Echoing method for speaking practice and pronunciation improvement
-- Grammar: Presentation language for technical discussions
-- Pronunciation: Clear articulation of acronyms and initialisms
+- **Grammar**: Relative clauses for technical definitions ("A DAG is a workflow that...")
+- **Grammar**: Reported speech for stakeholder updates ("The team says that...")
+- **Grammar**: Mixed conditionals for hypotheticals ("If we had implemented...")
+- **Grammar**: Cleft sentences for emphasis ("It was the retry mechanism that...")
+- **Grammar**: Presentation language for technical discussions
+- **Pronunciation**: Clear articulation of technical terms and acronyms
+- **Echoing**: Practice technical vocabulary and sentence patterns
 
-## Daily Plan
+## Daily Plan (B1 Level, Speaking-First)
 
-- Mon: Input + shadowing; chunks to SRS
-- Tue: PREP: why this orchestration design
-- Wed: Role-play: defend sensors vs polling; retries/backoff
-- Thu: Writing-to-speaking: runbook excerpt → 2-min talk
-- Fri: Simulation: Design review Q&A
-- Sat: Retell without notes; record
-- Sun: Light review; plan next week
+- **Mon**: Input + shadowing; chunks to SRS (45 min)
+- **Tue**: PREP: why this orchestration design (30 min)
+- **Wed**: Role-play: defend sensors vs polling; retries/backoff (35 min)
+- **Thu**: Writing-to-speaking: runbook excerpt → 2-min talk (40 min)
+- **Fri**: Simulation: Design review Q&A (45 min)
+- **Sat**: Retell without notes; record (30 min)
+- **Sun**: Light review; plan next week (20 min)
+
+**Total**: ~4.5 hours/week, 60%+ speaking practice
 
 ## Exercises & Prompts
 
@@ -50,9 +54,12 @@
   You are a staff engineer questioning orchestration complexity. Topic: Airflow/Dagster design. Ask about idempotency, retries, and ownership. After 6–8 minutes, give me 3 reformulations.
   ```
 
-## Checklist
+## Checklist (B1 Level)
 
-- [ ] 5+ sessions completed
-- [ ] 2 recordings
-- [ ] 6–8 chunks added & used
+- [ ] 5+ sessions completed (60%+ speaking time)
+- [ ] 2 recordings (2-3 min talks)
+- [ ] 6–8 chunks added & used naturally
 - [ ] One error added to personal doc and addressed
+- [ ] Grammar patterns practiced in context
+- [ ] Technical vocabulary mastered (8-10 terms)
+- [ ] Echoing practice completed daily
