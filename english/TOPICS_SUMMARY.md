@@ -188,5 +188,44 @@ This document tracks all topics, concepts, and learning materials covered across
 
 ---
 
-*Last Updated: Week 04 completion with Everyday Life Conversations*
+## 📊 **WEEK 06: Data Warehouse & Budget Management**
+
+### **Core Topics Covered:**
+- Data warehouse architecture and cost optimization
+- Budget planning and allocation for data infrastructure
+- ROI analysis and business value demonstration
+- Cost control strategies and lifecycle management
+- Stakeholder communication for budget approvals
+- Financial planning and cost-benefit analysis
+- Resource optimization and efficiency improvements
+- Budget overrun management and mitigation
+
+### **Key Concepts:**
+- data-warehouse, data-lakehouse, cloud-data-platform, on-premises
+- cost-optimization, budget-allocation, roi-analysis, tco
+- storage-costs, compute-costs, data-transfer, egress-fees
+- reserved-capacity, spot-instances, auto-scaling, cost-monitoring
+- data-partitioning, compression, archival, lifecycle-management
+- query-optimization, performance-tuning, resource-utilization
+- budget-approval, cost-center, chargeback, showback
+- cost-per-query, cost-per-user, cost-per-terabyte, cost-efficiency
+
+### **Learning Materials:**
+- Budget Planning Meeting scenarios
+- ROI Analysis presentations
+- Cost Optimization technical discussions
+- Budget Overrun problem-solving
+- Personal Budget Planning (everyday life)
+- Shopping and Consumer Decisions (everyday life)
+
+### **Grammar Focus:**
+- Present perfect for ongoing cost analysis
+- Conditional sentences for budget scenarios
+- Passive voice for cost reporting
+- Comparative structures for cost comparisons
+- Business presentation language
+
+---
+
+*Last Updated: Week 06 completion with Data Warehouse & Budget Management*
 *Next Review: Before planning Week 09*
