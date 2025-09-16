@@ -22,3 +22,4 @@ adjective
 - **local infrastructure**: Infrastructure located at the organization's facilities
 - **self-hosted**: Software and services hosted on own servers
 
+

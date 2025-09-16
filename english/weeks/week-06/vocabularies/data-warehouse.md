@@ -22,3 +22,4 @@ noun phrase
 - **data lakehouse**: A modern architecture combining data lake and warehouse features
 - **analytical database**: A database optimized for analytical queries rather than transactions
 
+

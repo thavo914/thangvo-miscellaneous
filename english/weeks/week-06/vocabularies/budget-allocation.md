@@ -22,3 +22,4 @@ noun phrase
 - **cost allocation**: Assigning costs to specific departments or projects
 - **budget planning**: The process of creating and managing budgets
 
+

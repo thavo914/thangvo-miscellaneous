@@ -22,3 +22,4 @@ noun phrase
 - **Docker images**: The templates used to create containers
 - **container orchestration**: Managing multiple containers
 
+

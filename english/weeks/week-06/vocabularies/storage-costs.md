@@ -22,3 +22,4 @@ noun phrase
 - **retention costs**: Expenses for keeping data over time
 - **infrastructure costs**: Broader term including all infrastructure expenses
 
+

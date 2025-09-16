@@ -22,3 +22,4 @@ noun phrase
 - **analytics models**: Models designed for analytics purposes
 - **dbt transformations**: Specific transformations using dbt
 
+

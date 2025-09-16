@@ -22,3 +22,4 @@ noun phrase
 - **computational expenses**: Broader term for processing-related costs
 - **resource costs**: General term for all computing resource expenses
 
+

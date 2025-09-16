@@ -22,3 +22,4 @@ noun phrase
 - **tiered storage**: Using different storage types based on data age
 - **data retention**: Policies for how long to keep data
 
+
