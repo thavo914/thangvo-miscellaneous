@@ -1,55 +1,67 @@
-# Week 07 – Cost vs. performance optimization
+# Week 07 – Office Conversations & Project Reporting (New DE Team Member)
 
 ## Outcomes (by end of week)
 
-- Argue for a pragmatic balance between cost and latency/quality.
-- Use 6–8 chunks around TCO, egress, partitioning, and caching.
-- Present a before/after with numbers.
+- Confidently participate in office conversations as a new team member, including lunch with boss and project status meetings.
+- Use 8–10 chunks around ELT project reporting, DBT transformation, and team integration communication.
+- Present project progress updates and handle questions about technical implementation details.
+- Navigate office dynamics and build relationships through natural workplace conversations.
 
 ## Inputs (choose 1–2)
 
-- Talk/article on data cost optimization
-- Internal cost report or perf review doc
+- Article/talk on effective project status reporting and team communication
+- Internal documentation on ELT pipeline architecture and DBT best practices
+- Case study on new team member integration and project handover processes
 
 ## Chunk Bank (8–12)
 
-- total cost of ownership; run cost; egress fees
-- storage vs compute trade-off; compression; file sizes
-- partition pruning; z-ordering; clustering
-- cache hit rate; cold vs warm starts
-- utilization; autoscaling; spot vs on-demand
-- SLA impact; acceptable staleness; latency budget
-- ROI; payback period; opportunity cost
-- guardrails; budgets; alerts
+- project status update; progress report; milestone completion; timeline tracking
+- ELT pipeline; data extraction; transformation layer; DBT models; deployment strategy
+- team integration; onboarding process; knowledge transfer; collaboration
+- technical implementation; data processing; pipeline architecture; gaming data
+- stakeholder communication; project visibility; risk assessment; next steps
+- office dynamics; team building; professional relationships; workplace culture
+- meeting preparation; presentation skills; Q&A handling; follow-up actions
+- project delivery; deployment timeline; testing phase; go-live preparation
 
 ## Grammar/Pronunciation Focus
 
-- Grammar: Comparatives and concession ("While costs drop, we accept …")
-- Pronunciation: Numbers, currencies, and percentages clearly
+- **Grammar**: Present perfect for project progress ("I have completed the extraction part...")
+- **Grammar**: Future tense for project planning ("I will deploy the ELT pipeline next week...")
+- **Grammar**: Past tense for completed work ("I finished the data extraction last week...")
+- **Grammar**: Conditional sentences for project scenarios ("If we encounter issues, we can...")
+- **Grammar**: Passive voice for technical descriptions ("The data is extracted from...")
+- **Pronunciation**: Clear articulation of technical terms and project timelines
+- **Echoing**: Practice office conversation patterns and project reporting vocabulary
 
-## Daily Plan
+## Daily Plan (B1 Level, Speaking-First)
 
-- Mon: Input + shadowing; chunks to SRS
-- Tue: Compare–Contrast–Recommend with numbers
-- Wed: Objection handling: pushback on staleness/latency
-- Thu: Writing-to-speaking: cost review → 2-min talk
-- Fri: Simulation: Exec review; justify trade-offs
-- Sat: Retell without notes; record
-- Sun: Light review; plan next week
+- **Mon**: Input + shadowing; chunks to SRS (45 min)
+- **Tue**: PREP: explain ELT project progress to boss (30 min)
+- **Wed**: Role-play: lunch conversation with boss (35 min)
+- **Thu**: Project status meeting simulation (40 min)
+- **Fri**: Office conversation practice with colleagues (45 min)
+- **Sat**: Retell without notes; record (30 min)
+- **Sun**: Light review; plan next week (20 min)
+
+**Total**: ~4.5 hours/week, 60%+ speaking practice
 
 ## Exercises & Prompts
 
-- Problem–Solution–Impact: Storage cost spike → mitigation
-- PREP: "We accept X latency to cut cost by Y% because …"
+- Problem–Solution–Impact: ELT project challenges and your solutions
+- Compare–Contrast–Recommend: Different approaches to data transformation
 - Role-play prompt:
 
   ```text
-  You are a finance partner pushing for 20% cost reduction. Topic: Cost vs performance. Ask for numbers, risks, and user impact. After 6–8 minutes, give me 3 reformulations.
+  You are the boss having lunch with a new Data Engineer. Topic: ELT project progress and team integration. Ask about challenges, learning curve, and next steps. After 6–8 minutes, give me 3 reformulations.
   ```
 
-## Checklist
+## Checklist (B1 Level)
 
-- [ ] 5+ sessions completed
-- [ ] 2 recordings
-- [ ] 6–8 chunks added & used
+- [ ] 5+ sessions completed (60%+ speaking time)
+- [ ] 2 recordings (2-3 min talks)
+- [ ] 8–10 chunks added & used naturally
 - [ ] One error added to personal doc and addressed
+- [ ] Grammar patterns practiced in context
+- [ ] Technical vocabulary mastered (8-10 terms)
+- [ ] Echoing practice completed daily

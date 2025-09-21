@@ -21,19 +21,19 @@ Transform these simple present sentences into present perfect continuous to emph
 ### Practice Sentences
 
 1. **Original:** "I analyze the budget performance."
-   **Your answer:** _________________________________
+   **Your answer:** I have been analyzing the budget performance.
 
 2. **Original:** "We work on cost optimization."
-   **Your answer:** _________________________________
+   **Your answer:** We have been working on cost optimization.
 
 3. **Original:** "The finance team reviews our spending."
-   **Your answer:** _________________________________
+   **Your answer:** The finace team have been review our spending
 
 4. **Original:** "We track ROI metrics."
-   **Your answer:** _________________________________
+   **Your answer:** We have been tracking ROI metrics
 
 5. **Original:** "I study the cost breakdown."
-   **Your answer:** _________________________________
+   **Your answer:** I have been study the cost breakdown.
 
 ### Answers
 1. I have been analyzing the budget performance for the past quarter.

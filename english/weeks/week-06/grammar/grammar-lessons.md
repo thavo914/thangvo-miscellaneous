@@ -134,7 +134,7 @@ Use comparative structures to compare costs, performance, and efficiency between
 **Complete these comparisons:**
 1. This solution is _____ (cheap) than the alternative.
 2. Our costs are _____ (high) this quarter than last quarter.
-3. The new approach is _____ (efficient) as the old one.
+3. The new approach is as efficient as the old one.
 
 **Answers:**
 1. cheaper
@@ -171,9 +171,9 @@ Use formal business language when presenting budget proposals and financial anal
 ### Practice Sentences
 
 **Complete these business phrases:**
-1. I'd like to _____ our budget proposal.
-2. According to our _____, we achieved significant savings.
-3. I _____ we implement these cost optimizations.
+1. I'd like to present our budget proposal.
+2. According to our analysis, we achieved significant savings.
+3. I recommend we implement these cost optimizations.
 
 **Answers:**
 1. present
@@ -222,37 +222,43 @@ Use specific patterns when discussing percentages, cost changes, and financial m
 ### Exercise 1: Present Perfect
 Complete the sentences with the correct form of the present perfect continuous:
 
-1. We _____ (track) our data warehouse costs for six months.
-2. The team _____ (analyze) the budget performance since last week.
-3. I _____ (work) on the cost optimization report all day.
+1. We have been tracking (track) our data warehouse costs for six months.
+2. The team have been analyzing (analyze) the budget performance since last week.
+3. I have been working (work) on the cost optimization report all day.
 
 ### Exercise 2: Conditionals
 Rewrite these sentences using appropriate conditionals:
 
 1. We optimize storage. We save money.
+ - If we optimize storage. We will save money.
 2. We had better forecasting. We avoided overruns.
+ - if we had better forecasting. We would avoided overruns.
 3. The budget increases. We can expand the project.
+ - If the budget increases. We can expand the project.
 
 ### Exercise 3: Passive Voice
 Convert these sentences to passive voice:
 
 1. The finance team reviewed the budget proposal.
+- The budget proposal was reviewed by the finance team.
 2. We achieved significant cost savings.
+- The significant cost savings was achievied
 3. Management approved the budget increase.
+- The budget increase was approved by management.
 
 ### Exercise 4: Comparatives
 Complete the comparisons:
 
-1. This solution is _____ (cost-effective) than the alternative.
-2. Our performance is _____ (good) this quarter than last quarter.
-3. The new approach is _____ (efficient) as the previous one.
+1. This solution is more cost-effective (cost-effective) than the alternative.
+2. Our performance is better (good) this quarter than last quarter.
+3. The new approach is as efficient (efficient) as the previous one.
 
 ### Exercise 5: Business Language
 Complete these business phrases:
 
-1. I'd like to _____ our quarterly results.
-2. According to our _____, we exceeded expectations.
-3. I _____ we proceed with this plan.
+1. I'd like to present our quarterly results.
+2. According to our analyst, we exceeded expectations.
+3. I recomment we proceed with this plan.
 
 ---
 

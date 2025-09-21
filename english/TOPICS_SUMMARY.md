@@ -227,5 +227,42 @@ This document tracks all topics, concepts, and learning materials covered across
 
 ---
 
-*Last Updated: Week 06 completion with Data Warehouse & Budget Management*
+## 📊 **WEEK 07: Office Conversations & Project Reporting (New DE Team Member)**
+
+### **Core Topics Covered:**
+- Office conversations and team integration as a new Data Engineer
+- Project status reporting and progress updates
+- Lunch conversations with boss and team members
+- Technical discussions about ELT pipeline and DBT transformation
+- Formal project status meetings and stakeholder communication
+- Casual office interactions and workplace relationship building
+- Problem-solving discussions and technical collaboration
+
+### **Key Concepts:**
+- elt-pipeline, data-extraction, transformation-layer, dbt-models
+- gaming-data, project-status-update, team-integration, deployment-strategy
+- data-quality, error-handling, timeline-tracking, stakeholder-communication
+- office-dynamics, workplace-culture, professional-relationships
+- meeting-preparation, presentation-skills, qa-handling, follow-up-actions
+
+### **Learning Materials:**
+- Lunch with Boss conversation scenarios
+- Project Status Meeting role-plays
+- Technical Discussion with Colleagues
+- Office Casual Conversation practice
+- Problem-Solving Discussion scenarios
+- Presentation Skills for Technical Demos
+
+### **Grammar Focus:**
+- Present perfect for project progress reporting
+- Future tense for project planning and timelines
+- Conditional sentences for project scenarios and problem-solving
+- Passive voice for technical process descriptions
+- Comparative structures for tool and approach comparisons
+- Business language expressions for formal communication
+- Office conversation patterns for casual workplace interactions
+
+---
+
+*Last Updated: Week 07 completion with Office Conversations & Project Reporting*
 *Next Review: Before planning Week 09*
