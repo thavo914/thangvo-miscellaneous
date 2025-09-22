@@ -23,3 +23,4 @@ noun phrase
 - **analytical database**: A database optimized for analytical queries rather than transactions
 
 
+

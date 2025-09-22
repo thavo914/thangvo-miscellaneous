@@ -23,3 +23,4 @@ noun phrase
 - **resource costs**: General term for all computing resource expenses
 
 
+

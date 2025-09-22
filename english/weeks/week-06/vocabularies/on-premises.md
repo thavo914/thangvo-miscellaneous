@@ -23,3 +23,4 @@ adjective
 - **self-hosted**: Software and services hosted on own servers
 
 
+
