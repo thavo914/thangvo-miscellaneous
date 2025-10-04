@@ -62,6 +62,28 @@ A comprehensive 26-week Full Marathon training plan following the MAF (Maximum A
 - **Practice race nutrition** during long runs
 - **Include strength work** for injury prevention
 
+## ❤️ Heart Rate Zones Reference
+
+### **MAF Heart Rate Calculation (Age 32)**
+- **Base MAF HR**: 180 - 32 = 148 bpm
+- **MAF Zone**: 143-153 bpm (MAF ± 5 bpm)
+- **Max HR Estimate**: ~188 bpm (220 - age)
+
+### **Training Zones**
+| Zone | Heart Rate | % Max HR | Purpose | Workout Type |
+|------|------------|----------|---------|--------------|
+| **Recovery** | 120-140 bpm | 60-70% | Active recovery, easy runs | Recovery jogging |
+| **MAF** | 143-153 bpm | 75-80% | Aerobic base building | Easy runs, long runs |
+| **Threshold** | 160-169 bpm | 85-90% | Lactate threshold | Tempo runs |
+| **VO₂ Max** | 160-175 bpm | 85-90% | Anaerobic capacity | Intervals |
+| **Neuromuscular** | 175+ bpm | 90%+ | Speed development | Short intervals |
+
+### **Heart Rate Monitoring Tips**
+- **Use a chest strap**: More accurate than wrist-based sensors
+- **Monitor trends**: Watch for elevated resting HR (overtraining sign)
+- **Stay in zone**: If HR drifts above MAF zone, slow down
+- **Recovery check**: HR should return to <120 bpm within 2-3 minutes post-workout
+
 ---
 
 **Start your marathon journey today!** Begin with the [Training Schedule](training-schedule.md) to see your complete 26-week plan.
