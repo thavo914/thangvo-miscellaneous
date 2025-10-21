@@ -11,54 +11,54 @@ This file provides comprehensive grammar practice exercises for Week 08. Focus o
 
 #### **Professional Context:**
 
-1. We __________ (track) data quality metrics for six months now.
+1. We have been tracking (track) data quality metrics for six months now.
    - A) have been tracking
    - B) have tracked
    - C) Both are correct
 
-2. The system __________ (detect) several anomalies recently.
+2. The system has detected (detect) several anomalies recently.
    - A) has been detecting
    - B) has detected
    - C) Both are correct
 
-3. Our team __________ (work) on this improvement for weeks.
+3. Our team has been working (work) on this improvement for weeks.
    - A) has been working
    - B) has worked
    - C) Both are correct
 
-4. We __________ (implement) new quality standards this quarter.
+4. We have been implementing (implement) new quality standards this quarter.
    - A) have been implementing
    - B) have implemented
    - C) Both are correct
 
-5. The monitoring system __________ (run) continuously since January.
+5. The monitoring system  has been running (run) continuously since January.
    - A) has been running
    - B) has run
    - C) Both are correct
 
 #### **Personal Context:**
 
-6. I __________ (think) about this decision for days.
+6. I have been thinking (think) about this decision for days.
    - A) have been thinking
    - B) have thought
    - C) Both are correct
 
-7. My family __________ (live) in this house for ten years.
+7. My family has been living (live) in this house for ten years.
    - A) has been living
    - B) has lived
    - C) Both are correct
 
-8. We __________ (plan) this family trip for months.
+8. We have been planning (plan) this family trip for months.
    - A) have been planning
    - B) have planned
    - C) Both are correct
 
-9. I __________ (learn) so much from my family.
+9. I Both are correct (learn) so much from my family.
    - A) have been learning
    - B) have learned
    - C) Both are correct
 
-10. We __________ (establish) new family traditions this year.
+10. We have been establishing (establish) new family traditions this year.
     - A) have been establishing
     - B) have established
     - C) Both are correct
