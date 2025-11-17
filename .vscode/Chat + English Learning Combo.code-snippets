@@ -1,0 +1,15 @@
+{
+	"Chat + English Learning Combo": {
+		"prefix": "chat-learn",
+		"body": [
+			"Whenever I write in English, automatically:",
+			"1) Correct the sentence",
+			"2) Suggest a more natural version",
+			"3) Highlight advanced vocabulary I can use",
+			"4) Give one micro-tip to improve my English",
+			"Only apply these rules to English messages."
+		],
+		"description": "Chat + English Learning Combo - Dùng khi bạn muốn chat tiếng Anh nhưng vẫn được sửa tự động"
+	}
+}
+

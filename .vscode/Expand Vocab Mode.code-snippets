@@ -1,0 +1,14 @@
+{
+	"Expand Vocab Mode": {
+		"prefix": "expand-vocab",
+		"body": [
+			"Expand my vocabulary from the sentence I send.",
+			"Return:",
+			"1) 5 upgraded versions (from simple → advanced)",
+			"2) Synonyms and useful phrases",
+			"3) 2 example sentences with advanced wording",
+			"Keep it short and practical."
+		],
+		"description": "Expand vocabulary instructions"
+	}
+}
