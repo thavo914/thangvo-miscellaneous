@@ -1,21 +1,20 @@
 # 🎯 Training Phases & Progression Strategy
-**15-Week Marathon Training Plan**
 
 ## 📊 Phase Overview
 
-The 15-week marathon training plan is divided into four distinct phases:
+The 26-week marathon training plan is divided into four distinct phases, each with specific goals and training focus:
 
-1. **Base Phase** (Weeks 1-4): Aerobic foundation building
-2. **Build Phase** (Weeks 5-8): Strength, endurance, and marathon pace introduction
-3. **Peak Phase** (Weeks 9-12): Maximum training stimulus
-4. **Taper & Race Week** (Weeks 13-15): Recovery and peak performance
+1. **Base Phase** (Weeks 1–8): Aerobic foundation building
+2. **Build Phase** (Weeks 9–16): Strength and endurance development
+3. **Sharpen & Specificity** (Weeks 17–22): Race-specific preparation
+4. **Taper & Race Week** (Weeks 23–26): Peak performance optimization
 
 ---
 
-## 🏗️ Phase 1: Base Building (Weeks 1-4)
+## 🏗️ Phase 1: Base Building (Weeks 1–8)
 
 ### **Primary Goals**
-- Build aerobic foundation with MAF-pace running (6:25/km)
+- Build aerobic foundation with MAF-pace running
 - Establish consistent training routine
 - Develop basic endurance and running economy
 - Introduce structured speed work gradually
@@ -23,53 +22,54 @@ The 15-week marathon training plan is divided into four distinct phases:
 ### **Key Workout Progression**
 
 #### **High-Intensity Days (Tuesdays)**
-- **Odd weeks**: Short intervals (5×400m @ 5:30/km)
-- **Even weeks**: Tempo runs building from 20' → 25'
-- **Recovery**: 200m jog @ 7:00/km between intervals
+- **Odd weeks**: Short intervals (5×400m @ 6:00/km)
+- **Even weeks**: Tempo runs building from 15′ → 24′
+- **Recovery**: 200m jog @ 8:30/km between intervals
 
 #### **Distance Progression**
-- **Medium-Long Run**: 12 km → 14 km
-- **Long Run**: 22 km → 25 km (+1 km/week)
-- **Weekly Volume**: 56 km → 63 km
+- **Medium-Long Run**: 8 km → 13 km (+1 km/week)
+- **Long Run**: 14 km → 21 km (+1 km/week)
+- **Weekly Volume**: 43 km → 56 km
 
 ### **Training Rationale**
-- **MAF pace (6:25/km)**: Builds fat-burning efficiency and capillary density
+- **MAF pace (6:50/km)**: Builds fat-burning efficiency and capillary density
 - **Progressive overload**: Gradual distance increases minimize injury risk
 - **Interval introduction**: Prepares body for higher intensity work
 - **Tempo building**: Develops lactate threshold gradually
 
 ### **Success Indicators**
-- Comfortable completion of 25 km long runs
+- Comfortable completion of 21 km long runs
 - Consistent MAF pace maintenance
 - Recovery within 24 hours between workouts
 - No persistent fatigue or soreness
 
 ---
 
-## 🚀 Phase 2: Build Phase (Weeks 5-8)
+## 🚀 Phase 2: Build Phase (Weeks 9–16)
 
 ### **Primary Goals**
 - Increase overall training volume and intensity
 - Develop marathon-specific endurance
-- Introduce marathon-pace practice (6:24/km)
+- Introduce marathon-pace practice
 - Build mental and physical resilience
 
 ### **Key Workout Progression**
 
 #### **High-Intensity Days**
-- **Weeks 5-6**: Speed check and longer intervals (4×600m)
-- **Weeks 7-8**: Extended tempo (30') and marathon pace introduction
-- **Marathon Pace**: First introduction in Week 8
+- **Weeks 9-11**: 4×600m @ 6:00/km (longer intervals)
+- **Weeks 12-16**: Transition to 3×1000m @ 5:55/km (VO₂-max focus)
+- **Tempo progression**: 28′ → 35′ (peak threshold work)
 
 #### **Marathon-Pace Integration**
-- **Week 8**: First introduction of 6:24/km pace
-  - Thursday MLR: 6 MAF + 4 @ MP + 6 MAF
-  - Sunday Long Run: 22 MAF + 6 @ MP
+- **Week 12**: First introduction of 6:24/km pace
+- **Week 13**: 4 km @ marathon pace in MLR
+- **Week 15**: 5 km @ marathon pace in MLR
+- **Week 16**: 8 km @ marathon pace in long run
 
 #### **Distance Progression**
-- **Medium-Long Run**: 15 km → 16 km
-- **Long Run**: 26 km → 28 km
-- **Weekly Volume**: 65 km → 69 km
+- **Medium-Long Run**: 13 km → 17 km
+- **Long Run**: 22 km → 29 km
+- **Weekly Volume**: 56 km → 70 km
 
 ### **Training Rationale**
 - **Longer intervals**: Build anaerobic capacity and running economy
@@ -78,14 +78,14 @@ The 15-week marathon training plan is divided into four distinct phases:
 - **Pace specificity**: Critical for sub-4:30 marathon target
 
 ### **Success Indicators**
-- Comfortable completion of 28 km long runs
+- Comfortable completion of 29 km long runs
 - Marathon-pace sections feel sustainable
 - Recovery between hard workouts improves
 - Weekly volume increases without injury
 
 ---
 
-## ⚡ Phase 3: Peak Phase (Weeks 9-12)
+## ⚡ Phase 3: Sharpen & Specificity (Weeks 17–22)
 
 ### **Primary Goals**
 - Hone race-pace feel and confidence
@@ -96,21 +96,23 @@ The 15-week marathon training plan is divided into four distinct phases:
 ### **Key Workout Progression**
 
 #### **High-Intensity Days**
-- **Consistent format**: 3×1000m intervals and tempo runs (32'-35')
+- **Consistent format**: 3×1000m @ 5:55/km (VO₂-max stimulus)
+- **Recovery**: 2′ jog @ 8:30/km between reps
 - **Focus**: Quality over quantity, maintain pace consistency
 
 #### **Marathon-Pace Mastery**
-- **Week 9**: 5 km @ marathon pace in MLR, 30 km long run
-- **Week 11**: 8 km @ marathon pace in long run (peak MP work)
-- **Week 12**: Peak long run (35 km) at MAF pace
+- **Week 17**: Full long run at MAF pace
+- **Week 18**: Speed check week (5 km time trial)
+- **Week 20**: 10 km @ marathon pace in long run
+- **Week 22**: Peak long run (35 km) at MAF pace
 
 #### **Distance Progression**
-- **Medium-Long Run**: 17 km → 18 km
+- **Medium-Long Run**: 18 km → 21 km
 - **Long Run**: 30 km → 35 km
-- **Weekly Volume**: 72 km → 77 km (peak)
+- **Weekly Volume**: 69 km → 79 km
 
 ### **Training Rationale**
-- **VO2-max focus**: Improves maximum oxygen uptake and recovery
+- **VO₂-max focus**: Improves maximum oxygen uptake and recovery
 - **Marathon-pace confidence**: Builds mental and physical comfort at goal pace
 - **Peak volume**: Maximum training stimulus before taper
 - **Race simulation**: Long runs prepare for marathon demands
@@ -123,7 +125,7 @@ The 15-week marathon training plan is divided into four distinct phases:
 
 ---
 
-## 🎯 Phase 4: Taper & Race Week (Weeks 13-15)
+## 🎯 Phase 4: Taper & Race Week (Weeks 23–26)
 
 ### **Primary Goals**
 - Reduce training volume while maintaining sharpness
@@ -134,19 +136,22 @@ The 15-week marathon training plan is divided into four distinct phases:
 ### **Key Workout Progression**
 
 #### **High-Intensity Days**
-- **Week 13**: Light intervals (3×1000m)
-- **Week 14**: Light tempo (20')
-- **Week 15**: Very light strides only
+- **Week 23**: Light intervals (2×400m @ 5:55/km)
+- **Week 24**: Final speed check (5 km time trial)
+- **Week 25**: Very light intervals (2×400m @ 6:00/km)
+- **Week 26**: Minimal tempo (10′ @ 6:10/km)
 
 #### **Distance Reduction**
-- **Week 13**: Initial taper (70 km, -9% from peak)
-- **Week 14**: Continued taper (61 km, -21% from peak)
-- **Week 15**: Race week (62.2 km including race)
+- **Week 23**: Peak volume (77 km)
+- **Week 24**: Initial taper (69 km, -10%)
+- **Week 25**: Continued taper (54 km, -22%)
+- **Week 26**: Race week (65.2 km including race)
 
 #### **Long Run Taper**
-- **Week 13**: 30 km (-14% from peak)
-- **Week 14**: 24 km (-31% from peak)
-- **Week 15**: Race day (42.2 km)
+- **Week 23**: 36 km (peak distance)
+- **Week 24**: 30 km (-17%)
+- **Week 25**: 22 km (-27%)
+- **Week 26**: Race day (42.2 km)
 
 ### **Training Rationale**
 - **Volume reduction**: Allows full recovery and glycogen restoration
@@ -165,8 +170,8 @@ The 15-week marathon training plan is divided into four distinct phases:
 ## 🔄 Phase Transitions & Recovery
 
 ### **Between Phase 1 & 2**
-- **Speed check**: Week 5 assesses fitness progress
-- **Volume jump**: Continue gradual increases
+- **Recovery week**: Consider light week if fatigue accumulates
+- **Volume jump**: +1 km/week continues but monitor recovery
 - **Intensity increase**: Longer intervals require proper adaptation
 
 ### **Between Phase 2 & 3**
@@ -185,7 +190,7 @@ The 15-week marathon training plan is divided into four distinct phases:
 
 ### **Base Phase Success Metrics**
 - **Weekly consistency**: 5+ runs per week
-- **MAF pace maintenance**: 6:25/km ± 10 seconds
+- **MAF pace maintenance**: 6:50/km ± 10 seconds
 - **Recovery time**: <24 hours between hard sessions
 
 ### **Build Phase Success Metrics**
@@ -193,7 +198,7 @@ The 15-week marathon training plan is divided into four distinct phases:
 - **Volume tolerance**: Weekly increases without injury
 - **Interval quality**: Maintain pace through all reps
 
-### **Peak Phase Success Metrics**
+### **Sharpen Phase Success Metrics**
 - **Long run completion**: 35 km without excessive fatigue
 - **Pace consistency**: Maintain target paces throughout
 - **Recovery quality**: Strong between all workouts
@@ -217,7 +222,7 @@ The 15-week marathon training plan is divided into four distinct phases:
 - **Volume overload**: Monitor cumulative fatigue
 - **Recovery neglect**: Hard days require easy days
 
-### **Peak Phase Risks**
+### **Sharpen Phase Risks**
 - **Overtraining**: Peak volume can lead to burnout
 - **Race-pace obsession**: Don't neglect MAF pace runs
 - **Injury risk**: High volume increases injury susceptibility
@@ -230,4 +235,3 @@ The 15-week marathon training plan is divided into four distinct phases:
 ---
 
 **Next**: Learn about [Workout Guidelines](workout-guidelines.md) to execute each session properly.
-
