@@ -1,14 +1,14 @@
 # 🎯 Training Phases & Progression Strategy
-**15-Week Marathon Training Plan**
+**14-Week Marathon Training Plan**
 
 ## 📊 Phase Overview
 
-The 15-week marathon training plan is divided into four distinct phases:
+The 14-week marathon training plan is divided into four distinct phases:
 
 1. **Base Phase** (Weeks 1-4): Aerobic foundation building
 2. **Build Phase** (Weeks 5-8): Strength, endurance, and marathon pace introduction
 3. **Peak Phase** (Weeks 9-12): Maximum training stimulus
-4. **Taper & Race Week** (Weeks 13-15): Recovery and peak performance
+4. **Taper & Race Week** (Weeks 13-14): Recovery and peak performance
 
 ---
 

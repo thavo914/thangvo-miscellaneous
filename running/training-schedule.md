@@ -1,6 +1,6 @@
-# 📅 15-Week Full Marathon Training Schedule
+# 📅 14-Week Full Marathon Training Schedule
 **Target Race**: March 22, 2026  
-**Start Date**: December 9, 2025  
+**Start Date**: December 15, 2025  
 **Goal**: Sub-4:30 Marathon (6:24/km pace)
 
 ## 🗓️ Weekly Schedule Overview
@@ -31,42 +31,14 @@
 
 ---
 
-## 🏃‍♂️ Complete 15-Week Training Plan
+## 🏃‍♂️ Complete 14-Week Training Plan
 
-### **Week 1: Base Building** (December 9-15, 2025)
+### **Week 1: Base Building** (December 15-21, 2025)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 5×400m intervals | ~6 km | 5:30/km + 7:00/km recovery | 2km warm-up, 200m jog recovery |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 12 km | 6:25/km | MAF pace |
-| **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Sunday** | Long Run | 22 km | 6:25/km | MAF pace |
-
-**Weekly Total**: 56 km  
-**80-20 Split**: 46 km easy (82%), 10 km hard (18%)
-
----
-
-### **Week 2: Tempo Introduction** (December 16-22, 2025)
-| Day | Workout | Distance | Pace | Notes |
-|-----|---------|----------|------|-------|
-| **Tuesday** | Tempo 20' | ~7 km | 5:50/km tempo | 2km warm-up + cool-down |
-| **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 13 km | 6:25/km | MAF pace |
-| **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Sunday** | Long Run | 23 km | 6:25/km | MAF pace |
-
-**Weekly Total**: 58 km  
-**80-20 Split**: 48 km easy (83%), 10 km hard (17%)
-
----
-
-### **Week 3: Building Endurance** (December 23-29, 2025) ⚠️ Holiday Week
-| Day | Workout | Distance | Pace | Notes |
-|-----|---------|----------|------|-------|
-| **Tuesday** | 5×400m intervals | ~6 km | 5:30/km + 7:00/km recovery | Stay consistent! |
-| **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 14 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 14 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 24 km | 6:25/km | MAF pace |
 
@@ -75,133 +47,161 @@
 
 ---
 
-### **Week 4: Tempo Progression** (December 30, 2025 - January 5, 2026)
+### **Week 2: Endurance Build** (December 22-28, 2025)
+| Day | Workout | Distance | Pace | Notes |
+|-----|---------|----------|------|-------|
+| **Tuesday** | 5×400m intervals | ~6 km | 5:30/km + 7:00/km recovery | 2km warm-up, 200m jog recovery |
+| **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 15 km | 6:25/km | ≈60% of LR |
+| **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
+| **Sunday** | Long Run | 23 km | 6:25/km | MAF pace |
+
+**Weekly Total**: 62 km  
+**80-20 Split**: 52 km easy (84%), 10 km hard (16%)
+
+---
+
+### **Week 3: Tempo Introduction** (December 29, 2025 - January 4, 2026) ⚠️ Holiday Week
+| Day | Workout | Distance | Pace | Notes |
+|-----|---------|----------|------|-------|
+| **Tuesday** | Tempo 20' | ~7 km | 5:50/km tempo | 2km warm-up + cool-down |
+| **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 14 km | 6:25/km | ≈60% of LR |
+| **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
+| **Sunday** | Long Run | 24 km | 6:25/km | MAF pace |
+
+**Weekly Total**: 60 km  
+**80-20 Split**: 50 km easy (83%), 10 km hard (17%)
+
+---
+
+### **Week 4: Tempo Progression** (January 5-11, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | Tempo 25' | ~8 km | 5:50/km tempo | Extended tempo |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 14 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 15 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 25 km | 6:25/km | MAF pace |
 
-**Weekly Total**: 63 km  
-**80-20 Split**: 52 km easy (83%), 11 km hard (17%)
+**Weekly Total**: 64 km  
+**80-20 Split**: 53 km easy (83%), 11 km hard (17%)
 
 ---
 
-### **Week 5: Speed Check** (January 6-12, 2026)
+### **Week 5: Speed Check** (January 12-18, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 5 km Speed Check | ~8 km | Progressive 5:20-5:10/km | 2km warm-up, 1km cool-down |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | Recovery |
-| **Thursday** | Medium-Long Run | 15 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 16 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 26 km | 6:25/km | MAF pace |
 
-**Weekly Total**: 65 km  
-**80-20 Split**: 54 km easy (83%), 11 km hard (17%)
+**Weekly Total**: 66 km  
+**80-20 Split**: 55 km easy (83%), 11 km hard (17%)
 
 ---
 
-### **Week 6: Longer Intervals** (January 13-19, 2026)
+### **Week 6: Longer Intervals** (January 19-25, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 4×600m intervals | ~7 km | 5:30/km + 7:00/km recovery | 300m jog recovery |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 15 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 17 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 27 km | 6:25/km | MAF pace |
 
-**Weekly Total**: 65 km  
-**80-20 Split**: 54 km easy (83%), 11 km hard (17%)
+**Weekly Total**: 67 km  
+**80-20 Split**: 56 km easy (84%), 11 km hard (16%)
 
 ---
 
-### **Week 7: Extended Tempo** (January 20-26, 2026)
+### **Week 7: Extended Tempo** (January 26 - February 1, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | Tempo 30' | ~9 km | 5:50/km tempo | Building threshold |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 16 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 17 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 28 km | 6:25/km | MAF pace |
 
-**Weekly Total**: 69 km  
-**80-20 Split**: 57 km easy (83%), 12 km hard (17%)
+**Weekly Total**: 70 km  
+**80-20 Split**: 58 km easy (83%), 12 km hard (17%)
 
 ---
 
-### **Week 8: Marathon Pace Introduction** (January 27 - February 2, 2026)
+### **Week 8: Marathon Pace Introduction** (February 2-8, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 4×600m intervals | ~7 km | 5:30/km + 7:00/km recovery | VO2 max |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | MLR w/ MP | 16 km | 6:25/km + 4km @ 6:24/km | 6 MAF + 4 MP + 6 MAF |
+| **Thursday** | MLR w/ MP | 18 km | 6:25/km + 4km @ 6:24/km | 7 MAF + 4 MP + 7 MAF |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Sunday** | Long Run w/ MP | 28 km | 6:25/km + 6km @ 6:24/km | 22 MAF + 6 MP |
+| **Sunday** | Long Run w/ MP | 30 km | 6:25/km + 8km @ 6:24/km | 22 MAF + 8 MP |
 
-**Weekly Total**: 67 km  
-**80-20 Split**: 51 km easy (76%), 16 km hard (24%) - includes MP work
+**Weekly Total**: 71 km  
+**80-20 Split**: 53 km easy (75%), 18 km hard (25%) - includes MP work
 
 ---
 
-### **Week 9: Marathon Pace Practice** (February 3-9, 2026)
+### **Week 9: Marathon Pace Practice** (February 9-15, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | Tempo 32' | ~9 km | 5:50/km tempo | Peak tempo |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | MLR w/ MP | 17 km | 6:25/km + 5km @ 6:24/km | 6 MAF + 5 MP + 6 MAF |
+| **Thursday** | MLR w/ MP | 19 km | 6:25/km + 5km @ 6:24/km | 7 MAF + 5 MP + 7 MAF |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 30 km | 6:25/km | MAF pace |
 
-**Weekly Total**: 72 km  
-**80-20 Split**: 58 km easy (81%), 14 km hard (19%)
+**Weekly Total**: 74 km  
+**80-20 Split**: 59 km easy (80%), 15 km hard (20%)
 
 ---
 
-### **Week 10: Building to Peak** (February 10-16, 2026)
+### **Week 10: Building to Peak** (February 16-22, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 3×1000m intervals | ~8 km | 5:30/km + 7:00/km recovery | 2' jog recovery |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 17 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 19 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 32 km | 6:25/km | MAF pace |
 
-**Weekly Total**: 73 km  
-**80-20 Split**: 62 km easy (85%), 11 km hard (15%)
+**Weekly Total**: 75 km  
+**80-20 Split**: 63 km easy (84%), 12 km hard (16%)
 
 ---
 
-### **Week 11: Peak Volume** (February 17-23, 2026)
+### **Week 11: Peak Volume** (February 23 - March 1, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | Tempo 35' | ~10 km | 5:50/km tempo | Peak tempo |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 18 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 20 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run w/ MP | 33 km | 6:25/km + 8km @ 6:24/km | 25 MAF + 8 MP |
 
-**Weekly Total**: 77 km  
-**80-20 Split**: 62 km easy (81%), 15 km hard (19%)
+**Weekly Total**: 79 km  
+**80-20 Split**: 64 km easy (81%), 15 km hard (19%)
 
 ---
 
-### **Week 12: Final Peak** (February 24 - March 2, 2026)
+### **Week 12: Final Peak** (March 2-8, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | Speed Check 5 km | ~8 km | Progressive 5:20-5:10/km | Final fitness check |
 | **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 18 km | 6:25/km | MAF pace |
+| **Thursday** | Medium-Long Run | 21 km | 6:25/km | ≈60% of LR |
 | **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
 | **Sunday** | Long Run | 35 km | 6:25/km | Peak long run |
 
-**Weekly Total**: 77 km  
-**80-20 Split**: 65 km easy (84%), 12 km hard (16%)
+**Weekly Total**: 80 km  
+**80-20 Split**: 67 km easy (84%), 13 km hard (16%)
 
 ---
 
-### **Week 13: Taper Begins** (March 3-9, 2026)
+### **Week 13: Taper Begins** (March 9-15, 2026)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 3×1000m intervals | ~8 km | 5:30/km + 7:00/km recovery | Reduced volume |
@@ -215,21 +215,7 @@
 
 ---
 
-### **Week 14: Taper Continues** (March 10-16, 2026)
-| Day | Workout | Distance | Pace | Notes |
-|-----|---------|----------|------|-------|
-| **Tuesday** | Tempo 20' | ~7 km | 5:50/km tempo | Light tempo |
-| **Wednesday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Thursday** | Medium-Long Run | 14 km | 6:25/km | Further reduced |
-| **Saturday** | Easy Run | 8 km | 6:25/km | MAF pace |
-| **Sunday** | Long Run | 24 km | 6:25/km | Final long run before race |
-
-**Weekly Total**: 61 km (-21% from peak)  
-**80-20 Split**: 50 km easy (82%), 11 km hard (18%)
-
----
-
-### **Week 15: Race Week** (March 17-22, 2026) 🏃‍♂️
+### **Week 14: Race Week** (March 16-22, 2026) 🏃‍♂️
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Monday** | Rest | - | - | Complete rest |
@@ -249,13 +235,24 @@
 
 | Week | Total Volume | Long Run | Phase |
 |------|--------------|----------|-------|
-| 1 | 56 km | 22 km | Base |
-| 5 | 65 km | 26 km | Build |
-| 11 | 77 km | 33 km | Peak |
-| 12 | 77 km | 35 km | Peak |
+| 1 | 60 km | 24 km | Base |
+| 5 | 66 km | 26 km | Build |
+| 10 | 75 km | 32 km | Build → Peak |
+| 11 | 79 km | 33 km | Peak |
+| 12 | 80 km | 35 km | Peak |
 | 13 | 70 km | 30 km | Taper |
-| 14 | 61 km | 24 km | Taper |
-| 15 | 62.2 km | 42.2 km | Race |
+| 14 | 62.2 km | 42.2 km | Race |
+
+---
+
+## 🔄 Optional Cutback Weeks (use up to 2x if needed)
+
+If a long run feels too much or recovery lags, replace any upcoming week with a cutback:
+- **Volume**: Reduce total by ~15-20% (e.g., 58 km → ~46-49 km)
+- **Long Run**: Reduce by 4-6 km (e.g., 24 km → 18-20 km; 30 km → 24-26 km)
+- **Intensity**: Keep Tuesday light—either strides or short tempo (15-20') instead of full intervals/tempo
+- **MLR**: Reduce by 2-4 km
+- **Goal**: Arrive fresh the following week; return to the planned progression once recovered
 
 ---
 

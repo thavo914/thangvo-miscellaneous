@@ -1,12 +1,12 @@
-# 🏃‍♂️ Marathon Training Plan - 15 Weeks
+# 🏃‍♂️ Marathon Training Plan - 14 Weeks
 **Target Race**: March 22, 2026  
 **Start Date**: December 9, 2025
 
-A comprehensive 15-week Full Marathon training plan following the MAF (Maximum Aerobic Function) method and 80-20 rule, designed to help you achieve a sub-4:30 marathon safely and effectively.
+A comprehensive 14-week Full Marathon training plan following the MAF (Maximum Aerobic Function) method and 80-20 rule, designed to help you achieve a sub-4:30 marathon safely and effectively.
 
 ## 📋 Plan Overview
 
-- **Duration**: 15 weeks
+- **Duration**: 14 weeks
 - **Runs per week**: 5 runs + 2 rest days
 - **Target**: Sub-4:30 marathon completion (6:24/km pace)
 - **Methodology**: MAF-based training with 80-20 intensity distribution
@@ -73,8 +73,7 @@ Based on your current fitness level:
 - **Weeks 1-4**: Base building (56-63 km/week)
 - **Weeks 5-8**: Build phase (65-69 km/week) + marathon pace introduction
 - **Weeks 9-12**: Peak phase (72-77 km/week) + marathon pace mastery
-- **Weeks 13-14**: Taper (70-61 km/week)
-- **Week 15**: Race week (62.2 km including race)
+- **Weeks 13-14**: Taper + race (70 km taper, 62.2 km race week)
 
 ## ⚠️ Important Notes
 

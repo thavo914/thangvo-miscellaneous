@@ -1,4 +1,4 @@
-# 🏃‍♂️ START HERE - Your New 15-Week Marathon Training Plan
+# 🏃‍♂️ START HERE - Your New 14-Week Marathon Training Plan
 
 **Target Race**: March 22, 2026  
 **Start Date**: December 9, 2025  
@@ -9,7 +9,7 @@
 ## ✅ What Has Been Done
 
 1. **Old files backed up**: All previous training plans moved to `backup-old-plan/` folder
-2. **New 15-week plan created**: Tailored to your current fitness level
+2. **New 14-week plan created**: Tailored to your current fitness level
 3. **Paces adjusted**: Based on your easy pace of 6:20-6:30/km
 
 ---
@@ -27,7 +27,7 @@
 
 ### **Essential Reading:**
 1. **[Training Schedule](training-schedule.md)** ⭐ START HERE
-   - Complete 15-week day-by-day plan
+   - Complete 14-week day-by-day plan
    - All workouts, distances, and paces
    - Volume progression from 56 km to 77 km peak
 
@@ -91,10 +91,9 @@
 Week 1:  56 km (start)
 Week 4:  63 km (base)
 Week 8:  69 km (build)
-Week 12: 77 km (peak) ← Maximum training
+Week 11-12: 77 km (peak) ← Maximum training
 Week 13: 70 km (taper)
-Week 14: 61 km (taper)
-Week 15: 62.2 km (RACE WEEK!)
+Week 14: 62.2 km (RACE WEEK!)
 ```
 
 ---
