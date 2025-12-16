@@ -4,7 +4,7 @@
 ## 🔥 Warm-Up & Cool-Down Protocol
 
 ### **Standard Warm-Up (10 minutes)**
-- **Minutes 1-3**: Easy jogging at MAF pace (6:25/km)
+- **Minutes 1-3**: Easy jogging at MAF pace (6:40/km)
 - **Minutes 4-6**: Dynamic stretching and mobility
   - Leg swings (forward/back, side-to-side)
   - Hip circles and arm circles
@@ -19,7 +19,7 @@
 - **Leg Swings**: Forward/back and side-to-side (10 each)
 
 ### **Cool-Down (10 minutes)**
-- **Minutes 1-5**: Easy jogging at MAF pace (6:25/km)
+- **Minutes 1-5**: Easy jogging at MAF pace (6:40/km)
 - **Minutes 6-10**: Walking and static stretching
 - **Focus**: Gradually lower heart rate and flush metabolites
 
@@ -27,41 +27,72 @@
 
 ## ⚡ High-Intensity Workouts
 
-### **Interval Training (Odd Weeks)**
+### **Interval Training (All Tuesdays Except Speed Check Weeks)**
 
-#### **400m Intervals (Weeks 1, 3)**
+#### **400m Intervals (Weeks 1, 2, 3, 4)**
 - **Format**: 5×400m @ 5:30/km with 200m jog recovery
 - **Target Pace**: 5:30/km (1:22 per 400m)
 - **Recovery**: 200m jog @ 7:00/km (~1:24 recovery)
 - **Total Work**: 2 km at interval pace
 - **Total Recovery**: 1 km at recovery pace
 - **Heart Rate**: 170-175 bpm during intervals
+- **Purpose**: Build VO2 max and running economy in base phase
 
-#### **600m Intervals (Weeks 6, 8)**
+#### **600m Intervals (Weeks 6, 7, 8, 9)**
 - **Format**: 4×600m @ 5:30/km with 300m jog recovery
 - **Target Pace**: 5:30/km (3:18 per 600m)
 - **Recovery**: 300m jog @ 7:00/km (~2:06 recovery)
 - **Total Work**: 2.4 km at interval pace
 - **Total Recovery**: 1.2 km at recovery pace
 - **Heart Rate**: 170-175 bpm during intervals
+- **Purpose**: Extend VO2 max intervals during build phase
 
-#### **1000m Intervals (Weeks 10, 13)**
+#### **1000m Intervals (Weeks 10, 11, 13)**
 - **Format**: 3×1000m @ 5:30/km with 2' jog recovery
 - **Target Pace**: 5:30/km (5:30 per 1000m)
 - **Recovery**: 2' jog @ 7:00/km (~400m recovery)
 - **Total Work**: 3 km at interval pace
 - **Total Recovery**: 1.2 km at recovery pace
 - **Heart Rate**: 170-175 bpm during intervals
+- **Purpose**: Peak phase VO2 max development
 
-### **Tempo Training (Even Weeks)**
+#### **Light Intervals (Week 14 - Race Week)**
+- **Format**: 3×400m @ 5:30/km with 200m jog recovery
+- **Purpose**: Light sharpening, maintain leg turnover
+
+---
+
+## 🏃‍♂️ Tempo Training
+
+### **Option A: Tuesday Tempo Runs (Treadmill Alternative)**
+
+When weather forces treadmill use, substitute intervals with tempo runs:
 
 #### **Progressive Tempo Build-Up**
-- **Week 2**: 20' @ 5:50/km
-- **Week 4**: 25' @ 5:50/km
-- **Week 7**: 30' @ 5:50/km
-- **Week 9**: 32' @ 5:50/km
-- **Week 11**: 35' @ 5:50/km (peak tempo)
-- **Week 14**: 20' @ 5:50/km (taper)
+- **Weeks 1-2**: 20' @ 5:50/km (3.4 km tempo work)
+- **Week 3**: 22' @ 5:50/km (3.8 km tempo work)
+- **Week 4**: 25' @ 5:50/km (4.3 km tempo work)
+- **Weeks 6-7**: 28' @ 5:50/km (4.8 km tempo work)
+- **Weeks 8-9**: 30' @ 5:50/km (5.2 km tempo work)
+- **Weeks 10-11**: 32' @ 5:50/km (5.5 km tempo work)
+- **Week 13**: 25' @ 5:50/km (4.3 km tempo work, taper)
+
+#### **Treadmill Execution**
+- **Speed Setting**: 10.3 km/h (5:50/km pace)
+- **Incline**: 1% (simulates outdoor resistance)
+- **Warm-up**: 2 km @ 6:40/km (9.0 km/h)
+- **Cool-down**: 1 km @ 6:40/km (9.0 km/h)
+- **Benefit**: Set speed once, maintain for entire tempo portion
+
+### **Option B: Tempo in Medium-Long Runs**
+- **Purpose**: Threshold development during endurance runs
+- **Integration**: 3-4km tempo sections within MLR (Weeks 5-7, 10-11)
+- **Benefit**: Race-specific pacing practice
+
+### **Option C: Tempo in Long Runs**
+- **Purpose**: Race-specific endurance at threshold
+- **Integration**: 4-5km tempo sections within LR (Weeks 6, 7, 9)
+- **Benefit**: Teaches pacing control during long efforts
 
 #### **Tempo Execution Guidelines**
 - **Pace Control**: Start slightly slower than target, build to target pace
@@ -73,7 +104,7 @@
 
 ## 🏃‍♂️ Easy Runs (MAF Pace)
 
-### **Target Pace: 6:25/km**
+### **Target Pace: 6:40/km** *(Adjusted for sustainable aerobic development)*
 
 #### **Execution Guidelines**
 - **Effort Level**: Very comfortable, conversational pace
@@ -84,67 +115,85 @@
 #### **When to Use MAF Pace**
 - **Wednesday Easy Runs**: 8 km recovery from Tuesday's hard session
 - **Saturday Easy Runs**: 8 km maintenance and recovery
-- **Long Run Base**: Majority of long runs at MAF pace
+- **Long Run Base**: Base portion of long runs at MAF pace
+- **MLR Base**: Base portion of medium-long runs at MAF pace
 - **Recovery Runs**: Any additional recovery sessions
 
 #### **MAF Pace Benefits**
-- **Aerobic Development**: Builds fat-burning efficiency
+- **Aerobic Development**: Builds fat-burning efficiency at sustainable effort
 - **Recovery**: Promotes active recovery between hard sessions
-- **Injury Prevention**: Low stress allows tissue adaptation
-- **Endurance Base**: Foundation for all other training
+- **Injury Prevention**: Truly easy pace reduces injury risk
+- **Endurance Base**: Solid foundation allows for quality tempo/MP work
 
 ---
 
 ## 🚀 Medium-Long Runs (MLR)
 
 ### **Progressive Distance Build-Up**
-- **Weeks 1-2**: 12-13 km
-- **Weeks 3-4**: 14 km
-- **Weeks 5-7**: 15-16 km
-- **Weeks 8-12**: 16-18 km
-- **Weeks 13-14**: 16-14 km (taper)
+- **Week 1**: 14 km
+- **Weeks 2-3**: 15 km
+- **Week 4**: 15 km
+- **Week 5**: 16 km
+- **Weeks 6-7**: 17 km
+- **Week 8**: 18 km
+- **Week 9**: 19 km
+- **Weeks 10-11**: 19-20 km
+- **Week 12**: 21 km (peak)
+- **Week 13**: 16 km (taper)
+- **Week 14**: Race week (lighter)
 
 ### **MLR Execution Guidelines**
-- **Primary Pace**: MAF pace (6:25/km)
-- **Marathon-Pace Sections**: Weeks 8-11 include marathon-pace work
-- **Effort Level**: Moderate, sustainable effort
-- **Focus**: Building endurance and practicing pace changes
+- **Primary Pace**: MAF pace (6:40/km)
+- **Tempo & Marathon-Pace Sections**: Added from Week 5 onwards
+- **Effort Level**: Moderate to hard, with quality pace work
+- **Focus**: Building endurance while practicing race-specific paces
 
-#### **Marathon-Pace Integration (Weeks 8-11)**
-- **Week 8**: 6 MAF + 4 @ 6:24/km (MP) + 6 MAF
-- **Week 9**: 6 MAF + 5 @ 6:24/km (MP) + 6 MAF
-- **Week 11**: Full MLR at MAF pace
+#### **Tempo & Marathon-Pace Integration**
+- **Week 5**: 6.5 MAF + 3 Tempo @ 5:50 + 6.5 MAF (16 km total)
+- **Week 6**: 7 MAF + 3 Tempo @ 5:50 + 7 MAF (17 km total)
+- **Week 7**: 7 MAF + 3 Tempo @ 5:50 + 7 MAF (17 km total)
+- **Week 8**: 6.5 MAF + 5 MP @ 6:24 + 6.5 MAF (18 km total)
+- **Week 9**: 6.5 MAF + 6 MP @ 6:24 + 6.5 MAF (19 km total)
+- **Week 10**: 7.5 MAF + 4 Tempo @ 5:50 + 7.5 MAF (19 km total)
+- **Week 11**: 8 MAF + 4 Tempo @ 5:50 + 8 MAF (20 km total)
+- **Week 12**: 7.5 MAF + 6 MP @ 6:24 + 7.5 MAF (21 km total)
+- **Week 13**: 6 MAF + 4 MP @ 6:24 + 6 MAF (16 km total, taper)
 
 ---
 
 ## 🏁 Long Runs
 
 ### **Progressive Distance Build-Up**
-- **Week 1**: 22 km
-- **Week 2**: 23 km
-- **Week 3**: 24 km
+- **Week 1**: 24 km
+- **Week 2**: 25 km
+- **Week 3**: 26 km
 - **Week 4**: 25 km
 - **Week 5**: 26 km
 - **Week 6**: 27 km
 - **Week 7**: 28 km
-- **Week 8**: 28 km (with 6 km @ MP)
+- **Week 8**: 30 km (with 8 km @ MP)
 - **Week 9**: 30 km
 - **Week 10**: 32 km
 - **Week 11**: 33 km (with 8 km @ MP)
 - **Week 12**: 35 km (peak)
 - **Week 13**: 30 km (taper)
-- **Week 14**: 24 km (taper)
-- **Week 15**: 42.2 km (race!)
+- **Week 14**: 42.2 km (race!)
 
 ### **Long Run Execution Guidelines**
-- **Primary Pace**: MAF pace (6:25/km)
-- **Marathon-Pace Sections**: Weeks 8 and 11 include marathon-pace work
-- **Effort Level**: Comfortable, sustainable for entire distance
-- **Focus**: Building endurance and mental toughness
+- **Primary Pace**: MAF pace (6:40/km)
+- **Tempo & Marathon-Pace Sections**: Added from Week 6 onwards
+- **Effort Level**: Comfortable base with quality pace practice
+- **Focus**: Building endurance while developing race-specific fitness
 
-#### **Marathon-Pace Integration**
-- **Week 8**: 22 MAF + 6 @ 6:24/km (MP)
-- **Week 11**: 25 MAF + 8 @ 6:24/km (MP)
+#### **Tempo & Marathon-Pace Integration**
+- **Week 6**: 22 MAF + 4 Tempo @ 5:50 + 1 MAF (27 km total)
+- **Week 7**: 22 MAF + 5 Tempo @ 5:50 + 1 MAF (28 km total)
+- **Week 8**: 20 MAF + 8 MP @ 6:24 + 2 MAF (30 km total)
+- **Week 9**: 25 MAF + 4 Tempo @ 5:50 + 1 MAF (30 km total)
+- **Week 10**: 22 MAF + 8 MP @ 6:24 + 2 MAF (32 km total)
+- **Week 11**: 21 MAF + 10 MP @ 6:24 + 2 MAF (33 km total)
+- **Week 12**: 23 MAF + 10 MP @ 6:24 + 2 MAF (35 km, peak)
+- **Week 13**: 22 MAF + 6 MP @ 6:24 + 2 MAF (30 km, taper)
 
 ### **Long Run Strategy**
 - **Start Slow**: First 2-3 km at 6:30/km to warm up
@@ -159,7 +208,7 @@
 ### **5 km Time Trial Protocol**
 
 #### **Warm-Up Protocol**
-- **2 km**: Easy jog at MAF pace (6:25/km, 143-153 bpm)
+- **2 km**: Easy jog at MAF pace (6:40/km, 143-153 bpm)
 - **Dynamic Stretches**: 5 minutes of mobility work
 - **Strides**: 4-6×100m progressive accelerations
 
@@ -181,7 +230,7 @@
 **Target Time**: Sub-26:30 (supports sub-4:30 marathon goal)
 
 #### **Cool-Down Protocol**
-- **1 km**: Easy jog at MAF pace (6:25/km, 143-153 bpm)
+- **1 km**: Easy jog at MAF pace (6:40/km, 143-153 bpm)
 - **Static Stretching**: 5 minutes of post-run stretching
 - **Recovery**: Light walking and hydration
 
@@ -286,13 +335,13 @@
 - **Max HR Estimate**: ~188 bpm (220 - age)
 
 ### **Training Zones**
-| Zone | Heart Rate | % Max HR | Purpose | Workout Type |
-|------|------------|----------|---------|--------------|
-| **Recovery** | 120-140 bpm | 60-70% | Active recovery | Recovery jogging |
-| **MAF** | 143-153 bpm | 75-80% | Aerobic base | Easy runs, long runs |
-| **Marathon Pace** | 155-165 bpm | 82-88% | Race pace | Marathon pace sections |
-| **Threshold** | 160-169 bpm | 85-90% | Lactate threshold | Tempo runs |
-| **VO₂ Max** | 170-175 bpm | 90-93% | Anaerobic capacity | Intervals |
+| Zone | Heart Rate | % Max HR | Pace | Purpose | Workout Type |
+|------|------------|----------|------|---------|--------------|
+| **Recovery** | 120-140 bpm | 60-70% | 7:00/km | Active recovery | Recovery jogging |
+| **MAF** | 143-153 bpm | 75-80% | 6:40/km | Aerobic base | Easy runs, long runs |
+| **Marathon Pace** | 155-165 bpm | 82-88% | 6:24/km | Race pace | Marathon pace sections |
+| **Threshold** | 160-169 bpm | 85-90% | 5:50/km | Lactate threshold | Tempo runs |
+| **VO₂ Max** | 170-175 bpm | 90-93% | 5:30/km | Anaerobic capacity | Intervals |
 
 ---
 
