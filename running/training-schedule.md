@@ -51,6 +51,40 @@
 
 ## 🏃‍♂️ Complete 14-Week Training Plan
 
+### 📅 **Alternative: Saturday Long Run Option**
+**For runners who prefer weekend mornings or have scheduling constraints**
+
+**Key Adjustments:**
+- Move long run from Sunday to Saturday
+- Replace Saturday easy run with very light recovery or rest
+- Keep Sunday as complete rest or very light activity
+- Maintain Tuesday-Thursday workout spacing for optimal recovery
+
+**Benefits:** Weekend mornings often fresher, better weather access, Sunday recovery
+**Considerations:** Ensure Tuesday workout recovery (48+ hours before Saturday long run)
+
+### 📋 **General Saturday Long Run Template** (apply to any week)
+
+**Original Schedule:**
+- Tuesday: Intervals/Tempo workout
+- Wednesday: Easy run
+- Thursday: Medium-Long Run
+- **Saturday: Easy run**
+- **Sunday: Long run**
+
+**Saturday Long Run Alternative:**
+- Tuesday: Intervals/Tempo workout (unchanged)
+- Wednesday: Easy run (unchanged)
+- Thursday: Medium-Long Run (unchanged)
+- **Saturday: Long run** (moved from Sunday)
+- **Sunday: Rest or very light activity**
+
+**Adjustments:**
+- Volume reduction: Subtract Saturday easy run distance (~8 km)
+- Long run distance: Same as Sunday planned distance
+- Recovery: Ensure 48+ hours between Tuesday workout and Saturday long run
+- 80-20 balance: Slight shift toward more hard effort (long run instead of easy)
+
 ### **Week 1: Base Building** (December 15-21, 2025)
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
@@ -60,8 +94,15 @@
 | **Saturday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Sunday** | Long Run | 24 km | 6:40/km | MAF pace |
 
-**Weekly Total**: 60 km (intervals) or 61 km (tempo)  
+**Weekly Total**: 60 km (intervals) or 61 km (tempo)
 **80-20 Split**: 50 km easy (83%), 10 km hard (17%)
+
+**Saturday Long Run Alternative** (as executed):
+- **Saturday**: Long Run 24 km @ 6:40/km (moved from Sunday)
+- **Sunday**: Complete rest (skipped easy run)
+
+**Weekly Total**: 58 km (intervals) or 59 km (tempo)
+**80-20 Split**: 48 km easy (83%), 10 km hard (17%)
 
 ---
 
@@ -74,8 +115,15 @@
 | **Saturday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Sunday** | Long Run | 25 km | 6:40/km | MAF pace |
 
-**Weekly Total**: 62 km (intervals) or 63 km (tempo)  
+**Weekly Total**: 62 km (intervals) or 63 km (tempo)
 **80-20 Split**: 52 km easy (84%), 10 km hard (16%)
+
+**Saturday Long Run Alternative**:
+- **Saturday**: Long Run 25 km @ 6:40/km (moved from Sunday)
+- **Sunday**: Complete rest or very light activity
+
+**Weekly Total**: 60 km (intervals) or 61 km (tempo)
+**80-20 Split**: 50 km easy (83%), 10 km hard (17%)
 
 ---
 
