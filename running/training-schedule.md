@@ -2,16 +2,17 @@
 **Target Race**: March 22, 2026  
 **Start Date**: December 15, 2025  
 **Goal**: Sub-4:30 Marathon (6:24/km pace)
+**Strength Plan**: [Exercises (Mini-Plan)](runner-strength-mini.md) | [Periodization (Sets/Reps)](runner-strength-periodization.md)
 
 ## 🗓️ Weekly Schedule Overview
 
-- **Monday**: Complete rest / light active recovery
-- **Tuesday**: High Intensity Day (Intervals preferred)
-- **Wednesday**: Easy Run (MAF pace)
+- **Monday**: **Strength A** (Glutes) + Recovery (No Running)
+- **Tuesday**: **Strength C** (Post-Run Posture) + High Intensity Day (Intervals)
+- **Wednesday**: Easy Run + **Strength B** (Core/Post-Run)
 - **Thursday**: Medium-Long Run (MAF pace)
-- **Friday**: Complete Rest (Prep for Long Run)
+- **Friday**: **Strength D** (Arms) (No Running)
 - **Saturday**: **Long Run** (MAF pace + quality sections)
-- **Sunday**: Complete Rest / Mobility
+- **Sunday**: Complete Rest / [Mobility](mobility-routine.md)
 
 ## 🎯 Training Paces (Based on Your Current Fitness)
 
