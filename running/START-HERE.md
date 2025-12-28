@@ -58,8 +58,8 @@
 | **Wed** | Easy Run | 8 km | 6:25/km |
 | **Thu** | Medium-Long Run | 12 km | 6:25/km |
 | **Fri** | Rest | - | - |
-| **Sat** | Easy Run | 8 km | 6:25/km |
-| **Sun** | Long Run | 22 km | 6:25/km |
+| **Sat** | Long Run | 22 km | 6:25/km |
+| **Sun** | Rest | - | - |
 
 **Total**: 56 km
 
