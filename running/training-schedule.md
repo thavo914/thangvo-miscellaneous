@@ -88,21 +88,21 @@
 
 ---
 
-### **Week 3: Interval Progression** (December 29, 2025 - January 4, 2026) ⚠️ Holiday Week [CURRENT]
+### **Week 3: Interval Progression** (December 29, 2025 - January 4, 2026) ⚠️ Holiday Week [PAST]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
-| **Tuesday** | 5×400m intervals *[Alt: Tempo 22']* | ~6 km *[~7 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
-| **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | Medium-Long Run | 14 km | 6:40/km | ≈60% of LR |
-| **Saturday** | Long Run | 26 km | 6:40/km | MAF pace |
+| **Tuesday** | Tempo 22' | ~7 km | 5:50/km tempo | Treadmill tempo ✅ |
+| **Wednesday** | **Skipped** | - | - | **Party/Recovery** ❌ |
+| **Thursday** | Medium-Long Run | 14 km | 6:40/km | Completed ✅ |
+| **Saturday** | Long Run | 26 km | 6:40/km | MAF pace ✅ |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
-**Weekly Total**: 62 km (intervals) or 63 km (tempo)  
-**80-20 Split**: 52 km easy (84%), 10 km hard (16%)
+**Weekly Total**: ~47 km (Executed)  
+**Note**: Skipped Wednesday easy run. Completed key workouts: Tempo + MLR + LR.
 
 ---
 
-### **Week 4: Building Endurance** (January 5-11, 2026) [UPCOMING]
+### **Week 4: Building Endurance** (January 5-11, 2026) [PAST]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 5×400m intervals *[Alt: Tempo 25']* | ~6 km *[~8 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
@@ -116,7 +116,7 @@
 
 ---
 
-### **Week 5: Speed Check** (January 12-18, 2026) [UPCOMING]
+### **Week 5: Speed Check** (January 12-18, 2026) [MISSED - INJURY]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 5 km Speed Check | ~8 km | Progressive 5:20-5:10/km | 2km warm-up, 1km cool-down |
@@ -130,7 +130,7 @@
 
 ---
 
-### **Week 6: Longer Intervals + Tempo** (January 19-25, 2026) [UPCOMING]
+### **Week 6: Longer Intervals + Tempo** (January 19-25, 2026) [MISSED - INJURY]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 4×600m intervals *[Alt: Tempo 28']* | ~7 km *[~9 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
@@ -144,13 +144,13 @@
 
 ---
 
-### **Week 7: Longer Intervals** (January 26 - February 1, 2026) [UPCOMING]
+### **Week 7: Longer Intervals** (January 26 - February 1, 2026) [CURRENT]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
 | **Tuesday** | 4×600m intervals *[Alt: Tempo 28']* | ~7 km *[~9 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Thursday** | MLR w/ Tempo | 17 km | 6:40/km + 3km @ 5:50/km | 7 MAF + 3 Tempo + 7 MAF |
-| **Saturday** | LR w/ Tempo | 28 km | 6:40/km + 5km @ 5:50/km | 22 MAF + 5 Tempo + 1 MAF |
+| **Saturday** | Long Run | 26 km | 6:40/km | MAF pace (Resuming training) |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
 **Weekly Total**: 68 km (intervals) or 70 km (tempo)  
@@ -164,7 +164,7 @@
 | **Tuesday** | 4×600m intervals *[Alt: Tempo 30']* | ~7 km *[~9 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Thursday** | MLR w/ MP | 18 km | 6:40/km + 5km @ 6:24/km | 6.5 MAF + 5 MP + 6.5 MAF |
-| **Saturday** | LR w/ MP | 30 km | 6:40/km + 8km @ 6:24/km | 20 MAF + 8 MP + 2 MAF |
+| **Saturday** | LR w/ MP | 28 km | 6:40/km + 5km @ 6:24/km | 21 MAF + 5 MP + 2 MAF |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
 **Weekly Total**: 71 km (intervals) or 73 km (tempo)  
@@ -206,7 +206,7 @@
 | **Tuesday** | 3×1000m intervals *[Alt: Tempo 32']* | ~8 km *[~10 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Thursday** | MLR w/ Tempo | 20 km | 6:40/km + 4km @ 5:50/km | 8 MAF + 4 Tempo + 8 MAF |
-| **Saturday** | LR w/ MP | 33 km | 6:40/km + 10km @ 6:24/km | 21 MAF + 10 MP + 2 MAF |
+| **Saturday** | LR w/ MP | 32 km | 6:40/km + 10km @ 6:24/km | 20 MAF + 10 MP + 2 MAF |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
 **Weekly Total**: 77 km (intervals) or 79 km (tempo)  
@@ -220,7 +220,7 @@
 | **Tuesday** | Speed Check 5 km | ~8 km | Progressive 5:20-5:10/km | Final fitness check |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Thursday** | MLR w/ MP | 21 km | 6:40/km + 6km @ 6:24/km | 7.5 MAF + 6 MP + 7.5 MAF |
-| **Saturday** | Long Run w/ MP | 35 km | 6:40/km + 10km @ 6:24/km | 23 MAF + 10 MP + 2 MAF |
+| **Saturday** | Long Run | 22-24 km | 6:40/km | Start Taper (Reduced Volume) |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
 **Weekly Total**: 80 km  
@@ -234,7 +234,7 @@
 | **Tuesday** | 3×1000m intervals *[Alt: Tempo 25']* | ~8 km *[~8 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
 | **Thursday** | MLR w/ MP | 16 km | 6:40/km + 4km @ 6:24/km | 6 MAF + 4 MP + 6 MAF |
-| **Saturday** | Long Run w/ MP | 30 km | 6:40/km + 6km @ 6:24/km | 22 MAF + 6 MP + 2 MAF |
+| **Saturday** | Long Run | 16 km | 6:40/km | Taper (Easy Pace) |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
 **Weekly Total**: 70 km (-12.5% from peak)  
@@ -265,13 +265,13 @@
 | 1 | 60 km | 24 km | Base |
 | 2 | 63 km | 25 km | Base |
 | 3 | 62 km | 26 km | Base |
-| 5 | 66 km | 26 km | Build |
-| 8 | 73 km | 30 km | Build |
-| 10 | 77 km | 32 km | Build → Peak |
-| 11 | 77 km | 33 km | Peak |
-| 12 | 80 km | 35 km | Peak |
-| 13 | 70 km | 30 km | Taper |
-| 14 | 62.2 km | 42.2 km | Race |
+| 7 | ~66 km | 26 km | Resume |
+| 8 | ~71 km | 28 km | Build |
+| 10 | ~77 km | 32 km | Peak Build |
+| 11 | ~76 km | 32 km | Peak |
+| 12 | ~65 km | 24 km | Taper |
+| 13 | ~56 km | 16 km | Taper |
+| 14 | 61.2 km | 42.2 km | Race |
 
 ---
 
