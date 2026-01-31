@@ -161,9 +161,9 @@
 ### **Week 8: Marathon Pace Introduction** (February 2-8, 2026) [UPCOMING]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
-| **Tuesday** | 4×600m intervals *[Alt: Tempo 30']* | ~7 km *[~9 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
+| **Tuesday** | Tempo 30' *[Alt: 4×600m]* | ~9 km *[~7 km]* | 5:50/km *[5:30/km int]* | Tempo focus; Intervals alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | MLR w/ MP | 18 km | 6:40/km + 5km @ 6:24/km | 6.5 MAF + 5 MP + 6.5 MAF |
+| **Thursday** | Medium-Long Run | 18 km | 6:40/km | MAF pace |
 | **Saturday** | LR w/ MP | 28 km | 6:40/km + 5km @ 6:24/km | 21 MAF + 5 MP + 2 MAF |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
@@ -177,7 +177,7 @@
 |-----|---------|----------|------|-------|
 | **Tuesday** | 4×600m intervals *[Alt: Tempo 30']* | ~7 km *[~9 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | MLR w/ MP | 19 km | 6:40/km + 6km @ 6:24/km | 6.5 MAF + 6 MP + 6.5 MAF |
+| **Thursday** | Medium-Long Run | 19 km | 6:40/km | MAF pace |
 | **Saturday** | LR w/ Tempo | 30 km | 6:40/km + 4km @ 5:50/km | 25 MAF + 4 Tempo + 1 MAF |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
@@ -189,9 +189,9 @@
 ### **Week 10: Building to Peak** (February 16-22, 2026) [UPCOMING]
 | Day | Workout | Distance | Pace | Notes |
 |-----|---------|----------|------|-------|
-| **Tuesday** | 3×1000m intervals *[Alt: Tempo 32']* | ~8 km *[~10 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
+| **Tuesday** | Tempo 32' *[Alt: 3×1000m]* | ~10 km *[~8 km]* | 5:50/km *[5:30/km int]* | Tempo focus; Intervals alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | MLR w/ Tempo | 19 km | 6:40/km + 4km @ 5:50/km | 7.5 MAF + 4 Tempo + 7.5 MAF |
+| **Thursday** | Medium-Long Run | 19 km | 6:40/km | MAF pace |
 | **Saturday** | LR w/ MP | 32 km | 6:40/km + 8km @ 6:24/km | 22 MAF + 8 MP + 2 MAF |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
@@ -205,7 +205,7 @@
 |-----|---------|----------|------|-------|
 | **Tuesday** | 3×1000m intervals *[Alt: Tempo 32']* | ~8 km *[~10 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | MLR w/ Tempo | 20 km | 6:40/km + 4km @ 5:50/km | 8 MAF + 4 Tempo + 8 MAF |
+| **Thursday** | Medium-Long Run | 20 km | 6:40/km | MAF pace |
 | **Saturday** | LR w/ MP | 32 km | 6:40/km + 10km @ 6:24/km | 20 MAF + 10 MP + 2 MAF |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
@@ -219,7 +219,7 @@
 |-----|---------|----------|------|-------|
 | **Tuesday** | Speed Check 5 km | ~8 km | Progressive 5:20-5:10/km | Final fitness check |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | MLR w/ MP | 21 km | 6:40/km + 6km @ 6:24/km | 7.5 MAF + 6 MP + 7.5 MAF |
+| **Thursday** | Medium-Long Run | 21 km | 6:40/km | MAF pace |
 | **Saturday** | Long Run | 22-24 km | 6:40/km | Start Taper (Reduced Volume) |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
@@ -233,7 +233,7 @@
 |-----|---------|----------|------|-------|
 | **Tuesday** | 3×1000m intervals *[Alt: Tempo 25']* | ~8 km *[~8 km]* | 5:30/km + 7:00/km recovery *[5:50/km tempo]* | Outdoor preferred; Treadmill: tempo alt |
 | **Wednesday** | Easy Run | 8 km | 6:40/km | MAF pace |
-| **Thursday** | MLR w/ MP | 16 km | 6:40/km + 4km @ 6:24/km | 6 MAF + 4 MP + 6 MAF |
+| **Thursday** | Medium-Long Run | 16 km | 6:40/km | MAF pace |
 | **Saturday** | Long Run | 16 km | 6:40/km | Taper (Easy Pace) |
 | **Sunday** | Rest | - | - | Complete Recovery |
 
