@@ -1,6 +1,6 @@
 # 📅 Week 22: Capstone Project - Technical Deep Dive
 
-**Dates**: July 7-13, 2026  
+**Dates**: Jul 06-12, 2026  
 **Month 6: Mastery & Capstone**  
 **Status**: [UPCOMING]
 

@@ -1,6 +1,6 @@
 # 📅 Week 17: Data Storytelling
 
-**Dates**: June 2-8, 2026  
+**Dates**: Jun 01-07, 2026  
 **Month 5: Management & Strategy**  
 **Status**: [UPCOMING]
 

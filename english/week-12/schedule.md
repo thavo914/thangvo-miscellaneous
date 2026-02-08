@@ -1,6 +1,6 @@
 # 📅 Week 12: Real-time vs Batch Processing
 
-**Dates**: April 28 - May 4, 2026  
+**Dates**: Apr 27 - May 03, 2026  
 **Month 3: Technical Data Engineering**  
 **Status**: [UPCOMING]
 

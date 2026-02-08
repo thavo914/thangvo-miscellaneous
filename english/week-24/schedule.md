@@ -1,6 +1,6 @@
 # 📅 Week 24: Final Mock Interview & Celebration
 
-**Dates**: July 21-27, 2026  
+**Dates**: Jul 20-26, 2026  
 **Month 6: Mastery & Capstone**  
 **Status**: [UPCOMING]
 

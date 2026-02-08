@@ -1,6 +1,6 @@
 # 📅 Week 9: ETL & Data Pipelines
 
-**Dates**: April 7-13, 2026  
+**Dates**: Apr 06-12, 2026  
 **Month 3: Technical Data Engineering**  
 **Status**: [UPCOMING]
 

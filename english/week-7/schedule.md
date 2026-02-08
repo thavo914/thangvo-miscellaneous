@@ -1,6 +1,6 @@
 # 📅 Week 7: Data Sources in Hospitality
 
-**Dates**: March 24-30, 2026  
+**Dates**: Mar 23-29, 2026  
 **Month 2: Hospitality Data & Metrics**  
 **Status**: [UPCOMING]
 

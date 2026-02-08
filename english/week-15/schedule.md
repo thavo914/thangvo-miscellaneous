@@ -1,6 +1,6 @@
 # 📅 Week 15: Negotiation Basics
 
-**Dates**: May 19-25, 2026  
+**Dates**: May 18-24, 2026  
 **Month 4: Problem Solving & Meetings**  
 **Status**: [UPCOMING]
 

@@ -1,6 +1,6 @@
 # 📅 Week 16: Cross-team Collaboration
 
-**Dates**: May 26 - June 1, 2026  
+**Dates**: May 25-31, 2026  
 **Month 4: Problem Solving & Meetings**  
 **Status**: [UPCOMING]
 

@@ -1,6 +1,6 @@
 # 📅 Week 11: Cloud & Infrastructure
 
-**Dates**: April 21-27, 2026  
+**Dates**: Apr 20-26, 2026  
 **Month 3: Technical Data Engineering**  
 **Status**: [UPCOMING]
 

@@ -1,6 +1,6 @@
 # 📅 Week 3: Hotel Operations Basics
 
-**Dates**: February 24 - March 2, 2026  
+**Dates**: Feb 23 - Mar 01, 2026  
 **Month 1: Communication & Business Foundation**  
 **Status**: [UPCOMING]
 

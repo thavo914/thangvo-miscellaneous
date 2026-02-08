@@ -1,6 +1,6 @@
 # 📅 Week 13: Troubleshooting & Bug Reporting
 
-**Dates**: May 5-11, 2026  
+**Dates**: May 04-10, 2026  
 **Month 4: Problem Solving & Meetings**  
 **Status**: [UPCOMING]
 

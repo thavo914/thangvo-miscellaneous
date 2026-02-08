@@ -1,6 +1,6 @@
 # 📅 Week 1: Professional Identity & Casino Introduction
 
-**Dates**: February 10-16, 2026  
+**Dates**: Feb 09-15, 2026  
 **Month 1**: Communication & Business Foundation  
 **Status**: [CURRENT]
 

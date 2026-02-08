@@ -1,6 +1,6 @@
 # 📅 Week 18: Fraud Detection
 
-**Dates**: June 9-15, 2026  
+**Dates**: Jun 08-14, 2026  
 **Month 5: Management & Strategy**  
 **Status**: [UPCOMING]
 

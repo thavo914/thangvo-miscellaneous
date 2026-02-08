@@ -1,6 +1,6 @@
 # 📅 Week 23: Capstone Project - Cross-functional Strategy
 
-**Dates**: July 14-20, 2026  
+**Dates**: Jul 13-19, 2026  
 **Month 6: Mastery & Capstone**  
 **Status**: [UPCOMING]
 

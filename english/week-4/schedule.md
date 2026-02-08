@@ -1,6 +1,6 @@
 # 📅 Week 4: Casino Floor Basics
 
-**Dates**: March 3-9, 2026  
+**Dates**: Mar 02-08, 2026  
 **Month 1: Communication & Business Foundation**  
 **Status**: [UPCOMING]
 

@@ -1,6 +1,6 @@
 # 📅 Week 5: Revenue Management Metrics
 
-**Dates**: March 10-16, 2026  
+**Dates**: Mar 09-15, 2026  
 **Month 2: Hospitality Data & Metrics**  
 **Status**: [UPCOMING]
 

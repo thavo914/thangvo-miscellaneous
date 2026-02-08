@@ -1,7 +1,7 @@
 # 📅 6-Month English Learning Schedule
 
-**Start Date**: February 10, 2026  
-**End Date**: August 2, 2026  
+**Start Date**: February 9, 2026  
+**End Date**: July 26, 2026  
 **Daily Commitment**: 2 hours  
 **Total Duration**: 24 weeks
 
@@ -30,7 +30,7 @@ All 24 weeks follow this proven structure:
 ### **Month 1: Communication & Business Foundation** (Weeks 1-4)
 
 #### Week 1: Professional Identity & Casino Introduction [CURRENT]
-**Dates**: Feb 10-16 | **Status**: ⬜ Not Started
+**Dates**: Feb 09-15 | **Status**: ⬜ Not Started
 
 **Theme**: Introduce yourself professionally as a Data Engineer in a casino environment
 
@@ -49,7 +49,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 2: Small Talk & Socializing [UPCOMING]
-**Dates**: Feb 17-23 | **Status**: ⬜ Not Started
+**Dates**: Feb 16-22 | **Status**: ⬜ Not Started
 
 **Theme**: Build rapport through casual conversations about hobbies, food, and travel
 
@@ -68,7 +68,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 3: Hotel Operations Basics [UPCOMING]
-**Dates**: Feb 24 - Mar 2 | **Status**: ⬜ Not Started
+**Dates**: Feb 23 - Mar 01 | **Status**: ⬜ Not Started
 
 **Theme**: Understand hotel operations - Check-in, Check-out, Room types
 
@@ -87,7 +87,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 4: Casino Floor Basics [UPCOMING]
-**Dates**: Mar 3-9 | **Status**: ⬜ Not Started
+**Dates**: Mar 02-08 | **Status**: ⬜ Not Started
 
 **Theme**: Casino floor terminology and operations
 
@@ -108,7 +108,7 @@ All 24 weeks follow this proven structure:
 ### **Month 2: Hospitality Data & Metrics** (Weeks 5-8)
 
 #### Week 5: Revenue Management Metrics [UPCOMING]
-**Dates**: Mar 10-16 | **Status**: ⬜ Not Started
+**Dates**: Mar 09-15 | **Status**: ⬜ Not Started
 
 **Theme**: Master RevPAR, ADR, Occupancy Rate
 
@@ -127,7 +127,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 6: Guest Loyalty Programs [UPCOMING]
-**Dates**: Mar 17-23 | **Status**: ⬜ Not Started
+**Dates**: Mar 16-22 | **Status**: ⬜ Not Started
 
 **Theme**: Loyalty tiers, points, redemption systems
 
@@ -146,7 +146,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 7: Data Sources in Hospitality [UPCOMING]
-**Dates**: Mar 24-30 | **Status**: ⬜ Not Started
+**Dates**: Mar 23-29 | **Status**: ⬜ Not Started
 
 **Theme**: POS, PMS, Slot Machine data flows
 
@@ -165,7 +165,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 8: Reporting & Dashboards [UPCOMING]
-**Dates**: Mar 31 - Apr 6 | **Status**: ⬜ Not Started
+**Dates**: Mar 30 - Apr 05 | **Status**: ⬜ Not Started
 
 **Theme**: Describe trends, spikes, dips in data visualizations
 
@@ -186,7 +186,7 @@ All 24 weeks follow this proven structure:
 ### **Month 3: Technical Data Engineering** (Weeks 9-12)
 
 #### Week 9: ETL & Data Pipelines [UPCOMING]
-**Dates**: Apr 7-13 | **Status**: ⬜ Not Started
+**Dates**: Apr 06-12 | **Status**: ⬜ Not Started
 
 **Theme**: Extract-Transform-Load processes explained simply
 
@@ -205,7 +205,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 10: Data Quality & Cleaning [UPCOMING]
-**Dates**: Apr 14-20 | **Status**: ⬜ Not Started
+**Dates**: Apr 13-19 | **Status**: ⬜ Not Started
 
 **Theme**: Handle missing values, duplicates, dirty data
 
@@ -224,7 +224,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 11: Cloud & Infrastructure [UPCOMING]
-**Dates**: Apr 21-27 | **Status**: ⬜ Not Started
+**Dates**: Apr 20-26 | **Status**: ⬜ Not Started
 
 **Theme**: **AWS/Azure concepts and infrastructure decisions
 
@@ -243,7 +243,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 12: Real-time vs Batch Processing [UPCOMING]
-**Dates**: Apr 28 - May 4 | **Status**: ⬜ Not Started
+**Dates**: Apr 27 - May 03 | **Status**: ⬜ Not Started
 
 **Theme**: Explain latency and processing trade-offs
 
@@ -264,7 +264,7 @@ All 24 weeks follow this proven structure:
 ### **Month 4: Problem Solving & Meetings** (Weeks 13-16)
 
 #### Week 13: Troubleshooting & Bug Reporting [UPCOMING]
-**Dates**: May 5-11 | **Status**: ⬜ Not Started
+**Dates**: May 04-10 | **Status**: ⬜ Not Started
 
 **Theme**: Describe technical issues accurately and clearly
 
@@ -283,7 +283,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 14: Meeting Skills [UPCOMING]
-**Dates**: May 12-18 | **Status**: ⬜ Not Started
+**Dates**: May 11-17 | **Status**: ⬜ Not Started
 
 **Theme**: Interrupt politely, contribute ideas, summarize meetings
 
@@ -302,7 +302,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 15: Negotiation Basics [UPCOMING]
-**Dates**: May 19-25 | **Status**: ⬜ Not Started
+**Dates**: May 18-24 | **Status**: ⬜ Not Started
 
 **Theme**: Negotiate deadlines and project scope
 
@@ -321,7 +321,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 16: Cross-team Collaboration [UPCOMING]
-**Dates**: May 26 - Jun 1 | **Status**: ⬜ Not Started
+**Dates**: May 25-31 | **Status**: ⬜ Not Started
 
 **Theme**: Work with IT Support and Marketing teams
 
@@ -342,7 +342,7 @@ All 24 weeks follow this proven structure:
 ### **Month 5: Management & Strategy** (Weeks 17-20)
 
 #### Week 17: Data Storytelling [UPCOMING]
-**Dates**: Jun 2-8 | **Status**: ⬜ Not Started
+**Dates**: Jun 01-07 | **Status**: ⬜ Not Started
 
 **Theme**: Turn dry data into compelling business narratives
 
@@ -361,7 +361,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 18: Fraud Detection [UPCOMING]
-**Dates**: Jun 9-15 | **Status**: ⬜ Not Started
+**Dates**: Jun 08-14 | **Status**: ⬜ Not Started
 
 **Theme**: Discuss fraud patterns and detection methods
 
@@ -380,7 +380,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 19: Future Trends (AI/ML) [UPCOMING]
-**Dates**: Jun 16-22 | **Status**: ⬜ Not Started
+**Dates**: Jun 15-21 | **Status**: ⬜ Not Started
 
 **Theme**: Discuss AI and Machine Learning in casino operations
 
@@ -399,7 +399,7 @@ All 24 weeks follow this proven structure:
 ---
 
 #### Week 20: Performance Review & Negotiation [UPCOMING]
-**Dates**: Jun 23-29 | **Status**: ⬜ Not Started
+**Dates**: Jun 22-28 | **Status**: ⬜ Not Started
 
 **Theme**: Self-assessment and salary/promotion discussion
 
@@ -420,7 +420,7 @@ All 24 weeks follow this proven structure:
 ### **Month 6: Mastery & Capstone** (Weeks 21-24)
 
 #### Weeks 21-24: Capstone Projects & Mock Interviews [UPCOMING]
-**Dates**: Jun 30 - Aug 2 | **Status**: ⬜ Not Started
+**Dates**: Jun 29 - Jul 26 | **Status**: ⬜ Not Started
 
 **Theme**: Apply all skills in comprehensive projects
 

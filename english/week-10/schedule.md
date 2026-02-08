@@ -1,6 +1,6 @@
 # 📅 Week 10: Data Quality & Cleaning
 
-**Dates**: April 14-20, 2026  
+**Dates**: Apr 13-19, 2026  
 **Month 3: Technical Data Engineering**  
 **Status**: [UPCOMING]
 

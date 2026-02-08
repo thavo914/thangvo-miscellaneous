@@ -1,6 +1,6 @@
 # 📅 Week 2: Small Talk & Socializing
 
-**Dates**: February 17-23, 2026  
+**Dates**: Feb 16-22, 2026  
 **Month 1: Communication & Business Foundation**  
 **Status**: [UPCOMING]
 

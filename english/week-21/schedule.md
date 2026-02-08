@@ -1,6 +1,6 @@
 # 📅 Week 21: Capstone Project - Data Strategy
 
-**Dates**: June 30 - July 6, 2026  
+**Dates**: Jun 29 - Jul 05, 2026  
 **Month 6: Mastery & Capstone**  
 **Status**: [UPCOMING]
 

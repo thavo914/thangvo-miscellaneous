@@ -1,6 +1,6 @@
 # 📅 Week 19: Future Trends (AI/ML)
 
-**Dates**: June 16-22, 2026  
+**Dates**: Jun 15-21, 2026  
 **Month 5: Management & Strategy**  
 **Status**: [UPCOMING]
 

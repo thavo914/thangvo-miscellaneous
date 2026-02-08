@@ -7,7 +7,7 @@ Welcome to your 6-month English mastery journey! This structured program will tr
 - **Duration**: 6 months (24 weeks)
 - **Daily Commitment**: 2 hours
 - **Philosophy**: "Muscle Confusion" - Different focus each day for comprehensive development
-- **Start Date**: February 10, 2026 (Week 1)
+- **Start Date**: February 9, 2026 (Week 1)
 - **Target**: Natural, professional English communication in Data Engineering & Hospitality contexts
 
 ## 🗓️ The Weekly Cycle

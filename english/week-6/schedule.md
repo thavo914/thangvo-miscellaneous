@@ -1,6 +1,6 @@
 # 📅 Week 6: Guest Loyalty Programs
 
-**Dates**: March 17-23, 2026  
+**Dates**: Mar 16-22, 2026  
 **Month 2: Hospitality Data & Metrics**  
 **Status**: [UPCOMING]
 

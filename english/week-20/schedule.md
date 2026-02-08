@@ -1,6 +1,6 @@
 # 📅 Week 20: Performance Review & Negotiation
 
-**Dates**: June 23-29, 2026  
+**Dates**: Jun 22-28, 2026  
 **Month 5: Management & Strategy**  
 **Status**: [UPCOMING]
 

@@ -1,6 +1,6 @@
 # 📅 Week 8: Reporting & Dashboards
 
-**Dates**: March 31 - April 6, 2026  
+**Dates**: Mar 30 - Apr 05, 2026  
 **Month 2: Hospitality Data & Metrics**  
 **Status**: [UPCOMING]
 

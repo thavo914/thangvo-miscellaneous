@@ -1,6 +1,6 @@
 # 📅 Week 14: Meeting Skills
 
-**Dates**: May 12-18, 2026  
+**Dates**: May 11-17, 2026  
 **Month 4: Problem Solving & Meetings**  
 **Status**: [UPCOMING]
 
