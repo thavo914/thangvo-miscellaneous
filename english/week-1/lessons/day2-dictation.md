@@ -37,7 +37,9 @@ This is the 45-second clip starting with:
 ```
 [Your dictation attempt — write it by hand or in a text file]
 ```
-
+This is a download from BBC learning english, to find out more, visit our website.
+Hello, wellcome to 6 minutes english, I'm Rob.
+andI'm Reil. Now Reil do you remmember the first time you ever used the World Wide Web. 
 ---
 
 ## Phase 2: Verification & Analysis (20 min)
