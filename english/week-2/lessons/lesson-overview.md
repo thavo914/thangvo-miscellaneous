@@ -28,23 +28,23 @@
 ## 6-Day Protocol
 | Day | Technique | Core Activity |
 | :--- | :--- | :--- |
-| 1 | Passive & Active Listening | Global and targeted comprehension across 3 listens. |
-| 2 | Dictation | Transcribe the primary shadowing clip; error analysis. |
-| 3 | Shadowing | 4-stage protocol: auditory priming to blind shadowing. |
-| 4 | AI Simulation | Discuss bibliotherapy with an AI peer and expert. |
-| 5 | Monologue | Record a personal view on the therapeutic power of books. |
-| 6 | Grammar Structures | Master 7 patterns including conditionals and definitions. |
+| 1 | Listening + Dictation (A) | Global listening and first dictation draft (rough mapping). |
+| 2 | Immersion + Dictation (B) | Orthographic mapping, dictation verification, and phrase drills. |
+| 3 | AI Simulation | Discuss themes with an AI peer and expert. |
+| 4 | Grammar Structures | Master 7 specific patterns from the transcript. |
+| 5 | Monologue | Record personal view on the week's topic. |
+| 6 | Shadowing | 4-stage shadowing protocol: auditory priming to blind shadowing. |
 
 ## Lesson Material Files
 1. [lesson-overview.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/lesson-overview.md)
 2. [lesson-transcript.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/lesson-transcript.md)
 3. [vocabulary-flashcards.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/vocabulary-flashcards.md)
 4. [day1-passive-active-listening.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day1-passive-active-listening.md)
-5. [day2-dictation.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day2-dictation.md)
-6. [day3-shadowing.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day3-shadowing.md)
-7. [day4-ai-simulation.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day4-ai-simulation.md)
+5. [day2-active-listening-immersion.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day2-active-listening-immersion.md)
+6. [day3-ai-simulation.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day3-ai-simulation.md)
+7. [day4-grammar-structures.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day4-grammar-structures.md)
 8. [day5-monologue.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day5-monologue.md)
-9. [day6-grammar-structures.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day6-grammar-structures.md)
+9. [day6-shadowing.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/day6-shadowing.md)
 10. [weekly-review.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-2/lessons/weekly-review.md)
 
 ## Success Metrics Checklist

@@ -1,75 +1,50 @@
-# Day 1: Passive and Active Listening (60 min)
+# Day 1: Listening + Dictation Draft (60 min)
 
-## Phase 1: Passive Listening (20 min)
-*Goal: Proprioceptive priming. Let the English sounds wash over you while doing low-cognition tasks (commuting, cleaning, etc.).*
+## Phase 1: Passive Listening (Continuous)
+*Goal: Proprioceptive priming. Let the English sounds wash over you as background noise today.*
+- Play the episode 2-3 times while doing something else.
+- Notice the general speed and speaker tone.
+
+---
+
+## Phase 2: Active Listening (25 min)
+*Goal: Global and targeted comprehension.*
+
+### Listen 1: Global
+Answer these without the transcript:
+1. **Topic**: What is "bibliotherapy"?
+2. **Main Argument**: Why read literature instead of just scanning?
+
+### Listen 2: Targeted
+Identify:
+- Which best-seller was mentioned in the quiz?
+- What are Professor Davis' electrodes measuring on the scalp?
+
+---
+
+## Phase 3: Micro-Dictation Part A (Drafting) (25 min)
+*Goal: Initial phonological mapping. **STRICT LIMIT**: 25 minutes. Stop when time's up.*
+
+**Target Segment**: The Primary Shadowing Clip (Philip Davis).
+*Start: "Above all, that it’s not to do with..."*
+*End: "...in terms of these reading groups."*
 
 **Instructions**:
-- Play the episode 3 times back-to-back.
-- **DO NOT** pause. **DO NOT** take notes.
-- Notice the "music" of the speech: where do the voices go up? Where do they stop?
+1. Listen to the clip once for the gist.
+2. Play sentence-by-sentence. Max **3 replays** per sentence.
+3. Write what you hear below. If unsure, mark as `[???]`.
+4. **DO NOT** look at the transcript or verify yet.
 
-**Notice Checklist**:
-1. Identify when Neil sounds impressed (intonation).
-2. Notice the transition between the hosts' chat and the expert's segment.
-3. Hear the difference in speed between Georgina and the expert (Professor Davis).
-4. Catch the word "bibliotherapy" every time it is mentioned.
+**Rough Draft**:
+```text
 
----
-
-## Phase 2: Active Listening (30 min)
-*Goal: Intensive decoding. Switch from "hearing" to "understanding".*
-
-### Listen 1: Global Comprehension
-Answer these without the transcript:
-1. **Topic**: What is the main subject of this episode?
-2. **Speakers**: Who are the three main voices you hear?
-3. **Main Argument**: Why is reading literature better than just scanning for facts?
-4. **Main Concern**: What problem is bibliotherapy trying to solve?
-
-### Listen 2: Targeted Comprehension
-**Part A: The Quiz**
-- What are the three books mentioned in the quiz?
-- Which one did Georgina pick?
-- Which one is the actual best-seller of all time?
-
-**Part B: Key Ideas**
-- What is an ECG/FMRI measuring in this context?
-- What does Professor Davis mean by "pre-emotional"?
-
-**Part C: Vocabulary Hunt**
-- Find 3 words (NOT the target words) that you don't know yet. Write them down and guess their meaning from context.
-
-### Listen 3: Primary Clip Focus (transcript enabled)
-Focus on the segment starting with: *"Above all, that it’s not to do with scanning..."*
-1. How many times does the speaker use the word "just"?
-2. What is the tone of the speaker? (Scientific, Passionate, Bored?)
-3. Try to repeat one short sentence exactly as he says it: __________________________________
+```
 
 ---
 
-## Phase 3: Check and Reflection (10 min)
-
-**Contextual Fill-in**:
-- Bibliotherapy is the ________________ of books as a remedy to sickness.
-- Reading literature makes the brain ________________.
-- The skin under the hair is called the ________________.
-- Literature acts as a ________________ for the brain.
-
-**Personal Opinion**:
-In 3 sentences, what is your favorite book and does it make you feel "alive"?
-________________________________________________________________________________
-________________________________________________________________________________
-________________________________________________________________________________
-
-**Self-Coaching Notes**:
-- % of episode understood on first listen: _____%
-- Hardest part to hear: ________________
-- Easiest speaker to follow: ________________
-
----
 ## Day 1 Deliverables
-- [ ] 3x Passive listening.
-- [ ] 3x Active listening.
-- [ ] Personal opinion written.
+- [ ] Completed Global/Targeted questions.
+- [ ] Micro-Dictation draft (even if incomplete).
+- [ ] Minimum 20 mins of background passive exposure.
 
-> **Key Insight for Today**: Active listening is a choice. You can hear everything and understand nothing, or you can hear a little and decode everything. Choose the latter today.
+> **Key Insight for Today**: Dictation is just an ear test. Don't stress about completion—focus on what your ears "catch" in the first 25 minutes.

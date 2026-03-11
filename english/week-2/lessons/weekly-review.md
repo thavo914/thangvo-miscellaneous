@@ -24,17 +24,15 @@
 
 | Skill | Day | Rating /5 | What to Improve |
 | :--- | :--- | :--- | :--- |
-| **Passive Listening** | 1 | | |
-| **Active Listening** | 1 | | |
-| **Dictation Accuracy** | 2 | | |
-| **Connected Speech** | 2 | | |
-| **Shadowing Rhythm** | 3 | | |
-| **Blind Shadowing** | 3 | | |
-| **AI Conversation** | 4 | | |
-| **Vocabulary Use** | 5 | | |
+| **Passive Listening** | Week | | |
+| **Active Listening** | 1, 2 | | |
+| **Dictation Draft** | 1 | | |
+| **Dictation Verify** | 2 | | |
+| **AI Conversation** | 3 | | |
+| **Grammar Structure** | 4 | | |
 | **Monologue Fluency** | 5 | | |
-| **Thinking in English** | 5 | | |
-| **Grammar Structure** | 6 | | |
+| **Shadowing Rhythm** | 6 | | |
+| **Blind Shadowing** | 6 | | |
 
 ---
 

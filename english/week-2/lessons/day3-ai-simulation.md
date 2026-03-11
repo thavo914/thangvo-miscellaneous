@@ -1,4 +1,4 @@
-# Day 4: AI Simulation (60 min)
+# Day 3: Artificial Interlocutor Simulation (60 min)
 
 ## Rules for AI Interactions
 - Level: **B1-B2 Intermediate**.

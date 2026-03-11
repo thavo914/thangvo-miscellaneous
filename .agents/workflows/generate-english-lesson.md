@@ -69,157 +69,71 @@ Rules:
 
 ## Step 4 - day1-passive-active-listening.md
 
-Phase 1 - Passive (20 min): Play 2-3x while doing something else. List 4-5 things to notice without trying. Hard rule: no pausing, no notes.
-
-Phase 2 - Active (30 min):
-- Listen 1: Global - 4 open questions (topic, speakers, main argument, main concern)
-- Listen 2: Targeted - Part A: factual/quiz; Part B: key ideas; Part C: vocabulary hunt (3 unknown words)
-- Listen 3: Primary clip only - 3 micro-questions (speed, tone, one sentence recalled)
-
-Phase 3 - Check (10 min): 4 vocab fill-ins from episode context; 2-3 sentence personal opinion in English; self-coaching notes (% understood, hardest part, easiest speaker)
+Phase 1 - Passive (Continuous): Play 2-3x while multitasking.
+Phase 2 - Active (25 min): Global/Targeted comprehension (Open questions + Fact check).
+Phase 3 - Micro-Dictation Part A (20 min): Initial rough draft of primary clip. **Strict Limit**: Stop when timer ends even if incomplete.
 
 ---
 
-## Step 5 - day2-dictation.md
+## Step 5 - day2-active-listening-immersion.md
 
-Phase 1 - Dictation (30 min): Target = primary shadowing clip. Instructions: listen once through -> sentence-by-sentence -> max 3 replays -> mark gaps as [???]. Include blank code block.
-
-Phase 2 - Verify (20 min): Compare against lesson-transcript.md. Error classification table with 5 categories (Elision | Weak form | Catenation | Unknown vocab | Speed) - include one episode-specific example per category. 5-row error log (what I wrote | what it was | category).
-
-Phase 3 - Drill (10 min): 4 phrases from the episode - one demonstrating each: catenation, elision, schwa, rhythm. For each: write natural-speech version, drill x5.
-
-Bonus: Optional second target (slower section) for users who finish early.
+Phase 1 - Orthographic Mapping (20 min): Highlight vocabulary + mark connected speech in transcript.
+Phase 2 - Micro-Dictation Part B (20 min): Verify draft against transcript + log 5 errors.
+Phase 3 - Phonetic Drill (15 min): Drill 4 natural-speech phrases.
 
 ---
 
-## Step 6 - day3-shadowing.md
+## Step 6 - day3-ai-simulation.md
 
-4-stage protocol applied to the primary shadowing clip:
-
-Stage 1 - Auditory Priming (5 min): No transcript, no speaking. Play x3. Listen for melody, rhythm, tone, stressed words.
-
-Stage 2 - Transcribed Echoing (15 min): Open transcript. Sentence-by-sentence: pause -> read aloud -> repeat x3-5. Include Focus Sentences table (5 rows: sentence | feature to copy).
-
-Stage 3 - Synchronous Shadowing with Text (20 min): Read simultaneously while audio plays, 0.5s delay. Include Common Mistakes table (4 rows: problem | fix). Target: 10+ reps.
-
-Stage 4 - Blind Shadowing (15 min): No transcript. Play x5-8. Record at least 2 attempts. Self-eval: rhythm? intonation? problem word?
-
-Bonus: "Shadow + Personalize" - shadow one sentence, then swap in own work content.
+3 rounds of AI conversation based on episode theme. 60 min.
 
 ---
 
-## Step 7 - day4-ai-simulation.md
+## Step 7 - day4-grammar-structures.md
 
-3 rounds. Rules for ALL prompts: set B1-B2 level explicitly, forbid mid-conversation corrections, require structured post-round feedback.
-
-Round 1 - Discussion (15 min): AI as curious peer. Episode central debate. After 3 exchanges: AI lists target words used correctly + one grammar error.
-
-Round 2 - Expert Role-play (15 min): AI plays main guest/expert. User interviews with 3-4 questions. After round: feedback on question naturalness, grammar, vocab.
-
-Round 3 - Devil's Advocate (20 min): User argues one position, AI argues opposite. 4+ exchanges. After round: grade linking words, vocab range, grammar, persuasiveness; suggest 2 more natural phrases.
-
-Review (10 min): Ask AI for 3 best sentences + 3 corrected weak sentences. Read improved sentences aloud x3.
+Master 7 transcript-specific grammar patterns. Personal examples required. 60 min.
 
 ---
 
 ## Step 8 - day5-monologue.md
 
-Phase 1 - Warm-up (15 min):
-- Exercise A - Lexical Labeling (5 min): label room objects in English aloud; if unknown, describe in English; bridge to episode topic
-- Exercise B - Syntactic Narration (10 min): narrate actions/observations in full English sentences; connect to episode topic; forward momentum only
-
-Phase 2 - Recorded Monologue (30 min):
-Topic: episode theme as personal opinion question ("[Topic]: My Personal View").
-Structure table (always use):
-
-| Section      | Time | Content                            |
-| ------------ | ---- | ---------------------------------- |
-| Opening      | 15s  | State your position                |
-| First point  | 30s  | Main supporting argument           |
-| Counterpoint | 30s  | Opposing view using episode vocab  |
-| Expert idea  | 20s  | Paraphrase the expert's suggestion |
-| Your verdict | 20s  | Agree/disagree and why             |
-| Closing      | 5s   | One final sentence                 |
-
-Recording: Attempt 1 (2 min, no stop); recovery phrases ("What I mean is..." / "Let me put it differently..."); listen back; Attempt 2 (fix one problem); Attempt 3 optional.
-
-Phase 3 - Self-Eval (15 min): Target Vocabulary Audit (checkbox per word); Fluency Audit table (Rhythm | Fillers | Vocab range | Grammar | Confidence - rated 1-5).
+Phase 1 - Warm-up (10 min): Lexical labeling / Syntactic narration.
+Phase 2 - Recorded Monologue (35 min): Topic view + self-eval.
 
 ---
 
-## Step 9 - day6-grammar-structures.md
+## Step 9 - day6-shadowing.md
 
-Extract at least 7 grammar patterns genuinely present in the transcript. Must include at least: one hedging phrase, one conditional, one passive recommendation, one in-speech definition, one idiom/set phrase.
-
-For each structure include:
-1. Exact transcript quote + speaker name
-2. What it does (1-2 sentences - communicative function)
-3. Pattern in [bracket] template form
-4. 2-3 examples - at least one in user's work/life context (data engineering / casino)
-5. "Your turn" - 1-2 personal fill-in prompts
-
-Pattern menu (pick what is genuinely present): Concession (Not X, but not nearly as Y) | Set phrase (Take [thing] for granted) | Time contrast (Initially... but later) | Definition (It means... In other words...) | Conditional (If X, then [subject] do Y) | Passive recommendation (Could be [adv] [V-ed] by [V-ing]) | Hedged opinion (I think it is fair to say that...) | Reported speech (He said that he thought...)
-
-End with: Grammar Summary Table (# | pattern | key use) + "Day 6 Deliverables" checklist + "Key Insight" callout.
+4-stage shadowing protocol (Audit -> Echo -> Sync -> Blind) applied to primary clip. 60 min.
 
 ---
 
 ## Step 10 - vocabulary-flashcards.md
 
-One card per target word. Card format (exact):
-
-```
-## Card N - [word]
-
-Front: [Definition question - do NOT use the word]
-
-Back: [word] /IPA/ | POS | 1-line definition
-
-Episode sentence: "exact quote"
-
-Your sentence: [Blank sentence in user's work/life context]
-
-[Pronunciation drill / Collocations / Register note / Grammar warning]
-```
-
-Rules: front cannot contain the word; episode sentence must be exact quote; personalize to data engineering/casino context; include pronunciation drill for tricky words; include grammar warning for common misuse.
-
-End with 5-question Weekly Review Quiz (no answers).
+(Same as before)
 
 ---
 
 ## Step 11 - weekly-review.md
 
-Complete Day 7. Six parts:
-
-1. Knowledge Check (no notes): 4 comprehension questions + 6 vocab fill-in-blanks -> check against flashcards
-2. Skills Audit Table (11 rows): Passive listening | Active listening | Dictation | Connected speech | Shadowing rhythm | Blind shadowing | AI conversation | Vocab use | Monologue | Thinking in English | Grammar structures -> columns: Skill | Day | Rating /5 | Improve
-3. Recording Comparison: Day 1 comprehension % vs Day 5 %; define vs use each word; one phrase now said fluently
-4. Vocabulary Mastery Checklist: one row per word - Heard | Wrote | Dictation | Shadowing | AI | Monologue | Grammar (goal: 4+/7 per word)
-5. Deliverables Checklist: checkbox per major item (episode x5, dictation, shadowing recordings, grammar sentences, etc.)
-6. Reflection (3 prompt options) + blank code block + Carry Forward (3 blank lines)
+Complete Day 7. Focus on Recording Comparison and Skills Audit.
 
 ---
 
 ## Format Rules (all files)
 
-- Markdown .md only
-- Filename: day<N>-<slug>.md
-- Every file ends with "Day N Deliverables" checklist + "Key Insight for Today" (1-3 sentences)
-- Use tables for 3+ rows of comparable data
-- Phase/stage/step structure - no prose walls
-- Time estimates in every section header
+...
 
 ---
 
 ## Quick Reference
 
-| Day | Technique                           | File                                                                                 |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------ |
-| 1   | Passive and Active Listening        | day1-passive-active-listening.md                                                     |
-| 2   | Dictation                           | day2-dictation.md                                                                    |
-| 3   | Shadowing                           | day3-shadowing.md                                                                    |
-| 4   | AI Simulation                       | day4-ai-simulation.md                                                                |
-| 5   | Cognitive Restructuring + Monologue | day5-monologue.md                                                                    |
-| 6   | Grammar and Sentence Structures     | day6-grammar-structures.md                                                           |
-| -   | Supporting files                    | lesson-overview.md, lesson-transcript.md, vocabulary-flashcards.md, weekly-review.md |
+| Day | Technique                           | File                             |
+| --- | ----------------------------------- | -------------------------------- |
+| 1   | Listening + Dictation (A)           | day1-passive-active-listening.md |
+| 2   | Immersion + Dictation (B)           | day2-active-listening-immersion.md |
+| 3   | AI Simulation                       | day3-ai-simulation.md            |
+| 4   | Grammar Structures                  | day4-grammar-structures.md       |
+| 5   | Monologue                           | day5-monologue.md                |
+| 6   | Shadowing                           | day6-shadowing.md                |
+| -   | Supporting files                    | overview, transcript, flashcards, review |

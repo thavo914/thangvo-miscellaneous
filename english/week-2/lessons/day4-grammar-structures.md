@@ -1,4 +1,4 @@
-# Day 6: Grammar and Sentence Structures (60 min)
+# Day 4: Grammar and Sentence Structures (60 min)
 
 *Goal: Extracting the "DNA" of the episode's speech. Master the patterns that make the conversation flow.*
 
