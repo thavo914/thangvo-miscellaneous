@@ -145,3 +145,4 @@ Bye!
 | mentor | /ˈmen.tɔːr/ | A good mentor will help you develop your career. |
 | life skills | /ˈlaɪf ˌskɪlz/ | Budgeting and cooking are important life skills. |
 | goal setting | /ˈɡoʊl ˌset.ɪŋ/ | Goal setting is widely used in sports psychology to boost motivation. |
+| resilience | /rɪˈzɪl.jəns/ | She showed great resilience in overcoming her difficulties. |

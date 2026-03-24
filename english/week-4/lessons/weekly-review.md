@@ -1,56 +1,87 @@
-# Weekly Review: Sport against poverty
+# Weekly Review: Sport against poverty (Restructured)
 
-## 1. Knowledge Check (No notes!)
-**Answer the following questions from memory:**
-1. What does Tim Conibear's organization, Waves for Changes, do?
-2. How does surfing help children who have experienced trauma?
-3. What is Skateistan and who started it?
-4. What is the Ebony Club in Brixton known for?
+## Part 1: Knowledge Check (No Notes!)
 
-**Fill in the missing words:**
-1. "If you come from a background of [______] quite often you’ll have a negative [______]."
-2. "Surfing helps kids improve their self-image because it’s [______]."
-3. "The children have a [______] – a trusted advisor who gives help and support."
-4. "...this teaches children important [______] – the basic skills needed to solve problems."
-5. "One important life skill is [______] – deciding what things you want to achieve."
+**Comprehension Questions**:
+1. Why does Tim Conibear use surfing as "therapy" for children?
+2. What are the specific focus groups for 'Skateistan' in Afghanistan?
+3. What unconventional sport does the Ebony Club in Brixton use?
+4. How does skateboarding supposedly reinforce educational messages?
 
-## 2. Skills Audit
-| Skill Area | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Passive Listening (mins) | | | | | | | |
-| Active Listening (mins) | | | | | | | |
-| Dictation Practice | | | | | | | |
-| AI Conversation | | | | | | | |
-| Grammar Exercises | | | | | | | |
-| Shadowing (mins) | | | | | | | |
-| Flashcard Review | | | | | | | |
-| Recording Monologue | | | | | | | |
-| Reading Transcript | | | | | | | |
-| Vocabulary Drill | | | | | | | |
-| **Daily Total Time** | | | | | | | |
+**Vocabulary Fill-in-the-Blanks**:
+1. After the accident, he suffered from severe emotional ________.
+2. She is a dedicated ________ who has helped many junior developers grow.
+3. Teaching children ________ helps them recover from failures more quickly.
+4. I need to improve my ________ because I often feel I'm not good enough.
+5. In my weekly review, I practice ________ for the upcoming month.
+6. Learning to navigate a new city is a vital ________ for any traveler.
+7. Surfing is a ________ sport because it requires balance and patience.
 
-## 3. Recording Comparison
-- [ ] Listen to your Day 1 Dictation audio (or recall your initial understanding).
-- [ ] Listen to your Day 5 Monologue.
-- **Reflection:** How much easier is it to understand the clip now compared to Day 1? Note the difference in your comfort with the pronunciation and vocabulary.
+---
 
-## 4. Vocabulary Mastery Checklist
-Check the boxes for each word as you've engaged with it throughout the week:
-| Word | Heard | Wrote (Dictation) | Shadowed | Used with AI | Used in Monologue | Grammar Example |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| trauma | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| self-image | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| challenging | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| mentor | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| life skills | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| goal setting | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+## Part 2: Skills Audit Table
+*Rate your confidence from 1 (Low) to 5 (High).*
 
-## 5. Reflection and Carry Forward
-**What went well this week?**
-> 
+| Skill | Day | Rating /5 | What to Improve |
+| :--- | :--- | :--- | :--- |
+| **Global Listening** | 1 | | |
+| **Dictation Draft (Part A)** | 1 | | |
+| **Orthographic Mapping** | 2 | | |
+| **Dictation Verification (Part B)** | 2 | | |
+| **Phonetic Drill** | 2 | | |
+| **AI Conversation** | 3 | | |
+| **Grammar Structure** | 4 | | |
+| **Vocabulary Use** | 5 | | |
+| **Monologue Fluency** | 5 | | |
+| **Shadowing Rhythm** | 6 | | |
+| **Blind Shadowing** | 6 | | |
 
-**What was the hardest part?**
-> 
+---
 
-**What is ONE thing I will do differently next week to improve?**
->
+## Part 3: Recording Comparison
+- **Day 1**: How much of Tim Conibear's speech did you understand on first listen? ______%
+- **Day 6**: How well can you shadow his clip now (after a week of study)? ______%
+- **Fluency**: Which "social project" phrase do you now feel confident using?
+  *"__________________________________________________________________"*
+
+---
+
+## Part 4: Vocabulary Mastery Checklist
+| Word | Heard | Wrote | Dictation | AI Chat | Grammar | Monologue | Shadowing |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **trauma** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **self-image** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **challenging** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **mentor** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **life skills** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **goal setting** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **resilience** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+---
+
+## Part 5: Deliverables Checklist
+- [ ] 10 files in the Week 4 folder.
+- [ ] Completed Dictation Verification (Part B Table).
+- [ ] Recorded at least 1 pitch to the AI journalist/council member.
+- [ ] Written 7 context-based grammar sentences.
+- [ ] Recorded 2 Blind Shadowing attempts.
+
+---
+
+## Part 6: Reflection
+*Choose one prompt and write 3-5 sentences.*
+A. Do you think sports are more effective than books for building **resilience**?
+B. If you were a **mentor**, what sport or hobby would you teach to help someone's **self-image**?
+C. Why do you think horse riding is traditionally associated with "the elite"?
+
+```text
+
+```
+
+**Carry Forward**: (3 things for Week 5)
+1. __________________________________________________________________
+2. __________________________________________________________________
+3. __________________________________________________________________
+
+---
+> **Final Insight**: Week 4 is complete. You've moved from business theory to human impact. You're building a brain that can speak about complex social issues with confidence.

@@ -1,54 +1,58 @@
-# Week 4: Sport against poverty
+# Lesson Overview: Sport against poverty (Restructured)
 
-## Lesson Metadata
-| Aspect | Details |
-| :--- | :--- |
-| **Title** | Sport against poverty |
-| **Source** | BBC 6 Minute English |
-| **CEFR Level** | B1-B2 (Intermediate) |
+## Metadata
+- **Title**: Sport against poverty
+- **Source**: BBC 6 Minute English
+- **CEFR Level**: B1-B2 (Intermediate)
+- **Topic**: Using surfing, skateboarding, and horse riding to build confidence and life skills in disadvantaged youth.
 
 ## Learning Objectives
-| Skill | Objective |
+| Category | Objective |
 | :--- | :--- |
-| **Listening** | Understand global and specific details about how sports are used to help children in disadvantaged communities. |
-| **Vocabulary** | Master 6 target words related to personal development and challenges. |
-| **Pronunciation** | Improve rhythm and intonation using the 4-stage shadowing protocol on a 45-second clip. |
-| **Speaking** | Discuss the impact of sports on youth and confidently use the target vocabulary in a monologue. |
-| **Thinking** | Formulate opinions on unconventional solutions to social problems. |
+| **Listening** | Understand how unconventional sports provide "therapy" and improve life chances for youth facing trauma. |
+| **Vocabulary** | Master 7 target words related to personal growth, mental health, and resilience. |
+| **Pronunciation** | Master connected speech and emotional intonation in personal narratives. |
+| **Speaking** | Confidently discuss the role of sports in social development and personal recovery. |
+| **Thinking** | Associate physical activities with psychological development and goal-oriented mindsets. |
 
 ## Target Vocabulary
 | Word | POS | Meaning | Episode Sentence |
 | :--- | :--- | :--- | :--- |
-| **trauma** | noun | severe emotional shock and pain caused by an extremely upsetting experience | "Most of the surfers have experienced trauma – emotional pain and shock caused by very distressing experiences." |
-| **self-image** | noun | how a person feels about themselves, their personality, achievements and value | "This has given them a negative self-image – the way a person feels about themselves, their ability, personality and value." |
-| **challenging** | adjective | difficult or demanding in a way that tests your ability or determination | "Surfing helps kids improve their self-image because it’s challenging - difficult in a way that tests your ability and determination." |
-| **mentor** | noun | experienced and trusted advisor who helps a younger, less experienced person | "So challenging, in fact, that the children have a mentor – a trusted advisor who gives help and support to a younger or less experienced person." |
-| **life skills** | plural noun | important skills everyone needs to solve everyday problems and issues | "It requires effort and Jessica believes this teaches children important life skills – the basic skills needed to solve problems commonly encountered in everyday life." |
-| **goal setting** | noun | identifying the things you want to achieve and planning how to accomplish them | "One important life skill is goal setting – deciding what things you want to achieve and how you plan to achieve them." |
+| **trauma** | noun | severe emotional shock and pain caused by an upsetting experience | "Most of the surfers have experienced **trauma**..." |
+| **self-image** | noun | how a person feels about themselves and their value | "This has given them a negative **self-image**..." |
+| **challenging** | adjective | difficult in a way that tests your ability | "...helps kids improve their self-image because it’s **challenging**..." |
+| **mentor** | noun | experienced and trusted advisor who helps a younger person | "...be recognised by a coach or a **mentor** is very very good..." |
+| **life skills** | plural noun | basic skills needed to solve everyday problems | "...Jessica believes this teaches children important **life skills**..." |
+| **goal setting** | noun | identifying things to achieve and planning how to do it | "One important life skill is **goal setting**..." |
+| **resilience** | noun | the capacity to recover quickly from difficulties; toughness | "...it really helps children with things like goal setting and **resilience**..." |
 
 ## 6-Day Protocol
 | Day | Technique | Core Activity |
 | :--- | :--- | :--- |
-| **1** | **Listening + Dictation (A)** | Global listening and first dictation draft. |
-| **2** | **Immersion + Dictation (B)** | Orthographic mapping, dictation verification, and phrase drills. |
-| **3** | **AI Simulation** | Discuss themes with an AI peer and expert. |
-| **4** | **Grammar Structures** | Master 7 specific patterns from the transcript. |
-| **5** | **Monologue** | Record personal view on the week's topic. |
-| **6** | **Shadowing** | 4-stage shadowing protocol. |
+| 1 | Listening + Dictation (A) | Global listening and first dictation draft. |
+| 2 | Immersion + Dictation (B) | Orthographic mapping, dictation verification, and phrase drills. |
+| 3 | AI Simulation | Discuss themes with an AI peer and expert. |
+| 4 | Grammar Structures | Master 7 specific patterns from the transcript. |
+| 5 | Monologue | Record personal view on the week's topic. |
+| 6 | Shadowing | 4-stage shadowing protocol. |
 
-## File Directory
-| Day/Component | File |
-| :--- | :--- |
-| **Core** | [lesson-overview.md](./lesson-overview.md) |
-| **Core** | [lesson-transcript.md](./lesson-transcript.md) |
-| **Day 1** | [day1-passive-active-listening.md](./day1-passive-active-listening.md) |
-| **Day 2** | [day2-active-listening-immersion.md](./day2-active-listening-immersion.md) |
-| **Day 3** | [day3-ai-simulation.md](./day3-ai-simulation.md) |
-| **Day 4** | [day4-grammar-structures.md](./day4-grammar-structures.md) |
-| **Day 5** | [day5-monologue.md](./day5-monologue.md) |
-| **Day 6** | [day6-shadowing.md](./day6-shadowing.md) |
-| **Review** | [vocabulary-flashcards.md](./vocabulary-flashcards.md) |
-| **Review** | [weekly-review.md](./weekly-review.md) |
+## Lesson Material Files
+1. [lesson-overview.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/lesson-overview.md)
+2. [lesson-transcript.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/lesson-transcript.md)
+3. [vocabulary-flashcards.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/vocabulary-flashcards.md)
+4. [day1-passive-active-listening.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day1-passive-active-listening.md)
+5. [day2-active-listening-immersion.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day2-active-listening-immersion.md)
+6. [day3-ai-simulation.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day3-ai-simulation.md)
+7. [day4-grammar-structures.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day4-grammar-structures.md)
+8. [day5-monologue.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day5-monologue.md)
+9. [day6-shadowing.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day6-shadowing.md)
+10. [weekly-review.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/weekly-review.md)
+
+## Success Metrics Checklist
+- [ ] I can explain how "surfing therapy" helps with trauma.
+- [ ] I can use "resilience" and "goal setting" in a sentence about my work/life.
+- [ ] I can shadow the Tim Conibear clip with natural intonation.
+- [ ] I can debate the benefits of sports for social development.
 
 ## Ground Rules
 1. **One artifact, many angles** - apply every technique to this same episode.
