@@ -26,15 +26,16 @@
 | **goal setting** | noun | identifying things to achieve and planning how to do it | "One important life skill is **goal setting**..." |
 | **resilience** | noun | the capacity to recover quickly from difficulties; toughness | "...it really helps children with things like goal setting and **resilience**..." |
 
-## 6-Day Protocol
+## 7-Day Protocol
 | Day | Technique | Core Activity |
 | :--- | :--- | :--- |
 | 1 | Listening + Dictation (A) | Global listening and first dictation draft. |
 | 2 | Immersion + Dictation (B) | Orthographic mapping, dictation verification, and phrase drills. |
-| 3 | AI Simulation | Discuss themes with an AI peer and expert. |
+| 3 | AI Simulation (Episode) | Discuss episode themes with an AI peer and expert. |
 | 4 | Grammar Structures | Master 7 specific patterns from the transcript. |
-| 5 | Monologue | Record personal view on the week's topic. |
-| 6 | Shadowing | 4-stage shadowing protocol. |
+| 5 | Shadowing | 4-stage shadowing protocol on the primary episode clip. |
+| 6 | AI Simulation (Background) | Professional role-play and expert discussion on background-related topics. |
+| 7 | Monologue (Background) | Record personal view on a topic from your Data Engineering / Casino background. |
 
 ## Lesson Material Files
 1. [lesson-overview.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/lesson-overview.md)
@@ -44,9 +45,10 @@
 5. [day2-active-listening-immersion.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day2-active-listening-immersion.md)
 6. [day3-ai-simulation.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day3-ai-simulation.md)
 7. [day4-grammar-structures.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day4-grammar-structures.md)
-8. [day5-monologue.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day5-monologue.md)
-9. [day6-shadowing.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day6-shadowing.md)
-10. [weekly-review.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/weekly-review.md)
+8. [day5-shadowing.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day5-shadowing.md)
+9. [day6-ai-simulation-background.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day6-ai-simulation-background.md)
+10. [day7-monologue-background.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/day7-monologue-background.md)
+11. [weekly-review.md](file:///c:/Users/adm.thangvm/repos/Miscellaneous/thangvo-miscellaneous/english/week-4/lessons/weekly-review.md)
 
 ## Success Metrics Checklist
 - [ ] I can explain how "surfing therapy" helps with trauma.

@@ -29,42 +29,46 @@
 | **Orthographic Mapping** | 2 | | |
 | **Dictation Verification (Part B)** | 2 | | |
 | **Phonetic Drill** | 2 | | |
-| **AI Conversation** | 3 | | |
+| **AI Conversation (Episode)** | 3 | | |
 | **Grammar Structure** | 4 | | |
-| **Vocabulary Use** | 5 | | |
-| **Monologue Fluency** | 5 | | |
-| **Shadowing Rhythm** | 6 | | |
-| **Blind Shadowing** | 6 | | |
+| **Shadowing Rhythm** | 5 | | |
+| **Blind Shadowing** | 5 | | |
+| **Professional Role-play** | 6 | | |
+| **AI Accuracy (Background)** | 6 | | |
+| **Monologue Fluency (Background)** | 7 | | |
+| **Vocabulary Transfer (Background)** | 7 | | |
 
 ---
 
 ## Part 3: Recording Comparison
 - **Day 1**: How much of Tim Conibear's speech did you understand on first listen? ______%
-- **Day 6**: How well can you shadow his clip now (after a week of study)? ______%
-- **Fluency**: Which "social project" phrase do you now feel confident using?
+- **Day 5**: How well can you shadow his clip now (after full deep-dive)? ______%
+- **Fluency**: Which "social project" phrase do you now feel confident using in your work context?
   *"__________________________________________________________________"*
 
 ---
 
 ## Part 4: Vocabulary Mastery Checklist
-| Word | Heard | Wrote | Dictation | AI Chat | Grammar | Monologue | Shadowing |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **trauma** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **self-image** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **challenging** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **mentor** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **life skills** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **goal setting** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| **resilience** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| Word | Heard | Wrote | Dictation | Shadowing | AI Episode | AI Background | Monologue BG | Grammar |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **trauma** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **self-image** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **challenging** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **mentor** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **life skills** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **goal setting** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| **resilience** | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
 ---
 
 ## Part 5: Deliverables Checklist
-- [ ] 10 files in the Week 4 folder.
+- [ ] 11 files in the Week 4 folder.
 - [ ] Completed Dictation Verification (Part B Table).
-- [ ] Recorded at least 1 pitch to the AI journalist/council member.
-- [ ] Written 7 context-based grammar sentences.
-- [ ] Recorded 2 Blind Shadowing attempts.
+- [ ] Recorded at least 1 pitch to the AI journalist/council member (Day 3).
+- [ ] Written 7 context-based grammar sentences (Day 4).
+- [ ] Recorded 2 Blind Shadowing attempts (Day 5).
+- [ ] Completed all 3 AI rounds on background topic (Day 6).
+- [ ] Recorded 1 background monologue (Day 7) — topic from Data Engineering / Casino life.
 
 ---
 

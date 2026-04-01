@@ -26,7 +26,11 @@
 | **Your Verdict** | 20s | Agree or disagree: Can one individual really "make the world a better place"? |
 | **Closing** | 5s | One final sentence on your personal business goal. |
 
-I believe business is about more than just profit. Making money is necessary to survive, but making a difference is what truly matters in the long run. We see more entrepreneurs today than ever before. Many tech start-ups are trying to change how we live using smart data and new tools. These companies often start with a vision to solve a specific problem. However, there is a lot of dissatisfaction among millennials regarding big business. People are tired of corrupt systems that put money above human needs and damage the environment. Charles Kenny suggests that collective effort is the real answer. It is not just about one hero; it is about how we all work together to improve the quality of life for everyone. Can one person change the world? Perhaps not alone, but one person can start a movement. Real change happens when a community supports an idea, sometimes through crowdfunding or local action. I want my future data start-up to be a force for good.
+I believe business is about more than just profit. Making money is necessary to survive, but making a difference is what truly matters in the long run.
+We see more entrepreneurs today than ever before. Many tech start-ups are trying to change how we live using smart data and new tools. 
+These companies often start with a vision to solve a specific problem. However, there is a lot of dissatisfaction among millennials regarding big business. People are tired of corrupt systems that put money above human needs and damage the environment. 
+Charles Kenny suggests that collective effort is the real answer. It is not just about one hero; it is about how we all work together to improve the quality of life for everyone. Can one person change the world? Perhaps not alone, but one person can start a movement. Real change happens when a community supports an idea, sometimes through crowdfunding or local action. 
+I want my future data start-up to be a force for good.
 ---
 
 ## Recording Protocol

@@ -1,5 +1,5 @@
 ---
-description: Generate a complete English lesson folder from a new audio/video episode using the Restructured Six Techniques framework
+description: Generate a complete English lesson folder from a new audio/video episode using the Restructured Seven-Day framework
 ---
 
 # Workflow: /generate-english-lesson (Restructured)
@@ -8,7 +8,7 @@ Use when the user provides a new episode script/transcript and asks to create le
 
 Framework: `english/docs/Six Techniques For English Learning.md`
 Output folder: `english/week-<N>/lessons/`
-Total files: 10 per lesson
+Total files: 11 per lesson
 
 ---
 
@@ -35,15 +35,16 @@ Single-page entry point. Include:
 - Metadata: title, source, CEFR level, dates
 - Learning objectives table (Listening | Vocabulary | Pronunciation | Speaking | Thinking)
 - Target vocabulary table (word | POS | meaning | episode sentence)
-- 6-day protocol table:
+- 7-day protocol table:
   | Day | Technique | Core Activity |
   | --- | --- | --- |
   | 1 | Listening + Dictation (A) | Global listening and first dictation draft. |
   | 2 | Immersion + Dictation (B) | Orthographic mapping, dictation verification, and phrase drills. |
-  | 3 | AI Simulation | Discuss themes with an AI peer and expert. |
+  | 3 | AI Simulation (Episode) | Discuss episode themes with an AI peer and expert. |
   | 4 | Grammar Structures | Master 7 specific patterns from the transcript. |
-  | 5 | Monologue | Record personal view on the week's topic. |
-  | 6 | Shadowing | 4-stage shadowing protocol. |
+  | 5 | Shadowing | 4-stage shadowing protocol on the primary episode clip. |
+  | 6 | AI Simulation (Background) | Professional role-play and expert discussion on background-related topics. |
+  | 7 | Monologue (Background) | Record personal view on a topic from your professional background (Data Engineering / Casino). |
 - File listing table linking to all 10 files
 - Ground rules (copy verbatim every time):
   1. One artifact, many angles - apply every technique to this same episode.
@@ -109,25 +110,52 @@ Include:
 
 ---
 
-## Step 8 - day5-monologue.md
-
-Phase 1 - Warm-up (15 min): Lexical labeling and syntactic narration.
-Phase 2 - Recorded Monologue (30 min): Topic derived from week's theme. Table-structured timing.
-Phase 3 - Self-Eval (15 min): Vocabulary audit and Fluency audit 1-5.
-
----
-
-## Step 9 - day6-shadowing.md (Shadowing)
+## Step 8 - day5-shadowing.md (Shadowing)
 
 4-stage protocol applied to the primary shadowing clip:
-Stage 1 - Auditory Priming (5 min): No transcript. Play x3. 
+Stage 1 - Auditory Priming (5 min): No transcript. Play x3.
 Stage 2 - Transcribed Echoing (15 min): Sentence-by-sentence with transcript.
 Stage 3 - Synchronous Shadowing (20 min): With text, 0.5s delay. 10+ reps.
 Stage 4 - Blind Shadowing (15 min): No transcript. Record 2 attempts.
 
 ---
 
-## Step 10 - vocabulary-flashcards.md
+## Step 9 - day6-ai-simulation-background.md (AI Simulation — Background Topic)
+
+Purpose: Practice professional English conversation in real-world scenarios from your background (Data Engineering / Casino).
+3 rounds. Rules: B1-B2 level, no mid-convo corrections, post-round feedback.
+
+Round 1 - Non-Technical Stakeholder (15 min): AI plays a casino floor manager or marketing director with no data background. Explain a technical concept without jargon. Use analogies.
+Round 2 - Peer Expert Discussion (15 min): AI plays a senior data engineer or solution architect. Discuss a design decision, architecture choice, or a technical challenge relevant to your work.
+Round 3 - Job Interview / Presentation (20 min): AI plays a hiring manager for a senior data engineering role at a casino company. Answer 3 behavioral/technical questions using the STAR method. Incorporate episode vocabulary where natural.
+Review (10 min): Re-read improved sentences aloud x3. Note 2 phrases to carry forward.
+
+Background Prompt Bank (generate 3 customized prompts tailored to the episode theme + background):
+- Example: "You are a hiring manager for a resort & casino group. I am applying for a Senior Data Engineer role. Ask me about how I handle data quality issues, cross-team collaboration, and my experience with streaming pipelines."
+
+---
+
+## Step 10 - day7-monologue-background.md (Monologue — Background Topic)
+
+Purpose: Transfer episode vocabulary and grammar patterns into your professional domain (Data Engineering / Casino).
+
+Phase 1 - Warm-up (10 min): Brainstorm 5-7 technical/professional words you want to use. Write one sentence connecting the episode's vocabulary to your work context.
+Phase 2 - Recorded Monologue (30 min):
+- Choose ONE topic from the list below. Record yourself speaking for 2-3 minutes.
+- Topic options (generate based on the episode's theme and the user's background):
+  - "Describe the most complex data pipeline challenge you have faced and how you solved it."
+  - "How would you explain real-time player analytics to a non-technical casino manager?"
+  - "What skills from this week's episode topic remind you of challenges in data engineering?"
+  - "Present your vision for how data engineering could improve a specific casino operation."
+- Use a timing table: [0:00-0:30 Hook | 0:30-1:30 Main Point | 1:30-2:30 Example | 2:30-3:00 Conclusion]
+Phase 3 - Self-Eval (15 min):
+- Vocabulary audit: Did you use at least 3 words from the week's episode vocabulary?
+- Fluency audit (1-5): Rate your pace, accuracy, and confidence.
+- Write 1-2 sentences you want to improve.
+
+---
+
+## Step 11 - vocabulary-flashcards.md
 
 One card per target word. 
 Front: Definition question (no word).
@@ -136,10 +164,10 @@ End with 5-question Review Quiz.
 
 ---
 
-## Step 11 - weekly-review.md
+## Step 12 - weekly-review.md
 
 1. Knowledge Check (No notes): 4 questions + 6-7 fill-ins.
-2. Skills Audit Table (11 rows).
-3. Recording Comparison (Day 1 vs Day 5 understanding).
-4. Vocabulary Mastery Checklist (Heard | Wrote | Dictation | Shadowing | AI | Monologue | Grammar).
+2. Skills Audit Table (13 rows, including Day 6 Monologue Background and Day 7 AI Simulation Background).
+3. Recording Comparison (Day 1 understanding vs Day 5 Shadowing fluency).
+4. Vocabulary Mastery Checklist (Heard | Wrote | Dictation | Shadowing | AI Episode | AI Background | Monologue Background | Grammar).
 5. Reflection and Carry Forward.
