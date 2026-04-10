@@ -28,7 +28,9 @@
 
 **Your turn:**
 > Describe one recent change in your team or project using this structure. What happened, and what has it helped you achieve?
-
+- I have decided change my english learning method from traditional way to this way and it has helped me improve my english skills.
+- I have written a marco to automate the process of creating a new dbt model and it has helped me save a lot of time.
+- I have applied testing strategy to my project and it has helped me reduce the number of bugs.
 ---
 
 ## Pattern 2 — Passive Voice for Describing Systems
@@ -47,7 +49,9 @@
 
 **Your turn:**
 > Describe one process in your work that happens without a specific person directing it each time.
-
+- Automated emails are sent to business unit in the end of each month.
+- dbt models are called by airflow DAGs.
+- Kafka will be applied to real-time data processing.
 ---
 
 ## Pattern 3 — Modal Verb of Obligation (must / have to)
@@ -66,8 +70,9 @@
 
 **Your turn:**
 > State one non-negotiable rule or standard in your team. Use "must" or "have to."
-
----
+- If a pipeline fails, an email must be sent to the on-call engineer.
+- We have to run dbt check to make sure no syntax error.
+- We have to monitor data warehouse performance to gauarantee no SLA breach.
 
 ## Pattern 4 — Condition Clause with Result (even if / no matter whether)
 **Transcript quote:**
@@ -86,7 +91,9 @@
 
 **Your turn:**
 > Describe a quality rule or delivery constraint in your work that applies in all conditions.
-
+- No matter whether data comes from onprem or cloud, it must be encrypted.
+- No matter whether the table is a view or a table, it must be partitioned.
+- Even if the pipeline is triggered manually or automatically, it must complete within the SLA window.
 ---
 
 ## Pattern 5 — Phrasal Verb with Emphasis (take full advantage of)
@@ -107,6 +114,9 @@
 > Describe one tool, system, or situation at work where you have (or haven't yet) taken full advantage.
 
 ---
+ - I'm trying take full advantage of AI to improve my productivity.
+ - I haven't taken full advantage of MSSQL features to optimize my query.
+ - I should take full advantage of dbt's marco to reduce amount line of code.
 
 ## Pattern 6 — Relative Clause to Define a Term
 **Transcript quote:**
@@ -124,7 +134,9 @@
 
 **Your turn:**
 > Give a spoken definition of one technical term from your job using this pattern.
-
+ - I'm doing a research to implement hybrid architecture - a system of combining batch and stream processing.
+ - To achieve real-time data from MSSQL database, we have to use CDC - Change Data Capture.
+ - Kafka is a distributed event streaming platform - a system of recording and processing streams of events.
 ---
 
 ## Pattern 7 — Concession with "Although / However"
@@ -144,3 +156,6 @@
 
 **Your turn:**
 > State one trade-off or risk in your current technical approach using "although" or "however."
+- Although CDC can help us achieve real-time data, it increases the complexity of the system.
+- Although CDC can help us achieve real-time data, we should be allowed turn on it by the vendor.
+- However, Airflow is a good tool for scheduling and monitoring jobs according to a defined DAG.
