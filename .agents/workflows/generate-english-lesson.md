@@ -42,7 +42,7 @@ Single-page entry point. Include:
   | 2 | Immersion + Dictation (B) | Orthographic mapping, dictation verification, and phrase drills. |
   | 3 | AI Simulation (Episode) | Discuss episode themes with an AI peer and expert. |
   | 4 | Grammar Structures | Master 7 specific patterns from the transcript. |
-  | 5 | Shadowing | 4-stage shadowing protocol on the primary episode clip. |
+  | 5 | Monologue + Shadowing | Record a 2–3 min monologue on episode theme (Part A), then complete the 4-stage shadowing protocol on the primary clip (Part B). |
   | 6 | AI Simulation (Background) | Professional role-play and expert discussion on background-related topics. |
   | 7 | Monologue (Background) | Record personal view on a topic from your professional background (Data Engineering / Casino). |
 - File listing table linking to all 10 files
@@ -110,13 +110,23 @@ Include:
 
 ---
 
-## Step 8 - day5-shadowing.md (Shadowing)
+## Step 8 - day5-shadowing.md (Monologue + Shadowing)
 
-4-stage protocol applied to the primary shadowing clip:
-Stage 1 - Auditory Priming (5 min): No transcript. Play x3.
-Stage 2 - Transcribed Echoing (15 min): Sentence-by-sentence with transcript.
-Stage 3 - Synchronous Shadowing (20 min): With text, 0.5s delay. 10+ reps.
-Stage 4 - Blind Shadowing (15 min): No transcript. Record 2 attempts.
+Two-part session (~120 min total). Split into two sittings if needed.
+
+Part A - Monologue (60 min):
+- Phase 1 - Warm-up (15 min): Lexical Labeling (describe workspace aloud using episode-related words) + Syntactic Narration (narrate professional context aloud).
+- Phase 2 - Recorded Monologue (30 min): Topic must be episode-specific and relevant to the user's professional background (Data Engineering / Casino). Aim for 2–3 minutes. Record Attempt 1 without stopping. Listen back. Record Attempt 2 immediately. Structure: Hook → core idea mapped to episode theme → example from professional context → conclusion.
+- Phase 3 - Self-Evaluation (15 min): Vocabulary Audit (checkboxes, all 6 target words) + Fluency Audit table (Pronunciation, Pacing, Grammar, Vocabulary Variety, Structure — both attempts).
+
+Part B - Shadowing (55 min):
+Stage 1 - Auditory Priming (5 min): No transcript. Play x3. Write 3 words describing the speaker's tone.
+Stage 2 - Transcribed Echoing (15 min): Sentence-by-sentence with transcript. Pause and repeat. Note specific focus phrases.
+Stage 3 - Synchronous Shadowing (20 min): With text, 0.5s delay. 10+ reps. Three focus rounds: accuracy → stress/connected speech → emotional tone.
+Stage 4 - Blind Shadowing (15 min): No transcript. Record 2 attempts. Self-rating table (Rhythm, Connected Speech, Stress, Intonation).
+
+End with Day 5 Deliverables checklist: Monologue v1 + v2 recorded | Vocabulary Audit | Shadowing Stages 1–3 | Blind Shadowing attempts 1 + 2.
+Close with Key Insight: *"The monologue forces you to produce — your ideas, your words. The shadowing forces you to absorb — their rhythm, their music. Together, they build both your voice and your ear."*
 
 ---
 
