@@ -24,7 +24,8 @@ Used to **introduce a topic** by listing its key questions, making the audience 
 ### Your Turn
 > Think of a problem or topic from your work. Frame it using this pattern:
 > *"What is ___? And how do we ___? — these are some of the challenges we'll be discussing."*
-
+ - What is transformation? And how do we use dbt to make it happen? There are many ways to do it, but we'll be discussing the most common ones.
+ - What is Spark? And how do we apply it to our current project? This is the topic I want to discuss today.
 ---
 
 ## Pattern 2 — Defining a Concept with a Relative Clause
