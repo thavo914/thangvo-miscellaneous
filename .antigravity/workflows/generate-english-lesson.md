@@ -1,183 +1,110 @@
 ---
-description: Generate a complete English lesson folder from a new audio/video episode using the Restructured Seven-Day framework
+description: The core topic-agnostic project backbone of the English learning system. Generates comprehensive weekly study modules focusing on grammar, sentence structures, vocabulary with Vietnamese meanings, and IELTS Speaking practice, targeting a natural, conversational Band 6.5 level using real-life vocabulary.
 ---
 
-# Workflow: /generate-english-lesson (Restructured)
+# Workflow: /generate-english-lesson (Unified GSC & IELTS Speaking Plan - Band 6.5 Focus)
 
-Use when the user provides a new episode script/transcript and asks to create lesson materials.
-
-Framework: `english/docs/Six Techniques For English Learning.md`
-Output folder: `english/week-<N>/lessons/`
-Total files: 11 per lesson
-
----
-
-## Step 0 - Gather Episode Info (before creating any files)
-
-Extract from the script:
-1. Title, source (BBC / podcast / YouTube), CEFR level (A2-B1=Beginner | B1-B2=Intermediate | B2-C1=Advanced)
-2. Primary shadowing clip: 30-60s segment with densest vocabulary + most natural connected speech
-3. 5-7 target vocabulary words: not basic, formally defined in episode, transferable to work/daily life, varied part of speech
+> [!IMPORTANT]
+> **⚓ CORE PROJECT BACKBONE (Topic-Agnostic Engine)**
+> - This workflow rule is the permanent, structural engine of this repository.
+> - **Band 6.5 & Real-Life Target**: All generated materials must prioritize natural, widely-used, and conversational English (CEFR B1-B2) suitable for a strong IELTS 6.5 Speaking score.
+> - **Avoid Academic Bloat**: Avoid overly formal, academic, or obscure C1-C2 terms. Focus strictly on **practical, real-life vocabulary** that native speakers actually use in daily work and social contexts.
 
 ---
 
-## Step 1 - Create folder
-
+## 📁 Output Folder Structure
 ```
 english/week-<N>/lessons/
+├── lesson-overview.md
+├── day1-grammar-and-structures.md
+└── day2-day3-ielts-and-simulation-practice.md
 ```
 
 ---
 
-## Step 2 - lesson-overview.md
+## 🛠️ Step 0 - Gather Dynamic Topic Info (Before File Creation)
 
-Single-page entry point. Include:
-- Metadata: title, source, CEFR level, dates
-- Learning objectives table (Listening | Vocabulary | Pronunciation | Speaking | Thinking)
-- Target vocabulary table (word | POS | meaning | episode sentence)
-- 7-day protocol table:
-  | Day | Technique | Core Activity |
-  | --- | --- | --- |
-  | 1 | Listening + Dictation (A) | Global listening and first dictation draft. |
-  | 2 | Immersion + Dictation (B) | Orthographic mapping, dictation verification, and phrase drills. |
-  | 3 | AI Simulation (Episode) | Discuss episode themes with an AI peer and expert. |
-  | 4 | Grammar Structures | Master 7 specific patterns from the transcript. |
-  | 5 | Monologue + Shadowing | Record a 2–3 min monologue on episode theme (Part A), then complete the 4-stage shadowing protocol on the primary clip (Part B). |
-  | 6 | AI Simulation (Background) | Professional role-play and expert discussion on background-related topics. |
-  | 7 | Monologue (Background) | Record personal view on a topic from your professional background (Data Engineering / Casino). |
-- File listing table linking to all 10 files
-- Ground rules (copy verbatim every time):
-  1. One artifact, many angles - apply every technique to this same episode.
-  2. Record your output - voice memos count. You are your own evaluator.
-  3. Resist translation - describe unknown words in English first.
-  4. Quantity beats quality - 3 imperfect recordings beat 1 over-rehearsed one.
+Identify or extract the following core elements based on the **dynamically supplied weekly topic**:
+1. **Metadata**: Title, Source, Target Week, and Target Level (IELTS 6.5 / B1-B2).
+2. **3 Target Grammar Rules**: Key grammatical concepts highly relevant to B1-B2 speaking (e.g., *Using modals for advice, Simple conditionals with "if", Present Perfect for past-to-present experience, Contrast linkers*).
+3. **5 Sentence Structure Templates**: Natural, conversational sentence patterns used in real-life speaking that can be generalized into slot-filling formulas.
+4. **5 High-Yield Collocations/Idioms**: Highly common, natural expressions used by native speakers in day-to-day conversation, defined with Vietnamese translations and real-life examples.
+5. **IELTS Speaking Questions**: Topic-related questions for Part 1 (3 questions), Part 2 (1 Cue Card), and Part 3 (2 questions).
 
 ---
 
-## Step 3 - lesson-transcript.md
+## 📄 Step 1 - Generate `lesson-overview.md`
 
-Annotated script for Day 2 verification and Day 6 shadowing.
+This file introduces the week's theme, conversational vocabulary, study schedule, and reference conversation transcript.
 
-Annotation symbols:
-- `_` = catenation ("an_apple")
-- `(t)` / `(d)` = elision ("nex(t) door")
-- `[a]` = schwa/weak form ("[a]nd")
-- **BOLD** = primary stress
-- [up] / [down] = rising / falling intonation
-- [key] = target vocabulary word
+### 1. Metadata Table
+- Title, Source, Target Level (IELTS 6.5), Target Week.
 
-Rules:
-- Mark primary shadowing clip: "> [TARGET] This is your primary shadowing clip (~45s). Focus Day 6 here."
-- End with Vocabulary Quick Reference table: word | IPA | example sentence
+### 2. High-Yield Collocations & Vocabulary Table
+Columns: `Collocation/Phrase` | `POS` | `Vietnamese Meaning` | `Natural IELTS-Style Example`
+- List **5 common, natural, real-life phrases** with accurate Vietnamese translations and standard spoken examples.
 
----
+### 3. Study Schedule & Objectives Table
+Include the 3-Day combined schedule table:
+| Day | Phase | Activity & Focus | Primary Deliverable |
+|---|---|---|---|
+| **Day 1** | Study & Input | Grammar, Formulas & Vocab Study | Complete all drills in `day1-grammar-and-structures.md`. |
+| **Day 2** | Speaking & Output | IELTS Questions & AI Voice Simulation | Answer Part 1, 2, 3 questions & run the ChatGPT Voice Mode role-play. |
+| **Day 3** | Refinement & Writing | Creative Production & Band 6.5 Analysis | Write a custom dialogue and study/analyze the Band 6.5 Cue Card sample answer in `day2-day3-ielts-and-simulation-practice.md`. |
 
-## Step 4 - day1-passive-active-listening.md (Listening + Dictation Draft)
-
-Phase 1 - Passive (Continuous): Play 2-3x as background noise.
-Phase 2 - Active (25 min): Global (2 questions) and Targeted (3-4 questions).
-Phase 3 - Micro-Dictation Part A (25 min): Primary clip drafting. Max 3 replays. No transcript.
-
----
-
-## Step 5 - day2-active-listening-immersion.md (Immersion + Verification)
-
-Phase 1 - Orthographic Mapping (20 min): Listen while reading transcript. Highlight 5-7 collocations.
-Phase 2 - Micro-Dictation Part B (25 min): Compare Day 1 draft with transcript. Error classification table (3 entries).
-Phase 3 - Phonetic Drill (15 min): Drill 4 phrases x5.
+### 4. Core Lesson Dialogue
+- Generate a natural, highly realistic conversation transcript between 2 characters (e.g., coworkers or friends) centered on the week's custom theme.
+- **Important**: Naturally integrate the 3 grammar rules, 5 sentence structure templates, and 5 target conversational vocabulary phrases.
+- Highlight the target grammar/sentence patterns in **bold** in the transcript.
+- Ensure the tone is casual and professional, mimicking standard office or daily conversation.
 
 ---
 
-## Step 6 - day3-ai-simulation.md
+## 📄 Step 2 - Generate `day1-grammar-and-structures.md`
 
-3 rounds. Rules: B1-B2 level, no mid-convo corrections, post-round feedback.
-Round 1 - Discussion (15 min): AI as curious peer.
-Round 2 - Expert Role-play (15 min): AI plays main expert.
-Round 3 - Devil's Advocate / Startup Scenario (20 min): Discussion on core debate.
-Review (10 min): ReadImproved sentences aloud x3.
+This file houses the structural foundation, grammar deconstruction, and initial production drills.
 
----
+### 1. Grammar Focus (3 Target Rules)
+For each of the **3 target grammar rules**:
+- **Grammar Point Name** (e.g., *Talking about experience using Present Perfect*)
+- **Quote**: The exact sentence from the dialogue showing this rule.
+- **Rule Explanation**: A simple, clear, and direct explanation of the rule's usage and form.
+- **Common Pitfall Box**: A warning box showing a frequent mistake and how to correct it (e.g., *Incorrect vs. Correct*).
 
-## Step 7 - day4-grammar-structures.md
+### 2. Sentence Structure Templates (5 Patterns)
+For each of the **5 sentence structures**:
+- **Communicative Function**: (e.g., *To give a recommendation*, *To compare two choices*).
+- **Slot-Filling Formula**: Expressed using brackets for modular components (e.g., `It's really important that + [Subject] + [Verb] + before + [Noun]`).
+- **Examples**: Provide 3 distinct example sentences utilizing the formula:
+  1. *Everyday Context*
+  2. *Data Engineering / Casino Context* (customized to the user's background)
+  3. *General Workplace Context*
 
-Extract 7 grammar patterns present in transcript.
-Include:
-1. Exact transcript quote
-2. Communicative function
-3. [bracket] template
-4. 2-3 examples (one in user's work/life context)
-5. "Your turn" prompt
-
----
-
-## Step 8 - day5-shadowing.md (Monologue + Shadowing)
-
-Two-part session (~120 min total). Split into two sittings if needed.
-
-Part A - Monologue (60 min):
-- Phase 1 - Warm-up (15 min): Lexical Labeling (describe workspace aloud using episode-related words) + Syntactic Narration (narrate professional context aloud).
-- Phase 2 - Recorded Monologue (30 min): Topic must be episode-specific and relevant to the user's professional background (Data Engineering / Casino). Aim for 2–3 minutes. Record Attempt 1 without stopping. Listen back. Record Attempt 2 immediately. Structure: Hook → core idea mapped to episode theme → example from professional context → conclusion.
-- Phase 3 - Self-Evaluation (15 min): Vocabulary Audit (checkboxes, all 6 target words) + Fluency Audit table (Pronunciation, Pacing, Grammar, Vocabulary Variety, Structure — both attempts).
-
-Part B - Shadowing (55 min):
-Stage 1 - Auditory Priming (5 min): No transcript. Play x3. Write 3 words describing the speaker's tone.
-Stage 2 - Transcribed Echoing (15 min): Sentence-by-sentence with transcript. Pause and repeat. Note specific focus phrases.
-Stage 3 - Synchronous Shadowing (20 min): With text, 0.5s delay. 10+ reps. Three focus rounds: accuracy → stress/connected speech → emotional tone.
-Stage 4 - Blind Shadowing (15 min): No transcript. Record 2 attempts. Self-rating table (Rhythm, Connected Speech, Stress, Intonation).
-
-End with Day 5 Deliverables checklist: Monologue v1 + v2 recorded | Vocabulary Audit | Shadowing Stages 1–3 | Blind Shadowing attempts 1 + 2.
-Close with Key Insight: *"The monologue forces you to produce — your ideas, your words. The shadowing forces you to absorb — their rhythm, their music. Together, they build both your voice and your ear."*
+### 3. Production & Translation Drills
+- **"Your Turn" Exercises**: A prompt for each of the 5 templates with a blank space (`- `) for the user to construct their own sentences.
+- **Translation / Transformation Challenge**: 3 custom sentences to translate (from Vietnamese to English) or restructure using the target grammar.
 
 ---
 
-## Step 9 - day6-ai-simulation-background.md (AI Simulation — Background Topic)
+## 📄 Step 3 - Generate `day2-day3-ielts-and-simulation-practice.md`
 
-Purpose: Practice professional English conversation in real-world scenarios from your background (Data Engineering / Casino).
-3 rounds. Rules: B1-B2 level, no mid-convo corrections, post-round feedback.
+This file facilitates active output, structured IELTS test practice, AI voice simulation, and natural model answer analysis.
 
-Round 1 - Non-Technical Stakeholder (15 min): AI plays a casino floor manager or marketing director with no data background. Explain a technical concept without jargon. Use analogies.
-Round 2 - Peer Expert Discussion (15 min): AI plays a senior data engineer or solution architect. Discuss a design decision, architecture choice, or a technical challenge relevant to your work.
-Round 3 - Job Interview / Presentation (20 min): AI plays a hiring manager for a senior data engineering role at a casino company. Answer 3 behavioral/technical questions using the STAR method. Incorporate episode vocabulary where natural.
-Review (10 min): Re-read improved sentences aloud x3. Note 2 phrases to carry forward.
+### 1. Day 2: IELTS Practice & AI Simulation
+- **IELTS Speaking Practice Questions**:
+  - **Part 1 (Interview)**: 3 introductory questions related to the week's theme.
+  - **Part 2 (Cue Card)**: 1 complete IELTS Part 2 prompt with bullet points.
+  - **Part 3 (Analytical Discussion)**: 2 discussion questions.
+- **Copy-Paste AI Voice Simulation Prompt**: A prompt based on the theme and the user's professional background (Data Engineering / Casino).
+  - *Prompt requirements*: Force ChatGPT Voice Mode to adopt a specific persona (e.g., a coworker or a project manager).
+  - Instruct the AI to speak in a natural, casual, and friendly manner, encouraging the user to use the target grammar, templates, and vocabulary.
+  - Instruct the AI to provide brief, helpful feedback on making sentences sound more natural.
+- **Feedback Logging Table**: A blank table for the user to log grammar and pronunciation corrections received.
 
-Background Prompt Bank (generate 3 customized prompts tailored to the episode theme + background):
-- Example: "You are a hiring manager for a resort & casino group. I am applying for a Senior Data Engineer role. Ask me about how I handle data quality issues, cross-team collaboration, and my experience with streaming pipelines."
-
----
-
-## Step 10 - day7-monologue-background.md (Monologue — Background Topic)
-
-Purpose: Transfer episode vocabulary and grammar patterns into your professional domain (Data Engineering / Casino).
-
-Phase 1 - Warm-up (10 min): Brainstorm 5-7 technical/professional words you want to use. Write one sentence connecting the episode's vocabulary to your work context.
-Phase 2 - Recorded Monologue (30 min):
-- Choose ONE topic from the list below. Record yourself speaking for 2-3 minutes.
-- Topic options (generate based on the episode's theme and the user's background):
-  - "Describe the most complex data pipeline challenge you have faced and how you solved it."
-  - "How would you explain real-time player analytics to a non-technical casino manager?"
-  - "What skills from this week's episode topic remind you of challenges in data engineering?"
-  - "Present your vision for how data engineering could improve a specific casino operation."
-- Use a timing table: [0:00-0:30 Hook | 0:30-1:30 Main Point | 1:30-2:30 Example | 2:30-3:00 Conclusion]
-Phase 3 - Self-Eval (15 min):
-- Vocabulary audit: Did you use at least 3 words from the week's episode vocabulary?
-- Fluency audit (1-5): Rate your pace, accuracy, and confidence.
-- Write 1-2 sentences you want to improve.
-
----
-
-## Step 11 - vocabulary-flashcards.md
-
-One card per target word. 
-Front: Definition question (no word).
-Back: [word] /IPA/ | POS | 1-line definition | Episode quote | Personal sentence.
-End with 5-question Review Quiz.
-
----
-
-## Step 12 - weekly-review.md
-
-1. Knowledge Check (No notes): 4 questions + 6-7 fill-ins.
-2. Skills Audit Table (13 rows, including Day 6 Monologue Background and Day 7 AI Simulation Background).
-3. Recording Comparison (Day 1 understanding vs Day 5 Shadowing fluency).
-4. Vocabulary Mastery Checklist (Heard | Wrote | Dictation | Shadowing | AI Episode | AI Background | Monologue Background | Grammar).
-5. Reflection and Carry Forward.
+### 2. Day 3: Creative Writing & Band 6.5 Refinement
+- **Creative Dialogue Writing**:
+  - Instruct the user to write a new conversation transcript (10+ turns) incorporating the target structures.
+- **Band 6.5 Cue Card Sample Answer**:
+  - Provide a highly natural, realistic **Band 6.5-7.0 model response** answering the Day 2 Part 2 Cue Card. 
+  - **Conversational Words Highlighted**: Highlight and list 3-5 key real-life, natural phrases used in the sample answer with their definitions and Vietnamese translations.
+- **Self-Evaluation Checklist**: A checklist for the user to tick off each target grammar rule, sentence template, and collocation successfully produced.
