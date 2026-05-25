@@ -18,12 +18,12 @@ This week's lesson explores two highly recurring IELTS Speaking topics, structur
 
 | Day | Focus Topic | Phase | Activity & Focus | Primary Deliverable |
 |---|---|---|---|---|
-| **Day 1** | **Topic 1** | Study & Input | Grammar & Real-life Phrasing | Complete all drills in [day1-grammar-and-structures.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-9/lessons/day1-grammar-and-structures.md). |
-| **Day 2** | **Topic 1** | Speaking & Output | IELTS Questions & AI Voice chat | Practice Part 1/2/3 questions and ChatGPT Voice Mode in [day2-day3-ielts-and-simulation-practice.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-9/lessons/day2-day3-ielts-and-simulation-practice.md). |
-| **Day 3** | **Topic 1** | Refinement | Practical Writing & Sample Answer | Write your custom dialogue and analyze the model answer in [day2-day3-ielts-and-simulation-practice.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-9/lessons/day2-day3-ielts-and-simulation-practice.md). |
-| **Day 4** | **Topic 2** | Study & Input | Grammar & Real-life Phrasing | Complete all drills in [day4-grammar-and-structures.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-9/lessons/day4-grammar-and-structures.md). |
-| **Day 5** | **Topic 2** | Speaking & Output | IELTS Questions & AI Voice chat | Practice Part 1/2/3 questions and ChatGPT Voice Mode in [day5-day6-ielts-and-simulation-practice.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-9/lessons/day5-day6-ielts-and-simulation-practice.md). |
-| **Day 6** | **Topic 2** | Refinement | Practical Writing & Sample Answer | Write your custom dialogue and analyze the model answer in [day5-day6-ielts-and-simulation-practice.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-9/lessons/day5-day6-ielts-and-simulation-practice.md). |
+| **Day 1** | **Topic 1** | Study & Input | Grammar & Real-life Phrasing | Complete all drills and Spot the Mistake exercises in [day1-grammar-and-structures.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/day1-grammar-and-structures.md). |
+| **Day 2** | **Topic 1** | Speaking & Output | IELTS Questions & AI Voice chat | Practice Part 1/2/3 questions, Shadowing Guide, and ChatGPT Voice Mode in [day2-ielts-and-simulation-practice.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/day2-ielts-and-simulation-practice.md). |
+| **Day 3** | **Topic 1** | Refinement | Practical Writing & Sample Answer | Write custom dialogue, analyze the model answer, and complete Situational Responses in [day3-creative-writing-and-analysis.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/day3-creative-writing-and-analysis.md). |
+| **Day 4** | **Topic 2** | Study & Input | Grammar & Real-life Phrasing | Complete all drills and Spot the Mistake exercises in [day4-grammar-and-structures.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/day4-grammar-and-structures.md). |
+| **Day 5** | **Topic 2** | Speaking & Output | IELTS Questions & AI Voice chat | Practice Part 1/2/3 questions, Shadowing Guide, and ChatGPT Voice Mode in [day5-ielts-and-simulation-practice.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/day5-ielts-and-simulation-practice.md). |
+| **Day 6** | **Topic 2** | Refinement | Practical Writing & Sample Answer | Write custom dialogue, analyze the model answer, and complete Situational Responses in [day6-creative-writing-and-analysis.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/day6-creative-writing-and-analysis.md). |
 
 ---
 
@@ -89,3 +89,15 @@ Sarah: Great. I'll make sure to use the right bins from now on. Once we get used
 1. **Focus on Natural Flow**: Don't try to use big, academic words. Focus on speaking smoothly and using these common, real-life phrases naturally.
 2. **Read Out Loud**: Read both dialogues out loud a few times to get comfortable with the conversational rhythm.
 3. **Keep it Simple**: Use standard grammar structures correctly (like "If I had... I would have...") rather than trying to make sentences overly complex.
+
+---
+
+## 📹 6. Short-Form Skimming Videos
+To reinforce your learning, build rapid reading comprehension, and practice high-impact speaking, we have created two dedicated 60-second video transcripts. 
+
+You can find the scripts, timing markers, and 10-second skimming visual aids in [skimming-transcripts.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-9/lessons/skimming-transcripts.md).
+
+- **Topic 1 (Decision Making)**: *How to Make Choices & Deal with Risks*
+- **Topic 2 (Environment)**: *How to Protect the Environment & Leave a Small Footprint*
+
+

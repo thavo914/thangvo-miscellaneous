@@ -17,14 +17,25 @@ description: The core topic-agnostic project backbone of the English learning sy
 english/week-<N>/lessons/
 ├── lesson-overview.md
 ├── day1-grammar-and-structures.md
-└── day2-day3-ielts-and-simulation-practice.md
+├── day2-ielts-and-simulation-practice.md
+├── day3-creative-writing-and-analysis.md
+├── [day4-grammar-and-structures.md] (if 6-day cycle)
+├── [day5-ielts-and-simulation-practice.md] (if 6-day cycle)
+├── [day6-creative-writing-and-analysis.md] (if 6-day cycle)
+└── skimming-transcripts.md
 ```
 
 ---
 
-## 🛠️ Step 0 - Gather Dynamic Topic Info (Before File Creation)
+## 🛠️ Step 0 - Gather Dynamic Topic Info & Registry Check (Before File Creation)
 
-Identify or extract the following core elements based on the **dynamically supplied weekly topic**:
+> [!IMPORTANT]
+> **Anti-Duplication Guard (Rolling 3-Week Memory)**
+> 1. **Read the Registry**: Before generating any lessons, you **MUST** read [lesson-registry.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/lesson-registry.md).
+> 2. **Verify Duplications**: Ensure that the dynamically chosen theme, target collocations, conversational phrases, and sentence template structures **do not duplicate** any entries used in the **last 3 generated weeks**.
+> 3. **Append New Entries**: Once the week's lesson files are successfully created, you **MUST** append the new week's metadata, topics, collocations, grammar, and sentence structures to the bottom of `lesson-registry.md` in the established tabular format.
+
+Identify or extract the following core elements based on the **dynamically supplied weekly topic** (ensuring compliance with the 3-week duplication guard):
 1. **Metadata**: Title, Source, Target Week, and Target Level (IELTS 6.5 / B1-B2).
 2. **3 Target Grammar Rules**: Key grammatical concepts highly relevant to B1-B2 speaking (e.g., *Using modals for advice, Simple conditionals with "if", Present Perfect for past-to-present experience, Contrast linkers*).
 3. **5 Sentence Structure Templates**: Natural, conversational sentence patterns used in real-life speaking that can be generalized into slot-filling formulas.
@@ -84,27 +95,79 @@ For each of the **5 sentence structures**:
 - **"Your Turn" Exercises**: A prompt for each of the 5 templates with a blank space (`- `) for the user to construct their own sentences.
 - **Translation / Transformation Challenge**: 3 custom sentences to translate (from Vietnamese to English) or restructure using the target grammar.
 
+### 4. Spot the Mistake (Error Correction Drill)
+- Provide 3 custom incorrect sentences featuring common grammatical or collocation pitfalls related to the day's targets.
+- The user must identify the mistake and rewrite it correctly.
+- Provide a collapsed Answer Key (`<details>`) with clear, high-yield B1-B2 explanations.
+
 ---
 
-## 📄 Step 3 - Generate `day2-day3-ielts-and-simulation-practice.md`
+## 📄 Step 3A - Generate `day2-ielts-and-simulation-practice.md`
 
-This file facilitates active output, structured IELTS test practice, AI voice simulation, and natural model answer analysis.
+This file facilitates active output, structured IELTS speaking practice, and AI voice simulation.
 
-### 1. Day 2: IELTS Practice & AI Simulation
-- **IELTS Speaking Practice Questions**:
-  - **Part 1 (Interview)**: 3 introductory questions related to the week's theme.
-  - **Part 2 (Cue Card)**: 1 complete IELTS Part 2 prompt with bullet points.
-  - **Part 3 (Analytical Discussion)**: 2 discussion questions.
-- **Copy-Paste AI Voice Simulation Prompt**: A prompt based on the theme and the user's professional background (Data Engineering / Casino).
-  - *Prompt requirements*: Force ChatGPT Voice Mode to adopt a specific persona (e.g., a coworker or a project manager).
-  - Instruct the AI to speak in a natural, casual, and friendly manner, encouraging the user to use the target grammar, templates, and vocabulary.
-  - Instruct the AI to provide brief, helpful feedback on making sentences sound more natural.
-- **Feedback Logging Table**: A blank table for the user to log grammar and pronunciation corrections received.
+### 1. IELTS Speaking Practice Questions
+- **Part 1 (Interview)**: 3 introductory questions related to the week's theme.
+- **Part 2 (Cue Card)**: 1 complete IELTS Part 2 prompt with bullet points.
+- **Part 3 (Analytical Discussion)**: 2 discussion questions.
 
-### 2. Day 3: Creative Writing & Band 6.5 Refinement
-- **Creative Dialogue Writing**:
-  - Instruct the user to write a new conversation transcript (10+ turns) incorporating the target structures.
-- **Band 6.5 Cue Card Sample Answer**:
-  - Provide a highly natural, realistic **Band 6.5-7.0 model response** answering the Day 2 Part 2 Cue Card. 
-  - **Conversational Words Highlighted**: Highlight and list 3-5 key real-life, natural phrases used in the sample answer with their definitions and Vietnamese translations.
-- **Self-Evaluation Checklist**: A checklist for the user to tick off each target grammar rule, sentence template, and collocation successfully produced.
+### 2. ChatGPT Voice Mode Simulation Prompt
+- A prompt based on the theme and the user's professional background (Data Engineering / Casino).
+- **Prompt requirements**: Force ChatGPT Voice Mode to adopt a specific persona (e.g., a coworker or a project manager).
+- Instruct the AI to speak in a natural, casual, and friendly manner, encouraging the user to use the target grammar, templates, and vocabulary.
+- Instruct the AI to provide brief, helpful feedback on making sentences sound more natural.
+
+### 3. Feedback Logging Table
+- A blank table for the user to log grammar, pronunciation, and vocabulary corrections received during their AI voice session.
+
+### 4. Interactive Shadowing & Pacing Guide
+- Select 2 key lines from the lesson dialogues.
+- Break down each line using visual rhythm markers:
+  - Slashes `/` to denote natural speaking pauses/boundaries.
+  - **Bold** or CAPITALIZED text to show word stress and emphasis.
+
+---
+
+## 📄 Step 3B - Generate `day3-creative-writing-and-analysis.md`
+
+This file facilitates personal production, creative dialogue writing, and structured analysis of high-performing B1-B2 model answers.
+
+### 1. Creative Dialogue Writing
+- Instruct the user to write a new conversation transcript (10+ turns) incorporating the target structures.
+
+### 2. Band 6.5-7.0 Cue Card Sample Answer
+- Provide a highly natural, realistic **Band 6.5-7.0 model response** answering the Day 2 Part 2 Cue Card. 
+- **Conversational Words Highlighted**: Highlight and list 3-5 key real-life, natural phrases used in the sample answer with their definitions and Vietnamese translations.
+
+### 3. Self-Evaluation Checklist
+- A checklist for the user to tick off each target grammar rule, sentence template, and collocation successfully produced during their writing and speaking.
+
+### 4. Casino & Data Operations Situational Responses
+- Write 2 role-specific speaking/writing scenarios relevant to Data Engineering, Cloud Infrastructure, or Casino Operations.
+- Instruct the user to formulate a response using the target collocation and grammar formulas.
+- Provide natural model answers in a collapsed section.
+
+---
+
+## 📄 Step 4 - Generate `skimming-transcripts.md`
+
+This file provides highly focused, 60-second video transcripts (~120-140 words) for short-form video creation and rapid skimming training.
+
+### 1. Document Format & Pacing
+For each topic in the week's lesson, generate a dedicated skimming block:
+- **Title**: A catchy, high-engagement title (e.g., *How to Deal with Risks at Work* or *5 Steps to Leave a Small Carbon Footprint*).
+- **Metadata**:
+  - **Topic**: Theme description.
+  - **Target Duration**: 60 seconds.
+  - **Word Count**: 120-140 words.
+  - **Speaking Speed**: ~130 WPM (words per minute) for a steady, clear, natural B1-B2 rhythm.
+- **Transcript**:
+  - A punchy, single-speaker monologue (IELTS Speaking Band 6.5 level).
+  - Must naturally integrate at least **2 target collocations**, **1 target grammar rule**, and **1 sentence template** of the corresponding topic.
+  - Bold target collocations and grammar structures.
+  - Include timeline markers (`[00:00]`, `[00:20]`, `[00:40]`) to aid user recording.
+
+### 2. 10-Second Skimming Training
+- **The Skimming Core (Keywords Only)**: A bare-bones, content-only layout displaying *only* the key nouns, verbs, and target phrases from the transcript in **bold**, with non-essential words omitted or muted. This trains the eye to sweep the page and extract meaning in under 10 seconds.
+- **Skimming Check**: 2 quick, direct comprehension questions based *only* on the main ideas.
+- **Answer Key**: Direct, single-phrase answers hidden or placed clearly below.

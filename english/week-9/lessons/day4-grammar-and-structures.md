@@ -117,3 +117,29 @@ Translate these simple Vietnamese sentences into natural English:
 
 3. **Sentence 3 (Third Conditional):** *Nếu tôi không vứt chai nhựa đó vào thùng rác thường, nó đã được tái chế.*
    - *Your translation:* ____________________________________________________________________
+
+---
+
+## 🛠️ 4. Spot the Mistake (Error Correction Drill)
+*Identify the grammatical or vocabulary error in each sentence, and rewrite it correctly.*
+
+1. "If the casino had upgraded its cooling system five years ago, we would saved a lot of electricity."
+   - *Your Correction*: ____________________________________________________________________
+2. "We are recycling our plastic water cups since the office green program started last month."
+   - *Your Correction*: ____________________________________________________________________
+3. "All plastic rubbish and paper trash are sorted by our cleaning staff every morning."
+   - *Your Correction*: ____________________________________________________________________
+
+<details>
+<summary>🔑 Click to reveal Answer Key & Explanations</summary>
+
+1. **Incorrect**: "...we **would saved**..."
+   - **Correct**: "If the casino had upgraded its cooling system five years ago, we **would have saved** a lot of electricity."
+   - **Why**: The result clause of the Third Conditional requires `would have + past participle`.
+2. **Incorrect**: "We **are recycling**... since..."
+   - **Correct**: "We **have been recycling** our plastic water cups since the office green program started last month."
+   - **Why**: Use Present Perfect Continuous for habits/activities that started in the past and continue into the present.
+3. **Incorrect**: "All plastic rubbish and paper trash **are** sorted..."
+   - **Correct**: "All plastic rubbish and paper trash **is** sorted by our cleaning staff every morning."
+   - **Why**: Rubbish and trash are uncountable singular nouns in English, so they must take the singular passive verb "is sorted".
+</details>

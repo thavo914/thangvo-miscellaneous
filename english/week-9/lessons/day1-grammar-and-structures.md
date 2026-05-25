@@ -115,3 +115,29 @@ Translate these simple Vietnamese sentences into natural English:
 
 3. **Sentence 3:** *Nếu tôi chuẩn bị kỹ hơn trước buổi họp, tôi đã không gặp rắc rối.*
    - *Your translation:* ____________________________________________________________________
+
+---
+
+## 🛠️ 4. Spot the Mistake (Error Correction Drill)
+*Identify the grammatical or vocabulary error in each sentence, and rewrite it correctly.*
+
+1. "If we would have run the database migration without testing, we would have crashed our staging server."
+   - *Your Correction*: ____________________________________________________________________
+2. "Recently, our data engineering team is working on a major server upgrade since last Monday."
+   - *Your Correction*: ____________________________________________________________________
+3. "All server logs is checked automatically every night by our security scripts."
+   - *Your Correction*: ____________________________________________________________________
+
+<details>
+<summary>🔑 Click to reveal Answer Key & Explanations</summary>
+
+1. **Incorrect**: "If we **would have run**..."
+   - **Correct**: "If we **had run** the database migration without testing, we would have crashed our staging server."
+   - **Why**: In Third Conditionals, never use "would/would have" in the "if" clause. Use the past perfect (`had + past participle`).
+2. **Incorrect**: "...**is working**... since last Monday."
+   - **Correct**: "Recently, our data engineering team **has been working** on a major server upgrade since last Monday."
+   - **Why**: When describing an action that started in the past and is still ongoing with "since" or "for", you must use the Present Perfect Continuous (`has/have been + verb-ing`).
+3. **Incorrect**: "...logs **is** checked..."
+   - **Correct**: "All server logs **are** checked automatically every night by our security scripts."
+   - **Why**: "Logs" is plural, so the passive voice verb must agree and use "are" instead of "is".
+</details>
