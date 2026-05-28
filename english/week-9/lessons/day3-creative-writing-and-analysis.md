@@ -14,11 +14,19 @@ This file facilitates personal production, creative dialogue writing, and struct
   - At least **3 of the conversational phrases** from the lesson overview.
 
 *Write your dialogue here:*
-- 
-- 
-- 
 
----
+A: Hey B, do you have a minute? I think we need to make a choice about upgrading our reporting system.
+B: Oh? What's wrong with the current one? They seem fine to me.
+A: They are okay, but I have been working on a new real-time streaming system. If we had upgraded last year, we would have avoided a lot of issues with slow reports during peak hours. 
+B: That's true. But changing the whole system  is a big risk. We have to weigh the options carefully.
+A: I agree. But we have to do it now before it gets worse. Currently, the system is being updated only every 15 minutes, which is not enough for our casino customers.
+B: Hmm, I see. So what should we do?
+A: I've made a plan to upgrade the system in a way that minimizes the risk. 
+B: Let's hear it. 
+A: The new streaming system will process data in real-time, which means data will be updated in seconds, so it's actually much faster than the current system.
+B: Well, I guess we have to take a risk if we want to  improve our service.
+A: Exactly. I'm working on the powerpoint presentation to present to the team tomorrow.
+B: Sounds good. Let's look at it then! 
 
 ## 📊 2. Band 6.5-7.0 Spoken Model Answer
 

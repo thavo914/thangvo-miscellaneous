@@ -98,23 +98,23 @@ This file helps you learn the core grammar rules and simple, practical sentence 
 
 ### "Your Turn" Exercises
 Fill in the blanks to make your own simple, real-life sentences:
-1. *Template 1:* I decided to ____________________ to ____________________.
-2. *Template 2:* It's really important that we ____________________ before ____________________.
-3. *Template 3:* Although ____________________, we still need to ____________________.
-4. *Template 4:* By ____________________, you can ____________________.
-5. *Template 5:* Once ____________________, we can ____________________.
+1. *Template 1:* I decided to buy a new pillow to get a better sleep.
+2. *Template 2:* It's really important that we go to sleep early before 11 pm.
+3. *Template 3:* Although we  have done the batch processing project, we still need to implement new streaming pipeline to make data processing faster.
+4. *Template 4:* By creating a verification pipeline, we can compare the different data between data sources and data warehouse.
+5. *Template 5:* Once the streaming is implemented, we can build real-time dashboard.
 
 ### Translation Challenge
 Translate these simple Vietnamese sentences into natural English:
 
 1. **Sentence 1:** *Chúng tôi đã và đang sửa lỗi hệ thống này từ hôm qua.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* we have been fixing this system issues since yesterday.
 
 2. **Sentence 2:** *Báo cáo công việc hàng ngày được gửi cho quản lý mỗi buổi tối.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* Daily report is sent to manager every evening.
 
 3. **Sentence 3:** *Nếu tôi chuẩn bị kỹ hơn trước buổi họp, tôi đã không gặp rắc rối.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* If I had prepared carfully before the meeting, I would have not met any trouble.
 
 ---
 
@@ -122,11 +122,11 @@ Translate these simple Vietnamese sentences into natural English:
 *Identify the grammatical or vocabulary error in each sentence, and rewrite it correctly.*
 
 1. "If we would have run the database migration without testing, we would have crashed our staging server."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: If we had run the database migration without testing, we would have crashed our staging server.
 2. "Recently, our data engineering team is working on a major server upgrade since last Monday."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: Recently, our data engineering team has been working on a major server upgrade since last Monday.
 3. "All server logs is checked automatically every night by our security scripts."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: All server logs are checked automatically every night by our security scripts.
 
 <details>
 <summary>🔑 Click to reveal Answer Key & Explanations</summary>
