@@ -72,13 +72,13 @@ In the end, I felt super relieved and happy with the result. This decision **pla
 *Context*: Server latency is spiking in the casino database at 10 PM on a Saturday. You need to warn your colleague before doing a database scale-up.
 - **Required Template**: Template 2 (*It's really important that + [Subject] + [Verb] + before + [Noun/Verb-ing]*)
 - **Required Collocation**: `deal with the risks`
-- *Write your response*: ____________________________________________________________________
+- *Write your response*: It's really important that we warn the casino operations team before scaling up the database, so we can deal with the risks of temporary downtime.
 
 ### Scenario B: Selecting a Cloud Database Provider
 *Context*: The marketing director is asking why we need to review both AWS and Google Cloud before selecting a database provider.
 - **Required Template**: Template 4 (*By + [Verb-ing] + [Object], [Subject] + can + [Verb Phrase]*)
 - **Required Collocation**: `weigh the options`
-- *Write your response*: ____________________________________________________________________
+- *Write your response*: By looking at the pricing and network speeds of both cloud vendors, we can weigh the options before making our final choice.
 
 <details>
 <summary>🔑 Click to reveal Model Answers</summary>
