@@ -5,8 +5,10 @@ description: The core topic-agnostic project backbone of the English learning sy
 # Workflow: /generate-english-lesson (Unified GSC & IELTS Speaking Plan - Band 6.5 Focus)
 
 > [!IMPORTANT]
-> **⚓ CORE PROJECT BACKBONE (Topic-Agnostic Engine)**
+> **⚓ CORE PROJECT BACKBONE (Data Engineer Practical Daily Focus)**
 > - This workflow rule is the permanent, structural engine of this repository.
+> - **Daily & Practical Tech-Adjacent Topics (CRITICAL)**: All generated themes/topics must focus on **practical daily situations** and **casual workplace settings** rather than academic, formal, or abstract IELTS topics (e.g., strictly avoid themes like environmental protection, global warming, space exploration, biodiversity, history). Instead, prioritize topics that the user can actually apply in their day-to-day social and professional life as a data engineer.
+>   - *Ideal Topic Examples*: Small talk at the coffee machine, talking about weekend plans with colleagues, discussing daily commutes, team lunch conversations, handling busy or stressful workdays, asking a coworker for help, explaining a pipeline/query to non-technical stakeholders, discussing work-life balance or tech-industry stress.
 > - **Band 6.5 & Real-Life Target**: All generated materials must prioritize natural, widely-used, and conversational English (CEFR B1-B2) suitable for a strong IELTS 6.5 Speaking score.
 > - **Avoid Academic Bloat**: Avoid overly formal, academic, or obscure C1-C2 terms. Focus strictly on **practical, real-life vocabulary** that native speakers actually use in daily work and social contexts.
 
@@ -34,6 +36,9 @@ english/week-<N>/lessons/
 > 1. **Read the Registry**: Before generating any lessons, you **MUST** read [lesson-registry.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/lesson-registry.md).
 > 2. **Verify Duplications**: Ensure that the dynamically chosen theme, target collocations, conversational phrases, and sentence template structures **do not duplicate** any entries used in the **last 3 generated weeks**.
 > 3. **Append New Entries**: Once the week's lesson files are successfully created, you **MUST** append the new week's metadata, topics, collocations, grammar, and sentence structures to the bottom of `lesson-registry.md` in the established tabular format.
+> 
+> **Topic Restrictions (No Academic Bloat)**:
+> - Confirm that the selected topic is highly practical, conversational, and related to tech workplace/social situations. **DO NOT** generate academic themes like Environmental Protection, Ecology, Science History, etc.
 
 Identify or extract the following core elements based on the **dynamically supplied weekly topic** (ensuring compliance with the 3-week duplication guard):
 1. **Metadata**: Title, Source, Target Week, and Target Level (IELTS 6.5 / B1-B2).

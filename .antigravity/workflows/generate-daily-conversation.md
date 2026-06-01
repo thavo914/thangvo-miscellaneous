@@ -8,6 +8,7 @@ Use when the user provides a daily situation and asks to generate a conversation
 
 ## Requirements
 
+- **Data Engineer Practical Daily Focus (CRITICAL)**: The conversation context, situations, and vocabulary must prioritize **practical daily life and office-social settings** for a tech professional / Data Engineer. Strictly **avoid academic, abstract, or formal themes** (e.g., environmental protection, scientific reports, space exploration). Keep scenarios highly conversational and grounded in real-life tech workplace and social interactions (e.g., small talk, discussing weekend plans, daily commutes, asking colleagues for help, handling work stress, discussing computers/setups, explaining simple tech concepts to non-tech people).
 - **Level**: B1-B2 English grammar and vocabulary.
 - **Format**: A conversation transcript between 2 people.
 - **Structure**:
