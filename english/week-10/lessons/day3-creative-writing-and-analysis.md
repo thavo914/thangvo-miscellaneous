@@ -11,7 +11,12 @@ This file facilitates personal production, creative dialogue writing, and struct
 
 *Write your dialogue here...*
 - 
-
+Sarah: Hey Chris, are you up to anything exciting this weekend?
+Chris: Not really. I'm just going to relax at home. What about you, Sarah?
+Sarah: I'm going hiking with my friends on Sunday. I can't wait!
+Chris: Sounds fun! I used to go hiking a lot, but I haven't had the time lately.
+Sarah: You should go again. It's good to get out of the city and enjoy nature.
+Chris: I will. I've been meaning to go hiking for a long time, but I haven't had the time.
 ---
 
 ## 🎓 2. Band 6.5 - 7.0 Cue Card Sample Answer

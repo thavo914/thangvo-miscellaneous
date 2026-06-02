@@ -121,6 +121,11 @@ This file facilitates active output, structured IELTS speaking practice, and AI 
 - **Prompt requirements**: Force ChatGPT Voice Mode to adopt a specific persona (e.g., a coworker or a project manager).
 - Instruct the AI to speak in a natural, casual, and friendly manner, encouraging the user to use the target grammar, templates, and vocabulary.
 - Instruct the AI to provide brief, helpful feedback on making sentences sound more natural.
+- **Prompt Format Constraints (CRITICAL)**:
+  - **Length**: The generated prompt block (the text inside the markdown code block) must be **less than 300 characters** — keep it concise and scene-setting only, not a list of instructions.
+  - **Hyphens**: The prompt must contain **fewer than 10 hyphens/dashes (`-`)** — use only natural compound words where appropriate (e.g., `data-engineer`, `coffee-machine`, `warm-hearted`), not artificial padding.
+  - **Topic**: The prompt must include a clear, natural conversation topic or direction (e.g., *"Chat casually about how the week went and ask about my weekend plans"*) so the simulation has a clear purpose.
+
 
 ### 3. Feedback Logging Table
 - A blank table for the user to log grammar, pronunciation, and vocabulary corrections received during their AI voice session.

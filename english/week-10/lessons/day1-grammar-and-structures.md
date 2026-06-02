@@ -100,23 +100,38 @@ This file houses the grammar rules, sentence templates, and drills for the first
 
 ### "Your Turn" Exercises
 Fill in the blanks to make your own simple, real-life conversational sentences:
-1. *Template 1:* I've been meaning to ____________________, but I ____________________.
+1. *Template 1:*
+ - I've been meaning to deploy the streaming data project this week, but I need to test it thoroughly.
+ - I've been meaning to bring my bike to maintenance, but I haven't had the time.
+ - I've been meaning to visit my hometown next week, but I have a spontaneous trip to Ho Chi Minh city this weekend.
 2. *Template 2:* How are you liking ____________________?
+ - How are you liking the new project?
+ - How are you liking the new data pipeline?
+ - How are you liking the new work policy?
 3. *Template 3:* Are you up to ____________________ this ____________________?
+ - Are you up to anything exciting this weekend?
+ - Are you up to reviewing the database design this afternoon?
+ - Are you up to joining us for dinner this Friday?
 4. *Template 4:* It's supposed to ____________________, so we might ____________________.
+ - It's supposed to rain on Sunday, so I might just stay in and watch a movie.
+ - It's supposed to be a low-traffic hour, so we might just deploy the patch tonight.
+ - It's supposed to be a busy sprint, so we might need to skip the Friday team lunch.
 5. *Template 5:* I'm really looking forward to ____________________ because ____________________.
+ - I'm really looking forward to sleeping in because this week was exhausting.
+ - I'm really looking forward to automating this ETL script because it takes hours to run manually.
+ - I'm really looking forward to the team building event because it will be fun.
 
 ### Translation Challenge
 Translate these simple Vietnamese sentences into natural English:
 
 1. **Sentence 1 (Future Continuous):** *Vào sáng thứ Bảy này, tôi sẽ đang tham gia một giải chạy bộ marathon.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* On Saturday mornng I will be participating in a marathon
 
 2. **Sentence 2 (Present Perfect with "just"):** *Tôi vừa mới hoàn thành việc kiểm tra các bản ghi lỗi ETL (ETL log errors).*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* I've just finished checking ETL log errors
 
 3. **Sentence 3 ("Used to"):** *Trước đây tôi từng hay thức khuya để chơi game, nhưng bây giờ tôi cố gắng đi ngủ sớm.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* I used to play games late at night, but now I try to go to bed early
 
 ---
 
@@ -124,11 +139,11 @@ Translate these simple Vietnamese sentences into natural English:
 *Identify the grammatical or vocabulary error in each sentence, and rewrite it correctly.*
 
 1. "I have just completed the staging deploy just now."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: I have just completed the staging deploy
 2. "Next weekend, I'll be play tennis with a coworker from marketing."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: I'll be playing tennis with a coworker from marketing
 3. "I didn't used to run before, but now I run twice a week to keep active."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: I didn't use to run before, but now I run twice a week to keep active
 
 <details>
 <summary>🔑 Click to reveal Answer Key & Explanations</summary>
