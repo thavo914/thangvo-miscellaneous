@@ -10,15 +10,14 @@ This file facilitates personal production, creative dialogue writing, and struct
 - Write your draft directly in the space below:
 
 *Write your dialogue here...*
-- 
-**Manager:** 
-**You:** 
-**Manager:** 
-**You:** 
-**Manager:** 
-**You:** 
-**Manager:** 
-**You:** 
+**Manager:** Thanks for coming in. I wanted to review your performance over the last quarter. You've done an excellent job with the new ETL pipelines.
+**You:** Thank you! I've really enjoyed the work, and **I feel ready to step up and take on more responsibility.**
+**Manager:** That's exactly what I was hoping to hear. We'd like to **promote you to Level 3**, our Senior Data Engineer position.
+**You:** That's fantastic news! **If I accept the new role, will I be managing the junior team members?**
+**Manager:** Yes, **in this role, you are expected to mentor the junior engineers.** Along with that, your base salary will **increase by 25%**.
+**You:** Wow, a 25% **salary bump** is very generous. Are there any changes to the other **perks and benefits**?
+**Manager:** Yes, since Level 3 is a senior position, you are now eligible for the **housing allowance**. We will provide you with a **private apartment**.
+**You:** **A 25% salary bump and a private apartment? That's amazing!** Thank you so much, I'm fully committed to this new role.
 
 ---
 

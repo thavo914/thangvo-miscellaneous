@@ -101,22 +101,36 @@ This file houses the grammar rules, sentence templates, and drills for the first
 ### "Your Turn" Exercises
 Fill in the blanks to make your own simple, real-life conversational sentences:
 1. *Template 1:* I feel ready to ____________________ and ____________________.
+- I feel ready to settle down in Da Nang after a year living here.
+- I feel ready to get married and have kids.
+- I feel ready to deploy the new real-time data project to production environment.
 2. *Template 2:* If I ____________________, will I ____________________?
+- If I get the promotion, will I get a salary raise?
+- If I take on more responsibility, will I get a promotion?
+- If I want to get promoted, will I be expected to lead the team?
 3. *Template 3:* My ____________________ will increase by ____________________.
+- My salary will increase by 25%.
+- My rent will increase by 10%.
+- My monthly allowance will increase by 15%.
 4. *Template 4:* In this role, I am expected to ____________________.
+- In this role, I am expected to make architectural decisions.
+- In this role, I am expected to collaborate with stakeholders and other teams.
+- In this role, I am expected to mentor junior engineers.
 5. *Template 5:* A ____________________ and a ____________________? That's amazing! I'm completely ready to ____________________.
-
+- A promotion and a better work-life balance? That's amazing! I'm completely ready to accept the offer.
+- A 25% salary bump and a private apartment? That's amazing! I'm completely ready to lead the team.
+- A new role and a higher salary? That's amazing! I'm completely ready to start.
 ### Translation Challenge
 Translate these simple Vietnamese sentences into natural English:
 
 1. **Sentence 1 (First Conditional):** *Nếu tôi được thăng chức lên Cấp 3, tôi sẽ nhận được trợ cấp chỗ ở.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* If I get promoted to level 3, I will get a housing allowance.
 
 2. **Sentence 2 (Prepositions of Percentage):** *Mức lương cơ bản của tôi sẽ tăng thêm 25% trong quý này.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* My base salary will increase by 25% this quarter.
 
 3. **Sentence 3 (Expectations):** *Với vai trò Kỹ sư dữ liệu cấp cao, tôi được kỳ vọng sẽ đảm nhận nhiều trách nhiệm hơn.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* In the role of senior data engineer, I am expected to take on more responsibilities.
 
 ---
 
@@ -124,11 +138,11 @@ Translate these simple Vietnamese sentences into natural English:
 *Identify the grammatical or vocabulary error in each sentence, and rewrite it correctly.*
 
 1. "If I will get promoted to Level 3, I will get a private apartment."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: If I get promoted to Level 3, I will get a private apartment.
 2. "My salary has increased to 25% this year."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: My salary has increased by 25% this year.
 3. "As a Senior, I expect to reviewing the team's code."
-   - *Your Correction*: ____________________________________________________________________
+   - *Your Correction*: As a Senior, I'm expected to review the team's code.
 
 <details>
 <summary>🔑 Click to reveal Answer Key & Explanations</summary>
