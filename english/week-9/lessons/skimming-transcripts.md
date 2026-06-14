@@ -17,11 +17,11 @@ This file provides high-impact, 60-second speaking scripts designed for short-fo
 > Use the timestamps to check your speaking speed. Try to match the bolded collocations and structures with proper word stress.
 
 ```text
-[00:00] Making decisions in tech is always tough. Every day, we have to **make a choice** about how to scale our systems. Recently, our engineering team **has been working** on a critical database migration. If we **had rushed** the process without testing, we **would have crashed** our entire staging environment. 
+Making decisions in tech is always tough. Every day, we have to make a choice about how to scale our systems. Recently, our engineering team has been working on a critical database migration. If we had rushed the process without testing, we would have crashed our entire staging environment. 
 
-[00:20] To prevent a major disaster, we had to carefully **weigh the options** and **deal with the risks** of database lag. Experience **plays a big part in** handling these high-pressure situations safely. 
+To prevent a major disaster, we had to carefully weigh the options and deal with the risks of database lag. Experience plays a big part in handling these high-pressure situations safely. 
 
-[00:40] **By checking the system logs daily, we can find** and resolve minor bugs before they turn into major system failures. **Once the cloud setup is completed** by the team, we can migrate all player databases smoothly. So, don't guess—always use data to decide!
+By checking the system logs daily, we can find and resolve minor bugs before they turn into major system failures. Once the cloud setup is completed by the team, we can migrate all player databases smoothly. So, don't guess—always use data to decide!
 ```
 
 ---
@@ -59,11 +59,11 @@ $$\text{\color{teal}Start Skimming Here:}}$$
 > Focus on strong pronunciation of the passive voice structure and the conditional verbs to sound highly professional.
 
 ```text
-[00:00] It is absolutely vital that we **protect the environment**. For years, our team **has been running** green energy campaigns at the office. If we **had started** recycling five years ago, we **would have saved** tons of paper and office resources. Every day, all plastic waste **is thrown** away together, which seriously **damages the environment**. 
+It is absolutely vital that we protect the environment. For years, our team has been running green energy campaigns at the office. If we had started recycling five years ago, we would have saved tons of paper and office resources. Every day, all plastic waste is thrown away together, which seriously damages the environment. 
 
-[00:20] How can we make a change? First, we must **cut down on** single-use plastic water bottles. Second, we should aim to **use clean energy** like solar power in our daily work. 
+How can we make a change? First, we must cut down on single-use plastic water bottles. Second, we should aim to use clean energy like solar power in our daily work. 
 
-[00:40] **By sorting our daily rubbish, we can protect** the earth and save money. **Once the company implements new green guidelines, we can significantly reduce** our waste and **leave a small footprint** on our beautiful planet. Start today!
+By sorting our daily rubbish, we can protect the earth and save money. Once the company implements new green guidelines, we can significantly reduce our waste and leave a small footprint on our beautiful planet. Start today!
 ```
 
 ---
