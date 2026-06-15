@@ -996,5 +996,800 @@ const vocabData = [
         ],
         "source": "vocabulary-batch-5.md",
         "added_date": "2026-06-15"
+    },
+    {
+        "id": 34,
+        "word": "on the fly",
+        "type": "phrase",
+        "english_meaning": "doing something quickly and informally while in the middle of another activity, without planning or stopping what you are doing.",
+        "vietnamese_meaning": "vừa làm vừa điều chỉnh / ngay lập tức / ứng biến",
+        "sentences": [
+            "I had to patch the SQL query on the fly to prevent the nightly ETL pipeline from failing.",
+            "My hydration pack started leaking during the long run, so I had to adjust the straps on the fly without stopping.",
+            "When our defensive midfielder got injured in the first half, the manager had to adjust the tactics on the fly.",
+            "Instead of creating a permanent table, I just calculated the metrics on the fly for the stakeholder presentation.",
+            "The weather suddenly changed, so I had to recalculate my target splits on the fly during the parkrun."
+        ],
+        "synonyms": [
+            "**On the go** — similar; done while moving or busy.",
+            "**Extemporaneously** — much more formal; done without preparation.",
+            "**Ad hoc** — more formal/technical; created for a specific, immediate purpose.",
+            "**Off the cuff** — casual; spoken or done without preparation or thought."
+        ],
+        "antonyms": [
+            "**In advance** — done beforehand with planning.",
+            "**Methodically** — done in a careful, planned, and organized way.",
+            "**Premeditated** — planned or considered beforehand."
+        ],
+        "prompts": [
+            "When the dashboard crashed during the live demo, I had to fix the connection string ______________________.",
+            "During my tempo run, I felt a cramp coming on and had to adjust my stride ______________________."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 35,
+        "word": "it's a toss-up",
+        "type": "phrase",
+        "english_meaning": "a situation where two possibilities are equally likely to happen, making it difficult to predict or decide.",
+        "vietnamese_meaning": "cơ hội là 50-50 / chưa biết mèo nào cắn mỉu nào",
+        "sentences": [
+            "With both teams in great form, it's a toss-up who will win the Merseyside derby this weekend.",
+            "Between Snowflake and Databricks, it's a toss-up which data platform would suit our startup's needs better.",
+            "For my next race, it's a toss-up whether I'll wear my carbon-plated shoes or my standard training shoes.",
+            "It's a toss-up whether we should rewrite this legacy pipeline or just keep patching it when it fails.",
+            "I'm recovering from a minor calf strain, so it's a toss-up if I'll be fit enough for the parkrun on Saturday."
+        ],
+        "synonyms": [
+            "**Fifty-fifty** — very common and casual.",
+            "**A coin flip** — emphasizes the equal chance of two outcomes.",
+            "**An open question** — indicates that the answer is not yet known or decided.",
+            "**Too close to call** — common in sports or elections when the outcome is extremely tight."
+        ],
+        "antonyms": [
+            "**A sure thing** — a certainty.",
+            "**A foregone conclusion** — a result that is obvious before it happens.",
+            "**No contest** — a situation where one option is vastly superior or more likely."
+        ],
+        "prompts": [
+            "With both strikers in amazing form, it's a ______________________ who will start for Liverpool this weekend.",
+            "It's a ______________________ whether the nightly data load will finish before the analysts log in."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 36,
+        "word": "balance my economy",
+        "type": "verb phrase",
+        "english_meaning": "to manage one's resources, energy, or spending carefully to avoid running out or getting exhausted.",
+        "vietnamese_meaning": "cân đối chi tiêu / phân bổ sức lực hoặc nguồn lực",
+        "sentences": [
+            "I need to balance my economy by optimizing our cloud instances, or the AWS bill will exceed our budget.",
+            "During the first half of the marathon, I had to balance my economy so I wouldn't hit the wall at mile 20.",
+            "Liverpool had to balance their economy in the transfer window, choosing to sign one key midfielder instead of spending on three average players.",
+            "With three critical deadlines this week, I'm trying to balance my economy of time by avoiding useless meetings.",
+            "Running hill repeats requires you to balance your economy of effort so you have enough energy for the final sprint."
+        ],
+        "synonyms": [
+            "**Manage resources** — more formal and professional.",
+            "**Pace oneself** — specifically for physical effort or energy over time.",
+            "**Budget carefully** — focuses on financial or specific resource management.",
+            "**Conserve energy** — focuses purely on physical or mechanical energy."
+        ],
+        "antonyms": [
+            "**Squander** — to waste resources, money, or energy carelessly.",
+            "**Overexert** — to push oneself too hard, leading to exhaustion.",
+            "**Splurge** — to spend money or effort extravagantly and without restraint."
+        ],
+        "prompts": [
+            "I had to ______________________ during the first half of the trail run because the second half was entirely uphill.",
+            "To avoid overspending, our team needs to ______________________ by turning off idle development servers."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 37,
+        "word": "fabric softener",
+        "type": "noun",
+        "english_meaning": "a liquid chemical agent used during laundry to make clothes feel softer and reduce static cling.",
+        "vietnamese_meaning": "nước xả vải",
+        "sentences": [
+            "I never use fabric softener when washing my running gear because it ruins the moisture-wicking properties of the shirts.",
+            "After a long day of analyzing dry SQL code, doing laundry and smelling the fresh fabric softener is strangely relaxing.",
+            "My Liverpool jersey felt so stiff after the mud-soaked rainy game, so I had to use a bit of fabric softener to restore it.",
+            "My running socks became so rough after multiple washes that I had to ask if we used fabric softener.",
+            "Working from home means I can run a load of laundry with fabric softener right after the morning stand-up."
+        ],
+        "synonyms": [
+            "**Fabric conditioner** — interchangeable; more common in British English.",
+            "**Softening agent** — more technical term."
+        ],
+        "antonyms": [
+            "**Detergent** — cleans clothes but does not soften them.",
+            "**Starch** — makes clothes stiff rather than soft."
+        ],
+        "prompts": [
+            "Make sure you don't add ______________________ to the wash cycle when cleaning high-performance running shirts.",
+            "I love the smell of ______________________ on my hoodies after a long day of coding."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 38,
+        "word": "happen to the best of us",
+        "type": "phrase",
+        "english_meaning": "used to comfort someone who has made a mistake or experienced bad luck, by reminding them that it can happen to anyone, even highly skilled or careful people.",
+        "vietnamese_meaning": "ai cũng có lúc thế / chuyện đó xảy ra với tất cả mọi người thôi",
+        "sentences": [
+            "Accidentally deleting the production table happens to the best of us; just restore the backup and don't worry.",
+            "Hitting the wall and having to walk the last few miles of a marathon happens to the best of us.",
+            "Even world-class defenders like Van Dijk make mistakes that lead to goals; it happens to the best of us.",
+            "Merging a broken branch into main happens to the best of us when we are rushing a hotfix.",
+            "Tripping on a tree root during a trail run happens to the best of us, no matter how experienced we are."
+        ],
+        "synonyms": [
+            "**It happens to everyone** — simpler and more direct.",
+            "**Anyone can make a mistake** — shifts the focus to human fallibility.",
+            "**A common slip-up** — describes the event itself rather than comforting.",
+            "**Part of the game** — sports-specific, implies setbacks are normal."
+        ],
+        "antonyms": [
+            "**An avoidable mistake** — implies the error was due to carelessness and shouldn't happen.",
+            "**A unique failure** — implies the mistake is rare or specific only to the individual."
+        ],
+        "prompts": [
+            "Don't feel too bad about missing your target marathon pace; it ______________________.",
+            "Forgetting to update the dbt schema before running the ETL job ______________________."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 39,
+        "word": "holding out for the big matches",
+        "type": "phrase",
+        "english_meaning": "saving one's energy, resources, or best efforts for the most important, critical, or high-stakes events rather than wasting them on minor ones.",
+        "vietnamese_meaning": "để dành sức/chờ đợi các trận đấu lớn",
+        "sentences": [
+            "The manager is resting Salah in the league cup, clearly holding out for the big matches in the Champions League.",
+            "I'm not pushing too hard in the weekly parkruns because I'm holding out for the big matches like the upcoming marathon.",
+            "Our senior architect doesn't get involved in small bug fixes; he's holding out for the big matches like the data warehouse migration.",
+            "Liverpool fans are quiet during early cup rounds, holding out for the big matches against Manchester City or Manchester United.",
+            "I skipped the minor feature requests this week, holding out for the big matches when we design the new streaming infrastructure."
+        ],
+        "synonyms": [
+            "**Saving it for when it matters** — very natural and common.",
+            "**Pacing oneself for the main event** — emphasizes long-term strategy.",
+            "**Holding back for the critical moments** — similar meaning.",
+            "**Reserving energy for the big stage** — slightly more dramatic."
+        ],
+        "antonyms": [
+            "**Going all out on everything** — using maximum effort at all times.",
+            "**Wasting energy on minor details** — losing focus on what's important.",
+            "**Playing every game like a final** — sports cliché for not resting or pacing."
+        ],
+        "prompts": [
+            "Instead of getting burnt out on daily support tickets, the lead engineer is ______________________ like the cloud migration project.",
+            "I'm keeping my weekly mileage relatively low right now, ______________________ of the autumn marathon season."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 40,
+        "word": "a slow burn",
+        "type": "noun phrase",
+        "english_meaning": "a state of anger, excitement, or development that builds up very slowly and gradually over a long period.",
+        "vietnamese_meaning": "diễn ra từ từ / âm ỉ / một quá trình lâu dài",
+        "sentences": [
+            "Marathon training is a slow burn; you don't see results in a week, but the fitness accumulates over months.",
+            "Transitioning our legacy database to the cloud is a slow burn, with small migrations happening week by week.",
+            "The young midfielder's integration into Liverpool's starting lineup is a slow burn, but his potential is clear.",
+            "My career progression to Principal Engineer has been a slow burn, built on years of steady architecture work.",
+            "The fatigue from a 70km running week is a slow burn; you feel fine at first, but by Friday you are completely exhausted."
+        ],
+        "synonyms": [
+            "**Gradual development** — more formal and literal.",
+            "**A long game** — idiom emphasizing patience and long-term strategy.",
+            "**Steady accumulation** — technical, focuses on gradual gathering.",
+            "**Creeping build-up** — emphasizes a slow, almost unnoticed increase."
+        ],
+        "antonyms": [
+            "**An overnight success** — something that happens very quickly.",
+            "**A flash in the pan** — something that starts suddenly but ends quickly.",
+            "**A rapid explosion** — extremely quick and sudden development."
+        ],
+        "prompts": [
+            "Building a robust data quality monitoring system is ______________________, requiring constant fine-tuning.",
+            "Rebuilding my aerobic base after a knee injury was ______________________, but it paid off on race day."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 41,
+        "word": "happen very gradually overtime",
+        "type": "verb phrase",
+        "english_meaning": "to occur, change, or develop in small, almost imperceptible steps over a long duration rather than all at once.",
+        "vietnamese_meaning": "diễn ra rất từ từ theo thời gian",
+        "sentences": [
+            "Your heart rate efficiency doesn't improve overnight; these cardiovascular changes happen very gradually over time.",
+            "Database performance degradation doesn't happen suddenly; it tends to happen very gradually over time as data volume grows.",
+            "The decline of Liverpool's high-pressing intensity in Klopp's final years seemed to happen very gradually over time.",
+            "Injuries from poor running form don't appear after one run; they happen very gradually over time.",
+            "The accumulation of technical debt in our ETL scripts happened very gradually over time as we added quick fixes."
+        ],
+        "synonyms": [
+            "**Develop incrementally over time** — more formal.",
+            "**Take place step by step** — emphasizes sequential progression.",
+            "**Build up slowly over time** — focuses on accumulation.",
+            "**Evolve over a long period** — highlights natural development."
+        ],
+        "antonyms": [
+            "**Occur abruptly** — happens suddenly and unexpectedly.",
+            "**Happen all at once** — occurs in a single moment.",
+            "**Change overnight** — occurs extremely quickly."
+        ],
+        "prompts": [
+            "The shift from batch processing to real-time streaming didn't happen in a day; it had to ______________________.",
+            "Improving your 5k personal best will ______________________ as you stay consistent with your weekly mileage."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 42,
+        "word": "on a roll",
+        "type": "idiom",
+        "english_meaning": "experiencing a prolonged period of success, good luck, or high performance, where one positive outcome leads to another.",
+        "vietnamese_meaning": "đang trên đà chiến thắng / đang gặp dây đỏ / đang làm rất tốt",
+        "sentences": [
+            "Liverpool are on a roll, having won their last six Premier League games in a row.",
+            "I'm on a roll today; I've already fixed three data pipeline bugs and optimized two slow queries.",
+            "I've set personal bests in my last three runs, so I feel like I'm on a roll with my marathon training.",
+            "The data engineering team is on a roll, shipping new dbt models ahead of schedule every sprint.",
+            "After finally getting past my injury, my training has been on a roll, with weekly mileage peaking smoothly."
+        ],
+        "synonyms": [
+            "**On a winning streak** — focuses specifically on consecutive victories.",
+            "**In top form** — highlights high capability or condition.",
+            "**Riding a wave of success** — slightly more formal and descriptive.",
+            "**In the zone** — focuses on intense focus and performance."
+        ],
+        "antonyms": [
+            "**In a slump** — experiencing a prolonged period of poor performance or bad luck.",
+            "**Hit a rough patch** — facing temporary difficulties or obstacles.",
+            "**Out of form** — not playing or performing at one's usual standard."
+        ],
+        "prompts": [
+            "With Salah scoring in every match, Liverpool are absolutely ______________________ right now.",
+            "I managed to resolve the server latency issue and the database lock error back-to-back—I was really ______________________."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 43,
+        "word": "you're crushing it right now",
+        "type": "phrase",
+        "english_meaning": "an informal, highly encouraging phrase used to tell someone that they are doing an excellent job or performing exceptionally well at the moment.",
+        "vietnamese_meaning": "bạn đang làm cực kỳ tốt đấy / đỉnh quá",
+        "sentences": [
+            "Your new ETL architecture is incredibly clean; you're crushing it right now with these optimizations.",
+            "I saw your latest training run on Strava—your pace was amazing, you're crushing it right now!",
+            "The new signing has scored four goals in three matches; the fans are all saying, \"you're crushing it right now!\"",
+            "You solved that database deadlock in under five minutes—you're crushing it right now!",
+            "Completing a 30km run in this heat proves you're crushing it right now in your marathon training."
+        ],
+        "synonyms": [
+            "**You're doing an amazing job** — more neutral.",
+            "**You are killing it** — very similar casual slang.",
+            "**You're in great form** — slightly more formal, common in sports.",
+            "**You're on fire** — emphasizes intense, consecutive success."
+        ],
+        "antonyms": [
+            "**You're struggling at the moment** — indicates difficulty or poor performance.",
+            "**You've lost your touch** — implies a decline in previous ability.",
+            "**You are underperforming** — more formal and critical."
+        ],
+        "prompts": [
+            "When I showed my coach my weekly training log on Strava, he commented, \"______________________!\"",
+            "My team lead told me, \"______________________,\" after I migrated the legacy data warehouse ahead of schedule."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 44,
+        "word": "I've been a fan of Liverpool since long before",
+        "type": "phrase",
+        "english_meaning": "a phrase used to emphasize that one's support for Liverpool FC is long-standing, predating recent successes or specific eras.",
+        "vietnamese_meaning": "tôi đã là fan của Liverpool từ rất lâu trước khi...",
+        "sentences": [
+            "I've been a fan of Liverpool since long before they won the Champions League in Madrid; I remember the tough years in mid-table.",
+            "A colleague asked if I only started watching football recently, and I replied that I've been a fan of Liverpool since long before I even wrote my first SQL query.",
+            "I've been a fan of Liverpool since long before I started running marathons; football was my first true passion.",
+            "I've been a fan of Liverpool since long before the current squad was assembled, back when Steven Gerrard was the captain.",
+            "During our Friday team lunch, I let everyone know I've been a fan of Liverpool since long before cloud computing was even a thing."
+        ],
+        "synonyms": [
+            "**I've supported Liverpool for decades** — more direct.",
+            "**I'm a long-time Liverpool supporter** — slightly more formal description.",
+            "**I was a Liverpool fan way back when** — informal, highlights the distant past."
+        ],
+        "antonyms": [
+            "**I'm a fair-weather fan** — supporting a team only when they are successful.",
+            "**I recently jumped on the bandwagon** — started supporting a team because they became popular/successful."
+        ],
+        "prompts": [
+            "People think I only started supporting the club during the Klopp years, but ______________________ he even arrived.",
+            "______________________ I became a data engineer, so Anfield has always been a special place for me."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 45,
+        "word": "punchy",
+        "type": "adjective",
+        "english_meaning": "having a strong, quick, and clear effect; short, direct, and full of impact.",
+        "vietnamese_meaning": "súc tích, mạnh mẽ, ấn tượng / gãy gọn",
+        "sentences": [
+            "Your dashboard headers need to be punchy so business stakeholders can understand the insights in three seconds.",
+            "I prefer doing short, punchy hill repeats over long, slow recovery runs to build my explosive power.",
+            "The post-match analysis on the fan channel was quick and punchy, capturing the excitement of the Anfield win perfectly.",
+            "Keep your Slack updates during a production outage short and punchy so the team can react quickly.",
+            "My coach gave me a punchy pre-race pep talk that kept me focused and motivated."
+        ],
+        "synonyms": [
+            "**Concise and impactful** — more formal.",
+            "**Crisp** — implies clear, clean, and direct.",
+            "**Snappy** — informal; quick, energetic, and engaging.",
+            "**Dynamic** — full of energy and force."
+        ],
+        "antonyms": [
+            "**Wordy** — using too many words; verbose.",
+            "**Rambling** — long and confused, without a clear direction.",
+            "**Dull** — lacking excitement, impact, or energy.",
+            "**Stiff** — formal and unnatural."
+        ],
+        "prompts": [
+            "The slides for the new data architecture presentation should be ______________________ and visual.",
+            "I did a ______________________ 20-minute tempo session on the treadmill because I was short on time."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 46,
+        "word": "don't seem to have that same hunger to win",
+        "type": "phrase",
+        "english_meaning": "to appear to lack the intense desire, motivation, or determination to succeed or achieve victory that was previously present.",
+        "vietnamese_meaning": "dường như không còn khát khao chiến thắng như trước",
+        "sentences": [
+            "After winning the league, some players don't seem to have that same hunger to win every single match.",
+            "Since our startup got acquired, the development team doesn't seem to have that same hunger to win and build great products.",
+            "After running my personal best, I don't seem to have that same hunger to win my local parkrun; I'm just running for fun now.",
+            "Watching Liverpool lose to a bottom-tier team made me feel like the players don't seem to have that same hunger to win.",
+            "The engineers are just doing the bare minimum; they don't seem to have that same hunger to win or optimize the pipeline."
+        ],
+        "synonyms": [
+            "**Lack the competitive drive** — more formal.",
+            "**Lose their edge** — idiom meaning to lose previous high quality or competitiveness.",
+            "**Seem complacent** — formal; showing smug satisfaction with oneself, leading to lack of effort.",
+            "**Lack motivation** — direct and simple."
+        ],
+        "antonyms": [
+            "**Are highly driven** — showing intense determination to succeed.",
+            "**Possess an insatiable appetite for success** — extremely strong desire to win.",
+            "**Are fighting tooth and nail** — putting in maximum effort to win."
+        ],
+        "prompts": [
+            "Since they secured a spot in the top four, Liverpool ______________________.",
+            "The team ______________________ after we hit our quarterly database migration goals."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 47,
+        "word": "the spark just isn't there",
+        "type": "phrase",
+        "english_meaning": "used to describe a situation where the enthusiasm, energy, chemistry, or inspiration is noticeably missing.",
+        "vietnamese_meaning": "ngọn lửa nhiệt huyết/sự gắn kết không còn nữa",
+        "sentences": [
+            "The team played flatly against their rivals; the spark just isn't there in the attack anymore.",
+            "We tried to brainstorm a new data architecture, but the team was tired and the spark just wasn't there.",
+            "I went out for a morning run, but my legs felt heavy and the spark just wasn't there today.",
+            "Even during a Champions League night at Anfield, sometimes the team looks tired and the spark just isn't there.",
+            "I used to love writing complex SQL queries, but lately I feel burnt out and the spark just isn't there."
+        ],
+        "synonyms": [
+            "**Lacking energy** — simple and direct.",
+            "**Flat and lifeless** — common in sports or performance reviews.",
+            "**Missing the magic touch** — emphasizes the loss of special quality.",
+            "**Disjointed** — focuses on lack of connection or chemistry."
+        ],
+        "antonyms": [
+            "**Electrifying** — full of intense energy and excitement.",
+            "**Bursting with life** — highly energetic.",
+            "**Inspired** — showing high levels of creativity and enthusiasm."
+        ],
+        "prompts": [
+            "I tried to write a new blog post about dbt models, but ______________________ tonight.",
+            "We finished the derby match in a boring draw because ______________________ for either side."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 48,
+        "word": "the players aren't fighting for the win",
+        "type": "phrase",
+        "english_meaning": "describing a team showing a lack of effort, determination, or competitive spirit to secure a victory during a game.",
+        "vietnamese_meaning": "các cầu thủ không chiến đấu vì chiến thắng",
+        "sentences": [
+            "It's frustrating to watch when Liverpool are losing and the players aren't fighting for the win on the pitch.",
+            "In our cross-functional team, it feels like the developers are just coasting and the players aren't fighting for the win.",
+            "I saw some runners jogging casually near the finish line of the local race; it looked like the players aren't fighting for the win.",
+            "The fans at Anfield will forgive a defeat, but they won't forgive it if the players aren't fighting for the win.",
+            "If our team doesn't step up during this sprint, stakeholders will think the players aren't fighting for the win."
+        ],
+        "synonyms": [
+            "**The team has given up** — direct and severe.",
+            "**Lacking effort and desire** — descriptive.",
+            "**Going through the motions** — idiom meaning doing something automatically without effort or interest."
+        ],
+        "antonyms": [
+            "**Giving 100 percent** — putting in maximum effort.",
+            "**Fighting for every ball** — sports-specific, showing intense effort.",
+            "**Leaving everything on the pitch** — playing with maximum determination."
+        ],
+        "prompts": [
+            "The manager was furious in his post-match interview, saying ______________________.",
+            "Even when our database migration got tough, our data engineering squad kept pushing; no one could say ______________________."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 49,
+        "word": "timer goes off",
+        "type": "phrase",
+        "english_meaning": "when an alarm or timer makes a sound to signal that a set period of time has ended.",
+        "vietnamese_meaning": "chuông báo thức/đồng hồ hẹn giờ kêu",
+        "sentences": [
+            "I set a Pomodoro timer for 25 minutes to focus on debugging, and when the timer goes off, I take a short break.",
+            "During my interval training, I run hard until the timer goes off on my Garmin watch.",
+            "I had to set an alarm for 3 AM to watch Liverpool play in the Champions League, and when the timer went off, I was still half asleep.",
+            "I run a test script that waits for the API response; when the timer goes off and there's no data, it alerts us.",
+            "I put my running shoes in the dryer, and when the timer goes off, I'll go check if they are dry."
+        ],
+        "synonyms": [
+            "**The alarm sounds** — common and clear.",
+            "**The timer rings** — focuses on the ringing noise.",
+            "**The alert triggers** — more technical; good for data/systems contexts."
+        ],
+        "antonyms": [
+            "**Timer is silent** — no sound is made.",
+            "**Cancel the timer** — stopping the timer before it finishes."
+        ],
+        "prompts": [
+            "I run a 45-minute tempo session, and the moment the ______________________, I start my cool-down walk.",
+            "When the ______________________, I knew the ETL job had exceeded its execution limit."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 50,
+        "word": "zen mode",
+        "type": "noun phrase",
+        "english_meaning": "a state of calm focus, concentration, and peace of mind, where one is free from distractions and stress.",
+        "vietnamese_meaning": "trạng thái tập trung cao độ / tĩnh tâm",
+        "sentences": [
+            "I put my headphones on, open my IDE, and enter zen mode to write clean SQL code for hours.",
+            "Around kilometer 15 of my long run, I hit a steady pace and enter a zen mode where I don't feel any fatigue.",
+            "When watching a penalty shootout, I have to go into zen mode to keep my heart rate from spiking.",
+            "I turn off Slack notifications to go into zen mode when I need to deploy database changes to production.",
+            "Running early in the morning in the quiet park helps me get into a zen mode before the busy day starts."
+        ],
+        "synonyms": [
+            "**In the zone** — common sports/work idiom for peak focus and performance.",
+            "**State of flow** — psychological term for complete absorption in an activity.",
+            "**Deep focus** — straightforward and professional.",
+            "**Peace of mind** — emphasizes the calm, stress-free aspect."
+        ],
+        "antonyms": [
+            "**Distracted state** — unable to focus due to interruptions.",
+            "**Panicked state** — highly stressed and anxious.",
+            "**Scattered mind** — thinking about too many things at once."
+        ],
+        "prompts": [
+            "I put on my noise-canceling headphones and entered ______________________ to refactor the broken pipeline.",
+            "Running without music allows me to stay in ______________________ and focus entirely on my breathing."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 51,
+        "word": "pull something out of my hat",
+        "type": "idiom",
+        "english_meaning": "to produce a sudden, unexpected solution, idea, or result, often as if by magic, to solve a difficult problem at the last minute.",
+        "vietnamese_meaning": "tự dưng nghĩ ra giải pháp / tạo nên bất ngờ phút chót",
+        "sentences": [
+            "The database crashed right before the demo, but I managed to pull a solution out of my hat by switching to a backup replica.",
+            "I was feeling exhausted at mile 22, but I managed to pull a final burst of energy out of my hat to finish under three hours.",
+            "Liverpool looked like they were going to draw, but Salah pulled a winning goal out of his hat in injury time.",
+            "The client asked for a feature we hadn't built, so I had to pull a working prototype out of my hat for the meeting.",
+            "My hydration belt fell off, but I pulled a clever trick out of my hat and used my running cap to carry my gels."
+        ],
+        "synonyms": [
+            "**Pull a rabbit out of a hat** — the most common form of this idiom.",
+            "**Conjure up a solution** — emphasizes the magical or unexpected creation of a fix.",
+            "**Come up with something out of thin air** — implies generating an idea with no preparation.",
+            "**Produce a miracle** — slightly more dramatic."
+        ],
+        "antonyms": [
+            "**Run out of options** — having no solutions left.",
+            "**Fail to deliver** — unable to produce a solution or result.",
+            "**Stick strictly to the plan** — no unexpected or creative improvisation."
+        ],
+        "prompts": [
+            "We were down 1-0 in the Merseyside derby until our midfielder ______________________ and scored from 30 yards.",
+            "The server memory was completely full, but I managed to ______________________ to keep the database running."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 52,
+        "word": "leads me down the wrong path",
+        "type": "phrase",
+        "english_meaning": "to guide or direct someone to follow an incorrect course of action, make a mistake, or believe something that is false.",
+        "vietnamese_meaning": "dẫn tôi đi sai hướng / đưa đến quyết định sai lầm",
+        "sentences": [
+            "An outdated database schema diagram leads me down the wrong path when I was trying to write the join queries.",
+            "Following a generic training plan on the internet leads me down the wrong path and resulted in a shin injury.",
+            "Trusting early transfer rumors often leads me down the wrong path, making me excited about players we never sign.",
+            "A misleading error message in the console logs leads me down the wrong path for hours before I found the actual bug.",
+            "A broken GPS signal on my running watch leads me down the wrong path, making me run much faster than I should have."
+        ],
+        "synonyms": [
+            "**Misleads me** — direct and simple.",
+            "**Steers me off course** — metaphorical for going in the wrong direction.",
+            "**Puts me on the wrong track** — very common and interchangeable.",
+            "**Guides me astray** — slightly more formal or old-fashioned."
+        ],
+        "antonyms": [
+            "**Points me in the right direction** — guide someone correctly.",
+            "**Keeps me on track** — ensure one stays on the correct course.",
+            "**Provides accurate guidance** — formal and literal."
+        ],
+        "prompts": [
+            "The bad data quality alert ______________________ and I ended up debugging a healthy server.",
+            "Following a runner who started too fast ______________________ in the first mile of the marathon."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 53,
+        "word": "double check",
+        "type": "verb",
+        "english_meaning": "to inspect or verify something a second time to ensure it is accurate, correct, or safe.",
+        "vietnamese_meaning": "kiểm tra lại cho chắc chắn",
+        "sentences": [
+            "I always double check my SQL queries before running them on the production database.",
+            "Before I leave the house for a long run, I double check that my running watch is fully charged.",
+            "I had to double check the Premier League standings to make sure Liverpool were still at the top of the table.",
+            "It's a good practice to double check the ETL pipeline schema mappings after a source system update.",
+            "Before the race started, I double checked my shoelaces to make sure they were tied with a double knot."
+        ],
+        "synonyms": [
+            "**Verify again** — more formal.",
+            "**Cross-check** — implies checking using a different source or method.",
+            "**Re-examine** — formal; to look at something closely again.",
+            "**Confirm** — to make sure of something."
+        ],
+        "antonyms": [
+            "**Assume** — to accept something as true without checking.",
+            "**Neglect** — to fail to care for or check something.",
+            "**Overlook** — to fail to notice or verify something."
+        ],
+        "prompts": [
+            "Please ______________________ the dbt configuration file before committing your changes.",
+            "I had to ______________________ my training plan to confirm if today was a rest day."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 54,
+        "word": "AI can be a bit off sometimes",
+        "type": "phrase",
+        "english_meaning": "a casual expression acknowledging that artificial intelligence tools can occasionally produce incorrect, inaccurate, or strange results.",
+        "vietnamese_meaning": "AI đôi lúc cũng có thể hơi sai lệch/ngớ ngẩn",
+        "sentences": [
+            "I used an AI assistant to generate the Spark configuration, but the AI can be a bit off sometimes so I checked it manually.",
+            "My fitness app's AI-generated pacing recommendation can be a bit off sometimes, so I rely on my body's feelings.",
+            "The AI match predictor says Liverpool will lose 3-0, but we know AI can be a bit off sometimes when predicting Anfield nights.",
+            "I use GitHub Copilot to write SQL boilerplate, but AI can be a bit off sometimes with complex joins.",
+            "The AI coach on my running watch can be a bit off sometimes, telling me to rest when I feel perfectly fine."
+        ],
+        "synonyms": [
+            "**AI can make mistakes occasionally** — simpler and more direct.",
+            "**AI is sometimes inaccurate** — more formal.",
+            "**Algorithms are not foolproof** — technical and formal.",
+            "**AI can hallucinate** — specifically refers to generating false facts."
+        ],
+        "antonyms": [
+            "**AI is highly reliable** — implies constant accuracy.",
+            "**Algorithms are flawless** — implying no errors are made."
+        ],
+        "prompts": [
+            "I ask ChatGPT to write the initial Python script, but ______________________, so I always test the output.",
+            "The smart scale's AI estimated my body fat percentage, but ______________________."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 55,
+        "word": "step in",
+        "type": "phrasal verb",
+        "english_meaning": "to get involved in a difficult situation, argument, or activity in order to help, resolve it, or take control.",
+        "vietnamese_meaning": "can thiệp / xen vào / trợ giúp",
+        "sentences": [
+            "When the junior developer got stuck on the database deadlock issue for two days, I had to step in.",
+            "My running partner was struggling to maintain the pace during the marathon, so I stepped in to lead the group.",
+            "When the defense started leaking goals, the manager had to step in and change the tactical formation.",
+            "The team lead had to step in and resolve the conflict between the product manager and the data architects.",
+            "A spectator saw a runner collapse near the finish line and stepped in to offer medical assistance."
+        ],
+        "synonyms": [
+            "**Intervene** — more formal and serious.",
+            "**Take charge** — highlights taking control of the situation.",
+            "**Help out** — less formal, focuses on assistance.",
+            "**Involve oneself** — neutral."
+        ],
+        "antonyms": [
+            "**Stand by** — to watch something happen without getting involved or helping.",
+            "**Stay out of it** — to intentionally avoid getting involved.",
+            "**Withdraw** — to remove oneself from a situation."
+        ],
+        "prompts": [
+            "The automated pipeline failed three times, forcing the data platform team to ______________________.",
+            "When our regular pacer got injured, a volunteer had to ______________________ to lead the 4-hour marathon group."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 56,
+        "word": "bring it back to the front of your mind",
+        "type": "phrase",
+        "english_meaning": "to consciously recall or focus attention on a piece of information or a goal that you had temporarily forgotten or neglected.",
+        "vietnamese_meaning": "đưa nó trở lại vị trí ưu tiên / gợi nhớ lại / lưu tâm lại",
+        "sentences": [
+            "We need to bring data quality back to the front of our minds, as we've been focusing too much on speed.",
+            "When I felt lazy during winter, looking at my marathon registration email brought my training back to the front of my mind.",
+            "Seeing the Premier League table on my phone brought the title race back to the front of my mind during a busy work week.",
+            "Reviewing the security guidelines before the database migration brought best practices back to the front of my mind.",
+            "Looking at my running shoe wear pattern brought my running form back to the front of my mind during my long run."
+        ],
+        "synonyms": [
+            "**Recall to mind** — more formal.",
+            "**Prioritize again** — focuses on the organizational aspect.",
+            "**Refresh one's memory** — focuses on remembering details.",
+            "**Bring to the forefront** — very similar, slightly more formal."
+        ],
+        "antonyms": [
+            "**Put on the back burner** — to temporarily ignore or postpone something.",
+            "**Dismiss** — to deliberately stop thinking about something.",
+            "**Forget about** — to let something slip from memory."
+        ],
+        "prompts": [
+            "Reading the post-mortem report from the server crash ______________________ the importance of backups.",
+            "Seeing my friends post their weekend long runs on Strava ______________________ my marathon aspirations."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 57,
+        "word": "get discouraged",
+        "type": "phrase",
+        "english_meaning": "to lose confidence, hope, or enthusiasm about something due to setbacks, difficulties, or lack of progress.",
+        "vietnamese_meaning": "nản lòng / mất đi ý chí",
+        "sentences": [
+            "Don't get discouraged if your first Spark job takes hours to run; database optimization takes time to master.",
+            "I got discouraged when my pace dropped during the rainy runs, but my coach told me to stay consistent.",
+            "Liverpool fans didn't get discouraged when the team went 1-0 down; they kept singing Anfield's anthem.",
+            "It's easy to get discouraged when the data quality dashboard shows hundreds of failed checks on your first day.",
+            "Recovering from a knee injury is a slow process, and it's normal to get discouraged sometimes."
+        ],
+        "synonyms": [
+            "**Lose heart** — idiom meaning to lose courage or hope.",
+            "**Become disheartened** — slightly more formal.",
+            "**Feel down** — informal and common.",
+            "**Give up hope** — indicates a more complete loss of optimism."
+        ],
+        "antonyms": [
+            "**Stay motivated** — keeping the enthusiasm and drive.",
+            "**Be encouraged** — gaining confidence or hope.",
+            "**Stay positive** — maintaining an optimistic outlook."
+        ],
+        "prompts": [
+            "When your code gets rejected during review, don't ______________________; it's just part of the learning process.",
+            "It is easy to ______________________ when an injury disrupts your marathon training plan."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 58,
+        "word": "hit the mark",
+        "type": "idiom",
+        "english_meaning": "to successfully achieve a target, reach a desired standard, or produce the exact effect intended.",
+        "vietnamese_meaning": "đạt yêu cầu / đi trúng đích / đúng trọng tâm",
+        "sentences": [
+            "Our new query optimization really hit the mark, reducing database load by exactly 50 percent.",
+            "My pacing during the tempo run hit the mark, keeping me right at my target marathon pace.",
+            "The manager's tactical adjustments in the second half hit the mark, leading to three quick goals.",
+            "The presentation about data governance hit the mark, convincing the stakeholders to increase our budget.",
+            "Choosing lightweight carbon shoes for the race hit the mark, helping me shave two minutes off my personal best."
+        ],
+        "synonyms": [
+            "**Achieve the goal** — simple and direct.",
+            "**Hit the target** — very similar meaning.",
+            "**Strike gold** — implies exceptional, highly valuable success.",
+            "**Fit the bill** — idiom meaning to be exactly what is needed."
+        ],
+        "antonyms": [
+            "**Miss the mark** — to fail to achieve the target or desired standard.",
+            "**Fall short** — to fail to reach a required level or expectation.",
+            "**Go wide** — sports-specific, missing the target completely."
+        ],
+        "prompts": [
+            "The data visualization dashboard really ______________________, providing the exact insights the business team needed.",
+            "My nutrition strategy during the long run ______________________, preventing me from hitting the wall."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
+    },
+    {
+        "id": 59,
+        "word": "hang my clothes to dry",
+        "type": "phrase",
+        "english_meaning": "to suspend freshly washed clothing on a line, rack, or hanger so they can dry in the air.",
+        "vietnamese_meaning": "phơi quần áo",
+        "sentences": [
+            "After my sweaty weekend run, I immediately wash my gear and hang my clothes to dry on the balcony.",
+            "I like to step away from the computer screen and hang my clothes to dry during my afternoon stand-up break.",
+            "I washed my lucky Liverpool shirt and carefully hung my clothes to dry before match day.",
+            "Washing my thermal running tights and hanging my clothes to dry is my standard post-run routine in the winter.",
+            "Living in an apartment, I have a folding rack inside the study where I hang my clothes to dry while I code."
+        ],
+        "synonyms": [
+            "**Line-dry my laundry** — slightly more formal or specific.",
+            "**Air-dry my clothes** — focuses on drying in the air rather than using a machine.",
+            "**Hang out the washing** — common British/Australian expression."
+        ],
+        "antonyms": [
+            "**Tumble-dry my clothes** — drying clothes using a machine dryer.",
+            "**Leave laundry in the washing machine** — neglecting to dry the clothes."
+        ],
+        "prompts": [
+            "Instead of using the dryer which can shrink them, I prefer to ______________________ in the sun.",
+            "I took a 10-minute break from my SQL debugging to ______________________ on the balcony rack."
+        ],
+        "source": "vocabulary-batch-6.md",
+        "added_date": "2026-06-15"
     }
 ];
