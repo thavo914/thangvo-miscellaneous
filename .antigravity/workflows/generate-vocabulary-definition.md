@@ -19,18 +19,30 @@ Use when the user provides a target word or phrase (noun, verb, adjective, adver
 
 ## Output Structure
 
+> [!IMPORTANT]
+> **Python Parser Compatibility Requirements (CRITICAL)**
+> To ensure the generated output can be successfully parsed by the vocabulary review app parser (`parse_vocab.py`), the output must follow these rules strictly:
+> 1. **Numbered Header**: The target word/phrase header must be bold and prefixed with a number and a period. E.g., `**1. target word/phrase**` (or matching the correct index in the batch).
+> 2. **Definition Block Format**: The definition line must match this exact format:
+>    `*([part of speech])*: [English definition] *(Vietnamese: [Vietnamese translation])*`
+>    Note the exact syntax: `*(part of speech)*` followed by `: ` followed by the definition, and ending with ` *(Vietnamese: [translation])*`.
+> 3. **Sample Sentences Header**: The section header must be exactly `**Sample Sentences:**` followed by a numbered list (e.g. `1. `, `2. `).
+> 4. **Synonyms Header**: The section header must be exactly `**Synonyms / Alternatives:**` followed by a bulleted list starting with `- **[Synonym]** — [Nuance]`.
+> 5. **Antonyms Header**: The section header must be exactly `**Antonyms / Contrasts:**` followed by a bulleted list starting with `- **[Antonym]** — [Contrast]`.
+> 6. **"Your Turn" Prompts Header**: The section header must be exactly `**"Your Turn" Prompts:**` followed by blockquotes starting with `> `.
+
 ### 1. Definition Block
 
 Format as follows:
 
 ```
-**[target word/phrase]**
-*(part of speech)*: [a clear, natural definition in one to two sentences explaining the core meaning and typical usage context]
+**1. [target word/phrase]**
+*(part of speech)*: [a clear, natural definition in one to two sentences explaining the core meaning and typical usage context] *(Vietnamese: [Vietnamese translation])*
 ```
 
 - Write the definition in plain, accessible English (B1-B2 level).
 - If the word has a strong connotation (positive/negative/neutral), state it briefly.
-- Include the **Vietnamese translation** of the target word/phrase in parentheses after the definition.
+- Include the **Vietnamese translation** of the target word/phrase formatted exactly as `*(Vietnamese: [translation])*` after the English definition.
 
 ---
 
@@ -84,7 +96,7 @@ Example format:
 
 ---
 
-**at an astonishing rate**
+**1. at an astonishing rate**
 *(noun phrase)*: an unexpectedly high or impressive speed, level, or degree at which something happens or develops, often surprising or remarkable in nature. *(Vietnamese: với tốc độ đáng kinh ngạc)*
 
 **Sample Sentences:**
