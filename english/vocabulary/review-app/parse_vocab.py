@@ -302,3 +302,15 @@ if __name__ == "__main__":
     
     # 4. Export database to vocab_data.js
     export_db_to_js(db_path, js_path)
+    
+    # 5. Delete processed markdown files
+    files_to_delete = glob.glob(os.path.join(lessons_dir, "vocabulary-batch-*.md"))
+    deleted_count = 0
+    for file in files_to_delete:
+        try:
+            os.remove(file)
+            deleted_count += 1
+        except Exception as e:
+            print(f"Warning: Failed to delete {file}: {e}")
+    if deleted_count > 0:
+        print(f"Deleted {deleted_count} processed markdown files.")
