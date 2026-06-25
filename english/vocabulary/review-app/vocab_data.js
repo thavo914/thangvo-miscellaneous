@@ -2321,5 +2321,191 @@ const vocabData = [
         ],
         "source": "vocabulary-batch-8.md",
         "added_date": "2026-06-24"
+    },
+    {
+        "id": 77,
+        "word": "is a classic for a reason",
+        "type": "idiomatic phrase",
+        "english_meaning": "used to state that something has remained popular, respected, or highly valued over a long period because it is genuinely of excellent quality or highly effective.",
+        "vietnamese_meaning": "là một điều kinh điển đều có lý do của nó",
+        "sentences": [
+            "Relational databases like PostgreSQL might be decades old, but using them for reliable transactional data is a classic for a reason.",
+            "Doing long, slow distance runs on Sundays is a classic for a reason; it builds the aerobic base like nothing else.",
+            "Hearing the Anfield crowd sing \"You'll Never Walk Alone\" before kick-off is a classic for a reason—it gives you goosebumps every single time.",
+            "Writing clean, modular SQL code instead of massive, unreadable queries is a classic for a reason when you have to maintain complex ETL pipelines.",
+            "Using standard petroleum jelly to prevent chafing on long runs is a classic for a reason—it is cheap and it works perfectly."
+        ],
+        "synonyms": [
+            "**Time-tested** — refers to something that has proven its value over time.",
+            "**A tried-and-true method** — emphasizes that the method is reliable and has worked many times before.",
+            "**Stands the test of time** — focuses on enduring quality and popularity.",
+            "**A gold standard** — emphasizes being the best, most reliable example of its kind."
+        ],
+        "antonyms": [
+            "**A passing fad** — something that is briefly popular but quickly forgotten.",
+            "**Outdated** — no longer useful or relevant in modern times.",
+            "**Overrated** — popular or valued far more than it actually deserves."
+        ],
+        "prompts": [
+            "Even with all the new NoSQL databases, using a robust relational database for core transactional data is a classic for a reason because ______________________.",
+            "Wearing a simple, lightweight cap to block the sun during a summer marathon is a classic for a reason; it ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 78,
+        "word": "bridge the gap",
+        "type": "verb phrase",
+        "english_meaning": "to connect two different things, concepts, or groups, making it easier to transition between them or reconcile their differences.",
+        "vietnamese_meaning": "thu hẹp khoảng cách",
+        "sentences": [
+            "As a data architect, you often need to bridge the gap between business stakeholders who want dashboards and the engineering team that builds the pipelines.",
+            "Adding structured strength training sessions twice a week helped bridge the gap between my current stamina and my sub-4-hour marathon goal.",
+            "Having a versatile midfielder like Szoboszlai helps Liverpool bridge the gap between defence and attack during fast transitions.",
+            "Using dbt models can bridge the gap between raw data storage and business-ready analytics tables for non-technical users.",
+            "Buying a hybrid running shoe helped bridge the gap when I transitioned from soft trail running to hard road running."
+        ],
+        "synonyms": [
+            "**Connect the dots** — suggests finding relationships or understanding how separate things relate.",
+            "**Fill the void** — focuses on providing something missing to complete a whole.",
+            "**Link** — a more general and neutral term for joining two things.",
+            "**Reconcile** — suggests making two contrasting or conflicting ideas work together."
+        ],
+        "antonyms": [
+            "**Widen the divide** — to make the difference or separation between two things even larger.",
+            "**Separate** — to keep apart or disconnect.",
+            "**Create a barrier** — to actively block connection or communication."
+        ],
+        "prompts": [
+            "We implemented a semantic data layer to bridge the gap between ______________________ and ______________________.",
+            "To bridge the gap in my marathon preparation, I started doing ______________________ every Tuesday morning."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 79,
+        "word": "prerequisite",
+        "type": "noun",
+        "english_meaning": "something that must exist or happen before something else can take place or be done; a mandatory condition.",
+        "vietnamese_meaning": "điều kiện tiên quyết",
+        "sentences": [
+            "Understanding advanced SQL window functions is an absolute prerequisite before you can start optimizing our customer telemetry pipelines.",
+            "Building a consistent weekly base of at least 50 kilometers is a prerequisite for anyone attempting to train for a full marathon without getting injured.",
+            "Winning our remaining home games at Anfield is a prerequisite if Liverpool want to stay in the Premier League title race this season.",
+            "Setting up proper unit tests for data quality is a prerequisite before deploying any changes to the production warehouse.",
+            "Getting a professional shoe fitting is a prerequisite if you want to avoid recurring knee issues during high-mileage weeks."
+        ],
+        "synonyms": [
+            "**Precondition** — a condition that must be met beforehand; very similar in meaning.",
+            "**Requirement** — a general term for something needed or demanded.",
+            "**Must-have** — an informal term for something essential.",
+            "**Necessity** — emphasizes that the thing is indispensable and cannot be avoided."
+        ],
+        "antonyms": [
+            "**Optional extra** — something that is nice to have but not required at all.",
+            "**Byproduct** — a secondary or incidental result, not a starting condition.",
+            "**Nonessential** — not required or necessary for the outcome."
+        ],
+        "prompts": [
+            "Designing a clean database schema is a prerequisite for ______________________.",
+            "Consistent long runs are a prerequisite for marathon training because ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 80,
+        "word": "strategic",
+        "type": "adjective",
+        "english_meaning": "relating to the identification of long-term or overall aims and interests and the means of achieving them; carefully planned.",
+        "vietnamese_meaning": "mang tính chiến lược",
+        "sentences": [
+            "Shifting our infrastructure from self-hosted servers to a managed cloud warehouse was a strategic decision to reduce long-term maintenance costs.",
+            "I made a strategic choice to run the first half of the marathon slightly slower than target pace to conserve energy for the final hills.",
+            "Signing a young defensive midfielder was a strategic move by Liverpool to prepare for the squad's transition over the next three seasons.",
+            "Our team takes a strategic approach to data quality, focusing first on critical financial tables rather than fixing every minor logging error.",
+            "Planning my weekly mileage to include a recovery week every fourth week is a strategic way to prevent overtraining syndrome."
+        ],
+        "synonyms": [
+            "**Calculated** — carefully planned to achieve a specific result.",
+            "**Deliberate** — done consciously and intentionally, though not necessarily part of a grand long-term plan.",
+            "**Tactical** — focuses on immediate, short-term actions to achieve a larger strategic goal.",
+            "**Forward-looking** — emphasizes planning for the future."
+        ],
+        "antonyms": [
+            "**Haphazard** — lacking any obvious principle of organization or planning; random.",
+            "**Short-sighted** — focusing only on immediate needs without considering future consequences.",
+            "**Accidental** — happening by chance or without intention."
+        ],
+        "prompts": [
+            "Moving our ETL orchestration to Airflow was a strategic decision because ______________________.",
+            "During the race, my strategic decision to run behind the pacer helped me ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 81,
+        "word": "I'm locked in",
+        "type": "idiomatic phrase",
+        "english_meaning": "fully focused, highly motivated, and completely dedicated to a specific task, goal, or training program, with no distractions.",
+        "vietnamese_meaning": "tôi đang cực kỳ tập trung / quyết tâm",
+        "sentences": [
+            "With the production migration scheduled for midnight, I'm locked in and double-checking every single airflow DAG configuration.",
+            "It's 5:00 AM on a rainy Tuesday, but I'm locked in for this speed workout because my marathon is only six weeks away.",
+            "Down 1-0 at halftime, the players came out looking like they were completely locked in, pressing high and winning every second ball.",
+            "I turned off all my Slack notifications today because I'm locked in on refactoring this legacy Scala script.",
+            "Once I cross the starting line of a race, I'm locked in and only focused on keeping my breathing relaxed and matching my target split times."
+        ],
+        "synonyms": [
+            "**In the zone** — highly focused and performing at one's best; casual.",
+            "**Laser-focused** — emphasizing extreme, undivided attention.",
+            "**Committed** — dedicated to a cause or course of action; more formal.",
+            "**Fully engaged** — actively involved and paying close attention."
+        ],
+        "antonyms": [
+            "**Distracted** — unable to concentrate or pay attention.",
+            "**Unmotivated** — lacking enthusiasm or drive to complete a task.",
+            "**Half-hearted** — showing little effort, enthusiasm, or interest."
+        ],
+        "prompts": [
+            "When I'm writing complex SQL window functions, I'm locked in and ______________________.",
+            "With only two weeks left before race day, I'm locked in on my ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 82,
+        "word": "are spot on",
+        "type": "adjective phrase",
+        "english_meaning": "completely accurate, correct, or precise; perfectly suited to the situation or expressing the exact truth.",
+        "vietnamese_meaning": "hoàn toàn chính xác / chuẩn xác",
+        "sentences": [
+            "Your calculations for our peak pipeline resource utilization are spot on; we definitely need to provision more cluster nodes for the weekend batch.",
+            "The race strategist's pacing recommendations were spot on, helping me run an even-split marathon and finish right at my target time.",
+            "The manager's tactical adjustments at halftime were spot on, completely neutralising their counter-attacks and securing the three points for Liverpool.",
+            "Your comments on my pull request are spot on—using a broadcast join here will save us a lot of processing time.",
+            "The weather forecast's predictions of strong headwinds were spot on, so I adjusted my race strategy accordingly."
+        ],
+        "synonyms": [
+            "**Dead on** — extremely accurate; very informal.",
+            "**Accurate** — correct in all details; exact.",
+            "**On the money** — completely correct; colloquial.",
+            "**Precise** — exact and accurate in expression or detail."
+        ],
+        "antonyms": [
+            "**Wide of the mark** — incorrect or inaccurate; far from the truth.",
+            "**Inaccurate** — not correct or true.",
+            "**Way off** — completely incorrect or highly inaccurate; informal."
+        ],
+        "prompts": [
+            "The senior architect's remarks about our pipeline bottlenecks are spot on; we need to ______________________.",
+            "The coach's predictions about my race-day heart rate were spot on because ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
     }
 ];
