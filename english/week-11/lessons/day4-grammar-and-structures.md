@@ -15,6 +15,13 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   > **Common Mistake:** Using plural verbs after a gerund subject, or using the base verb.
   > - *Incorrect:* "**Design** systems **are** hard."
   > - *Correct:* "**Designing** systems **is** hard."
+- **Your turn:**
+  - **Vietnamese:** *Việc thiết kế các hệ thống dữ liệu quy mô lớn đòi hỏi rất nhiều kinh nghiệm.*  
+  - **English:** Designing large-scale data systems requires a lot of experience.
+  - **Vietnamese:** Việc giao tiếp với các bộ phận khác nhau của công ty là một kỹ năng quan trọng.
+  - **English:** Communicating with different departments in the company is an important skill.
+  - **Vietnamese:** Việc học hỏi về các công nghệ mới là điều cần thiết để phát triển trong lĩnh vực này.
+  - **English:** Learning about new technologies is essential for development in this field.
 
 ---
 
@@ -30,6 +37,13 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   > **Common Mistake:** Using both "more" and the "-er" suffix.
   > - *Incorrect:* "An architect is **more higher** than an engineer."
   > - *Correct:* "An architect is **higher** than an engineer." or "An architect's role is **more strategic**."
+- **Your turn:**
+  - **Vietnamese:** *Vai trò của một kiến trúc sư đòi hỏi nhiều kỹ năng hơn so với một kỹ sư dữ liệu.*  
+  - **English:** An architect's role requires more skills than a data engineer's role.
+  - **Vietnamese:** Kinh nghiệm làm việc thực tế quan trọng hơn bằng cấp.
+  - **English:** Practical work experience is more important than academic qualifications.
+  - **Vietnamese:** Giao tiếp hiệu quả quan trọng hơn việc viết code tốt.
+  - **English:** Effective communication is more important than writing good code.
 
 ---
 
@@ -44,7 +58,13 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   > **Common Mistake:** Confusing the negative forms. "Don't have to" means it is optional. "Must not" means it is forbidden.
   > - *Incorrect:* "As an architect, you **must not** code every day." (It is forbidden to code).
   > - *Correct:* "As an architect, you **don't have to** code every day." (It is optional/not required).
-
+- **Your turn:**
+  - **Vietnamese:** *Bạn cần phải giao tiếp nhiều hơn với khách hàng.*  
+  - **English:** You need to communicate more with customers.
+  - **Vietnamese:** Chúng tôi phải làm việc theo quy trình của công ty.
+  - **English:** We have to work according to the company's process.
+  - **Vietnamese:** Bạn phải học cách quản lý thời gian hiệu quả.
+  - **English:** You must learn to manage your time effectively.
 ---
 
 ## 🧱 2. Sentence Structure Templates (5 Patterns)
@@ -56,6 +76,13 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   1. *Everyday Context:* "I'm looking to transition into a management role over the next year."
   2. *Data Engineering / Casino Context:* "I'm looking to transition into a Data Architect role over the next year."
   3. *General Workplace Context:* "I'm looking to transition into a product owner role over the next few months."
+- **Your turn:**
+  - **Vietnamese:** *Tôi muốn chuyển sang vai trò quản lý trong năm tới.*  
+  - **English:** I want to transition into a management role over the next year.
+  - **Vietnamese:** Tôi muốn chuyển sang vai trò kiến trúc sư dữ liệu trong năm tới.
+  - **English:** I want to transition into a data architect role over the next year.
+  - **Vietnamese:** Tôi muốn chuyển sang vai trò chủ sở hữu sản phẩm trong vài tháng tới.
+  - **English:** I want to transition into a product owner role over the next few months.
 
 ---
 
@@ -66,7 +93,14 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   1. *Everyday Context:* "A cook focuses on following recipes, but a head chef is much more creative."
   2. *Data Engineering / Casino Context:* "An engineer focuses on building pipelines, but an architect is much more strategic."
   3. *General Workplace Context:* "A salesperson focuses on pitching, but a manager is much more analytical."
-
+- **Your turn:**
+  - **Vietnamese:** *Một người đầu bếp tập trung vào việc làm theo công thức, nhưng một đầu bếp trưởng thì sáng tạo hơn nhiều.*  
+  - **English:** A cook focuses on following recipes, but a head chef is much more creative.
+  - **Vietnamese:** Một kỹ sư tập trung vào việc xây dựng đường ống, nhưng một kiến trúc sư thì mang tính chiến lược hơn nhiều.
+  - **English:** An engineer focuses on building pipelines, but an architect is much more strategic.
+  - **Vietnamese:** Một nhân viên bán hàng tập trung vào việc thuyết trình, nhưng một nhà quản lý thì phân tích hơn nhiều.
+  - **English:** A salesperson focuses on pitching, but a manager is much more analytical.
+  
 ---
 
 ### Template 3: Identifying the core challenge (Gerunds)
@@ -76,6 +110,13 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   1. *Everyday Context:* "Bridging the gap between parents and teenagers requires patience."
   2. *Data Engineering / Casino Context:* "Bridging the gap between business needs and technical systems requires clear communication."
   3. *General Workplace Context:* "Bridging the gap between marketing and sales requires regular meetings."
+- **Your turn:**
+  - **Vietnamese:** *Việc thu hẹp khoảng cách giữa cha mẹ và con cái đòi hỏi sự kiên nhẫn.*  
+  - **English:** Bridging the gap between parents and teenagers requires patience.
+  - **Vietnamese:** Việc thu hẹp khoảng cách giữa nhu cầu kinh doanh và hệ thống kỹ thuật đòi hỏi giao tiếp rõ ràng.
+  - **English:** Bridging the gap between business needs and technical systems requires clear communication.
+  - **Vietnamese:** Việc thu hẹp khoảng cách giữa marketing và bán hàng đòi hỏi các cuộc họp thường xuyên.
+  - **English:** Bridging the gap between marketing and sales requires regular meetings.
 
 ---
 
@@ -86,6 +127,14 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   1. *Everyday Context:* "Instead of just complaining, you need to look at the big picture and find a solution."
   2. *Data Engineering / Casino Context:* "Instead of just writing code, you need to look at the big picture and make architectural decisions."
   3. *General Workplace Context:* "Instead of just fixing bugs, you need to look at the big picture and improve the software design."
+- **Your turn:**
+  - **Vietnamese:** *Thay vì chỉ phàn nàn, bạn cần nhìn vào bức tranh toàn cảnh và tìm ra giải pháp.*  
+  - **English:** Instead of just complaining, you need to look at the big picture and find a solution.
+  - **Vietnamese:** Thay vì chỉ viết mã, bạn cần nhìn vào bức tranh toàn cảnh và đưa ra quyết định kiến trúc.
+  - **English:** Instead of just writing code, you need to look at the big picture and make architectural decisions.
+  - **Vietnamese:** Thay vì chỉ sửa lỗi, bạn cần nhìn vào bức tranh toàn cảnh và cải thiện thiết kế phần mềm.
+  - **English:** Instead of just fixing bugs, you need to look at the big picture and improve the software design.
+  
 
 ---
 
@@ -96,6 +145,13 @@ This file houses the grammar rules, sentence templates, and drills for the secon
   1. *Everyday Context:* "How can I start preparing for that? Do you have any advice on managing personal finances?"
   2. *Data Engineering / Casino Context:* "How can I start preparing for that? Do you have any advice on designing scalable systems?"
   3. *General Workplace Context:* "How can I start preparing for that? Do you have any advice on leading a team meeting?"
+- **Your turn:**
+  - **Vietnamese:** *Tôi muốn bắt đầu chuẩn bị cho điều đó. Bạn có lời khuyên nào về việc quản lý tài chính cá nhân không?*  
+  - **English:** How can I start preparing for that? Do you have any advice on managing personal finances?
+  - **Vietnamese:** Tôi muốn bắt đầu chuẩn bị cho điều đó. Bạn có lời khuyên nào về việc thiết kế hệ thống có thể mở rộng không?
+  - **English:** How can I start preparing for that? Do you have any advice on designing scalable systems?
+  - **Vietnamese:** Tôi muốn bắt đầu chuẩn bị cho điều đó. Bạn có lời khuyên nào về việc lãnh đạo cuộc họp nhóm không?
+  - **English:** How can I start preparing for that? Do you have any advice on leading a team meeting?
 
 ---
 
@@ -104,22 +160,30 @@ This file houses the grammar rules, sentence templates, and drills for the secon
 ### "Your Turn" Exercises
 Fill in the blanks to make your own simple, real-life conversational sentences:
 1. *Template 1:* I'm looking to transition into a ____________________ role over the next ____________________.
+ * I'm looking to transition into a senior data engineer role over the next year.
 2. *Template 2:* An engineer focuses on ____________________, but an architect is much more ____________________.
+ * An engineer focuses on building pipelines, but an architect is much more strategic.
 3. *Template 3:* ____________________ the gap between ____________________ and ____________________ requires ____________________.
+ * Bridging the gap between technical and business requirements requires clear communication.
 4. *Template 4:* Instead of just ____________________, you need to look at the big picture and ____________________.
+ * Instead of just writing code, you need to look at the big picture and make architectural decisions.
 5. *Template 5:* How can I start preparing for that? Do you have any advice on ____________________?
+ * How can I start preparing for that? Do you have any advice on designing scalable systems?
 
 ### Translation Challenge
 Translate these simple Vietnamese sentences into natural English:
 
 1. **Sentence 1 (Gerunds):** *Việc thiết kế các hệ thống dữ liệu quy mô lớn đòi hỏi rất nhiều kinh nghiệm.*
-   - *Your translation:* ____________________________________________________________________
+   - *Your translation:* ____________________________________________________________________ 
+   - *Correct translation:* Designing large-scale data systems requires a lot of experience.
 
 2. **Sentence 2 (Comparatives):** *Công việc của một Kiến trúc sư Dữ liệu mang tính chiến lược hơn nhiều so với một Kỹ sư.*
    - *Your translation:* ____________________________________________________________________
+   - *Correct translation:* The job of a Data Architect is much more strategic than that of an engineer.
 
 3. **Sentence 3 (Career Goals):** *Tôi muốn chuyển sang vai trò Kiến trúc sư trong năm tới.*
    - *Your translation:* ____________________________________________________________________
+   - *Correct translation:* I want to transition into an architect role next year.
 
 ---
 
@@ -128,10 +192,13 @@ Translate these simple Vietnamese sentences into natural English:
 
 1. "Design the cloud architecture are very difficult."
    - *Your Correction*: ____________________________________________________________________
+   - *Correct translation:* Designing the cloud architecture is very difficult.
 2. "As an architect, you are much more higher level than an engineer."
    - *Your Correction*: ____________________________________________________________________
+   - *Correct translation:* As an architect, you are much more strategic than an engineer.
 3. "Instead to write code, you need to look at the big picture."
    - *Your Correction*: ____________________________________________________________________
+   - *Correct translation:* Instead of writing code, you need to look at the big picture.
 
 <details>
 <summary>🔑 Click to reveal Answer Key & Explanations</summary>

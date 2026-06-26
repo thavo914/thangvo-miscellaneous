@@ -7,6 +7,12 @@ description: Generate a structured vocabulary definition entry for a target word
 Use when the user provides a target word or phrase (noun, verb, adjective, adverb, or noun phrase) and requests a vocabulary definition entry.
 
 > [!IMPORTANT]
+> **Anti-Duplication Guard & Database Verification (CRITICAL)**
+> - **Rolling 3-Week Rule**: Check `english/lesson-registry.md` to ensure the vocabulary theme or phrase hasn't been used in the past 3 weeks.
+> - **Database Check**: Query the `english/vocabulary/review-app/vocabulary.db` SQLite database to ensure the word does not already exist, maintaining a clean and deduplicated list.
+> - **Build & Sync**: After saving the definition in a markdown batch file, run `parse_vocab.py` in the `review-app` directory to sync the database and rebuild the frontend artifact (`vocab_data.js`). The parser will strictly validate that there are exactly 5 sentences per word.
+
+> [!IMPORTANT]
 > **Context-Grounded Samples (CRITICAL)**
 > All sample sentences **MUST** be rooted in at least one of the following three life contexts of the user. Rotate and vary the contexts across the 5 sample sentences — do **not** cluster them all in one area:
 > 1. **Data Engineer**: ETL pipelines, SQL queries, cloud infrastructure, dashboards, data quality, stakeholder reporting, debugging, pipeline orchestration, Spark jobs, dbt models, data warehouses.
@@ -46,9 +52,9 @@ Format as follows:
 
 ---
 
-### 2. Sample Sentences (5 sentences)
+### 2. Sample Sentences (Exactly 5 sentences)
 
-Provide **5 sample sentences** that:
+Provide **exactly 5 sample sentences** (the database strictly validates this count) that:
 - Demonstrate the word/phrase used **naturally in context**.
 - Cover **all three life domains** (data engineer, running, Liverpool FC) — use each domain at least once, mixing freely across the 5 sentences.
 - Are **varied in grammatical structure** (avoid repeating the same sentence pattern).

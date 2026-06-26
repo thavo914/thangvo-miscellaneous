@@ -1791,5 +1791,721 @@ const vocabData = [
         ],
         "source": "vocabulary-batch-6.md",
         "added_date": "2026-06-15"
+    },
+    {
+        "id": 60,
+        "word": "backlog",
+        "type": "noun",
+        "english_meaning": "a large accumulation of uncompleted work, tasks, or matters that need to be dealt with.",
+        "vietnamese_meaning": "danh sách việc tồn đọng / tích tụ",
+        "sentences": [
+            "Our Jira backlog is filled with legacy pipeline refactoring tasks, but we have to prioritize data quality issues first.",
+            "After taking two weeks off to recover from a minor hamstring strain, I have a backlog of running mileage to make up for in my marathon plan.",
+            "Since I was working late on Tuesday, I have a backlog of match highlights and analysis videos to catch up on before the weekend derby.",
+            "I spent the entire morning cleaning up the backlog of failed Airflow tasks that accumulated over the weekend.",
+            "Trying to clear a backlog of high-intensity workouts too quickly is a sure way for any runner to get injured."
+        ],
+        "synonyms": [
+            "**Accumulation** — more neutral; refers to a pile or heap of things.",
+            "**Queue** — standard tech term for items waiting to be processed in order.",
+            "**Logjam** — informal; implies a backup that is completely blocking progress.",
+            "**Outstanding work** — common business term for uncompleted tasks."
+        ],
+        "antonyms": [
+            "**Clean slate** — a state where everything is completed and starting fresh.",
+            "**Empty queue** — no items waiting.",
+            "**Completed tasks** — work that has been fully finished."
+        ],
+        "prompts": [
+            "We need to clear our data migration ______________________ before starting the next sprint.",
+            "After my recovery week, I don't want to rush my training just to make up the running ______________________."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 61,
+        "word": "go to phase",
+        "type": "verb phrase",
+        "english_meaning": "to advance, transition, or move forward to a specific stage or step in a project, process, or training plan.",
+        "vietnamese_meaning": "chuyển sang giai đoạn",
+        "sentences": [
+            "Once the staging database is verified, the migration project will finally go to phase two, which is the live cutover.",
+            "After building a solid aerobic base for twelve weeks, my training will go to the peak phase where I focus on marathon pace workouts.",
+            "When the Champions League matches go to the knockout phase, the pressure at Anfield increases significantly.",
+            "The dashboard design is approved, so we can go to the development phase and start writing the dbt models.",
+            "If my calf injury flares up again, I'll have to go back to the recovery phase and reduce my weekly mileage."
+        ],
+        "synonyms": [
+            "**Transition to stage** — standard, slightly more formal.",
+            "**Move to the next step** — common everyday phrasing.",
+            "**Advance to phase** — highlights progression or growth.",
+            "**Progress to the next level** — emphasizes improvement or advancement."
+        ],
+        "antonyms": [
+            "**Regress** — to move backward to an earlier, less advanced state.",
+            "**Stay at the current stage** — remaining in the same place without moving.",
+            "**Stall** — to stop making progress completely."
+        ],
+        "prompts": [
+            "Once we verify the data quality, the pipeline code will ______________________ production.",
+            "I can't wait for my marathon training block to ______________________ tapering."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 62,
+        "word": "it's been a busy morning, hasn't it",
+        "type": "phrase",
+        "english_meaning": "a friendly, conversational way to start a discussion or make small talk with a colleague or friend, acknowledging that a lot of work or activity has happened since the start of the day.",
+        "vietnamese_meaning": "sáng nay bận rộn thật đấy, phải không",
+        "sentences": [
+            "\"It's been a busy morning, hasn't it?\" I said to my colleague after we finally resolved the production database deadlock.",
+            "Looking at the crowded Strava feed before 8 AM, I joked with my running partner, \"It's been a busy morning, hasn't it?\"",
+            "\"It's been a busy morning, hasn't it?\" my coworker remarked when we spent the morning discussing Liverpool's latest transfer window drama.",
+            "We've already had three pipeline deployments and a stakeholder demo, so I turned to my team lead and said, \"It's been a busy morning, hasn't it?\"",
+            "After waking up at 5 AM for a 20km long run and then rushing to wash my gear, I sat down and thought, \"It's been a busy morning, hasn't it?\""
+        ],
+        "synonyms": [
+            "**It's been a hectic start to the day** — similar but implies a bit more chaos.",
+            "**We've been running around all morning** — informal; focuses on being constantly active.",
+            "**It's been a packed morning** — emphasizes a schedule full of meetings or tasks.",
+            "**Quite a busy day already** — slightly broader but similar in meaning."
+        ],
+        "antonyms": [
+            "**It's been a quiet morning** — very little activity or work.",
+            "**It's a slow start today** — implies a relaxed, unhurried morning.",
+            "**Nothing much has happened today** — highlights a lack of action."
+        ],
+        "prompts": [
+            "Meeting my colleague at the coffee machine after two hours of debugging, I said, \"______________________\"",
+            "Waking up early, doing hill repeats, and washing laundry before work made me feel like ______________________."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 63,
+        "word": "you're contrasting it",
+        "type": "phrase",
+        "english_meaning": "comparing two or more things in order to show the differences between them.",
+        "vietnamese_meaning": "bạn đang đối chiếu/so sánh sự khác biệt",
+        "sentences": [
+            "When you're contrasting a data lakehouse with a traditional data warehouse, you have to emphasize scalability and storage costs.",
+            "If you're contrasting carbon-plated racing shoes with standard daily trainers, you'll notice a massive difference in energy return and muscle fatigue.",
+            "You're contrasting the current squad's defensive stability with the chaotic defense we had in the pre-Van Dijk era.",
+            "I see you're contrasting Spark batch processing with Flink streaming; both have their specific use cases depending on the data velocity.",
+            "By contrasting my target heart rate zones with my actual performance data on Strava, I can see my aerobic fitness is improving."
+        ],
+        "synonyms": [
+            "**Comparing the differences** — simpler and more common.",
+            "**Differentiating between them** — slightly more formal and technical.",
+            "**Drawing a distinction** — formal phrase meaning to point out differences.",
+            "**Opposing them** — highlights direct contradiction or opposite traits."
+        ],
+        "antonyms": [
+            "**Comparing the similarities** — looking at how things are alike.",
+            "**Equating them** — treating two things as exactly the same.",
+            "**Finding common ground** — focusing on what they share rather than how they differ."
+        ],
+        "prompts": [
+            "By ______________________ with our old pipeline, you can clearly see the speed improvement of the new dbt models.",
+            "I understand you like the new Liverpool midfielder, but if ______________________ with our captain, there's still a big gap."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 64,
+        "word": "beforehand",
+        "type": "adverb",
+        "english_meaning": "in advance; before a particular action, event, or time.",
+        "vietnamese_meaning": "trước đó / trước tiên / chuẩn bị trước",
+        "sentences": [
+            "I always write and test my SQL scripts in a developer schema beforehand to avoid corrupting the production database.",
+            "Preparing your hydration and nutrition strategy beforehand is crucial if you want to avoid hitting the wall during a marathon.",
+            "The fans gathered at the pubs around Anfield hours beforehand to sing songs and build up the match-day atmosphere.",
+            "We had a sync session beforehand with the business team to align on the dashboard design requirements.",
+            "I always check the weather forecast and plan my route beforehand so I don't get caught in a downpour during my long run."
+        ],
+        "synonyms": [
+            "**In advance** — very common and interchangeable.",
+            "**Prior to that** — slightly more formal.",
+            "**Ahead of time** — natural and conversational.",
+            "**Previously** — focuses on what happened in the past."
+        ],
+        "antonyms": [
+            "**Afterward** — happening at a later time or after an event.",
+            "**Ex post facto** — formal/legal; after the fact.",
+            "**Too late** — missed the opportunity to prepare."
+        ],
+        "prompts": [
+            "We always run unit tests ______________________ to make sure the code doesn't break the build.",
+            "I made sure to charge my running watch ______________________ so it wouldn't die during the long run."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 65,
+        "word": "shape my career path",
+        "type": "verb phrase",
+        "english_meaning": "to influence, direct, or determine the course, development, and decisions of one's professional life over time.",
+        "vietnamese_meaning": "định hình con đường sự nghiệp của tôi",
+        "sentences": [
+            "Learning cloud architecture early on helped shape my career path, leading me from database administration to data engineering.",
+            "Applying the consistency of marathon training to my professional life has helped shape my career path in unexpected ways.",
+            "Talking with Liverpool fans in the IT department actually helped me build networks that shaped my career path at the company.",
+            "My decision to focus on pipeline orchestration tools like Airflow and Prefect really helped shape my career path.",
+            "Having a mentor who is both a senior architect and an experienced runner has helped shape my career path and my personal growth."
+        ],
+        "synonyms": [
+            "**Influence my professional direction** — more formal and descriptive.",
+            "**Steer my career** — uses a driving metaphor for guidance.",
+            "**Guide my career development** — focuses on growth and learning.",
+            "**Define my career journey** — emphasizes the overall scope of one's work life."
+        ],
+        "antonyms": [
+            "**Leave my career to chance** — making no plans and letting things happen randomly.",
+            "**Derail my career** — to throw one's career off course due to mistakes or bad luck.",
+            "**Stagnate** — failing to grow or change in one's professional life."
+        ],
+        "prompts": [
+            "The decision to transition from writing raw SQL to learning Python really helped ______________________.",
+            "Having a supportive manager who trusts me with big system migrations will ______________________."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 66,
+        "word": "it's a double-edged sword",
+        "type": "idiom",
+        "english_meaning": "a situation, decision, or tool that has both significant advantages and disadvantages.",
+        "vietnamese_meaning": "con dao hai lưỡi",
+        "sentences": [
+            "Using real-time data streaming is a double-edged sword; it provides instant insights but increases database costs and infrastructure complexity.",
+            "Running high weekly mileage is a double-edged sword, as it builds incredible cardiovascular fitness but increases the risk of overuse injuries.",
+            "Anfield's intense atmosphere is a double-edged sword; it inspires Liverpool players but puts immense pressure on them to perform.",
+            "Relying on AI-generated SQL code is a double-edged sword because it saves time but can introduce subtle logical bugs.",
+            "Wearing super shoes is a double-edged sword; they make you run faster, but they can alter your natural stride and strain your calves."
+        ],
+        "synonyms": [
+            "**A mixed blessing** — highlights that something has both good and bad aspects.",
+            "**A trade-off** — emphasizes that getting one advantage requires giving up another.",
+            "**Two sides of the same coin** — focuses on how different aspects are closely related.",
+            "**A bitter pill with a sweet coating** — more dramatic; focuses on the hidden negative."
+        ],
+        "antonyms": [
+            "**A win-win situation** — a scenario with only positive outcomes and no disadvantages.",
+            "**An unmitigated good** — something that is entirely beneficial with no drawbacks.",
+            "**A purely positive outcome** — clear, simple benefit."
+        ],
+        "prompts": [
+            "Migrating to a fully automated deployment system is ______________________; it's extremely fast, but a single bug can bring down the server instantly.",
+            "Signing a superstar player is ______________________ because it boosts performance but might disrupt team harmony."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 67,
+        "word": "trip over",
+        "type": "verb phrase",
+        "english_meaning": "to catch one's foot on something and stumble; (figuratively) to make a mistake, fail, or be hindered by a minor detail or obstacle.",
+        "vietnamese_meaning": "vấp ngã / vấp phải",
+        "sentences": [
+            "It's easy to trip over minor syntax errors in complex SQL queries when you are rushing to deploy a hotfix.",
+            "During trail runs, you have to watch your step constantly so you don't trip over exposed tree roots or loose rocks.",
+            "In the title race, Liverpool cannot afford to trip over bottom-tier teams by dropping unnecessary points.",
+            "If we don't document the schema changes, other developers will definitely trip over them during data pipeline updates.",
+            "I was so exhausted during the final kilometers of the marathon that I almost tripped over my own feet."
+        ],
+        "synonyms": [
+            "**Stumble on** — very similar; literal or figurative.",
+            "**Make a slip-up** — focuses on the minor mistake aspect.",
+            "**Slip up on** — informal; to make a careless mistake.",
+            "**Get caught out by** — emphasizes being surprised by an obstacle."
+        ],
+        "antonyms": [
+            "**Glide through** — to pass through a process easily and smoothly.",
+            "**Navigate successfully** — avoiding all obstacles and difficulties.",
+            "**Clear the hurdle** — overcoming an obstacle successfully."
+        ],
+        "prompts": [
+            "We need to run a dry run of the script so we don't ______________________ configuration errors during the live migration.",
+            "Make sure you lift your feet during the final hill repeats so you don't ______________________ the curb."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 68,
+        "word": "in return",
+        "type": "phrase",
+        "english_meaning": "in exchange for something, or as a response or reaction to an action.",
+        "vietnamese_meaning": "đổi lại / bù lại / đáp lại",
+        "sentences": [
+            "I agreed to help the backend team optimize their database, and in return, they assisted me with setting up the API endpoint.",
+            "Marathon training requires you to sacrifice your weekend sleep, but in return, you get the incredible feeling of crossing the finish line.",
+            "The fans give their absolute energy and voice to the players, and in return, they expect the team to fight for every ball.",
+            "We pay a premium for cloud warehouse storage, but in return, we get lightning-fast query execution speeds.",
+            "I bought high-quality running socks to prevent blisters, and in return, my long runs have become much more comfortable."
+        ],
+        "synonyms": [
+            "**In exchange** — interchangeable and very common.",
+            "**As compensation** — slightly more formal; implies balancing a loss.",
+            "**In consideration of** — formal; often used in legal/business contexts.",
+            "**As a result** — focuses on the consequence of the action."
+        ],
+        "antonyms": [
+            "**For nothing** — doing something without expecting anything back.",
+            "**Unilaterally** — action taken by one side without reciprocity.",
+            "**Without recompense** — formal; receiving no payment or reward."
+        ],
+        "prompts": [
+            "I spent my evening debugging a colleague's dbt model, and ______________________, he offered to review my architecture plan.",
+            "The club spent millions on the new midfielder, and ______________________, they expect him to dominate the pitch."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 69,
+        "word": "you are not used to the new responsibilities",
+        "type": "phrase",
+        "english_meaning": "experiencing difficulty or unfamiliarity with the tasks, duties, or expectations associated with a new role or position.",
+        "vietnamese_meaning": "bạn chưa quen với những trách nhiệm mới",
+        "sentences": [
+            "It can be overwhelming when you transition to a senior role and find you are not used to the new responsibilities like system design.",
+            "When you start coaching other runners, it's normal to feel stressed if you are not used to the new responsibilities of managing their plans.",
+            "The new player looked disjointed in the midfield, probably because he is not used to the new responsibilities of a Klopp-style press.",
+            "Don't get discouraged if you feel lost at first; since you just got promoted, you are not used to the new responsibilities yet.",
+            "When I agreed to organize the weekly local parkrun, I quickly realized I was not used to the new responsibilities of managing volunteers."
+        ],
+        "synonyms": [
+            "**Unfamiliar with the new duties** — more formal and direct.",
+            "**Adjusting to the new expectations** — focuses on the transition process.",
+            "**Still learning the ropes** — idiom meaning learning how to do a job.",
+            "**Adapting to the new role** — positive and action-oriented."
+        ],
+        "antonyms": [
+            "**Well-accustomed to the role** — very comfortable and familiar with the tasks.",
+            "**An experienced hand** — someone who has done the job for a long time.",
+            "**Used to the job** — simple, standard familiarity."
+        ],
+        "prompts": [
+            "After moving from a pure development role to a tech lead, ______________________ of handling stakeholder meetings.",
+            "He made a few mistakes during the match because ______________________ of playing as a defensive midfielder."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 70,
+        "word": "spike",
+        "type": "noun",
+        "english_meaning": "a sudden, sharp, and temporary increase in a value, rate, scale, or level.",
+        "vietnamese_meaning": "sự tăng vọt / tăng đột biến",
+        "sentences": [
+            "The dashboard alerted us to a massive spike in database CPU usage right when the morning batch jobs started.",
+            "I noticed a sudden spike in my heart rate during the uphill section of my tempo run, so I decided to ease my pace.",
+            "When Liverpool scored the winning goal in injury time, there was a massive spike in sound and celebration across Anfield.",
+            "We need to scale our database instances to handle the traffic spike expected during the Black Friday sales event.",
+            "An abrupt spike in training volume without proper recovery is the most common cause of running injuries."
+        ],
+        "synonyms": [
+            "**Surge** — sudden powerful forward or upward movement.",
+            "**Sharp increase** — simple and direct.",
+            "**Jump** — informal and common.",
+            "**Upswing** — upward trend, though usually implies a longer duration than a spike."
+        ],
+        "antonyms": [
+            "**Plunge** — a sudden, sharp decrease.",
+            "**Drop** — a general decrease.",
+            "**Stabilization** — keeping values steady and flat."
+        ],
+        "prompts": [
+            "We need to monitor the server metrics to ensure that any query latency ______________________ is caught early.",
+            "My Garmin watch warned me about a sudden heart rate ______________________ during my recovery run."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 71,
+        "word": "you are on a roll",
+        "type": "phrase",
+        "english_meaning": "experiencing a continuous period of success, high performance, or good luck, where one positive outcome leads to another.",
+        "vietnamese_meaning": "bạn đang trên đà thành công / làm rất tốt",
+        "sentences": [
+            "You've optimized three slow pipelines and fixed the schema issue today—you are on a roll!",
+            "With three consecutive personal bests in your recent races, you are on a roll with your marathon training block.",
+            "Liverpool have won their last five matches in all competitions, proving they are on a roll under the new manager.",
+            "Our data engineering squad is on a roll, delivering all the requested dbt models ahead of schedule this sprint.",
+            "After finally recovering from that annoying knee injury, my weekly runs are going great and I feel like I'm on a roll."
+        ],
+        "synonyms": [
+            "**On a winning streak** — focuses specifically on consecutive victories.",
+            "**In top form** — highlights high capability or condition.",
+            "**Riding a wave of success** — slightly more formal and descriptive.",
+            "**In the zone** — focuses on intense focus and performance."
+        ],
+        "antonyms": [
+            "**In a slump** — experiencing a prolonged period of poor performance or bad luck.",
+            "**Hit a rough patch** — facing temporary difficulties or obstacles.",
+            "**Out of form** — not playing or performing at one's usual standard."
+        ],
+        "prompts": [
+            "After resolving that tricky database locking bug and shipping the dashboard, ______________________!",
+            "With Salah scoring in five straight games, Liverpool are really ______________________."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 72,
+        "word": "call it a night",
+        "type": "idiom",
+        "english_meaning": "to stop working, training, or socializing for the rest of the night, usually to go home or to bed.",
+        "vietnamese_meaning": "kết thúc công việc để đi nghỉ / đi ngủ",
+        "sentences": [
+            "We finally resolved the critical API error at 11 PM, so the team decided to call it a night and log off.",
+            "After finishing a tough evening track workout in the rain, we decided to call it a night and head home to recover.",
+            "Following the late Champions League victory, I celebrated with a quick pint at the pub before deciding to call it a night.",
+            "The server migration is running smoothly now, so I think I'll call it a night and check the logs in the morning.",
+            "My legs were feeling extremely heavy during the night run, so I decided to cut it short and call it a night."
+        ],
+        "synonyms": [
+            "**Pack it in** — informal; to stop doing what you are doing.",
+            "**Wrap up for the day** — focuses on finishing work.",
+            "**Go to bed** — literal and direct.",
+            "**Call it a day** — very similar, but can be used at any time of day to stop working."
+        ],
+        "antonyms": [
+            "**Pull an all-nighter** — to stay up working all night without sleeping.",
+            "**Burn the midnight oil** — to work late into the night.",
+            "**Keep going** — continuing the activity without stopping."
+        ],
+        "prompts": [
+            "We've been debugging this Spark job since 6 PM, let's ______________________ and look at it fresh tomorrow.",
+            "After watching the late Anfield kickoff on TV, I had to ______________________ immediately to wake up early for my run."
+        ],
+        "source": "vocabulary-batch-7.md",
+        "added_date": "2026-06-23"
+    },
+    {
+        "id": 73,
+        "word": "I believe it would be fair",
+        "type": "phrase",
+        "english_meaning": "used to introduce an opinion or assessment that you consider reasonable, balanced, and just, often when proposing a conclusion or compromise.",
+        "vietnamese_meaning": "tôi tin rằng sẽ là công bằng / hợp lý",
+        "sentences": [
+            "I believe it would be fair to say our dbt pipeline migration was a massive success, given that query latency dropped by half.",
+            "Since I ran all my hill repeats and long runs this week, I believe it would be fair to take a rest day on Sunday.",
+            "After their incredible performance in the Champions League, I believe it would be fair to rank Liverpool as favorites for the trophy.",
+            "Given how much effort the data engineering squad put into rebuilding the database schema, I believe it would be fair if they got a bonus.",
+            "I believe it would be fair to call this marathon training block the hardest one I've ever completed."
+        ],
+        "synonyms": [
+            "**I think it would be reasonable** — very similar; slightly more casual.",
+            "**It seems only right** — emphasizes moral correctness or justice.",
+            "**I feel it is justified** — focuses on having a strong reason for the opinion.",
+            "**It's fair to say** — a shorter, more common way to express the same idea."
+        ],
+        "antonyms": [
+            "**It would be unfair** — indicates that the conclusion is unjust or biased.",
+            "**It is unreasonable** — suggests the opinion lacks logical support.",
+            "**It is unwarranted** — formal; implies that the statement or action is not deserved or justified."
+        ],
+        "prompts": [
+            "Since we worked late three nights in a row to fix the database outage, I believe it would be fair if ______________________.",
+            "Given that he scored twenty goals this season, I believe it would be fair to say that Liverpool's new forward ______________________."
+        ],
+        "source": "vocabulary-batch-8.md",
+        "added_date": "2026-06-24"
+    },
+    {
+        "id": 74,
+        "word": "a cog in the machine",
+        "type": "idiom",
+        "english_meaning": "a person or thing that plays a small, minor, or routine role in a large organization, system, or activity, often feeling unimportant or powerless.",
+        "vietnamese_meaning": "một mắt xích nhỏ / một phần nhỏ của hệ thống",
+        "sentences": [
+            "In a massive cloud infrastructure team, it's easy to feel like just a cog in the machine rather than a key decision-maker.",
+            "While my individual weekly mileage might seem small, every run makes me feel like a vital cog in the machine of our marathon training group.",
+            "Every player in Klopp's pressing system had to work hard; even the superstars knew they were just a cog in the machine.",
+            "Setting up simple cron jobs all day made me feel like a cog in the machine, so I asked my manager for a pipeline redesign project.",
+            "Volunteers at the local parkrun are essential cogs in the machine that keeps the event running smoothly every Saturday morning."
+        ],
+        "synonyms": [
+            "**A small fish in a big pond** — emphasizes being minor or insignificant in a large environment.",
+            "**A minor player** — simple and direct; focuses on having little influence.",
+            "**A tiny part of a whole** — literal and neutral.",
+            "**A member of the rank and file** — refers to ordinary members of an organization, rather than leaders."
+        ],
+        "antonyms": [
+            "**A key player** — a person who has a major influence on decisions or outcomes.",
+            "**The driving force** — the main person or factor that makes something happen.",
+            "**A big fish in a small pond** — someone who is highly important in a small environment.",
+            "**The central figure** — the most important person in a situation or system."
+        ],
+        "prompts": [
+            "When you work for a tech giant with thousands of developers, it's hard not to feel like ______________________.",
+            "Even though I was just ______________________ at the marathon event, handing out water to exhausted runners felt amazing."
+        ],
+        "source": "vocabulary-batch-8.md",
+        "added_date": "2026-06-24"
+    },
+    {
+        "id": 75,
+        "word": "really stood out",
+        "type": "verb phrase",
+        "english_meaning": "to be extremely noticeable, prominent, or clearly better than others in a group, category, or situation.",
+        "vietnamese_meaning": "thực sự nổi bật / gây ấn tượng mạnh",
+        "sentences": [
+            "During the system migration, the junior engineer's performance really stood out because of her rapid debugging skills.",
+            "Among all the running shoes I tested this year, the carbon-plated ones really stood out for their energy return.",
+            "Luis Diaz really stood out in the Merseyside derby, constantly creating chances and pressing the opposition.",
+            "The query performance bottleneck really stood out when we looked at the database latency dashboard.",
+            "The scenic route of the marathon really stood out to me, especially the stretch along the coastline."
+        ],
+        "synonyms": [
+            "**Shone brightly** — idiomatic; implies exceptional excellence or talent.",
+            "**Caught my eye** — focus is on attracting immediate visual attention.",
+            "**Was highly prominent** — more formal; describes being very noticeable.",
+            "**Distinguished itself** — formal; emphasizes performing exceptionally well compared to peers.",
+            "**Was head and shoulders above the rest** — idiomatic; implies being far superior to others."
+        ],
+        "antonyms": [
+            "**Blended in** — was similar to everything else and did not attract attention.",
+            "**Went unnoticed** — was not seen or observed by anyone.",
+            "**Faded into the background** — became unnoticed or lost in the surrounding environment.",
+            "**Was unremarkable** — ordinary and not worthy of notice."
+        ],
+        "prompts": [
+            "Among all the candidate resumes we reviewed for the Senior Data Engineer role, one in particular ______________________.",
+            "Although Liverpool played poorly in the first half, the young midfielder ______________________ because of his high work rate."
+        ],
+        "source": "vocabulary-batch-8.md",
+        "added_date": "2026-06-24"
+    },
+    {
+        "id": 76,
+        "word": "hit the limit",
+        "type": "phrase",
+        "english_meaning": "to reach the maximum level, capacity, or boundary allowed by a rule, system, or physical capability.",
+        "vietnamese_meaning": "chạm giới hạn / đạt đến ngưỡng tối đa",
+        "sentences": [
+            "Our data warehouse hit the limit of its daily storage allocation, causing the evening ETL pipeline to fail.",
+            "Around the 35km mark of the marathon, my legs hit the limit and I had to slow down to avoid cramping.",
+            "With three players injured in the first half, Liverpool hit the limit of their squad depth and struggled to hold the lead.",
+            "When the API request rate hit the limit, our scraper script started receiving 429 rate-limiting errors.",
+            "During the intense interval session on the track, my heart rate hit the limit and I had to stop to catch my breath."
+        ],
+        "synonyms": [
+            "**Reached capacity** — formal; refers to filling a container or system completely.",
+            "**Maxed out** — informal; refers to reaching the absolute maximum limit of resources or capacity.",
+            "**Hit a ceiling** — metaphorical; implies reaching a point beyond which no further progress is possible.",
+            "**Reached the threshold** — refers to reaching a level that triggers a specific response or action."
+        ],
+        "antonyms": [
+            "**Had room to spare** — had plenty of capacity or space left over.",
+            "**Fell short** — did not reach the limit or target.",
+            "**Stayed well below the boundary** — remained far away from the maximum capacity or limit."
+        ],
+        "prompts": [
+            "We had to upgrade our cloud server subscription because our CPU usage ______________________ during peak hours.",
+            "My coach warned me not to increase my weekly mileage too quickly, otherwise my body would ______________________."
+        ],
+        "source": "vocabulary-batch-8.md",
+        "added_date": "2026-06-24"
+    },
+    {
+        "id": 77,
+        "word": "is a classic for a reason",
+        "type": "idiomatic phrase",
+        "english_meaning": "used to state that something has remained popular, respected, or highly valued over a long period because it is genuinely of excellent quality or highly effective.",
+        "vietnamese_meaning": "là một điều kinh điển đều có lý do của nó",
+        "sentences": [
+            "Relational databases like PostgreSQL might be decades old, but using them for reliable transactional data is a classic for a reason.",
+            "Doing long, slow distance runs on Sundays is a classic for a reason; it builds the aerobic base like nothing else.",
+            "Hearing the Anfield crowd sing \"You'll Never Walk Alone\" before kick-off is a classic for a reason—it gives you goosebumps every single time.",
+            "Writing clean, modular SQL code instead of massive, unreadable queries is a classic for a reason when you have to maintain complex ETL pipelines.",
+            "Using standard petroleum jelly to prevent chafing on long runs is a classic for a reason—it is cheap and it works perfectly."
+        ],
+        "synonyms": [
+            "**Time-tested** — refers to something that has proven its value over time.",
+            "**A tried-and-true method** — emphasizes that the method is reliable and has worked many times before.",
+            "**Stands the test of time** — focuses on enduring quality and popularity.",
+            "**A gold standard** — emphasizes being the best, most reliable example of its kind."
+        ],
+        "antonyms": [
+            "**A passing fad** — something that is briefly popular but quickly forgotten.",
+            "**Outdated** — no longer useful or relevant in modern times.",
+            "**Overrated** — popular or valued far more than it actually deserves."
+        ],
+        "prompts": [
+            "Even with all the new NoSQL databases, using a robust relational database for core transactional data is a classic for a reason because ______________________.",
+            "Wearing a simple, lightweight cap to block the sun during a summer marathon is a classic for a reason; it ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 78,
+        "word": "bridge the gap",
+        "type": "verb phrase",
+        "english_meaning": "to connect two different things, concepts, or groups, making it easier to transition between them or reconcile their differences.",
+        "vietnamese_meaning": "thu hẹp khoảng cách",
+        "sentences": [
+            "As a data architect, you often need to bridge the gap between business stakeholders who want dashboards and the engineering team that builds the pipelines.",
+            "Adding structured strength training sessions twice a week helped bridge the gap between my current stamina and my sub-4-hour marathon goal.",
+            "Having a versatile midfielder like Szoboszlai helps Liverpool bridge the gap between defence and attack during fast transitions.",
+            "Using dbt models can bridge the gap between raw data storage and business-ready analytics tables for non-technical users.",
+            "Buying a hybrid running shoe helped bridge the gap when I transitioned from soft trail running to hard road running."
+        ],
+        "synonyms": [
+            "**Connect the dots** — suggests finding relationships or understanding how separate things relate.",
+            "**Fill the void** — focuses on providing something missing to complete a whole.",
+            "**Link** — a more general and neutral term for joining two things.",
+            "**Reconcile** — suggests making two contrasting or conflicting ideas work together."
+        ],
+        "antonyms": [
+            "**Widen the divide** — to make the difference or separation between two things even larger.",
+            "**Separate** — to keep apart or disconnect.",
+            "**Create a barrier** — to actively block connection or communication."
+        ],
+        "prompts": [
+            "We implemented a semantic data layer to bridge the gap between ______________________ and ______________________.",
+            "To bridge the gap in my marathon preparation, I started doing ______________________ every Tuesday morning."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 79,
+        "word": "prerequisite",
+        "type": "noun",
+        "english_meaning": "something that must exist or happen before something else can take place or be done; a mandatory condition.",
+        "vietnamese_meaning": "điều kiện tiên quyết",
+        "sentences": [
+            "Understanding advanced SQL window functions is an absolute prerequisite before you can start optimizing our customer telemetry pipelines.",
+            "Building a consistent weekly base of at least 50 kilometers is a prerequisite for anyone attempting to train for a full marathon without getting injured.",
+            "Winning our remaining home games at Anfield is a prerequisite if Liverpool want to stay in the Premier League title race this season.",
+            "Setting up proper unit tests for data quality is a prerequisite before deploying any changes to the production warehouse.",
+            "Getting a professional shoe fitting is a prerequisite if you want to avoid recurring knee issues during high-mileage weeks."
+        ],
+        "synonyms": [
+            "**Precondition** — a condition that must be met beforehand; very similar in meaning.",
+            "**Requirement** — a general term for something needed or demanded.",
+            "**Must-have** — an informal term for something essential.",
+            "**Necessity** — emphasizes that the thing is indispensable and cannot be avoided."
+        ],
+        "antonyms": [
+            "**Optional extra** — something that is nice to have but not required at all.",
+            "**Byproduct** — a secondary or incidental result, not a starting condition.",
+            "**Nonessential** — not required or necessary for the outcome."
+        ],
+        "prompts": [
+            "Designing a clean database schema is a prerequisite for ______________________.",
+            "Consistent long runs are a prerequisite for marathon training because ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 80,
+        "word": "strategic",
+        "type": "adjective",
+        "english_meaning": "relating to the identification of long-term or overall aims and interests and the means of achieving them; carefully planned.",
+        "vietnamese_meaning": "mang tính chiến lược",
+        "sentences": [
+            "Shifting our infrastructure from self-hosted servers to a managed cloud warehouse was a strategic decision to reduce long-term maintenance costs.",
+            "I made a strategic choice to run the first half of the marathon slightly slower than target pace to conserve energy for the final hills.",
+            "Signing a young defensive midfielder was a strategic move by Liverpool to prepare for the squad's transition over the next three seasons.",
+            "Our team takes a strategic approach to data quality, focusing first on critical financial tables rather than fixing every minor logging error.",
+            "Planning my weekly mileage to include a recovery week every fourth week is a strategic way to prevent overtraining syndrome."
+        ],
+        "synonyms": [
+            "**Calculated** — carefully planned to achieve a specific result.",
+            "**Deliberate** — done consciously and intentionally, though not necessarily part of a grand long-term plan.",
+            "**Tactical** — focuses on immediate, short-term actions to achieve a larger strategic goal.",
+            "**Forward-looking** — emphasizes planning for the future."
+        ],
+        "antonyms": [
+            "**Haphazard** — lacking any obvious principle of organization or planning; random.",
+            "**Short-sighted** — focusing only on immediate needs without considering future consequences.",
+            "**Accidental** — happening by chance or without intention."
+        ],
+        "prompts": [
+            "Moving our ETL orchestration to Airflow was a strategic decision because ______________________.",
+            "During the race, my strategic decision to run behind the pacer helped me ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 81,
+        "word": "I'm locked in",
+        "type": "idiomatic phrase",
+        "english_meaning": "fully focused, highly motivated, and completely dedicated to a specific task, goal, or training program, with no distractions.",
+        "vietnamese_meaning": "tôi đang cực kỳ tập trung / quyết tâm",
+        "sentences": [
+            "With the production migration scheduled for midnight, I'm locked in and double-checking every single airflow DAG configuration.",
+            "It's 5:00 AM on a rainy Tuesday, but I'm locked in for this speed workout because my marathon is only six weeks away.",
+            "Down 1-0 at halftime, the players came out looking like they were completely locked in, pressing high and winning every second ball.",
+            "I turned off all my Slack notifications today because I'm locked in on refactoring this legacy Scala script.",
+            "Once I cross the starting line of a race, I'm locked in and only focused on keeping my breathing relaxed and matching my target split times."
+        ],
+        "synonyms": [
+            "**In the zone** — highly focused and performing at one's best; casual.",
+            "**Laser-focused** — emphasizing extreme, undivided attention.",
+            "**Committed** — dedicated to a cause or course of action; more formal.",
+            "**Fully engaged** — actively involved and paying close attention."
+        ],
+        "antonyms": [
+            "**Distracted** — unable to concentrate or pay attention.",
+            "**Unmotivated** — lacking enthusiasm or drive to complete a task.",
+            "**Half-hearted** — showing little effort, enthusiasm, or interest."
+        ],
+        "prompts": [
+            "When I'm writing complex SQL window functions, I'm locked in and ______________________.",
+            "With only two weeks left before race day, I'm locked in on my ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
+    },
+    {
+        "id": 82,
+        "word": "are spot on",
+        "type": "adjective phrase",
+        "english_meaning": "completely accurate, correct, or precise; perfectly suited to the situation or expressing the exact truth.",
+        "vietnamese_meaning": "hoàn toàn chính xác / chuẩn xác",
+        "sentences": [
+            "Your calculations for our peak pipeline resource utilization are spot on; we definitely need to provision more cluster nodes for the weekend batch.",
+            "The race strategist's pacing recommendations were spot on, helping me run an even-split marathon and finish right at my target time.",
+            "The manager's tactical adjustments at halftime were spot on, completely neutralising their counter-attacks and securing the three points for Liverpool.",
+            "Your comments on my pull request are spot on—using a broadcast join here will save us a lot of processing time.",
+            "The weather forecast's predictions of strong headwinds were spot on, so I adjusted my race strategy accordingly."
+        ],
+        "synonyms": [
+            "**Dead on** — extremely accurate; very informal.",
+            "**Accurate** — correct in all details; exact.",
+            "**On the money** — completely correct; colloquial.",
+            "**Precise** — exact and accurate in expression or detail."
+        ],
+        "antonyms": [
+            "**Wide of the mark** — incorrect or inaccurate; far from the truth.",
+            "**Inaccurate** — not correct or true.",
+            "**Way off** — completely incorrect or highly inaccurate; informal."
+        ],
+        "prompts": [
+            "The senior architect's remarks about our pipeline bottlenecks are spot on; we need to ______________________.",
+            "The coach's predictions about my race-day heart rate were spot on because ______________________."
+        ],
+        "source": "vocabulary-batch-77-82.md",
+        "added_date": "2026-06-25"
     }
 ];
