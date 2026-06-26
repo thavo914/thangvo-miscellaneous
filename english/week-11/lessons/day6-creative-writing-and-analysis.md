@@ -11,16 +11,18 @@ This file facilitates personal production, creative dialogue writing, and struct
 
 *Write your dialogue here...*
 - 
-**You:** 
-**Architect:** 
-**You:** 
-**Architect:** 
-**You:** 
-**Architect:** 
-**You:** 
-**Architect:** 
-
----
+**You:** Hi Michael, do you have 5 minutes to talk about my career plan?
+**Architect:** Sure, what's on your mind?
+**You:** I am thinking about my future career plan. I am a data engineer now and I want to be a data architect in the future. How can I start preparing for that?
+**Architect:** Well, as a data engineer, you focus on writing code, but as a data architect, you need to think about the big picture. You should understand the business requirements, and design the data architecture that meets those requirements. You should also understand the data governance, security, and compliance requirements.
+**You:** I see. I am not familiar with data governance and security. Can you show me some resources to learn about them?
+**Architect:** Sure, I can share with you some resources. But first, let's talk about the project you are working on now.
+**You:** I am working on a project that involves building a data pipeline to collect data from different sources and load it into a data warehouse.
+**Architect:** That's great. 
+**You:** It is a real-time data pipeline that collects data from different sources like game servers, web logs, and mobile apps, and loads it into a data warehouse. 
+**Architect:** Sounds interesting. So you are already doing the ETL part, which is a big part of data engineering. But as an architect, you need to think about the big picture. You should understand the business requirements, and design the data architecture that meets those requirements.
+**You:** Thanks. Michael. Your advice is very helpful for me. 
+**Architect:** You are welcome.
 
 ## 🎓 2. Band 6.5 - 7.0 Cue Card Sample Answer
 *Here is a realistic model response answering the Day 5 Part 2 Cue Card: **Describe a time when you asked a senior colleague for career advice or help with a difficult concept.***
@@ -34,6 +36,7 @@ This file facilitates personal production, creative dialogue writing, and struct
 > 
 > This advice completely changed how I approach my work. Now, whenever I'm assigned a pipeline ticket, I don't just write the script; I try to understand how it impacts our overall casino data infrastructure. It made me a much more proactive engineer."
 
+
 ### Key Conversational Phrases Used:
 1. **transition into** (chuyển đổi sang vai trò): *Moving to a new career stage.*
 2. **big picture** (bức tranh toàn cảnh): *Looking at the overall strategy, not just details.*
@@ -41,6 +44,8 @@ This file facilitates personal production, creative dialogue writing, and struct
 4. **scalability** (khả năng mở rộng): *The ability of a system to handle growth.*
 5. **bridge the gap** (thu hẹp khoảng cách): *Connecting two different sides (e.g., tech and business).*
 
+**Your Answer:**
+- I
 ---
 
 ## ✅ 3. Self-Evaluation Checklist

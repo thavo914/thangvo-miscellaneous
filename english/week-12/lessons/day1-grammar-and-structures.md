@@ -8,21 +8,29 @@
 - **Common Pitfall Box**: 
   > **Incorrect**: I will watching the Spain match tonight.
   > **Correct**: I am watching the Spain match tonight. / I am planning to watch...
-
+- **Your Turn**:
+    - I'm planning to build the new streaming data project to improve the data quality.
+    - I'm going for a run this evening.
+    - I'm planning to go to Son Tra Mountain this weekend.
 ### 2. Adverbs of Degree
 - **Quote**: "It's absolutely brilliant watching them play."
 - **Rule Explanation**: Adverbs like *absolutely*, *completely*, or *really* add strength to adjectives. Use *absolutely* with strong adjectives (like *brilliant, exhausted, massive*) and *very* with normal adjectives (like *good, tired, big*).
 - **Common Pitfall Box**: 
   > **Incorrect**: The match was very amazing.
   > **Correct**: The match was absolutely amazing.
-
+- **Your Turn**:
+    - I think you look absolutely beautiful tonight.
+    - I'm absolutely exhausted, I need to get to bed.
+    - Kafka is really important if we want to build a streaming data platform.
 ### 3. First Conditional for Predictions
 - **Quote**: "If Argentina tightens their defense, they'll go far."
 - **Rule Explanation**: Use `If + Present Simple, [Subject] + will + base verb` to talk about realistic, possible future situations and their results. Very common in sports predictions.
 - **Common Pitfall Box**: 
   > **Incorrect**: If Spain will win this game, they go to the final.
   > **Correct**: If Spain wins this game, they will go to the final.
-
+- **Your Turn**:
+    - If Liverpool can strengthen their defense, they will win the Premier League.
+    - 
 ---
 
 ## 2. Sentence Structure Templates (5 Patterns)
