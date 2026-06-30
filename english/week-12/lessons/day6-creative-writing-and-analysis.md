@@ -3,6 +3,20 @@
 ## 1. Creative Dialogue Writing
 **Instructions**: Write a new, original 10-turn conversation between you and your manager discussing your performance review and future goals.
 **Requirement**: You must naturally include at least 2 of the target grammar rules (Future Perfect, Comparatives with much/a lot, Gerunds after prepositions) and 3 of the target collocations (*make the jump, big picture, bridge the gap, level up, take the lead on*).
+**Dialogue**:
+- Your name: Chris
+- Manager's name: Mark
+Chris: Hi Mark, thanks for meeting with me. I wanted to talk about my performance review and career development.
+Mark: No problem, Chris. You've done great work on our pipelines, but I'm much more interested in hearing about your future plans.
+Chris: Well, I'm really keen on making the jump from a data engineer to a data architect role sometime next year.
+Mark: That's a major step. To do that, you'll need to focus on designing big picture systems rather than just writing ETL scripts.
+Chris: Exactly. In order to level up, I'm currently studying for the AWS Solutions Architect certification.
+Mark: That's a good start. But how do you plan on bridging the gap in terms of actual hands-on architecture experience?
+Chris: I was hoping I could take the lead on designing the new cloud data warehouse for the marketing team next month.
+Mark: I like that initiative. If you do that, by the time your next review comes around, you will have completed a real architectural project.
+Chris: Thanks, Mark. That project will make me a lot more confident in my architectural abilities.
+Mark: Perfect. Let's draft a formal plan for that project today, and we'll review your progress in our next check-in.
+
 
 ## 2. Band 6.5-7.0 Cue Card Sample Answer
 

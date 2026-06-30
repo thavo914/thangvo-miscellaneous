@@ -8,20 +8,30 @@
 - **Common Pitfall Box**: 
   > **Incorrect**: By next year, I will finish my certification.
   > **Correct**: By next year, I will have finished my certification.
-
+**Your Turn**:
+- By the time I turn 35, I will have become a Senior Architect.
+- By the time you get home, I will have cooked dinner.
+- By the end of Q4, we will have migrated all the databases.
 ### 2. Comparatives with 'much/a lot'
 - **Quote**: "I'm much more interested in designing the big picture systems..."
 - **Rule Explanation**: To emphasize a comparative adjective, use *much*, *a lot*, or *far* before the comparative form (e.g., *much more interested*, *a lot harder*, *far better*).
 - **Common Pitfall Box**: 
   > **Incorrect**: The architect role is very harder than the engineer role.
   > **Correct**: The architect role is much harder than the engineer role.
-
+**Your turn**:
+- The architect role is much harder than the engineer role.
+- I'm much more interested in designing the big picture systems than writing SQL all day.
+- I'm much more interested in playing sports than watching them on TV.
 ### 3. Gerunds after Prepositions
 - **Quote**: "It's not just about technical skills, but also about communication."
 - **Rule Explanation**: If a verb follows a preposition (like *about, in, for, of, at*), the verb must take the -ing form (gerund). Example: "I am interested *in* learn*ing*."
 - **Common Pitfall Box**: 
   > **Incorrect**: I want to take the lead on design the new platform.
   > **Correct**: I want to take the lead on designing the new platform.
+**Your Turn**:
+- I'm interested in learning Python. I want to take the lead on designing the new platform.
+- I'm interested in playing sports. I want to take the lead on playing sports.
+- I'm interested in designing the new platform. I want to take the lead on designing the new platform.
 
 ---
 
@@ -73,18 +83,26 @@
 
 ### "Your Turn" Exercises
 - My main goal right now is to ______________________.
+My main goal right now is to get a promotion.
 - In order to level up, I need to ______________________.
+In order to level up, I need to understand cloud security better.
 - I'm much more interested in ______________________ than ______________________.
+I'm much more interested in designing the big picture systems than writing SQL all day.
 - By the time next year comes, I will have ______________________.
+By the time next year comes, I will have finished my certification.
 - Being a good leader is not just about ______________________, but also about ______________________.
+Being a good leader is not just about delegating tasks, but also about mentoring the team.
 
 ### Translation / Transformation Challenge
 1. Tôi muốn thực hiện bước nhảy vọt (make the jump) để trở thành Data Architect vào năm tới.
    *(Translate into English)*
+- I want to make the jump to Data Architect next year.
 2. Vào thời điểm dự án kết thúc, tôi sẽ hoàn thành (Future Perfect) việc thiết kế hệ thống.
    *(Translate into English)*
+- By the time the project finishes, I will have completed the system design.
 3. Công việc này không chỉ về lập trình, mà còn về việc nhìn nhận bức tranh toàn cảnh (big picture).
    *(Translate into English using the target template)*
+- This job is not just about programming, but also about looking at the big picture.
 
 ---
 
@@ -93,7 +111,9 @@
 1. *Incorrect*: In order to bridging the gap, I need to study more.
 2. *Incorrect*: By the time I am 35, I will reach my career goals.
 3. *Incorrect*: I am much more interested in take the lead on this project.
-
+1. In order to bridge the gap, I need to study more.
+2. By the time I am 35, I will have reached my career goals.
+3. I am much more interested in taking the lead on this project.
 <details>
 <summary><b>Show Answer Key</b></summary>
 1. <b>Correct</b>: In order to <i>bridge</i> the gap, I need to study more. (Use base verb after 'to').<br>

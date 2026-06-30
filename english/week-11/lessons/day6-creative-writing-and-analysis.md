@@ -44,9 +44,6 @@ This file facilitates personal production, creative dialogue writing, and struct
 4. **scalability** (khả năng mở rộng): *The ability of a system to handle growth.*
 5. **bridge the gap** (thu hẹp khoảng cách): *Connecting two different sides (e.g., tech and business).*
 
-**Your Answer:**
-- I
----
 
 ## ✅ 3. Self-Evaluation Checklist
 *Tick these off once you have successfully spoken or written them in your practice dialogues:*

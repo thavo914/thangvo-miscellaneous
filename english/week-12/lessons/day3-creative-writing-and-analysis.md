@@ -3,7 +3,17 @@
 ## 1. Creative Dialogue Writing
 **Instructions**: Write a new, original 10-turn conversation between you and another data engineer in your team. You are discussing the recent World Cup matches while waiting for a heavy data query to finish.
 **Requirement**: You must naturally include at least 2 of the target grammar rules (Present Continuous for Future, Adverbs of Degree, First Conditional) and 3 of the target collocations (*kick off, root for, stay up late, pull off an upset, knock out*).
-
+**Dialogue**:
+A: This ETL query is taking ages to run; it's going to be at least two hours before it finishes. Did you catch the World Cup match last night?
+B: No, I was too tired. But I'm staying up late tonight because Argentina's match is kicking off at 2 AM. I'm rooting for them to win.
+A: Same here! But if they don't improve their defensive transition, they will get caught on the counter-attack.
+B: True, their defense is slightly shaky. But with Messi in form, they are still an absolutely brilliant team to watch.
+A: For sure. Do you think Saudi Arabia can pull off another upset in the tournament, or was their first win just luck?
+B: I think it was a mix of luck and discipline. But if they face France in the next stage, they will probably get knocked out.
+A: Agreed. Anyway, my query is still running. Are you doing anything after work?
+B: Yeah, I'm meeting some friends at 7 PM to grab food, and then we're hosting a small watch party. You should join!
+A: I'd love to, but if this database migration fails tonight, I will have to restore everything from backup.
+B: That's a nightmare. Well, let's at least grab a coffee once this query finishes!
 ## 2. Band 6.5-7.0 Cue Card Sample Answer
 
 **Prompt**: Describe a sports event you watched that was very exciting.
@@ -34,7 +44,6 @@ Your team is deploying a huge update to the casino's live data dashboard, but it
 <summary><b>Model Answer</b></summary>
 I'm planning to stay up late tonight for the deployment. If the live dashboard crashes, we'll roll back immediately.
 </details>
-
 **Scenario 2:**
 You are surprised by how well the new cloud infrastructure handled the weekend traffic compared to the old on-premise servers. 
 *(Use: The thing that surprised me most was..., absolutely [adjective])*
