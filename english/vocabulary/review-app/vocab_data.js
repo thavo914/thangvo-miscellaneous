@@ -2507,5 +2507,589 @@ const vocabData = [
         ],
         "source": "vocabulary-batch-77-82.md",
         "added_date": "2026-06-25"
+    },
+    {
+        "id": 83,
+        "word": "feel wired",
+        "type": "verb phrase",
+        "english_meaning": "to feel tense, overstimulated, or overly alert, often because of caffeine, stress, or adrenaline.",
+        "vietnamese_meaning": "cảm thấy bồn chồn, tỉnh táo quá mức",
+        "sentences": [
+            "After drinking three coffees while debugging a failing Spark job, I started to feel wired and couldn't sit still.",
+            "I often feel wired right before the start of a marathon due to all the nerves and adrenaline.",
+            "The atmosphere at Anfield was so intense during the Champions League semi-final that I left the stadium feeling totally wired.",
+            "If I look at complex dashboards late into the evening, I feel wired and have a hard time falling asleep.",
+            "Even after finishing my long run, the runner's high made me feel wired for the rest of the morning."
+        ],
+        "synonyms": [
+            "**Hyped up** — informal; full of nervous energy.",
+            "**Overstimulated** — slightly more formal; emphasizes too much sensory input.",
+            "**On edge** — implies feeling nervous or tense.",
+            "**Buzzing** — very informal; feeling excited or energized."
+        ],
+        "antonyms": [
+            "**Exhausted** — completely tired with no energy.",
+            "**Lethargic** — slow, lazy, or sluggish.",
+            "**Drained** — feeling empty of energy."
+        ],
+        "prompts": [
+            "After ______________________, I always feel wired and struggle to wind down.",
+            "I remember feeling completely wired when ______________________ happened during the match."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 84,
+        "word": "hit the pavement",
+        "type": "verb phrase",
+        "english_meaning": "to begin a journey on foot, typically to start running or walking on the streets or sidewalks.",
+        "vietnamese_meaning": "bắt đầu chạy bộ/xuống đường",
+        "sentences": [
+            "As soon as I hit the pavement for my tempo run, I knew my legs were feeling incredibly heavy.",
+            "Before I could hit the pavement, I received a critical alert that our data pipeline had failed.",
+            "The Liverpool players looked like they couldn't wait to hit the pavement and start their victory parade after winning the league.",
+            "Nothing clears my mind after a long day of writing SQL queries quite like hitting the pavement for an easy 5k.",
+            "I try to hit the pavement before 6 AM to avoid the heat and the crowds."
+        ],
+        "synonyms": [
+            "**Go for a run** — the most straightforward and common phrase.",
+            "**Pound the pavement** — similar, but emphasizes a hard, consistent running effort.",
+            "**Set off** — to begin a journey, applicable to running or walking.",
+            "**Hit the road** — informal; means to leave or start a journey."
+        ],
+        "antonyms": [
+            "**Stay indoors** — avoiding going outside to run.",
+            "**Hit the treadmill** — running indoors rather than outside.",
+            "**Take a rest day** — deciding not to run at all."
+        ],
+        "prompts": [
+            "I usually prefer to hit the pavement when ______________________.",
+            "Right before I hit the pavement, I make sure to ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 85,
+        "word": "make the cut",
+        "type": "verb phrase",
+        "english_meaning": "to reach or meet a required standard; to be chosen from a group of candidates or options.",
+        "vietnamese_meaning": "đạt tiêu chuẩn, được chọn",
+        "sentences": [
+            "I evaluated several orchestration tools, but ultimately Airflow was the only one that made the cut for our specific needs.",
+            "Training for a marathon is tough, and sadly, not all the runners in my club made the cut for the Boston qualifier.",
+            "We had to rethink our data model because the legacy tables just didn't make the cut in terms of query performance.",
+            "Liverpool's academy is fiercely competitive, and only a very few young talents actually make the cut for the first team.",
+            "I bought a new pair of running shoes for race day, but they gave me blisters, so they didn't make the cut."
+        ],
+        "synonyms": [
+            "**Meet the standard** — more formal and literal.",
+            "**Measure up** — implies being good enough when compared to a standard.",
+            "**Pass muster** — slightly formal or traditional; means to be accepted as adequate.",
+            "**Qualify** — specific to meeting requirements, especially in sports or tests."
+        ],
+        "antonyms": [
+            "**Fall short** — to fail to meet an expectation or standard.",
+            "**Be rejected** — to be explicitly turned down or eliminated.",
+            "**Fail the test** — literal opposite of passing or meeting a standard."
+        ],
+        "prompts": [
+            "When reviewing my codebase, I realized that ______________________ didn't make the cut.",
+            "To make the cut for my next race goal, I need to focus on ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 86,
+        "word": "palpable",
+        "type": "adjective",
+        "english_meaning": "so intense as to seem almost tangible; easily perceived, felt, or noticed.",
+        "vietnamese_meaning": "rõ rệt, có thể cảm nhận được",
+        "sentences": [
+            "When Salah scored the winning goal in the final minute, the excitement inside Anfield was truly palpable.",
+            "During the war room meeting to fix the database outage, the tension among the engineers was palpable.",
+            "Standing at the start line of the marathon, the mix of nerves and anticipation in the crowd was palpable.",
+            "The relief in the team was palpable after we finally deployed the new ETL pipeline without any critical errors.",
+            "You could feel a palpable shift in the game's momentum the moment Klopp made that tactical substitution."
+        ],
+        "synonyms": [
+            "**Tangible** — something you can almost physically touch.",
+            "**Noticeable** — easily observed or perceived.",
+            "**Unmistakable** — impossible to mistake or miss.",
+            "**Thick (e.g., tension was thick)** — used specifically for atmosphere or tension."
+        ],
+        "antonyms": [
+            "**Subtle** — delicate or precise, not easily noticed.",
+            "**Imperceptible** — impossible to perceive or feel.",
+            "**Hidden** — concealed or not evident."
+        ],
+        "prompts": [
+            "The tension in the office was palpable when ______________________.",
+            "The energy in the stadium became palpable as soon as ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 87,
+        "word": "pull yourself out of a slump",
+        "type": "verb phrase",
+        "english_meaning": "to overcome a period of poor performance, low motivation, or lack of success.",
+        "vietnamese_meaning": "thoát khỏi giai đoạn sa sút/khủng hoảng",
+        "sentences": [
+            "Liverpool really struggled mid-season, but Klopp managed to help them pull themselves out of a slump to secure top four.",
+            "I was lacking motivation for my marathon block, so I joined a local running group to pull myself out of a slump.",
+            "When my productivity drops at work, I take a step back and refactor some old code to slowly pull myself out of a slump.",
+            "It's difficult to pull yourself out of a slump when your data pipelines keep failing for unknown reasons every single night.",
+            "Sometimes, a completely rest day is the exact thing you need to pull yourself out of a running slump."
+        ],
+        "synonyms": [
+            "**Bounce back** — a quicker, more energetic recovery from a setback.",
+            "**Turn things around** — general phrase for reversing a bad situation.",
+            "**Get back on track** — returning to the right path or level of performance.",
+            "**Recover your form** — often used in sports to describe returning to playing well."
+        ],
+        "antonyms": [
+            "**Spiral downwards** — to get progressively worse.",
+            "**Hit rock bottom** — reaching the lowest possible point.",
+            "**Stay stuck in a rut** — remaining in a negative pattern without changing."
+        ],
+        "prompts": [
+            "When my training starts to feel stale, I try to pull myself out of a slump by ______________________.",
+            "Liverpool managed to pull themselves out of a slump after they ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 88,
+        "word": "focused headspace",
+        "type": "noun phrase",
+        "english_meaning": "a state of mind characterized by deep concentration, clarity, and the absence of distractions.",
+        "vietnamese_meaning": "trạng thái tập trung cao độ",
+        "sentences": [
+            "I need a really focused headspace when I'm designing the architecture for a new data warehouse.",
+            "Putting on my headphones before a big race helps me get into a focused headspace.",
+            "The Liverpool players looked like they were in a completely focused headspace as they walked out of the tunnel.",
+            "I try to block out my calendar for two hours every morning to guarantee a focused headspace for coding.",
+            "It's hard to maintain a focused headspace during a long run if you are constantly worrying about work emails."
+        ],
+        "synonyms": [
+            "**In the zone** — very informal; completely absorbed in what you are doing.",
+            "**Deep concentration** — standard description of intense focus.",
+            "**Flow state** — implies a state of effortless and highly productive focus.",
+            "**Clear mind** — emphasizes the absence of distractions."
+        ],
+        "antonyms": [
+            "**Distracted mind** — inability to concentrate due to interruptions or wandering thoughts.",
+            "**Brain fog** — a state of mental confusion or lack of clarity.",
+            "**Scattered** — unable to organize thoughts or focus on one thing."
+        ],
+        "prompts": [
+            "To get into a focused headspace before tackling a complex SQL query, I usually ______________________.",
+            "I knew the team was in a focused headspace because ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 89,
+        "word": "is such a classic",
+        "type": "phrase",
+        "english_meaning": "used to describe something that is typical, traditional, or a definitive example of its kind, often with a hint of nostalgia or humor.",
+        "vietnamese_meaning": "đúng là kinh điển/điển hình",
+        "sentences": [
+            "Trent Alexander-Arnold pinging a cross-field pass to Robertson is such a classic Liverpool move.",
+            "Forgetting to commit your changes before complaining that the pipeline isn't working is such a classic rookie mistake in data engineering.",
+            "The route along the river that we take every Sunday morning is such a classic long run.",
+            "Our dashboard crashing exactly right before the stakeholder presentation is such a classic scenario.",
+            "Complaining about the headwind while running along the coast is such a classic runner's grievance."
+        ],
+        "synonyms": [
+            "**Typical** — showing the characteristics expected of or identifying a particular person or thing.",
+            "**Textbook** — exactly as described in books; a perfect example.",
+            "**Quintessential** — representing the most perfect or typical example of a quality or class.",
+            "**Signature** — a distinctive pattern, product, or characteristic by which someone or something can be identified."
+        ],
+        "antonyms": [
+            "**Unprecedented** — never done or known before.",
+            "**Atypical** — not representative of a type, group, or class.",
+            "**Unexpected** — not regarded as likely to happen."
+        ],
+        "prompts": [
+            "It is such a classic move for me to ______________________ right before a big race.",
+            "The way that bug was caused by ______________________ is such a classic problem in our codebase."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 90,
+        "word": "protein and carbs",
+        "type": "noun phrase",
+        "english_meaning": "macronutrients essential for energy and recovery, commonly discussed in the context of fitness and sports nutrition.",
+        "vietnamese_meaning": "chất đạm và tinh bột",
+        "sentences": [
+            "After a gruelling 20-mile long run, I make sure to refuel with a good mix of protein and carbs within the first hour.",
+            "Professional footballers at Liverpool have strict diets optimized with the exact ratio of protein and carbs they need for recovery.",
+            "I used to skip meals when stressed about data pipelines, but now I know I need protein and carbs to keep my brain functioning.",
+            "A large plate of pasta with chicken is my go-to meal for protein and carbs the night before a marathon.",
+            "If I don't balance my protein and carbs properly during heavy training weeks, I feel completely depleted."
+        ],
+        "synonyms": [
+            "**Macros / Macronutrients** — the broader, more technical term for fats, proteins, and carbohydrates.",
+            "**Fuel** — informal term used by athletes for food that provides energy.",
+            "**Nutrition** — the general process of providing or obtaining the food necessary for health and growth."
+        ],
+        "antonyms": [
+            "**Junk food** — food that has low nutritional value, typically produced in the form of packaged snacks.",
+            "**Empty calories** — calories derived from food containing no nutrients."
+        ],
+        "prompts": [
+            "My favorite post-run meal for getting enough protein and carbs is ______________________.",
+            "Before writing complex code all morning, I make sure my breakfast has enough protein and carbs by eating ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 91,
+        "word": "right before I head out",
+        "type": "phrase",
+        "english_meaning": "immediately preceding the moment one leaves a place, usually one's home or office.",
+        "vietnamese_meaning": "ngay trước khi tôi ra khỏi nhà/rời đi",
+        "sentences": [
+            "Right before I head out for a run, I always double-check that my GPS watch has a signal.",
+            "I try not to push any major code changes to production right before I head out for the weekend.",
+            "Right before I head out to watch the Liverpool match at the pub, I throw on my lucky scarf.",
+            "I usually drink a quick glass of water right before I head out so I don't feel thirsty during the first few miles.",
+            "It never fails that a stakeholder messages me with an urgent data request right before I head out of the office."
+        ],
+        "synonyms": [
+            "**Just before leaving** — more generic and standard.",
+            "**On my way out** — implies being in the process of leaving.",
+            "**Prior to departure** — very formal, usually for travel.",
+            "**At the last minute** — emphasizes the late timing of an action."
+        ],
+        "antonyms": [
+            "**Right after I arrive** — immediately following arrival.",
+            "**Well in advance** — doing something with plenty of time to spare.",
+            "**Long before leaving** — doing something early."
+        ],
+        "prompts": [
+            "Right before I head out to the stadium, I always ______________________.",
+            "I hate it when ______________________ right before I head out for a training session."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 92,
+        "word": "run out of energy halfway",
+        "type": "verb phrase",
+        "english_meaning": "to lose physical or mental stamina in the middle of a task, race, or event.",
+        "vietnamese_meaning": "cạn kiệt năng lượng giữa chừng",
+        "sentences": [
+            "I didn't pace myself properly and ran out of energy halfway through the marathon, which made the last 10k brutal.",
+            "The team started the project with great enthusiasm but completely ran out of energy halfway through building the data warehouse.",
+            "Liverpool pressed incredibly hard in the first half but seemed to run out of energy halfway through the second half.",
+            "Writing complex transformation logic can be exhausting; if I don't take a break, I run out of energy halfway.",
+            "You need a proper fueling strategy, otherwise, you're guaranteed to run out of energy halfway through your long runs."
+        ],
+        "synonyms": [
+            "**Hit the wall** — informal, often used in marathon running to describe sudden fatigue.",
+            "**Burn out** — to lose enthusiasm or energy due to prolonged stress.",
+            "**Run out of steam** — an idiom meaning to lose momentum or energy.",
+            "**Fad** — gradually lose strength or energy."
+        ],
+        "antonyms": [
+            "**Finish strong** — to complete a task or race with a lot of energy or a good performance.",
+            "**Get a second wind** — to suddenly find new energy to continue something.",
+            "**Maintain momentum** — to keep going at the same steady pace."
+        ],
+        "prompts": [
+            "I usually run out of energy halfway through ______________________ if I don't ______________________.",
+            "To ensure our data project didn't run out of energy halfway, we ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 93,
+        "word": "I have mixed feelings about it",
+        "type": "phrase",
+        "english_meaning": "to feel both positive and negative about a particular situation, event, or decision.",
+        "vietnamese_meaning": "tôi có cảm xúc lẫn lộn/trái chiều về điều đó",
+        "sentences": [
+            "I have mixed feelings about the new cloud migration; it's definitely faster, but the billing structure is quite complicated.",
+            "When Klopp announced he was leaving Liverpool, I had mixed feelings about it—sad to see him go, but grateful for the memories.",
+            "I have mixed feelings about running in the rain; it's refreshing once you start, but getting out the door is miserable.",
+            "They introduced a new BI tool for the data team, and I have mixed feelings about it since I was so used to the old one.",
+            "I have mixed feelings about the upcoming marathon because my training went well, but I’ve been dealing with a slight niggle."
+        ],
+        "synonyms": [
+            "**I'm torn (between)** — finding it very difficult to choose between two possibilities.",
+            "**I'm ambivalent** — formal; having simultaneous and contradictory attitudes or feelings.",
+            "**I'm in two minds** — British idiom meaning to be undecided.",
+            "**I have reservations** — feeling doubt or uncertainty about something."
+        ],
+        "antonyms": [
+            "**I'm completely certain** — having no doubts at all.",
+            "**I fully support it** — completely in favor of something.",
+            "**I have no doubts** — being entirely convinced."
+        ],
+        "prompts": [
+            "I have mixed feelings about ______________________ because on one hand it's great, but on the other hand ______________________.",
+            "When they changed our tech stack, I had mixed feelings about it because ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 94,
+        "word": "I'm dreading it a little",
+        "type": "phrase",
+        "english_meaning": "to feel slightly anxious or fearful about something that is going to happen.",
+        "vietnamese_meaning": "tôi hơi sợ/ngán ngẩm điều đó một chút",
+        "sentences": [
+            "We have to do a massive database migration this weekend, and honestly, I'm dreading it a little.",
+            "I have a 10-mile tempo run scheduled for tomorrow morning in the freezing cold, and I'm dreading it a little.",
+            "Liverpool are playing away at Manchester City next week, and considering our injury list, I'm dreading it a little.",
+            "I'm dreading it a little because the stakeholder meeting to review the broken dashboard is going to be incredibly awkward.",
+            "Even though I love marathons, I'm dreading it a little when I think about the inevitable pain at mile 20."
+        ],
+        "synonyms": [
+            "**I'm not looking forward to it** — a slightly milder way to express reluctance or mild fear.",
+            "**I'm slightly anxious about it** — more formal way of expressing worry.",
+            "**I'm apprehensive** — formal; feeling fearful that something bad will happen."
+        ],
+        "antonyms": [
+            "**I can't wait** — being extremely excited for something.",
+            "**I'm really looking forward to it** — anticipating something with pleasure.",
+            "**I'm eager** — strongly wanting to do or have something."
+        ],
+        "prompts": [
+            "I've got to present the data architecture to the board tomorrow, and I'm dreading it a little because ______________________.",
+            "Whenever I see ______________________ on my training plan, I'm dreading it a little."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 95,
+        "word": "not in the zone",
+        "type": "phrase",
+        "english_meaning": "not being in a focused, highly productive, or optimal state of mind for performing a task.",
+        "vietnamese_meaning": "không có hứng/không trong trạng thái tập trung cao độ",
+        "sentences": [
+            "I tried to write the ETL scripts this morning, but I was simply not in the zone and kept making silly syntax errors.",
+            "During my interval session today, my legs felt fine but mentally I was just not in the zone.",
+            "The whole Liverpool squad looked completely not in the zone during the first half against the bottom-table team.",
+            "Sometimes if I'm not in the zone, staring at a complex data model just makes me more confused.",
+            "I abandoned my run after three miles because I was not in the zone and the weather was dreadful."
+        ],
+        "synonyms": [
+            "**Distracted** — unable to concentrate.",
+            "**Off my game** — informal; not performing to one's usual standard.",
+            "**Unfocused** — lacking concentration or clear direction.",
+            "**Lacking concentration** — standard description of not being focused."
+        ],
+        "antonyms": [
+            "**In the zone** — fully focused and performing optimally.",
+            "**Locked in** — informal; extremely focused.",
+            "**Dialed in** — informal; perfectly prepared and concentrating."
+        ],
+        "prompts": [
+            "When I'm not in the zone for coding, I usually switch tasks and do ______________________ instead.",
+            "It was obvious the team was not in the zone because ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 96,
+        "word": "mental block",
+        "type": "noun phrase",
+        "english_meaning": "an inability to remember something or perform a mental action; a psychological barrier that prevents progress or success.",
+        "vietnamese_meaning": "rào cản tâm lý/sự tắc nghẽn suy nghĩ",
+        "sentences": [
+            "I had a complete mental block and couldn't figure out why my SQL join was returning duplicate rows.",
+            "The marathon wall is often just a mental block rather than a purely physical exhaustion.",
+            "Liverpool seemed to have a mental block when playing at Old Trafford for a few years, struggling to get a win despite being the better team.",
+            "Whenever I try to learn advanced Python decorators, I hit a mental block and have to step away from the keyboard.",
+            "Overcoming the fear of failure is the biggest mental block when pushing for a new personal best in running."
+        ],
+        "synonyms": [
+            "**Psychological barrier** — more formal term for a mental obstacle.",
+            "**Mind blank** — informal; a sudden inability to remember something.",
+            "**Creative block** — specifically referring to the inability to generate new ideas.",
+            "**Stumbling block** — an obstacle to progress."
+        ],
+        "antonyms": [
+            "**Breakthrough** — a sudden, dramatic, and important discovery or development.",
+            "**Epiphany** — a moment of sudden and great revelation or realization.",
+            "**Clarity** — the quality of being coherent and intelligible."
+        ],
+        "prompts": [
+            "I usually experience a mental block when I have to ______________________.",
+            "The best way for me to overcome a mental block in my training is to ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 97,
+        "word": "electrolytes",
+        "type": "noun",
+        "english_meaning": "minerals in your body that have an electric charge, crucial for hydration, muscle function, and preventing cramps, often replenished via sports drinks.",
+        "vietnamese_meaning": "chất điện giải",
+        "sentences": [
+            "During the summer, it's critical to carry water mixed with electrolytes on any run longer than an hour.",
+            "I felt dizzy after my marathon because I had drank plenty of water but completely forgot to take in any electrolytes.",
+            "The medical staff at Liverpool carefully monitor the players' hydration and ensure they consume enough electrolytes at halftime.",
+            "Sometimes a headache after staring at data pipelines all day isn't screen fatigue, but a sign you need water and electrolytes.",
+            "I prefer electrolyte tablets that dissolve in water over sugary sports drinks when I'm training."
+        ],
+        "synonyms": [
+            "**Sports drink** — often used colloquially to refer to beverages containing electrolytes.",
+            "**Salts** — informal term used by runners referring to sodium/potassium replacement.",
+            "**Hydration mix** — a powder or tablet designed to replenish fluids and minerals."
+        ],
+        "antonyms": [
+            "**Plain water** — water without added minerals.",
+            "**Dehydration** — the state of lacking water and essential minerals."
+        ],
+        "prompts": [
+            "If I don't replenish my electrolytes during a long run, I usually end up ______________________.",
+            "My favorite way to get electrolytes after a tough workout is ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 98,
+        "word": "wrap it up",
+        "type": "verb phrase",
+        "english_meaning": "to bring something to a conclusion; to finish a task, meeting, or event.",
+        "vietnamese_meaning": "hoàn thành, kết thúc",
+        "sentences": [
+            "Let's wrap it up for today; my brain is fried and I can't look at this data architecture diagram anymore.",
+            "As soon as I wrap it up at work, I'm going straight to the track for some speed intervals.",
+            "Liverpool managed to wrap it up early by scoring three goals in the first thirty minutes.",
+            "It took us weeks to migrate the database, but we finally managed to wrap it up before the end of the quarter.",
+            "I'm just about to wrap it up with this SQL query, and then I'll join the team call."
+        ],
+        "synonyms": [
+            "**Finish off** — to complete the last part of something.",
+            "**Conclude** — formal; to bring something to an end.",
+            "**Call it a day** — informal; to stop working on something.",
+            "**Bring to a close** — slightly formal way of saying to finish."
+        ],
+        "antonyms": [
+            "**Kick off** — to begin or start an event or project.",
+            "**Get started** — to begin working on something.",
+            "**Initiate** — formal; to cause a process or action to begin."
+        ],
+        "prompts": [
+            "Once I wrap it up with this project, I plan to ______________________.",
+            "I usually try to wrap it up at work by 5 PM so I can ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 99,
+        "word": "the thing that surprised me most was",
+        "type": "phrase",
+        "english_meaning": "used to introduce the most unexpected or astonishing aspect of an event, situation, or finding.",
+        "vietnamese_meaning": "điều làm tôi ngạc nhiên nhất là",
+        "sentences": [
+            "We migrated the entire data warehouse, but the thing that surprised me most was how few downstream reports actually broke.",
+            "The thing that surprised me most was that my heart rate stayed relatively low during the entire race.",
+            "Liverpool dominated the match, but the thing that surprised me most was their incredible defensive discipline.",
+            "Looking at the user data, the thing that surprised me most was how much traffic was coming from our mobile app.",
+            "I knew the marathon would be painful, but the thing that surprised me most was the mental exhaustion afterward."
+        ],
+        "synonyms": [
+            "**I was actually surprised by** — a direct statement of unexpectedness.",
+            "**I couldn't believe** — stronger expression of astonishment.",
+            "**What caught me off guard was** — implies being unprepared for something unexpected.",
+            "**The most unexpected part was** — formal way of stating surprise."
+        ],
+        "antonyms": [
+            "**Exactly as expected** — happening in the way that was predicted.",
+            "**Unsurprisingly** — introducing a fact that is not surprising.",
+            "**It was obvious that** — stating something that is clear or easy to see."
+        ],
+        "prompts": [
+            "When I analyzed the dataset, the thing that surprised me most was ______________________.",
+            "After watching the match, the thing that surprised me most was ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 100,
+        "word": "pull off an upset",
+        "type": "verb phrase",
+        "english_meaning": "to defeat an opponent that is considered to be much stronger or to achieve an unexpected victory against the odds.",
+        "vietnamese_meaning": "tạo nên một cú sốc/chiến thắng bất ngờ",
+        "sentences": [
+            "Everyone expected Manchester City to dominate, but Liverpool pulled off an upset with a brilliant counter-attacking performance.",
+            "I never thought I'd break three hours in the marathon, but everything clicked on race day and I managed to pull off an upset against my own expectations.",
+            "Our small data engineering team pulled off an upset by delivering the enterprise data lake project months ahead of the larger consultant firm.",
+            "It's rare for a newly promoted team to pull off an upset at Anfield, but their defense was absolutely solid yesterday.",
+            "When the underdog runner pulled off an upset to win the gold medal, the entire stadium erupted."
+        ],
+        "synonyms": [
+            "**Defy the odds** — to succeed despite it being very unlikely.",
+            "**Cause a shock** — to do something completely unexpected, usually in sports.",
+            "**Giant-killing** — British informal; when a small team beats a much larger, more powerful team.",
+            "**Win against the odds** — straightforward description of an unexpected victory."
+        ],
+        "antonyms": [
+            "**Suffer a heavy defeat** — to lose badly.",
+            "**Win comfortably** — to win easily as expected.",
+            "**Meet expectations** — to perform exactly as everyone predicted."
+        ],
+        "prompts": [
+            "I really hope we can pull off an upset and ______________________ this weekend.",
+            "To pull off an upset against a stronger team, you have to ______________________."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
+    },
+    {
+        "id": 101,
+        "word": "learning curve",
+        "type": "noun phrase",
+        "english_meaning": "the rate of a person's progress in gaining experience or new skills; often used to describe how difficult it is to learn something new.",
+        "vietnamese_meaning": "đường cong học tập/quá trình làm quen và học hỏi",
+        "sentences": [
+            "Transitioning from traditional SQL databases to distributed systems like Spark has a very steep learning curve.",
+            "There's always a learning curve when you start training for an ultramarathon, especially regarding nutrition and pacing.",
+            "Arne Slot will inevitably face a learning curve as he adapts to the tactical demands of the Premier League.",
+            "The new data orchestration tool looks promising, but the steep learning curve means it will take weeks to fully implement.",
+            "Running by feel instead of constantly checking my GPS watch was a big learning curve for me."
+        ],
+        "synonyms": [
+            "**Period of adjustment** — a time needed to get used to a new situation.",
+            "**Acclimatization** — the process of adjusting to a new environment or situation.",
+            "**Skill acquisition phase** — formal; the period of learning a new ability.",
+            "**Getting up to speed** — informal; the process of learning the necessary information."
+        ],
+        "antonyms": [
+            "**Second nature** — something you do easily without thinking because you have done it so often.",
+            "**Intuitive** — easy to use or understand without special training.",
+            "**Child's play** — extremely easy to do."
+        ],
+        "prompts": [
+            "I experienced a steep learning curve when I first tried to ______________________.",
+            "To overcome the learning curve associated with ______________________, I decided to spend an hour every evening studying."
+        ],
+        "source": "vocabulary-batch-2026-06-30.md",
+        "added_date": "2026-06-30"
     }
 ];
