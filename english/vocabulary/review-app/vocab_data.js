@@ -3091,5 +3091,328 @@ const vocabData = [
         ],
         "source": "vocabulary-batch-2026-06-30.md",
         "added_date": "2026-06-30"
+    },
+    {
+        "id": 102,
+        "word": "get caught on the counter-attack",
+        "type": "verb phrase",
+        "english_meaning": "to be vulnerable to or punished by an opponent's quick transition from defense to attack when one's own team or system is pushed forward and exposed.",
+        "vietnamese_meaning": "bị dính đòn phản công",
+        "sentences": [
+            "Liverpool were dominating possession against Atletico Madrid, but they got caught on the counter-attack and conceded a soft goal.",
+            "If we run our ETL pipelines without setting up adequate rate limits, we risk getting caught on the counter-attack by the source database blocking our IP.",
+            "I went out way too fast in the first half of the marathon, got caught on the counter-attack by fatigue around kilometer 30, and had to walk.",
+            "In a high-stakes meeting, if you make a bold claim without data to back it up, you'll easily get caught on the counter-attack when stakeholders start asking questions.",
+            "Trent Alexander-Arnold loves to join the attack, but when he stays up too high, our defense gets caught on the counter-attack down the right flank."
+        ],
+        "synonyms": [
+            "**Be hit on the break** — common football idiom; slightly more casual.",
+            "**Be caught off guard** — more general; used when unprepared for any sudden event.",
+            "**Be exposed on the transition** — more tactical or technical; sounds formal.",
+            "**Be vulnerable to a quick break** — descriptive; emphasizes the risk of speed."
+        ],
+        "antonyms": [
+            "**Stay compact in defense** — keeping a solid structure to prevent any fast breaks.",
+            "**Keep a low block** — defensive strategy focusing on deep positioning.",
+            "**Maintain a solid screen** — guarding the backline effectively to neutralize transitions."
+        ],
+        "prompts": [
+            "We pushed too many microservices to production at once and got caught on the counter-attack when ______________________.",
+            "During my last 10k race, I pushed hard on the uphill but got caught on the counter-attack on the flat section because ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 103,
+        "word": "shaky",
+        "type": "adjective",
+        "english_meaning": "unstable, weak, or lacking confidence; not firm or steady.",
+        "vietnamese_meaning": "không vững chắc, lung lay, run rẩy",
+        "sentences": [
+            "Our defense looked extremely shaky in the first fifteen minutes of the Merseyside derby, but Van Dijk managed to settle things down.",
+            "The database connection pool is currently shaky, causing intermittent connection timeout errors during peak hours.",
+            "After returning from a knee injury, my first few runs felt a bit shaky, but my confidence grew after completing a solid 5k.",
+            "The staging environment has been shaky all morning, making it really difficult to verify our dbt models.",
+            "Kelleher had a shaky start in goal when he had to replace Alisson, but he pulled off some brilliant saves later in the match."
+        ],
+        "synonyms": [
+            "**Unstable** — more formal and technical; commonly used for systems and structures.",
+            "**Wobbly** — more physical or literal; slightly more informal.",
+            "**Unsteady** — interchangeable when describing physical balance or confidence.",
+            "**Precarious** — stronger; implies danger or risk of falling or failing.",
+            "**Flimsy** — used when something is weak because of poor quality or structure."
+        ],
+        "antonyms": [
+            "**Stable** — firm, steady, and not easily disrupted.",
+            "**Solid** — strong and dependable, providing a good foundation.",
+            "**Robust** — highly resilient and capable of handling stress or load.",
+            "**Steady** — consistent and free from shaking or hesitation."
+        ],
+        "prompts": [
+            "The new API integration has been a bit shaky this week because ______________________.",
+            "My pacing strategy for the marathon felt shaky until I ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 104,
+        "word": "tension",
+        "type": "noun",
+        "english_meaning": "a feeling of nervousness, strain, or suspense, often arising from conflict, high pressure, or a critical situation.",
+        "vietnamese_meaning": "sự căng thẳng",
+        "sentences": [
+            "You could feel the tension in the office just minutes before the production ETL pipeline migration went live.",
+            "The tension at Anfield was palpable during the final minutes of the Champions League semi-final when we were defending a narrow lead.",
+            "As the race day approached, I had to do some easy jogging to release the physical and mental tension built up during the taper week.",
+            "There was a lot of tension between the engineering team and the product managers over the scope of the new data warehouse project.",
+            "The title race has created so much tension between Liverpool and Arsenal fans at the office that we've had to ban football talk during standups."
+        ],
+        "synonyms": [
+            "**Strain** — emphasizes physical or emotional stretching under pressure.",
+            "**Friction** — implies conflict or disagreement between individuals or groups.",
+            "**Suspense** — focuses on the anxiety of waiting for an outcome or decision.",
+            "**Unease** — a general, quiet feeling of worry or discomfort.",
+            "**Apprehension** — fear or anxiety about what might happen in the future."
+        ],
+        "antonyms": [
+            "**Relaxation** — the state of being free from tension or anxiety.",
+            "**Harmony** — agreement, peace, and lack of conflict.",
+            "**Calmness** — a peaceful state free from excitement or worry.",
+            "**Serenity** — a state of being calm, peaceful, and untroubled."
+        ],
+        "prompts": [
+            "There was a lot of tension in the sprint planning meeting when the team realized ______________________.",
+            "Running is the best way for me to release the tension of ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 105,
+        "word": "delegate",
+        "type": "verb",
+        "english_meaning": "to give a task, responsibility, or authority to another person, typically a subordinate or team member.",
+        "vietnamese_meaning": "giao phó, ủy thác, phân công",
+        "sentences": [
+            "As the lead data engineer, I had to delegate the API ingestion task to a junior developer so I could focus on the core architecture.",
+            "To manage a high-mileage training block without burning out, you have to delegate household chores and prioritize your recovery.",
+            "Slot likes to delegate defensive coaching duties to his assistants while he focuses on the team's overall tactical framework.",
+            "Rather than writing all the Spark jobs myself, I decided to delegate the data preparation phase to the analytics engineering team.",
+            "When preparing for our local running club's yearly parkrun event, the coordinator had to delegate marshalling duties to various volunteers."
+        ],
+        "synonyms": [
+            "**Assign** — to allocate a specific task to someone; more transactional.",
+            "**Entrust** — to give responsibility with a high degree of trust; more formal.",
+            "**Hand over** — to transfer control or responsibility to another; conversational.",
+            "**Pass the buck** — informal idiom; often negative, meaning to pass an unwanted task or blame to someone else.",
+            "**Devolve** — formal; to transfer power or duty to a lower level."
+        ],
+        "antonyms": [
+            "**Micromanage** — to control every small detail of a task or someone's work.",
+            "**Retain** — to keep control, authority, or tasks for oneself.",
+            "**Do it yourself (DIY)** — undertaking tasks personally rather than assigning them.",
+            "**Monopolize** — to keep all tasks or responsibilities exclusively to oneself."
+        ],
+        "prompts": [
+            "I realized I couldn't handle the pipeline migration alone, so I had to delegate the ______________________ to ______________________.",
+            "If you want to run a successful marathon training group, you need to learn to delegate ______________________ to other runners."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 106,
+        "word": "high stakes debate",
+        "type": "noun phrase",
+        "english_meaning": "a discussion or argument in which the participants have a lot to lose or win, and the outcome has significant consequences.",
+        "vietnamese_meaning": "cuộc tranh luận quan trọng, nảy lửa",
+        "sentences": [
+            "Choosing between AWS and GCP for our next-generation data platform led to a high stakes debate in the architecture review board.",
+            "There is always a high stakes debate among Liverpool fans during the transfer window about whether we need a defensive midfielder or a new winger.",
+            "The decision to run a marathon despite a minor hamstring injury triggered a high stakes debate between me and my running coach.",
+            "A high stakes debate took place in the boardroom regarding the company's new data privacy policy and how it would affect user analytics.",
+            "In the high stakes debate over who is the absolute GOAT of football, Messi's World Cup victory is often the deciding argument."
+        ],
+        "synonyms": [
+            "**Critical discussion** — emphasizes the analytical and crucial nature of the talk; formal.",
+            "**Heated argument** — focuses on the intensity and emotion of the debate.",
+            "**High-pressure consultation** — suggests collaboration but under intense timeline constraints.",
+            "**Crucial debate** — a slightly more neutral way of describing a highly important discussion."
+        ],
+        "antonyms": [
+            "**Casual chat** — informal, low-pressure conversation with no real consequences.",
+            "**Trivial discussion** — a debate over minor, unimportant matters.",
+            "**Lighthearted banter** — playful and friendly exchange of teasing remarks.",
+            "**Inconsequential talk** — conversation that doesn't lead to any significant decisions."
+        ],
+        "prompts": [
+            "The engineering team got into a high stakes debate over whether to ______________________ or ______________________.",
+            "When discussing our weekend running route, we ended up in a high stakes debate because ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 107,
+        "word": "make the case for",
+        "type": "verb phrase",
+        "english_meaning": "to present arguments or evidence in favor of a specific option, decision, or point of view.",
+        "vietnamese_meaning": "lập luận bảo vệ cho, thuyết phục cho",
+        "sentences": [
+            "I had to write a detailed technical proposal to make the case for migrating our legacy SQL servers to Snowflake.",
+            "After his outstanding performance against Chelsea, it was easy to make the case for Curtis Jones starting in the Champions League.",
+            "I tried to make the case for carbon-plated running shoes to my friends, arguing they genuinely reduce muscle fatigue on long runs.",
+            "It is difficult to make the case for deploying code on a Friday afternoon when our team doesn't have weekend support.",
+            "Many football analysts make the case for Mo Salah being the greatest right winger in Premier League history due to his consistent goal scoring."
+        ],
+        "synonyms": [
+            "**Argue in favor of** — direct and neutral; common in academic and professional contexts.",
+            "**Advocate for** — suggests active support and promotion of a cause or choice.",
+            "**Put forward a case for** — slightly more formal; emphasizes the act of presentation.",
+            "**Speak up for** — more casual; focuses on verbal support or defense.",
+            "**Champion** — implies strong, enthusiastic, and leading support."
+        ],
+        "antonyms": [
+            "**Argue against** — to present points or evidence opposing a choice or action.",
+            "**Oppose** — to actively stand against or resist an option or proposal.",
+            "**Dismiss** — to reject a proposal or argument as unworthy of consideration.",
+            "**Speak out against** — to publicly criticize or oppose a viewpoint."
+        ],
+        "prompts": [
+            "To get the budget approved, the tech lead had to make the case for ______________________ to the management.",
+            "I want to make the case for including ______________________ in our weekly running schedule because ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 108,
+        "word": "Even though",
+        "type": "conjunction",
+        "english_meaning": "used to introduce a fact or situation that makes the main statement surprising or unexpected; despite the fact that.",
+        "vietnamese_meaning": "mặc dù",
+        "sentences": [
+            "Even though the SQL query was syntactically correct, it performed poorly because the underlying table lacked appropriate indexes.",
+            "Even though Alisson was injured for several weeks, Liverpool managed to keep clean sheets thanks to Kelleher's solid form.",
+            "I finished my Sunday long run on time, even though I was struggling with strong headwinds during the last five kilometers.",
+            "Even though we had set up robust alerts, the upstream data outage wasn't detected until a stakeholder checked the dashboard.",
+            "Even though Liverpool drew against Chelsea, their overall gameplay showed that they are still serious title contenders this season."
+        ],
+        "synonyms": [
+            "**Although** — very similar; slightly more formal and more common in writing.",
+            "**Despite the fact that** — more wordy and formal; emphasizes the reality of the condition.",
+            "**Albeit** — very formal; usually introduces a concessionary adjective or adverb phrase rather than a full clause.",
+            "**Even if** — introduces a hypothetical condition, whereas \"even though\" introduces a real one."
+        ],
+        "antonyms": [
+            "**Because** — introduces the direct cause or reason for a statement.",
+            "**Therefore** — links a cause directly to its logical consequence.",
+            "**Consequently** — formal; indicates that something happened as a direct result.",
+            "**Since** — introduces a reason or cause for a situation."
+        ],
+        "prompts": [
+            "Even though we had run the pipeline test successfully in staging, the production deployment ______________________.",
+            "I managed to hit my target pace during the run, even though ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 109,
+        "word": "give credit to",
+        "type": "verb phrase",
+        "english_meaning": "to acknowledge, praise, or show appreciation for someone's contribution, hard work, or achievement.",
+        "vietnamese_meaning": "ghi nhận công lao của, khen ngợi",
+        "sentences": [
+            "We must give credit to the DevOps team for resolving the container registry issue so quickly during the release.",
+            "You have to give credit to the club's scouting network for finding cheap, high-quality players that fit our system perfectly.",
+            "I have to give credit to my running partner for pushing me to finish those grueling hill repeats when I wanted to quit.",
+            "While the dashboard design looks great, we should give credit to the backend engineers who built the underlying API.",
+            "Klopp always made sure to give credit to the Anfield crowd, calling them the \"twelfth man\" after historic comeback victories."
+        ],
+        "synonyms": [
+            "**Acknowledge** — to recognize the existence or truth of someone's work.",
+            "**Pay tribute to** — more formal; suggests a significant public gesture of respect or praise.",
+            "**Applaud** — literal or figurative; expresses strong approval and praise.",
+            "**Recognize** — to formally acknowledge someone's status or contribution.",
+            "**Praise** — to express warm approval or admiration."
+        ],
+        "antonyms": [
+            "**Take credit for** — to accept praise for something someone else did.",
+            "**Ignore** — to pay no attention to someone's contribution.",
+            "**Overlook** — to fail to notice or acknowledge someone's hard work.",
+            "**Belittle** — to make someone's achievement seem small or unimportant."
+        ],
+        "prompts": [
+            "When the project succeeded, the manager made sure to give credit to ______________________ for ______________________.",
+            "I really have to give credit to my coach for ______________________ during my marathon preparation."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 110,
+        "word": "wouldn't have",
+        "type": "modal verb",
+        "english_meaning": "used in conditional sentences to talk about something that did not happen in the past, indicating that a negative outcome was dependent on a certain condition.",
+        "vietnamese_meaning": "đã không ... (nếu)",
+        "sentences": [
+            "We wouldn't have met our quarterly data migration deadline if we hadn't automated the schema validation checks.",
+            "Liverpool wouldn't have won the Champions League in 2019 if Origi hadn't scored that iconic goal against Barcelona.",
+            "I wouldn't have completed my long run in the heat yesterday if I hadn't carried a handheld hydration pack.",
+            "The analytics team wouldn't have noticed the discrepancy in the sales figures if they hadn't implemented the new anomaly detection model.",
+            "If Salah had left for Saudi Arabia last summer, we wouldn't have scored nearly as many goals in the early part of the season."
+        ],
+        "synonyms": [
+            "**Would not have** — full, uncontracted form; more formal.",
+            "**Could not have** — implies lack of ability or possibility, rather than hypothetical willingness/result.",
+            "**Might not have** — implies a possibility that it would not have happened, whereas \"wouldn't have\" is more certain."
+        ],
+        "antonyms": [
+            "**Would have** — indicates that a positive outcome would have occurred under a certain condition.",
+            "**Could have** — indicates ability or possibility in the past that didn't happen.",
+            "**Should have** — indicates a past obligation or recommended action that wasn't done."
+        ],
+        "prompts": [
+            "If we hadn't used dbt for data transformation, we wouldn't have ______________________.",
+            "I wouldn't have injured my ankle last week if I had only ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
+    },
+    {
+        "id": 111,
+        "word": "ahead of his time",
+        "type": "adjective phrase",
+        "english_meaning": "having ideas, methods, or styles that are more advanced, innovative, or forward-thinking than those of one's contemporaries.",
+        "vietnamese_meaning": "đi trước thời đại",
+        "sentences": [
+            "In the early 2000s, Billy Beane's data-driven approach to sports analytics was completely ahead of his time.",
+            "Bill Shankly's training methods and tactical theories at Liverpool were ahead of his time, laying the foundation for decades of dominance.",
+            "The coach who introduced structured interval training in the 1950s was truly ahead of his time, as most runners back then only did long, slow distance.",
+            "When Edgar Codd first proposed the relational database model in 1970, his ideas were way ahead of his time, as hardware couldn't support them yet.",
+            "Roberto Firmino's role as a defensive \"false nine\" under Klopp was ahead of his time; now, many top teams look for players who can replicate that style."
+        ],
+        "synonyms": [
+            "**Pioneering** — actively developing new methods or areas; suggests active leadership.",
+            "**Visionary** — having or showing clear, imaginative ideas about what the future will be like.",
+            "**Forward-looking** — thinking about or planning for the future; more neutral.",
+            "**Innovative** — featuring new methods; introducing original ideas.",
+            "**Advanced** — far along in progress or development."
+        ],
+        "antonyms": [
+            "**Behind the times** — outdated, old-fashioned, or not keeping up with modern trends.",
+            "**Traditional** — adhering to long-established customs or styles rather than modern ones.",
+            "**Outmoded** — no longer acceptable, current, or useful.",
+            "**Old-school** — traditional or old-fashioned; can have a warm or nostalgic connotation."
+        ],
+        "prompts": [
+            "The engineer who designed our first distributed data streaming platform was ahead of his time; even today, ______________________.",
+            "The runner who first wore carbon-plated shoes was ahead of his time, but today ______________________."
+        ],
+        "source": "vocabulary-batch-13.md",
+        "added_date": "2026-07-08"
     }
 ];
