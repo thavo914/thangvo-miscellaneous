@@ -6,8 +6,14 @@
 
 **Part 1 (Interview)**
 1. Do you often have to deal with unexpected problems at work? How do you usually handle them?
+  - **Your turn**
+  - Yes, I often have to deal with unexpected problems at work. I usually handle unexpected problems by assessing the situation and determining the best course of action. Sometimes I need to escalate the issue to my manager or relevant stakeholders for further assistance.
 2. Have you ever had to wait a long time to get approval or permission for something at work?
+  - **Your turn**
+  - I have had to wait a long time to get approval or permission for something at work.
 3. Is it easy or difficult to communicate with people outside your company, like suppliers or vendors?
+  - **Your turn**
+  - It is easy to communicate with people outside my company, like suppliers or vendors.
 
 **Part 2 (Cue Card)**
 Describe a time when you had to find a creative solution to a problem at work.
