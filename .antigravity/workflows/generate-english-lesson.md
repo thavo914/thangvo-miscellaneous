@@ -138,21 +138,27 @@ This file facilitates active output, structured IELTS speaking practice, and AI 
 
 ---
 
-## 📄 Step 3B - Generate `day3-creative-writing-and-analysis.md`
+## 📄 Step 3B - Generate `day3-creative-writing-and-analysis.md` (and `day6-creative-writing-and-analysis.md`)
 
-This file facilitates personal production, creative dialogue writing, and structured analysis of high-performing B1-B2 model answers.
+This file facilitates personal production, creative dialogue writing, structured analysis of high-performing B1-B2 model answers, and explanatory monologues.
 
 ### 1. Creative Dialogue Writing
 - Instruct the user to write a new conversation transcript (10+ turns) incorporating the target structures.
 
-### 2. Band 6.5-7.0 Cue Card Sample Answer
+### 2. Monologue (General for Day 3, Technical for Day 6)
+- **Day 3 (General Monologue)**: Provide an original, engaging monologue where the speaker explains a general, daily life, sports, or office-social topic to someone (e.g., explaining a city relocation, comparing lifestyles, or discussing sports dynamics).
+- **Day 6 (Technical Monologue)**: Provide an original, engaging monologue from a data engineer's or tech professional's perspective explaining a technical system design, pipeline architecture, database layout, or server incident to a colleague or stakeholder.
+- Highlight the target grammar/phrases in **bold** in the monologue.
+- Include a "Key Vocabulary & Concepts" section below it explaining core terms with Vietnamese translations.
+
+### 3. Band 6.5-7.0 Cue Card Sample Answer
 - Provide a highly natural, realistic **Band 6.5-7.0 model response** answering the Day 2 Part 2 Cue Card. 
 - **Conversational Words Highlighted**: Highlight and list 3-5 key real-life, natural phrases used in the sample answer with their definitions and Vietnamese translations.
 
-### 3. Self-Evaluation Checklist
+### 4. Self-Evaluation Checklist
 - A checklist for the user to tick off each target grammar rule, sentence template, and collocation successfully produced during their writing and speaking.
 
-### 4. Casino & Data Operations Situational Responses
+### 5. Casino & Data Operations Situational Responses
 - Write 2 role-specific speaking/writing scenarios relevant to Data Engineering, Cloud Infrastructure, or Casino Operations.
 - Instruct the user to formulate a response using the target collocation and grammar formulas.
 - Provide natural model answers in a collapsed section.

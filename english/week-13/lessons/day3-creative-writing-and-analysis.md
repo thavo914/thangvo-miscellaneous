@@ -7,7 +7,30 @@
 **Requirement**: You must naturally include at least 2 of the target grammar rules (Second Conditional, Concession with Even Though/Despite, Quantifiers with more/fewer/less/enough) and 3 of the target collocations (*settle the debate, make the case for, give credit to, ahead of one's time, at the end of the day*).
 **Dialogue**:
 
-## 2. Band 6.5-7.0 Cue Card Sample Answer
+
+## 2. General Monologue: The Sports GOAT Debate
+
+**Context**: You are explaining to your colleagues during lunch why you consider Lionel Messi to be the greatest footballer of all time.
+
+**Monologue**:
+> "If we look at player statistics and actual gameplay, we can easily compare Lionel Messi and Cristiano Ronaldo.
+> 
+> Many people look only at goals, but let me **make the case for** Messi as the absolute GOAT—the greatest of all time. **Even though** Ronaldo has scored **more** goals in total, Messi has **more** assists and creates far **more** chances for his team. If Messi were just a goal-scorer, his teams **would** have **less** overall balance and **fewer** trophies. 
+> 
+> You have to **give credit to** Ronaldo, of course. His work ethic is incredible, and he has scored **enough** goals to prove he is a legend. But Messi's vision and passing ability are simply **ahead of his time**. 
+> 
+> **At the end of the day**, we don't have **enough** time to compare every single match. Despite their different styles, they are both phenomenal. But when you look at how they influence their teams, Messi's playmaking ability is what ultimately **settles the debate** for me."
+
+### Key Vocabulary & Concepts:
+- **GOAT (Greatest of All Time)**: An acronym used to describe the best player in a specific sport or field.
+- **Playmaking**: The action of setting up play or creating goal-scoring opportunities.
+- **Whiteboard sketch**: (Vietnamese: Bản phác thảo trên bảng trắng)
+- **Playmaking**: (Vietnamese: Khả năng kiến tạo lối chơi)
+
+---
+
+
+## 3. Band 6.5-7.0 Cue Card Sample Answer
 
 **Prompt**: Describe a famous athlete or sports personality you admire.
 
@@ -26,7 +49,7 @@ What makes him truly special is that he makes his teammates better. If he were j
 
 ---
 
-## 3. Self-Evaluation Checklist
+## 4. Self-Evaluation Checklist
 - [ ] Did I use the Second Conditional correctly?
 - [ ] Did I use "Even though" or "Despite" for concession?
 - [ ] Did I correctly use more/fewer/less/enough in comparisons?
@@ -34,7 +57,7 @@ What makes him truly special is that he makes his teammates better. If he were j
 
 ---
 
-## 4. Casino & Data Operations Situational Responses
+## 5. Casino & Data Operations Situational Responses
 
 **Scenario 1:**
 Your team is comparing two reporting tools — Power BI and Tableau. A stakeholder asks which one you'd recommend and why.
@@ -53,3 +76,4 @@ Your manager asks why the on-call engineer last week didn't catch a pipeline fai
 <summary><b>Model Answer</b></summary>
 I think we should give credit to James for resolving it within two hours — that's actually quite fast. Despite having fewer monitoring alerts set up than we'd like, he still caught it before it impacted the casino's live reporting dashboard. The real issue is that we don't have enough alert coverage on the upstream sources yet.
 </details>
+
