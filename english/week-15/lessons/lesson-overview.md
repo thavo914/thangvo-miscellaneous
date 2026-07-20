@@ -1,0 +1,75 @@
+# Week 15: Finding Fulfillment & Restoring Stakeholder Trust
+
+## 🎯 Lesson Overview
+
+| Metadata | Details |
+| :--- | :--- |
+| **Title** | Week 15: Finding Fulfillment in the Process & Restoring Stakeholder Trust |
+| **Source** | Custom (YouTube Transcript & Data Engineering Situations) |
+| **Target Level** | IELTS 6.5 (B1-B2 CEFR) |
+| **Target Week** | Week 15 |
+
+---
+
+## 📚 High-Yield Collocations & Vocabulary
+
+### Topic 1: Finding Fulfillment in the Process
+| Collocation/Phrase | POS | Vietnamese Meaning | Natural IELTS-Style Example |
+| :--- | :--- | :--- | :--- |
+| **let yourself go** | Phrase (v) | bỏ bê bản thân (ngoại hình, sức khỏe) | *When you're busy with work, it's easy to let yourself go a little bit.* |
+| **water off a duck's back** | Idiom (n) | nước đổ đầu vịt (chuyện không đáng bận tâm/ảnh hưởng) | *I used to get upset by criticism, but now it's like water off a duck's back.* |
+| **step out of your comfort zone** | Phrase (v) | bước ra khỏi vùng an toàn | *You'll never grow if you don't step out of your comfort zone occasionally.* |
+| **keep things in perspective** | Phrase (v) | nhìn nhận mọi việc một cách khách quan/đúng mực | *It's important to keep things in perspective when you're feeling overwhelmed.* |
+| **take things personally** | Phrase (v) | để bụng, tự ái | *Try not to take things personally; he was just giving constructive feedback.* |
+
+### Topic 2: Restoring Stakeholder Trust (Data Discrepancies)
+| Collocation/Phrase | POS | Vietnamese Meaning | Natural IELTS-Style Example |
+| :--- | :--- | :--- | :--- |
+| **look into something** | Phrasal Verb | điều tra, xem xét kỹ lưỡng | *I totally understand your concern; I'll look into the discrepancy right away.* |
+| **iron out** | Phrasal Verb | giải quyết, tháo gỡ (vấn đề/khó khăn) | *We just need to iron out a few data pipeline issues before the launch.* |
+| **bring someone up to speed** | Phrase (v) | cập nhật thông tin mới nhất cho ai đó | *Let me quickly bring you up to speed on the current dashboard situation.* |
+| **put someone's mind at ease** | Phrase (v) | làm cho ai đó an tâm | *I wanted to update you quickly just to put your mind at ease.* |
+| **root cause** | Noun | nguyên nhân gốc rễ | *We finally tracked down the root cause of the missing records.* |
+
+---
+
+## 🗓️ 6-Day Study Schedule & Objectives
+
+| Day | Phase | Activity & Focus | Primary Deliverable |
+| :--- | :--- | :--- | :--- |
+| **Day 1** | Study & Input (Topic 1) | Grammar, Formulas & Vocab Study | Complete all drills in `day1-grammar-and-structures.md`. |
+| **Day 2** | Speaking & Output (Topic 1) | IELTS Questions & AI Voice Simulation | Answer Part 1, 2, 3 questions & run the ChatGPT Voice Mode role-play. |
+| **Day 3** | Refinement & Writing (Topic 1) | Creative Production & Band 6.5 Analysis | Write a custom dialogue and study/analyze the Band 6.5 Cue Card sample answer. |
+| **Day 4** | Study & Input (Topic 2) | Grammar, Formulas & Vocab Study | Complete all drills in `day4-grammar-and-structures.md`. |
+| **Day 5** | Speaking & Output (Topic 2) | IELTS Questions & AI Voice Simulation | Answer Part 1, 2, 3 questions & run the ChatGPT Voice Mode role-play. |
+| **Day 6** | Refinement & Writing (Topic 2) | Creative Production & Technical Monologue | Write a custom dialogue and practice the technical system explanation. |
+
+---
+
+## 🗣️ Core Lesson Dialogues
+
+### Dialogue 1: Coffee Break - Finding Joy in the Process
+*Setting: Alex and Jamie are having coffee in the office pantry, discussing life goals and handling stress.*
+
+**Alex:** You know, Jamie, I used to think that once I got this senior promotion, I'd finally feel complete. But honestly? The excitement lasted about two days.
+**Jamie:** I completely get that. I've realized that **what I really wanted wasn't the title, but the feeling of growth**.
+**Alex:** Exactly! It's like we're always chasing the next big thing. But I've been trying to **keep things in perspective** lately. 
+**Jamie:** That's the secret, isn't it? **The joy isn't in reaching the goal, it's the process of getting there.**
+**Alex:** True. I also used to care so much about what others thought of me. Now, if someone criticizes my work, it's like **water off a duck's back**. I try not to **take things personally**.
+**Jamie:** It's amazing **what can happen when you let go of that fear**. By the way, **the more you step out of your comfort zone, the easier it gets**.
+**Alex:** Definitely. We just have to remind **ourselves** that the journey is the destination.
+**Jamie:** Speaking of journeys, make sure you don't work too hard and **let yourself go**. Have a good weekend!
+
+### Dialogue 2: Sync Meeting - Addressing a Dashboard Discrepancy
+*Setting: Sam (Data Engineer) is meeting with Taylor (Product Manager) who is concerned about missing user events on the main dashboard.*
+
+**Taylor:** Hey Sam, thanks for meeting. I noticed the active users metric dropped significantly yesterday. Do you know what happened?
+**Sam:** Yes, **I totally understand your concern about the missing data**. I've been **looking into it** all morning.
+**Taylor:** Did we lose any records permanently? I'm quite worried about the stakeholder report later today.
+**Sam:** I wanted to give you a quick update to **put your mind at ease**. **What caused the discrepancy was late-arriving data from the mobile app**, not a permanent loss.
+**Taylor:** Okay, that's a relief. Have you found the **root cause**?
+**Sam:** Yes, an upstream API change delayed the events. **We are currently in the process of backfilling the missing hours to ensure the dashboard is accurate.**
+**Taylor:** Sounds good. Let's make sure we **iron out** these issues before the end of the quarter.
+**Sam:** Absolutely. **Rest assured, we will have the entire pipeline fully resolved by 3 PM today.**
+**Taylor:** Perfect. Can you **bring me up to speed** again once it's done?
+**Sam:** Will do. And **going forward, we'll implement a new monitoring alert so that we catch these delays earlier.**
