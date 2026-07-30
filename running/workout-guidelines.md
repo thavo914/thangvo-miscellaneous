@@ -113,11 +113,11 @@ When weather forces treadmill use, substitute intervals with tempo runs:
 - **Form**: Focus on good running form and relaxation
 
 #### **When to Use MAF Pace**
-- **Wednesday Easy Runs**: 8 km recovery from Tuesday's hard session
-- **Saturday Easy Runs**: 8 km maintenance and recovery
-- **Long Run Base**: Base portion of long runs at MAF pace
-- **MLR Base**: Base portion of medium-long runs at MAF pace
-- **Recovery Runs**: Any additional recovery sessions
+- **Tuesday & Wednesday Easy Runs**: Aerobic base building (6 km)
+- **Thursday Medium-Long Run**: Aerobic endurance (10 km base)
+- **Saturday Long Run (Trail)**: Primary aerobic session (14 km base), power hike climbs to stay $<147$ bpm
+- **Sunday Recovery Run**: Light active recovery (4 km at $<140$ bpm)
+
 
 #### **MAF Pace Benefits**
 - **Aerobic Development**: Builds fat-burning efficiency at sustainable effort

@@ -1,7 +1,7 @@
 # 🏃 16-Week MAF Marathon Training Plan
 **Goal**: Sub-4:30 Marathon (42.2 km) — Target Pace ~6:24/km  
-**Method**: 80/20 Training + MAF (Maximum Aerobic Function)  
-**Athlete Profile**: Age 33, 4 sessions/week, HRV avg 40–49ms, poor post-hard-session recovery
+**Method**: 80/20 Zone 2 Training + MAF (Maximum Aerobic Function)  
+**Athlete Profile**: Age 33, 5 sessions/week, HRV avg 40–49ms
 
 ---
 
@@ -13,21 +13,21 @@
 | Easy / LR pace | HR-controlled, **MUST stay < 147 bpm** |
 | Marathon Race Pace (MRP) | **~6:24/km** |
 | Tempo Pace | **~5:45–5:55/km** |
-| Weekly 80/20 target | 80% easy, ≤20% hard |
+| Weekly 80/20 target | ≥80% Zone 2 easy, ≤20% hard |
 
 ---
 
-## 📅 Fixed Weekly Structure
+## 📅 Fixed Weekly Structure (5 Runs / Week)
 
 | Day | Session | Notes |
 |-----|---------|-------|
-| **Monday** | 🛌 Full Rest | No running, no strength |
-| **Tuesday** | ⚡ Quality Session | Tempo OR Interval — **ONLY hard day** |
-| **Wednesday** | 🟢 Easy Run | Zone 2, strictly < 147 bpm |
-| **Thursday** | 🟡 Medium Long Run (MLR) | ~60% of Saturday's long run distance, easy pace under MAF HR |
-| **Friday** | 🛌 Full Rest | Buffer day before Long Run |
-| **Saturday** | 🔵 Long Run (LR) | Primary aerobic session, < 147 bpm |
-| **Sunday** | 🛌 Full Rest | Post-LR recovery day |
+| **Monday** | 🛌 Full Rest | No running, full recovery |
+| **Tuesday** | 🟢 Easy Zone 2 / Quality | Aerobic Zone 2 (Base) or optional Quality session (Build/Peak) |
+| **Wednesday** | 🟢 Easy Run | Zone 2, strictly < 147 bpm + Strength Session A |
+| **Thursday** | 🟡 Medium Long Run (MLR) | ~60% of Saturday's long run distance, easy pace under MAF HR + Strength Session B |
+| **Friday** | 🛌 Full Rest | Buffer rest day before Saturday Trail Long Run |
+| **Saturday** | 🌲 Long Run (Trail) | Primary aerobic session, < 147 bpm, power hike climbs |
+| **Sunday** | 🟢 Easy Recovery Run | 4 km light shakeout, < 140 bpm |
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Weeks | Phase | Focus | Volume |
 |-------|-------|-------|--------|
-| 1–4 | **Base Building** | Aerobic base, MAF-only | 40–50 km/wk |
+| 1–4 | **Base Building** | Aerobic base, 5-day Zone 2 | 40–50 km/wk (W1: 40 km) |
 | 5–10 | **Build Phase** | Introduce tempo, LR extends | 50–60 km/wk |
 | 11–14 | **Peak Phase** | Race-specific work, max LR 35 km | 55–65 km/wk |
 | 15–16 | **Taper** | Volume drops 40–50% | 25–35 km/wk |
@@ -59,7 +59,7 @@
 
 ## 🏁 Finish Strong + Flush Protocol
 
-> Apply ONLY to **Friday MLR** and **Sunday LR** — never Tuesday.
+> Apply ONLY to **Thursday MLR** and **Saturday LR** — never Tuesday.
 
 ### Eligibility Conditions (ALL must be met):
 - ✅ Morning HRV ≥ 50ms
@@ -89,9 +89,8 @@
 ## 📊 80/20 Balance Rule
 
 - **Hard km** = Tuesday quality session + any Finish Strong segment
-- **Easy km** = all MAF runs (Wed, Fri, Sun) + warmup/cooldown on Tuesday + flush km
+- **Easy km** = all MAF runs (Tue, Wed, Thu, Sat, Sun) + warmup/cooldown + flush km
 - Target: ≥ 80% easy, ≤ 20% hard each week
-- If Tuesday was full quality, cap Finish Strong at 1 km to preserve balance
 
 ---
 
@@ -100,32 +99,18 @@
 - Max weekly volume increase: **10%**
 - Never increase volume AND intensity in the same week
 - Long run cap: **35 km**
-- At least 1 full rest day per week (Mon + Thu recommended)
-- Post-run nutrition within **45 min** after Tuesday and Sunday sessions (carb + protein)
+- At least 2 full rest days per week (Mon + Fri recommended)
+- Post-run nutrition within **45 min** after heavy sessions (carb + protein)
 - **Magnesium Glycinate 300–400mg** before bed nightly
 
 ---
 
-## 📁 Week Files
+## 📁 Active Week Schedule
 
-| Week | File | Phase |
-|------|------|-------|
-| 1 | [week-01.md](week-01.md) | Base |
-| 2 | [week-02.md](week-02.md) | Base |
-| 3 | [week-03.md](week-03.md) | Base |
-| 4 | [week-04.md](week-04.md) | Base (Recovery) |
-| 5 | [week-05.md](week-05.md) | Build |
-| 6 | [week-06.md](week-06.md) | Build |
-| 7 | [week-07.md](week-07.md) | Build |
-| 8 | [week-08.md](week-08.md) | Build (Recovery) |
-| 9 | [week-09.md](week-09.md) | Build |
-| 10 | [week-10.md](week-10.md) | Build |
-| 11 | [week-11.md](week-11.md) | Peak |
-| 12 | [week-12.md](week-12.md) | Peak (Recovery) |
-| 13 | [week-13.md](week-13.md) | Peak |
-| 14 | [week-14.md](week-14.md) | Peak |
-| 15 | [week-15.md](week-15.md) | Taper |
-| 16 | [week-16.md](week-16.md) | Taper (Race Week) |
+| Week | File | Phase | Status / Volume |
+|------|------|-------|-----------------|
+| 1 | [week-01.md](week-01.md) | Base | **Active (40 km / 5-day Zone 2 & Saturday Trail Run)** |
+
 
 ---
 
