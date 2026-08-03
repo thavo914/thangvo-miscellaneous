@@ -6,42 +6,42 @@ A comprehensive 14-week Full Marathon training plan following the MAF (Maximum A
 
 ## 📋 Plan Overview
 
-- **Duration**: 14 weeks
-- **Runs per week**: 5 runs + 2 rest days
+- **Duration**: 16 weeks
+- **Runs per week**: 5 runs + 2 rest days (Mon & Fri rest)
 - **Target**: Sub-4:30 marathon completion (6:24/km pace)
-- **Methodology**: MAF-based training with 80-20 intensity distribution
-- **Starting Fitness**: 50 km/week, 22 km longest run, easy pace 6:20-6:30/km
+- **Methodology**: MAF Zone 2 training with 80/20 intensity distribution
+- **Starting Volume**: Week 1 at **40 km total**
+- **Long Run**: Saturday mornings (Trail Run)
 
 ## 🎯 Training Paces
 
 Based on your current fitness level:
 
-- **Easy/MAF Pace**: 6:25/km (143-153 bpm) - Your current comfortable pace
+- **Easy/MAF Pace**: Zone 2 strictly $<147$ bpm (~6:40–7:20/km)
 - **Marathon Pace**: 6:24/km (sub-4:30 goal pace)
-- **Tempo Pace**: 5:50/km (threshold, 160-169 bpm)
-- **Interval Pace**: 5:30/km (VO2 max, 170-175 bpm)
-- **Recovery Jog**: 7:00/km (between intervals)
+- **Tempo Pace**: 5:50/km (threshold, 160–169 bpm)
+- **Interval Pace**: 5:30/km (VO2 max, 170–175 bpm)
 
 ## 📁 Training Plan Files
 
-- **[Training Schedule](training-schedule.md)** - Complete 15-week breakdown with distances and workouts
-- **[Training Phases](training-phases.md)** - Detailed explanation of each training phase
+- **[MAF Plan Overview](maf-plan/plan-overview.md)** - System design and rules for the 5-day Zone 2 plan
+- **[Week 1 Schedule](maf-plan/week-01.md)** - Active 40 km 5-day Zone 2 breakdown with Saturday Trail LR
 - **[Workout Guidelines](workout-guidelines.md)** - How to execute different types of workouts
 - **[Nutrition & Hydration](nutrition-hydration.md)** - Fueling strategies for training and race day
 - **[Recovery & Injury Prevention](recovery-injury-prevention.md)** - Rest, mobility, and injury prevention
-- **[Strength Training Routine](strength-training-routine.md)** - Complete strength, mobility & core routine
 
-## 🗓️ Weekly Schedule
+## 🗓️ Weekly Schedule (5 Runs / Week)
 
 | Day | Workout Type | Description |
 |-----|--------------|-------------|
-| **Monday** | Rest | Complete rest or light active recovery |
-| **Tuesday** | High Intensity | Intervals (odd weeks) or Tempo (even weeks) + warm-up/cool-down |
-| **Wednesday** | Easy Run | MAF pace (6:25/km), 8 km |
-| **Thursday** | Medium-Long Run | MAF pace (6:25/km), progressive distance |
-| **Friday** | Light Rest | Mobility work and foam rolling |
-| **Saturday** | Easy Run | MAF pace (6:25/km), 8 km |
-| **Sunday** | Long Run | MAF pace (6:25/km), progressive distance |
+| **Monday** | Rest | Full rest & recovery |
+| **Tuesday** | Easy Zone 2 | MAF pace ($<147$ bpm), 6 km |
+| **Wednesday** | Easy Zone 2 | MAF pace ($<147$ bpm), 6 km + Strength Session A |
+| **Thursday** | Medium-Long Run | MAF pace ($<147$ bpm), 10 km + Strength Session B |
+| **Friday** | Rest | Buffer rest day before Trail Long Run |
+| **Saturday** | Long Run (Trail) 🌲 | MAF pace ($<147$ bpm), 14 km (power hike climbs) |
+| **Sunday** | Recovery Run | Easy shakeout ($<140$ bpm), 4 km |
+
 
 ## 🎯 Key Training Principles
 
