@@ -70,3 +70,24 @@ Practice speaking these lines out loud. Use the slashes `/` for pauses, and stre
 
 - **Pacing**: Pause slightly after *assured* and *backfilled*. Speed up slightly on *and we will be monitoring the pipeline*.
 - **Intonation**: Stress **ASSURED** and **BACKFILLED** to convey confidence and completion.
+
+---
+
+## 🕒 3-Hour Intensive Practice & Note-Taking
+
+To meet your 3-hour daily commitment, allocate your time as follows:
+- **Hour 1**: Core Lesson (IELTS, Voice Simulation, Shadowing above)
+- **Hour 2**: Speaking Reflex Practice (😈 **"Devil's Advocate" Challenge**)
+- **Hour 3**: Active Listening & Decoding (📝 **3-Sentence Active Summary**)
+
+### Today's Exercises
+1. **"Devil's Advocate" Challenge (Speaking)**: State a simple opinion out loud, then immediately challenge or refute your own statement in English within 30 seconds to build fast-paced cognitive agility.
+2. **3-Sentence Active Summary (Listening)**: Listen to a 2-3 minute podcast without taking notes. Afterwards, speak or write a 3-sentence summary (Main Topic, Supporting Detail, Takeaway).
+
+### Daily Progress Notes
+
+| Category | Time Spent | Key Learnings / New Vocabulary | Challenges & Areas to Improve |
+| :--- | :--- | :--- | :--- |
+| **Core Lesson** | | | |
+| **Speaking (Devil's Advocate)** | | | |
+| **Listening (3-Sentence Summary)** | | | |

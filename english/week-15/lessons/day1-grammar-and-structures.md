@@ -118,3 +118,24 @@ Identify the error in each sentence and rewrite it correctly.
 2. **Correction**: My colleague, **who** sits next to me, taught me how to keep things in perspective. *(Explanation: In a non-defining relative clause set off by commas, you must use 'who' for people, not 'that').*
 3. **Correction**: We decided to review the entire data architecture by **ourselves**. *(Explanation: The subject is 'We', so the reflexive pronoun must be 'ourselves').*
 </details>
+
+---
+
+## 🕒 3-Hour Intensive Practice & Note-Taking
+
+To meet your 3-hour daily commitment, allocate your time as follows:
+- **Hour 1**: Core Lesson (Grammar, Templates, Drills above)
+- **Hour 2**: Speaking Reflex Practice (🎙️ **The Daily Commentator**)
+- **Hour 3**: Active Listening & Decoding (✍️ **Micro-Dictation**)
+
+### Today's Exercises
+1. **The Daily Commentator (Speaking)**: Narrate your daily actions and thoughts in English as if hosting a vlog. Speak continuously while doing routine chores to build direct English thinking without translation.
+2. **Micro-Dictation (Listening)**: Select a 15-30 second native audio clip. Listen repeatedly and transcribe every single word, paying extra attention to function words (a, the, in, to, can).
+
+### Daily Progress Notes
+
+| Category | Time Spent | Key Learnings / New Vocabulary | Challenges & Areas to Improve |
+| :--- | :--- | :--- | :--- |
+| **Core Lesson** | | | |
+| **Speaking (Commentator)** | | | |
+| **Listening (Dictation)** | | | |

@@ -73,3 +73,24 @@ Did you successfully use the following in your speaking and writing today?
 - [ ] step out of your comfort zone
 - [ ] keep things in perspective
 - [ ] take things personally
+
+---
+
+## 🕒 3-Hour Intensive Practice & Note-Taking
+
+To meet your 3-hour daily commitment, allocate your time as follows:
+- **Hour 1**: Core Lesson (Creative Writing, Monologue, Cue Card above)
+- **Hour 2**: Speaking Reflex Practice (🤖 **AI Voice Roleplay**)
+- **Hour 3**: Active Listening & Decoding (🧩 **Gap-Fill Decoding**)
+
+### Today's Exercises
+1. **AI Voice Roleplay (Speaking)**: Open your AI voice assistant (like ChatGPT Voice Mode) and engage in a dramatic or quirky scenario (e.g., handling a demanding customer, alien encounter). Force fast vocabulary retrieval.
+2. **Gap-Fill Decoding (Listening)**: Copy a 1-2 paragraph transcript, erase 5-10 key words randomly, then listen to the audio and fill in the missing words to maximize focus.
+
+### Daily Progress Notes
+
+| Category | Time Spent | Key Learnings / New Vocabulary | Challenges & Areas to Improve |
+| :--- | :--- | :--- | :--- |
+| **Core Lesson** | | | |
+| **Speaking (AI Roleplay)** | | | |
+| **Listening (Gap-Fill)** | | | |

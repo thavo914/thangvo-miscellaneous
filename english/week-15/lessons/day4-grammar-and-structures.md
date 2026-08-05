@@ -116,3 +116,24 @@ Identify the error in each sentence and rewrite it correctly.
 2. **Correction**: What we found **was that** the root cause was a broken API. (Or: **What caused the issue was** a broken API). *(Explanation: You need a linking verb "was" after the "What" clause to connect it to the noun phrase).*
 3. **Correction**: We will **be** monitoring the servers closely tonight to ensure stability. *(Explanation: Future Continuous requires the auxiliary verb "be": will + be + V-ing).*
 </details>
+
+---
+
+## 🕒 3-Hour Intensive Practice & Note-Taking
+
+To meet your 3-hour daily commitment, allocate your time as follows:
+- **Hour 1**: Core Lesson (Grammar, Templates, Drills above)
+- **Hour 2**: Speaking Reflex Practice (🎬 **Dubbing & Emotion Shadowing**)
+- **Hour 3**: Active Listening & Decoding (🗺️ **Connected Speech Mapping**)
+
+### Today's Exercises
+1. **Dubbing & Emotion Shadowing (Speaking)**: Select a short video clip featuring emotional dialogue. Mute the video and play it while dubbing live—matching their voice tone, speed, and emotional intensity.
+2. **Connected Speech Mapping (Listening)**: Write out a transcript of a difficult audio segment. Listen closely and mark the phonetic changes directly on the text (linking words, swallowed sounds, sentence stress).
+
+### Daily Progress Notes
+
+| Category | Time Spent | Key Learnings / New Vocabulary | Challenges & Areas to Improve |
+| :--- | :--- | :--- | :--- |
+| **Core Lesson** | | | |
+| **Speaking (Dubbing)** | | | |
+| **Listening (Speech Map)** | | | |

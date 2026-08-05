@@ -101,3 +101,24 @@ A Finance Analyst notices that some transactions in the daily report look like t
 <summary><b>Model Answer</b></summary>
 "**What caused the discrepancy was** a retry bug in the payment gateway API, which duplicated the event logs. We are in the process of deleting the duplicates now. **Going forward, we'll implement a strict deduplication check at the ingestion layer so that this doesn't happen again.**"
 </details>
+
+---
+
+## 🕒 3-Hour Intensive Practice & Note-Taking
+
+To meet your 3-hour daily commitment, allocate your time as follows:
+- **Hour 1**: Core Lesson (Creative Writing, Technical Monologue, Cue Card above)
+- **Hour 2**: Speaking Reflex Practice (🌟 **Review & Free Practice**)
+- **Hour 3**: Active Listening & Decoding (🎧 **Free Listening**)
+
+### Today's Exercises
+1. **Free Practice / Review (Speaking)**: Review your favorite speaking techniques from the week (e.g., The Daily Commentator, 60s Pitch) or do a free speaking session to reinforce what you enjoyed the most.
+2. **Free Listening (Listening)**: Relax and listen to your favorite podcasts, YouTube videos, or watch a movie without intense transcription, allowing your ears to naturally absorb the language.
+
+### Daily Progress Notes
+
+| Category | Time Spent | Key Learnings / New Vocabulary | Challenges & Areas to Improve |
+| :--- | :--- | :--- | :--- |
+| **Core Lesson** | | | |
+| **Speaking (Review)** | | | |
+| **Listening (Free Listening)** | | | |

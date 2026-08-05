@@ -70,3 +70,24 @@ Practice speaking these lines out loud. Use the slashes `/` for pauses, and stre
 
 - **Pacing**: Pause after *goal* and *process*. Keep the rhythm steady.
 - **Intonation**: Rise slightly on *goal*, and bring your pitch down naturally on *there*.
+
+---
+
+## 🕒 3-Hour Intensive Practice & Note-Taking
+
+To meet your 3-hour daily commitment, allocate your time as follows:
+- **Hour 1**: Core Lesson (IELTS, Voice Simulation, Shadowing above)
+- **Hour 2**: Speaking Reflex Practice (⏱️ **60s Random Object Pitch**)
+- **Hour 3**: Active Listening & Decoding (🗣️ **Audio Echoing / Shadowing**)
+
+### Today's Exercises
+1. **60s Random Object Pitch (Speaking)**: Pick a random object. Set a timer for 60 seconds. Speak continuously about it without pausing for more than 2 seconds. Use circumlocution if you forget a word!
+2. **Audio Echoing / Shadowing (Listening)**: Play an audio clip at normal speed. Repeat the speaker's words out loud with a 0.5 to 1-second delay, mimicking their exact intonation without looking at a transcript.
+
+### Daily Progress Notes
+
+| Category | Time Spent | Key Learnings / New Vocabulary | Challenges & Areas to Improve |
+| :--- | :--- | :--- | :--- |
+| **Core Lesson** | | | |
+| **Speaking (60s Pitch)** | | | |
+| **Listening (Echoing)** | | | |
