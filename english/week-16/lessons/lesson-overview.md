@@ -8,7 +8,7 @@
 | **Source** | Custom (YouTube Transcript & Data Engineering Situations) |
 | **Target Level** | IELTS 6.5 (B1-B2 CEFR) |
 | **Target Week** | Week 16 |
-| **Daily Target** | 3 Hours / Day (180 Mins), 6 Days / Week (18 Hours Total) |
+| **Daily Target** | 3 Hours / Day (180 Mins), 7 Days / Week (21 Hours Total) |
 
 ---
 
@@ -34,16 +34,17 @@
 
 ---
 
-## 🗓️ Comprehensive 6-Day Study Schedule (3-Hour Daily Focus)
+## 🗓️ Comprehensive 7-Day Study Schedule (3-Hour Daily Focus)
 
-| Day | Phase | Speaking Reflex Focus (15m) | Active Listening Focus (15m) | Core Engine Focus (90m) | Primary Deliverable |
+| Day | Phase | Speaking Reflex Focus (15m) | Active Listening Focus (20-30m) | Workplace Practice (60m) | AI Speaking & Review (75m) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | Study & Input (Topic 1) | 🎙️ The Daily Commentator | ✍️ Micro-Dictation | Topic 1 Grammar, Formulas & Vocab Study | Complete all drills in `day1-grammar-and-structures.md`. |
-| **Day 2** | Speaking & Output (Topic 1) | ⏱️ 60s Random Object Pitch | 🗣️ Audio Echoing / Shadowing | Topic 1 IELTS Questions & AI Voice Simulation | Answer IELTS questions & run ChatGPT Voice roleplay. |
-| **Day 3** | Refinement & Writing (Topic 1) | 🤖 AI Voice Roleplay | 🧩 Gap-Fill Decoding | Topic 1 Creative Writing & Band 6.5 Cue Card Analysis | Write custom dialogue & analyze Band 6.5 model answer. |
-| **Day 4** | Study & Input (Topic 2) | 🎬 Dubbing & Emotion Shadowing | 🗺️ Connected Speech Mapping | Topic 2 Grammar, Formulas & Vocab Study (Tech) | Complete all drills in `day4-grammar-and-structures.md`. |
-| **Day 5** | Speaking & Output (Topic 2) | 😈 Devil's Advocate Challenge | 📝 3-Sentence Active Summary | Topic 2 IELTS Questions & AI Voice Simulation (Tech) | Answer IELTS questions & run ChatGPT Voice roleplay. |
-| **Day 6** | Refinement & Writing (Topic 2) | 🎙️ Free Pitch / Commentator | ✍️ Micro-Dictation / Audio Breakdown | Topic 2 Creative Writing & Technical Monologue | Write custom dialogue & present technical monologue. |
+| **Day 1** | Study & Input (Topic 1) | 🎙️ The Daily Commentator | 🎧 TOEIC Dictation (3 Exercises) | Topic 1 Grammar, Formulas & Vocab Study | Practice with AI using today's lessons |
+| **Day 2** | Speaking & Output (Topic 1) | ⏱️ 60s Random Object Pitch | 🎧 TOEIC Dictation (3 Exercises) | Topic 1 IELTS Practice & Shadowing | ChatGPT Voice Mode Roleplay (IELTS) |
+| **Day 3** | Refinement & Writing (Topic 1) | 🤖 AI Voice Roleplay | 🎧 TOEIC Dictation (3 Exercises) | Topic 1 Creative Writing & Analysis | Practice with AI using today's dialogue |
+| **Day 4** | Study & Input (Topic 2) | *(Removed)* | 🎧 TOEIC Dictation (3 Exercises) | Topic 2 Grammar, Formulas & Vocab Study (Tech) | Practice with AI using today's tech lessons |
+| **Day 5** | Speaking & Output (Topic 2) | 😈 Devil's Advocate Challenge | 🎧 TOEIC Dictation (3 Exercises) | Topic 2 IELTS Practice & Shadowing | ChatGPT Voice Mode Roleplay (Tech) |
+| **Day 6** | Mock Test & Review | 🧠 Test Prep / Mental Warm-up | 🎧 Full TOEIC Listening Test (45m) | IELTS Reading/Writing/Speaking Test | Detailed Mistake Analysis & Error Logging |
+| **Day 7** | Rest & Recharge | *(Day Off)* | *(Day Off)* | *(Day Off)* | Rest |
 
 ---
 

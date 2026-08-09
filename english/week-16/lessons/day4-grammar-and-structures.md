@@ -6,32 +6,16 @@
 
 ---
 
-## ⚡ Section 0: Block 1 - Warm-up Reflex & Active Listening (30 Mins)
+## ⚡ Section 0: Block 1 - Warm-up Reflex & Active Listening
 
-### 🎬 Speaking Reflex: Dubbing & Emotion Shadowing (15 Mins)
-* **Goal**: Match native speaker tone, cadence, and professional reassurance during high-stakes sync meetings.
-* **Instructions**:
-  1. Read Dialogue 2 from `lesson-overview.md` (Sam's lines).
-  2. Mute audio and **dub live**, matching exact voice speed and calm, authoritative cadence.
 
-#### 💡 Worked Example Script (Dubbing Demo):
-> *"I wanted to give you a quick update to **put your mind at ease**. **What caused the discrepancy was late-arriving data** from the mobile app, not a permanent loss. **We are currently in the process of backfilling the missing hours to ensure the dashboard is accurate**."*
-> *(Tone: Calm, reassuring, steady delivery without rushing).*
+### 🎧 Active Listening: TOEIC Dictation (20-30 Mins)
+* **Goal**: Train your ear for fast, natural connected speech and improve vocabulary by transcribing everyday/business contexts.
+* **Instructions**: Complete 3 short TOEIC listening exercises with full word-for-word dictation. Compare with the transcript and correct with a red pen.
 
 ---
 
-### 🗺️ Active Listening: Connected Speech Mapping (15 Mins)
-* **Goal**: Bridge the gap between written text and spoken phonetic flow in technical communication.
-* **Instructions**: Map linking sounds ($\smile$), elisions, and stress accents on target sentences.
-
-#### 💡 Worked Example & Phonetic Map:
-1. *I'll look$\smile$into$\smile$it right$\smile$away.* $\rightarrow$ `/aɪl lʊkˈɪntuːwɪt raɪtəˈweɪ/`
-2. *We need to iron$\smile$out these issues before launch.* $\rightarrow$ `/aɪərnaʊt/`
-3. *What caused the discrepancy was late-arriving data.* $\rightarrow$ Accent on **CAUSED**, **DISCREPANCY**, **LATE-ARRIVING**.
-
----
-
-## 🧠 Section 1: Block 2 - Tech Grammar Focus (90 Mins)
+## 🧠 Section 1: Block 2 - Workplace Practice (Grammar & Structures) (60 Mins)
 
 ### 1. Passive Voice in Present Perfect (`has/have been + P.P.`)
 - **Quote**: *"The pipeline issues have been resolved by our on-call engineer."*
@@ -152,13 +136,11 @@ Rewrite the incorrect sentences:
 
 ---
 
-## 🎬 Section 5: Block 3 & 4 - Skimming & Daily Review (60 Mins)
+## 🎬 Section 5: Block 3 & 4 - AI Speaking & Daily Consolidation (75 Mins)
 
-### Skimming & Video Practice (40 Mins)
-- Open `skimming-transcripts.md` for Topic 2 transcript (*Restoring Stakeholder Trust*).
-- Perform a **10-Second Eye-Sweep** on the bold keywords layout.
-- Record a **60-Second Video** delivering the transcript with a calm, professional demeanor.
+### AI Speaking Practice (60 Mins)
+- Practice speaking with AI (ChatGPT Voice Mode) using today's tech grammar rules, templates, and collocations. 
 
-### Review & Error Logging (20 Mins)
+### Review & Error Logging (15 Mins)
 - Log today's 5 technical collocations (*iron out, root cause, bring up to speed*) into Anki.
 - Review your technical grammar notes before tomorrow's simulation.

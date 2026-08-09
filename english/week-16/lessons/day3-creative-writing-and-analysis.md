@@ -20,18 +20,13 @@
 
 ---
 
-### 🧩 Active Listening: Self-Generated Gap-Fill Decoding (15 Mins)
-* **Goal**: Focus on active retrieval of functional target words.
-* **Instructions**: Fill in the missing target words without looking back at the lesson overview text.
-
-#### 💡 Worked Exercise & Answer Key:
-1. *"Now, if someone criticizes my work, it's like **[ water off a duck's back ]**."*
-2. *"By the way, the more you step out of your **[ comfort ]** zone, the easier it gets."*
-3. *"Make sure you don't work too hard and **[ let yourself go ]**."*
+### 🎧 Active Listening: TOEIC Dictation (20-30 Mins)
+* **Goal**: Train your ear for fast, natural connected speech and improve vocabulary by transcribing everyday/business contexts.
+* **Instructions**: Complete 3 short TOEIC listening exercises with full word-for-word dictation. Compare with the transcript and correct with a red pen.
 
 ---
 
-## ✍️ Section 1: Block 2 - Creative Dialogue Writing (90 Mins)
+## ✍️ Section 1: Block 2 - Workplace Practice (Writing) (60 Mins)
 
 ### 💡 Worked Example Dialogue (10 Turns):
 *Setting: Chris and Morgan are having lunch near the office after a difficult project debrief.*
@@ -79,11 +74,10 @@ Looking back, **the more I stepped out of my comfort zone, the easier it was to 
 
 ---
 
-## 🎬 Section 5: Block 3 & 4 - Skimming & Portfolio Log (60 Mins)
+## 🎬 Section 5: Block 3 & 4 - AI Speaking & Weekly Wrap-up (75 Mins)
 
-### Skimming & Monologue Video Recording (40 Mins)
-- Practice reciting the General Life Monologue aloud 2 times.
-- Record a **60-Second Video monologue** focusing on steady pacing and natural stress.
+### AI Speaking Practice (60 Mins)
+- Practice speaking with AI using today's dialogue/monologue topics. Explain the concepts in your own words.
 
-### Weekly Progress Log (20 Mins)
+### Weekly Progress Log (15 Mins)
 - Save your video link or file path in your weekly portfolio folder.

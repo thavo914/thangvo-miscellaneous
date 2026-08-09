@@ -3414,5 +3414,222 @@ const vocabData = [
         ],
         "source": "vocabulary-batch-13.md",
         "added_date": "2026-07-08"
+    },
+    {
+        "id": 112,
+        "word": "out of order",
+        "type": "phrase",
+        "english_meaning": "broken or not working properly, usually referring to a machine or system.",
+        "vietnamese_meaning": "bị hỏng",
+        "sentences": [
+            "The main database cluster went out of order yesterday, causing all our ETL pipelines to fail simultaneously.",
+            "My treadmill at home is out of order, so I had to do my 10km tempo run outside in the rain.",
+            "The turnstiles at Anfield were out of order before the match, creating a massive queue for the fans.",
+            "I checked the Kafka brokers and it seems one of the partitions is completely out of order and needs a manual reset.",
+            "The water fountain at the parkrun finish line was out of order, which was brutal after running in the summer heat."
+        ],
+        "synonyms": [
+            "**Broken** — the most common and direct synonym.",
+            "**Malfunctioning** — more technical; implies behaving incorrectly rather than totally dead.",
+            "**Out of service** — often used for public facilities or systems that are temporarily unavailable.",
+            "**Down** — common in IT/engineering for servers or systems."
+        ],
+        "antonyms": [
+            "**In working order** — fully functional and ready to use.",
+            "**Operational** — functioning correctly, often used for systems.",
+            "**Up and running** — active and working normally."
+        ],
+        "prompts": [
+            "Because the coffee machine in the office was out of order, I had to ____________________ before looking at the dashboard.",
+            "I wanted to check my Strava stats, but my phone was completely out of order after ____________________."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
+    },
+    {
+        "id": 113,
+        "word": "broken down",
+        "type": "phrasal verb",
+        "english_meaning": "having stopped working due to a mechanical or technical fault; also meaning to divide something into smaller parts for analysis.",
+        "vietnamese_meaning": "bị hỏng, phân tích",
+        "sentences": [
+            "The opponent's defense was completely broken down by Salah's incredible pass in the second half.",
+            "Our legacy Spark cluster had broken down again overnight, leaving the morning dashboard completely blank.",
+            "I've broken down my marathon training plan into four distinct phases to make the weekly mileage feel more manageable.",
+            "When I explained the pipeline latency issue to the stakeholders, I had it broken down into simple, non-technical steps.",
+            "The team coach had broken down on the way to the stadium, delaying the kick-off by 30 minutes."
+        ],
+        "synonyms": [
+            "**Failed** — a general term for when a system or machine stops working.",
+            "**Analyzed** — when referring to dividing information into smaller parts.",
+            "**Deconstructed** — formal; taking apart a concept to understand it.",
+            "**Out of action** — informal; temporarily unable to be used."
+        ],
+        "antonyms": [
+            "**Functioning smoothly** — operating without any issues or interruptions.",
+            "**Intact** — whole and not divided or broken.",
+            "**Assembled** — put together (opposite of broken down into parts)."
+        ],
+        "prompts": [
+            "After the data pipeline had broken down for the third time this week, I decided to ____________________.",
+            "I’ve broken down my next 10K race strategy into ____________________ to make sure I hit my PB."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
+    },
+    {
+        "id": 114,
+        "word": "run over",
+        "type": "phrasal verb",
+        "english_meaning": "to go beyond a time limit; to exceed an expected duration.",
+        "vietnamese_meaning": "quá thời gian, kéo dài quá lố",
+        "sentences": [
+            "Our daily stand-up meeting ended up running over by 20 minutes because we had to debug a weird data warehouse issue.",
+            "My long run on Sunday ran over my expected time because I decided to add an extra hill repeat at the end.",
+            "The post-match analysis on TV ran over into the next program because the pundits wouldn't stop arguing about Klopp's tactics.",
+            "Be careful when deploying that new dbt model—if the execution time runs over its schedule, it will block downstream tasks.",
+            "I tried to keep my pace steady, but the track session ran over slightly due to the extended warm-up."
+        ],
+        "synonyms": [
+            "**Exceed** — formal; to go past an allowed limit.",
+            "**Drag on** — implies something lasted too long and was boring.",
+            "**Overrun** — similar meaning; taking more time or money than intended.",
+            "**Go over time** — simple, everyday alternative."
+        ],
+        "antonyms": [
+            "**Finish early** — to complete before the deadline.",
+            "**Wrap up on time** — to conclude exactly when expected.",
+            "**Stay on schedule** — to adhere strictly to the planned timing."
+        ],
+        "prompts": [
+            "The sprint planning meeting ran over because we couldn't agree on how to ____________________.",
+            "Whenever my weekend long run runs over two hours, I make sure to ____________________ for recovery."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
+    },
+    {
+        "id": 115,
+        "word": "take over as production manager",
+        "type": "phrase",
+        "english_meaning": "to assume the responsibilities and leadership role of managing a production environment, project, or team.",
+        "vietnamese_meaning": "tiếp quản vị trí quản lý sản xuất",
+        "sentences": [
+            "After Sarah left for a startup, I was asked to take over as production manager to oversee all our data pipelines.",
+            "When the new sporting director arrived, he essentially had to take over as production manager of the entire scouting department.",
+            "The head coach stepped down, and John had to take over as production manager for organizing our local parkrun events.",
+            "It’s a huge responsibility to take over as production manager, especially when you have to maintain legacy SQL codebases.",
+            "She didn't expect to take over as production manager so soon, but she handled the cloud migration perfectly."
+        ],
+        "synonyms": [
+            "**Assume the role of** — formal way to say taking on a new position.",
+            "**Step into the position of** — implies replacing someone who left.",
+            "**Become head of production** — similar meaning but a slightly different title.",
+            "**Take the reins** — idiomatic; to take control of a project or team."
+        ],
+        "antonyms": [
+            "**Step down** — to resign or leave a position of leadership.",
+            "**Resign from** — to formally quit a job.",
+            "**Hand over** — to give responsibility to someone else."
+        ],
+        "prompts": [
+            "Before I could take over as production manager, I had to completely understand ____________________.",
+            "It’s stressful to take over as production manager when the team is currently dealing with ____________________."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
+    },
+    {
+        "id": 116,
+        "word": "out on maternity leave",
+        "type": "phrase",
+        "english_meaning": "absent from work for a period of time to have a baby and care for a newborn.",
+        "vietnamese_meaning": "nghỉ thai sản",
+        "sentences": [
+            "Since our lead data engineer is currently out on maternity leave, I’ve had to step up and manage the Spark clusters myself.",
+            "One of our regular season-ticket holders is out on maternity leave this season, so she let me use her seat at Anfield.",
+            "My running partner is out on maternity leave, so I’ve been doing my weekend long runs alone lately.",
+            "We need to document this ETL workflow thoroughly before Jessica goes out on maternity leave next month.",
+            "The project timeline was delayed slightly because the product owner has been out on maternity leave."
+        ],
+        "synonyms": [
+            "**On family leave** — a broader term that can include paternity or caregiving leave.",
+            "**On parental leave** — gender-neutral term for taking time off for a new child.",
+            "**Taking time off for a baby** — informal, conversational way to express the same thing.",
+            "**On leave** — general term for an extended absence from work."
+        ],
+        "antonyms": [
+            "**Back at work** — having returned from an absence.",
+            "**On active duty** — fully present and working in a professional context.",
+            "**Clocked in** — currently at work on a specific day."
+        ],
+        "prompts": [
+            "Because the senior database administrator is out on maternity leave, we had to ____________________.",
+            "When my colleague comes back from being out on maternity leave, I plan to show her ____________________."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
+    },
+    {
+        "id": 117,
+        "word": "jumping in a situation",
+        "type": "phrase",
+        "english_meaning": "to quickly get involved in a complex or ongoing event to help, interfere, or take control.",
+        "vietnamese_meaning": "nhảy vào cuộc, can thiệp",
+        "sentences": [
+            "The server crashed at 2 AM, and as the on-call engineer, I ended up jumping in a situation I knew nothing about.",
+            "When the midfield was struggling, Trent had no choice but jumping in a situation that required him to defend aggressively.",
+            "Seeing another runner struggling with a cramp during the marathon, I couldn't resist jumping in a situation to offer some salt tabs.",
+            "It’s never easy jumping in a situation where the data warehouse architecture is completely undocumented.",
+            "My manager always trusts me when I'm jumping in a situation to fix pipeline failures before the stakeholders even notice."
+        ],
+        "synonyms": [
+            "**Intervening** — formal; stepping in to change the outcome.",
+            "**Stepping in** — very common and natural alternative for taking action.",
+            "**Getting involved** — broader and slightly more neutral.",
+            "**Taking charge** — implies not just joining, but taking control."
+        ],
+        "antonyms": [
+            "**Staying out of it** — actively choosing not to get involved.",
+            "**Standing by** — watching without taking action.",
+            "**Ignoring the issue** — paying no attention to the problem."
+        ],
+        "prompts": [
+            "I generally avoid jumping in a situation unless I can see that ____________________.",
+            "After jumping in a situation to fix the broken SQL query, I realized that ____________________."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
+    },
+    {
+        "id": 118,
+        "word": "making it her own",
+        "type": "phrase",
+        "english_meaning": "to add one's personal touch to something; to take control of a role or project and do it in a unique, personalized way.",
+        "vietnamese_meaning": "mang dấu ấn cá nhân, biến thành của riêng mình",
+        "sentences": [
+            "She completely redesigned the old dashboard, fixing the bugs and really making it her own.",
+            "When a new manager takes over Klopp's squad, they'll have the tough job of adapting his system while making it her own.",
+            "She bought a standard pair of running shoes but customized the laces and insoles, truly making it her own.",
+            "Instead of just following the legacy SQL scripts, she is rewriting the ETL logic and making it her own.",
+            "After she took over as production manager, she changed the deployment process, confidently making it her own."
+        ],
+        "synonyms": [
+            "**Putting her own spin on it** — very casual and idiomatic.",
+            "**Personalizing it** — direct and clear.",
+            "**Customizing it** — often used for objects, tech, or systems.",
+            "**Leaving her mark on it** — implies making a lasting, impressive change."
+        ],
+        "antonyms": [
+            "**Copying it exactly** — doing something without any personal changes.",
+            "**Following the status quo** — keeping things exactly as they were.",
+            "**Leaving it as is** — making no modifications."
+        ],
+        "prompts": [
+            "When she was handed the messy codebase, she spent the weekend ____________________ and making it her own.",
+            "I loved how she approached the marathon training plan, tweaking the speedwork and completely making it her own by ____________________."
+        ],
+        "source": "vocabulary-batch-1.md",
+        "added_date": "2026-08-09"
     }
 ];

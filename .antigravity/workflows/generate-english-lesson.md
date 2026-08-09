@@ -12,7 +12,7 @@ description: The core topic-agnostic project backbone of the English learning sy
 >   2. **Block 2: Core Weekly Lesson Engine (90 mins)**: Grammar, slot-filling formulas, vocabulary, IELTS Speaking / AI voice simulation, creative writing, or monologue analysis.
 >   3. **Block 3: Skimming & Short Video Production (40 mins)**: 10-second eye-sweep skimming, 60-second video/audio recording, and targeted audio breakdown.
 >   4. **Block 4: Review & Consolidation (20 mins)**: Anki/flashcard repetition, error logging, and self-evaluation.
-> - **Integrated Reflex & Active Listening Toolkit**: Every daily lesson MUST embed specific exercises from [daily-reflex-and-active-listening-practices.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/daily-reflex-and-active-listening-practices.md) (e.g., *Daily Commentator, 60s Pitch, AI Voice Roleplay, Dubbing Shadowing, Devil's Advocate, Micro-Dictation, Echoing, 3-Sentence Summary, Gap-Fill Decoding, Connected Speech Mapping*).
+> - **Integrated Reflex & Active Listening Toolkit**: Every daily lesson MUST embed a specific Speaking Reflex exercise (e.g., *Daily Commentator, 60s Pitch, AI Voice Roleplay, Devil's Advocate*). For Active Listening, the daily routine is **TOEIC Dictation (3 Exercises)** for 20-30 minutes.
 > - **Daily & Practical Tech-Adjacent Topics (CRITICAL)**: All generated themes/topics must focus on **practical daily situations** and **casual workplace settings** rather than academic, formal, or abstract IELTS topics (strictly avoid themes like environmental protection, global warming, space exploration, biodiversity, history). Prioritize topics applicable to daily social and professional life as a data engineer.
 >   - *Ideal Topic Examples*: Small talk at the coffee machine, talking about weekend plans with colleagues, discussing daily commutes, team lunch conversations, handling busy or stressful workdays, asking a coworker for help, explaining a pipeline/query to non-technical stakeholders, discussing work-life balance or tech-industry stress.
 > - **Band 6.5 & Real-Life Target**: Prioritize natural, widely-used, conversational English (CEFR B1-B2) suitable for a strong IELTS 6.5 Speaking score. Avoid academic bloat or obscure C1-C2 terms.
@@ -28,8 +28,8 @@ english/week-<N>/lessons/
 ├── day3-creative-writing-and-analysis.md
 ├── day4-grammar-and-structures.md
 ├── day5-ielts-and-simulation-practice.md
-├── day6-creative-writing-and-analysis.md
-└── skimming-transcripts.md
+├── day5-ielts-and-simulation-practice.md
+└── day6-creative-writing-and-analysis.md
 ```
 
 ---
@@ -40,10 +40,10 @@ Every generated daily file (`day1` through `day6`) must align with the following
 
 | Block | Focus | Duration | Key Activities |
 | :--- | :--- | :--- | :--- |
-| **Block 1** | Warm-up & Reflex Drills | **30 mins** | • 15m Daily Speaking Reflex Exercise<br>• 15m Active Audio Decoding Exercise |
-| **Block 2** | Core Weekly Lesson Engine | **90 mins** | • **Days 1 & 4**: Grammar Rules (3), Slot Templates (5), Collocations (5), Drills<br>• **Days 2 & 5**: IELTS Speaking Part 1-3, ChatGPT Voice Mode Roleplay, Shadowing<br>• **Days 3 & 6**: Creative Dialogue Writing, Monologue Recitation & Cue Card Analysis |
-| **Block 3** | Skimming & Video Production | **40 mins** | • 15m 10-Second Skimming Eye-Sweep (Keywords Only)<br>• 15m 60-Second Video/Audio Recording & Self-Review<br>• 10m Targeted Audio Breakdown |
-| **Block 4** | Review & Consolidation | **20 mins** | • 10m Anki / Flashcard Review (Collocations & Formulas)<br>• 10m Error Logging & Self-Evaluation Checklist |
+| **Block 1** | Warm-up & Reflex Drills | **35-45 mins** | • 15m Daily Speaking Reflex Exercise<br>• 20-30m TOEIC Dictation (3 Exercises) |
+| **Block 2** | Workplace Practice | **60 mins** | • **Days 1 & 4**: Grammar Rules (3), Slot Templates (5), Collocations (5), Drills<br>• **Days 2 & 5**: IELTS Speaking Part 1-3, Shadowing<br>• **Days 3 & 6**: Creative Dialogue Writing, Monologue Prep, Analysis |
+| **Block 3** | AI Speaking | **60 mins** | • Practice speaking English with AI using the lessons/vocabulary from Block 2<br>• ChatGPT Voice Mode Roleplay (IELTS Simulation / Tech Simulation) |
+| **Block 4** | Review & Consolidation | **15 mins** | • Anki / Flashcard Review<br>• Error Logging & Self-Evaluation Checklist |
 
 ---
 
@@ -82,14 +82,14 @@ Columns: `Collocation/Phrase` | `POS` | `Vietnamese Meaning` | `Natural IELTS-St
 
 ### 3. Comprehensive 6-Day Study Schedule & Objectives Table (3-Hour Focus)
 Include the full 6-Day schedule table mapping out all 4 blocks per day:
-| Day | Phase | Speaking Reflex Focus (15m) | Active Listening Focus (15m) | Core Engine Focus (90m) | Primary Deliverable |
+| Day | Phase | Speaking Reflex Focus (15m) | Active Listening Focus (20-30m) | Workplace Practice (60m) | AI Speaking & Review (75m) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | Study & Input (Topic 1) | 🎙️ The Daily Commentator | ✍️ Micro-Dictation | Topic 1 Grammar, Formulas & Vocab Study | Complete all drills in `day1-grammar-and-structures.md`. |
-| **Day 2** | Speaking & Output (Topic 1) | ⏱️ 60s Random Object Pitch | 🗣️ Audio Echoing / Shadowing | Topic 1 IELTS Questions & AI Voice Simulation | Answer IELTS questions & run ChatGPT Voice roleplay. |
-| **Day 3** | Refinement & Writing (Topic 1) | 🤖 AI Voice Roleplay | 🧩 Gap-Fill Decoding | Topic 1 Creative Writing & Band 6.5 Cue Card Analysis | Write custom dialogue & analyze Band 6.5 model answer. |
-| **Day 4** | Study & Input (Topic 2) | 🎬 Dubbing & Emotion Shadowing | 🗺️ Connected Speech Mapping | Topic 2 Grammar, Formulas & Vocab Study (Tech) | Complete all drills in `day4-grammar-and-structures.md`. |
-| **Day 5** | Speaking & Output (Topic 2) | 😈 Devil's Advocate Challenge | 📝 3-Sentence Active Summary | Topic 2 IELTS Questions & AI Voice Simulation (Tech) | Answer IELTS questions & run ChatGPT Voice roleplay. |
-| **Day 6** | Refinement & Writing (Topic 2) | 🎙️ Free Pitch / Commentator | ✍️ Micro-Dictation / Audio Breakdown | Topic 2 Creative Writing & Technical Monologue | Write custom dialogue & present technical monologue. |
+| **Day 1** | Study & Input (Topic 1) | 🎙️ The Daily Commentator | 🎧 TOEIC Dictation (3 Exercises) | Topic 1 Grammar, Formulas & Vocab Study | Practice with AI using today's lessons |
+| **Day 2** | Speaking & Output (Topic 1) | ⏱️ 60s Random Object Pitch | 🎧 TOEIC Dictation (3 Exercises) | Topic 1 IELTS Practice & Shadowing | ChatGPT Voice Mode Roleplay (IELTS) |
+| **Day 3** | Refinement & Writing (Topic 1) | 🤖 AI Voice Roleplay | 🎧 TOEIC Dictation (3 Exercises) | Topic 1 Creative Writing & Analysis | Practice with AI using today's dialogue |
+| **Day 4** | Study & Input (Topic 2) | *(Removed)* | 🎧 TOEIC Dictation (3 Exercises) | Topic 2 Grammar, Formulas & Vocab Study (Tech) | Practice with AI using today's tech lessons |
+| **Day 5** | Speaking & Output (Topic 2) | 😈 Devil's Advocate Challenge | 🎧 TOEIC Dictation (3 Exercises) | Topic 2 IELTS Practice & Shadowing | ChatGPT Voice Mode Roleplay (Tech) |
+| **Day 6** | Refinement & Writing (Topic 2) | 🎙️ Free Pitch / Commentator | 🎧 TOEIC Dictation (3 Exercises) | Topic 2 Creative Writing & Analysis | Practice with AI using today's tech dialogue |
 
 ### 4. Core Lesson Dialogues
 - Generate 2 natural, highly realistic conversation transcripts between 2 characters (Dialogue 1 for Topic 1, Dialogue 2 for Topic 2).
@@ -102,16 +102,13 @@ Include the full 6-Day schedule table mapping out all 4 blocks per day:
 
 This file houses Block 1 (Warm-up & Reflex Drills), Block 2 (Structural Foundation & Grammar Deconstruction), Block 3 (Skimming & Production), and Block 4 (Review & Error Logging).
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening (30 Mins)
+### Section 0: Block 1 - Warm-up Reflex & Active Listening
 Provide explicit practice prompts for the day's designated exercises from [daily-reflex-and-active-listening-practices.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/daily-reflex-and-active-listening-practices.md):
-- **Day 1**:
-  - *Speaking Reflex*: **The Daily Commentator 🎙️** (15 mins) — Prompts for narrating actions using the day's target vocabulary.
-  - *Active Listening*: **Micro-Dictation (Function Words) ✍️** (15 mins) — Transcribing a short dialogue audio snippet with focus on weak form function words (*a, the, to, of, can*).
-- **Day 4**:
-  - *Speaking Reflex*: **Dubbing & Emotion Shadowing 🎬** (15 mins) — Shadowing dialogue lines matching native speed and emotion.
-  - *Active Listening*: **Connected Speech Mapping 🗺️** (15 mins) — Mapping linking sound ($\smile$), elision, and stress markers on target sentences.
+- **Day 1 & Day 4**:
+  - *Speaking Reflex*: **The Daily Commentator 🎙️** (15 mins) — Prompts for narrating actions using the day's target vocabulary. (Day 1 only)
+  - *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation, pausing as needed. Compare with transcript and correct with a red pen.
 
-### Section 1: Block 2 - Grammar Focus (3 Target Rules) (90 Mins)
+### Section 1: Block 2 - Workplace Practice (Grammar & Structures) (60 Mins)
 For each of the **3 target grammar rules**:
 - **Grammar Point Name** (e.g., *Talking about experience using Present Perfect*)
 - **Quote**: Exact sentence from the dialogue showing this rule.
@@ -135,9 +132,9 @@ For each of the **5 sentence structures**:
 - 3 custom incorrect sentences featuring common grammatical or collocation pitfalls.
 - Collapsed Answer Key (`<details>`) with B1-B2 explanations.
 
-### Section 5: Block 3 & 4 - Skimming, Video Recording & Daily Consolidation (60 Mins)
-- **Skimming & Video Practice (40 Mins)**: Instructions to perform 10-Second Eye-Sweep on `skimming-transcripts.md` and record a 60-second video response.
-- **Review & Consolidation (20 Mins)**: Anki flashcard logging prompt and error log checklist.
+### Section 5: Block 3 & 4 - AI Speaking & Daily Consolidation (75 Mins)
+- **AI Speaking Practice (60 Mins)**: Instructions to practice speaking with AI (ChatGPT Voice Mode) using today's grammar rules, templates, and collocations.
+- **Review & Consolidation (15 Mins)**: Anki flashcard logging prompt and error log checklist.
 
 ---
 
@@ -145,15 +142,14 @@ For each of the **5 sentence structures**:
 
 This file facilitates Block 1 reflex warm-ups, active output, structured IELTS speaking practice, AI voice simulation, and intonation shadowing.
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening (30 Mins)
+### Section 0: Block 1 - Warm-up Reflex & Active Listening
 - **Day 2**:
   - *Speaking Reflex*: **The 60-Second Random Object Pitch ⏱️** (15 mins) — Continuous 60s pitch on an object using target descriptors without pausing >2s.
-  - *Active Listening*: **Audio Echoing / Real-Time Shadowing 🗣️** (15 mins) — Immediate echo repetition with a 0.5s delay.
 - **Day 5**:
   - *Speaking Reflex*: **The "Devil's Advocate" Challenge 😈** (15 mins) — Stating an opinion and immediately refuting it within 30s using contrast linkers.
-  - *Active Listening*: **The 3-Sentence Active Summary 📝** (15 mins) — Summarizing a 2-3 minute audio snippet in 3 structured sentences.
+  - *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
 
-### Section 1: Block 2 - IELTS Speaking Practice Questions (90 Mins)
+### Section 1: Block 2 - Workplace Practice (IELTS Prep) (60 Mins)
 - **Part 1 (Interview)**: 3 introductory questions related to the week's theme.
 - **Part 2 (Cue Card)**: 1 complete IELTS Part 2 prompt with bullet points.
 - **Part 3 (Analytical Discussion)**: 2 discussion questions.
@@ -173,29 +169,26 @@ This file facilitates Block 1 reflex warm-ups, active output, structured IELTS s
   - Slashes `/` for natural speaking pauses/boundaries.
   - **Bold** or CAPITALIZED text for word stress and emphasis.
 
-### Section 5: Block 3 & 4 - Skimming, Video Recording & Review (60 Mins)
-- Instructions for 60-second video recording based on IELTS Part 2 Cue Card & Anki review.
+### Section 5: Block 3 & 4 - AI Speaking & Review (75 Mins)
+- **AI Speaking Practice (60 Mins)**: Use the ChatGPT Voice Mode Simulation Prompt above to conduct the roleplay.
+- **Review & Consolidation (15 Mins)**: Feedback logging table & Anki review.
 
 ---
 
-## 📄 Step 3B - Generate `day3-creative-writing-and-analysis.md` & `day6-creative-writing-and-analysis.md`
+## 📄 Step 3B - Generate `day3-creative-writing-and-analysis.md`
 
 This file facilitates personal production, creative dialogue writing, structured analysis of high-performing Band 6.5 model answers, monologue explanations, and daily reflex warm-ups.
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening (30 Mins)
+### Section 0: Block 1 - Warm-up Reflex & Active Listening
 - **Day 3**:
   - *Speaking Reflex*: **Unconventional AI Voice Roleplay 🤖** (15 mins) — Dramatic/quirky AI voice roleplay (e.g., Demanding Customer, Alien Encounter).
-  - *Active Listening*: **Self-Generated Gap-Fill Decoding 🧩** (15 mins) — Filling in 5-10 erased target words while listening to lesson dialogue audio.
-- **Day 6**:
-  - *Speaking Reflex*: **The Daily Commentator / Free Pitch 🎙️** (15 mins) — Freestyle narrative commentary or object pitch combining all weekly vocab.
-  - *Active Listening*: **Micro-Dictation / Audio Breakdown ✍️** (15 mins) — Transcribing complex sentences from Day 6 technical monologue audio.
+  - *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
 
-### Section 1: Block 2 - Creative Dialogue Writing (90 Mins)
+### Section 1: Block 2 - Workplace Practice (Writing) (60 Mins)
 - Instruct the user to write a new conversation transcript (10+ turns) incorporating target structures.
 
-### Section 2: Monologue (General for Day 3, Technical for Day 6)
-- **Day 3 (General Monologue)**: An original monologue explaining a daily life, sports, or office-social topic.
-- **Day 6 (Technical Monologue)**: An original monologue from a data engineer's perspective explaining a technical system design, pipeline architecture, database layout, or server incident.
+### Section 2: Monologue
+- An original monologue explaining a daily life, sports, or office-social topic.
 - Highlight target grammar/phrases in **bold**. Include a "Key Vocabulary & Concepts" section below it with Vietnamese translations.
 
 ### Section 3: Band 6.5-7.0 Cue Card Sample Answer
@@ -206,21 +199,22 @@ This file facilitates personal production, creative dialogue writing, structured
 - A checklist for target grammar, templates, and collocations.
 - 2 role-specific speaking/writing scenarios relevant to Data Engineering or Casino Operations with collapsed model answers.
 
-### Section 5: Block 3 & 4 - Skimming, Video Recording & Weekly Wrap-up (60 Mins)
-- 60-second monologue video recording and weekly portfolio log completion.
+### Section 5: Block 3 & 4 - AI Speaking & Weekly Wrap-up (75 Mins)
+- **AI Speaking Practice (60 Mins)**: Practice speaking with AI using today's dialogue/monologue.
+- **Review & Consolidation (15 Mins)**: Weekly portfolio log completion & Evaluation Checklist.
 
 ---
 
-## 📄 Step 4 - Generate `skimming-transcripts.md`
+## 📄 Step 3C - Generate `day6-mock-test-and-review.md`
 
-This file provides 60-second video transcripts (~120-140 words) for short-form video creation and rapid 10-second skimming training (Block 3).
+This file is dedicated to full-length test practice and mistake analysis, as Day 6 falls on the weekend.
 
-### 1. Document Format & Pacing
-For each topic in the week's lesson, generate a dedicated skimming block:
-- **Title**: A catchy, high-engagement title.
-- **Metadata**: Topic, Target Duration (60s), Word Count (120-140 words), Speaking Speed (~130 WPM).
-- **Transcript**: Punchy single-speaker monologue incorporating at least **2 target collocations**, **1 target grammar rule**, and **1 sentence template**. Include timeline markers (`[00:00]`, `[00:20]`, `[00:40]`).
+### Section 1: Block 1 - Full TOEIC Listening Test (45 Mins)
+- Instructions to take a full 45-minute TOEIC Listening Test without pausing.
 
-### 2. 10-Second Skimming Training (Eye-Sweep)
-- **The Skimming Core (Keywords Only)**: Bare-bones layout displaying *only* key nouns, verbs, and target phrases in **bold** to train eye sweeps under 10 seconds.
-- **Skimming Check**: 2 quick comprehension questions with answers placed in a collapsed details block.
+### Section 2: Block 2 - IELTS Practice Test (60 Mins)
+- Instructions to choose between a full 60-minute IELTS Academic Reading test, IELTS Writing Task 1 & 2, or a full 15-minute speaking mock test.
+
+### Section 3: Block 3 & 4 - Detailed Mistake Analysis (75 Mins)
+- **Mistake Review (60 Mins)**: Instructions to score the tests and write down the exact reasons for incorrect answers.
+- **Weekly Wrap-up (15 Mins)**: Log new vocabulary into Anki and complete the weekly portfolio log.

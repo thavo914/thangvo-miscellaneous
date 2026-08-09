@@ -19,24 +19,22 @@
 
 ---
 
-### ✍️ Active Listening: Micro-Dictation (Function Words) (15 Mins)
-* **Goal**: Train your ear to catch reduced vowels and weak form words (*a, the, to, of, in, can*).
+### 🎧 Active Listening: TOEIC Dictation (20-30 Mins)
+* **Goal**: Train your ear for fast, natural connected speech and improve vocabulary by transcribing everyday/business contexts.
 * **Instructions**:
-  1. Listen to Dialogue 1 in `lesson-overview.md` (or audio sample).
-  2. Write down every word verbatim in the target lines below.
-  3. Pay special attention to swallowed function words (*can, of, in, the*).
+  1. Pick exactly **3 short TOEIC listening exercises** (e.g., Part 2 questions, or short Part 3/4 talks).
+  2. **Listen 1**: Listen to the audio all the way through once.
+  3. **Listen 2**: Play the audio again, pausing every 3-5 words to write down exactly what you hear. Rewind as needed.
+  4. **Check**: Compare your dictation with the official transcript. Use a red pen to mark any missed function words (*a, the, in, on*), missed plural *'s'*, or misheard vocabulary.
 
-#### 💡 Worked Example & Phonetic Breakdown:
-* **Audio Line 1**: *"It's amazing what can happen when you let go of that fear."*
-  * *Phonetic Reduction*: `what can` $\rightarrow$ `/wɒt kən/` (weak form *can*), `let go of` $\rightarrow$ `/let ɡəʊ əv/` (weak form *of*).
-  * *Your Dictation Target*: Write out all 12 words without skipping *can* or *of*.
-* **Audio Line 2**: *"The joy isn't in reaching the goal, it's the process of getting there."*
-  * *Phonetic Reduction*: `in reaching` $\rightarrow$ `/ɪn riːtʃɪŋ/`, `process of` $\rightarrow$ `/ˈprəʊses əv/`.
-  * *Your Dictation Target*: Capture *in*, *the*, and *of*.
+#### 💡 Worked Example:
+* *Your Dictation*: "The meeting will start on 10 AM in the room 5."
+* *Transcript*: "The meeting will start **at** 10 AM in **Conference Room** 5."
+* *Correction Focus*: Pay attention to prepositions (*at* vs *on*) and specific noun phrases (*Conference Room*).
 
 ---
 
-## 🧠 Section 1: Block 2 - Grammar Focus (90 Mins)
+## 🧠 Section 1: Block 2 - Workplace Practice (Grammar & Structures) (60 Mins)
 
 ### 1. Relative Clauses (Defining vs. Non-Defining)
 - **Quote**: *"What I really wanted wasn't the title, but the feeling of growth."*
@@ -157,13 +155,12 @@ Rewrite the incorrect sentences:
 
 ---
 
-## 🎬 Section 5: Block 3 & 4 - Skimming & Daily Review (60 Mins)
+## 🎬 Section 5: Block 3 & 4 - AI Speaking & Daily Consolidation (75 Mins)
 
-### Skimming & Video Practice (40 Mins)
-- Open `skimming-transcripts.md` for Topic 1 transcript (*Finding Fulfillment in the Process*).
-- Perform a **10-Second Eye-Sweep** on the bold keywords core layout.
-- Record a **60-Second Video** speaking the transcript aloud at a steady ~130 WPM pace.
+### AI Speaking Practice (60 Mins)
+- Practice speaking with AI (ChatGPT Voice Mode) using today's grammar rules, templates, and collocations.
+- Try to use the target vocabulary naturally in a conversation.
 
-### Review & Error Logging (20 Mins)
+### Review & Error Logging (15 Mins)
 - Add today's 5 collocations to your Anki/Flashcard deck.
 - Note down any pronunciation stumbles in your weekly study log.

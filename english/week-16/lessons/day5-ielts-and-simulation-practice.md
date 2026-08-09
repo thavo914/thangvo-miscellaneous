@@ -24,18 +24,13 @@
 
 ---
 
-### 📝 Active Listening: The 3-Sentence Active Summary (15 Mins)
-* **Goal**: Synthesize long technical discussions into 3 core insights without taking notes during audio.
-* **Instructions**: Listen to Dialogue 2 in `lesson-overview.md` and write a 3-sentence summary immediately after.
-
-#### 💡 Worked Summary Example:
-1. **Sentence 1 (Main Topic)**: *The meeting focused on addressing an unexpected active user metric drop on the main casino dashboard.*
-2. **Sentence 2 (Key Detail)**: *What caused the discrepancy was late-arriving mobile app data triggered by an upstream API update.*
-3. **Sentence 3 (Takeaway & Action)**: *The data engineering team is backfilling missing hours and setting up schema alerts to put stakeholders' minds at ease.*
+### 🎧 Active Listening: TOEIC Dictation (20-30 Mins)
+* **Goal**: Train your ear for fast, natural connected speech and improve vocabulary by transcribing everyday/business contexts.
+* **Instructions**: Complete 3 short TOEIC listening exercises with full word-for-word dictation. Compare with the transcript and correct with a red pen.
 
 ---
 
-## 🎙️ Section 1: Block 2 - Tech IELTS Speaking Questions & Model Answers (90 Mins)
+## 🎙️ Section 1: Block 2 - Workplace Practice (IELTS Prep) (60 Mins)
 
 ### Part 1: Technical Workplace Questions & Model Answers
 
@@ -119,12 +114,11 @@ Practice speaking these key technical lines using visual rhythm markers (`/` = p
 
 ---
 
-## 🎬 Section 5: Block 3 & 4 - Skimming & Daily Review (60 Mins)
+## 🎬 Section 5: Block 3 & 4 - AI Speaking & Review (75 Mins)
 
-### Technical Incident Video Practice (40 Mins)
-- Deliver your 2-minute response to the Part 2 Cue Card.
-- Record a **60-Second Video summary** outlining the incident, root cause, and remediation commitment (*look into it, root cause, iron out, put your mind at ease*).
+### AI Speaking Practice (60 Mins)
+- Use the ChatGPT Voice Mode Simulation Prompt from Section 2 to conduct the tech roleplay.
 
-### Error Review & Consolidation (20 Mins)
+### Error Review & Consolidation (15 Mins)
 - Review feedback entries in your Feedback Logging Table.
 - Perform a 10-minute flashcard drill on technical slot-filling templates.

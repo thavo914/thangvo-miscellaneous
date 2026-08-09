@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Section 0: Block 1 - Warm-up Reflex & Active Listening (30 Mins)
+## ⚡ Section 0: Block 1 - Warm-up Reflex & Active Listening
 
 ### ⏱️ Speaking Reflex: The 60-Second Random Object Pitch (15 Mins)
 * **Goal**: Build spontaneous fluency under pressure without pausing >2 seconds.
@@ -20,22 +20,13 @@
 
 ---
 
-### 🗣️ Active Listening: Audio Echoing / Real-Time Shadowing (15 Mins)
-* **Goal**: Sync acoustic hearing directly with speech output.
-* **Instructions**:
-  1. Play Dialogue 1 from `lesson-overview.md`.
-  2. Begin echoing the speakers' words out loud with a **0.5-second delay** (like an acoustic echo).
-
-#### 💡 Worked Demonstration (Echoing Technique):
-* *Audio*: "The joy isn't in reaching the goal..."
-* *Your Echo (0.5s later)*: "...The joy isn't in reaching the goal..."
-* *Audio*: "...it's the process of getting there."
-* *Your Echo (0.5s later)*: "...it's the process of getting there."
-* *Key Focus*: Do NOT pause the audio. Keep talking continuously while listening.
+### 🎧 Active Listening: TOEIC Dictation (20-30 Mins)
+* **Goal**: Train your ear for fast, natural connected speech and improve vocabulary by transcribing everyday/business contexts.
+* **Instructions**: Complete 3 short TOEIC listening exercises with full word-for-word dictation. Compare with the transcript and correct with a red pen.
 
 ---
 
-## 🎙️ Section 1: Block 2 - IELTS Speaking Practice Questions & Model Answers (90 Mins)
+## 🎙️ Section 1: Block 2 - Workplace Practice (IELTS Prep) (60 Mins)
 
 ### Part 1: Introductory Questions & Model Answers
 
@@ -118,12 +109,11 @@ Practice speaking these key lines using visual rhythm markers (`/` = pause, **CA
 
 ---
 
-## 🎬 Section 5: Block 3 & 4 - Skimming & Daily Review (60 Mins)
+## 🎬 Section 5: Block 3 & 4 - AI Speaking & Review (75 Mins)
 
-### Video Recording Practice (40 Mins)
-- Practice your Part 2 Cue Card answer aloud (2 minutes).
-- Record a **60-Second Video summary** highlighting your main points and target vocabulary (*step out of my comfort zone, water off a duck's back*).
+### AI Speaking Practice (60 Mins)
+- Use the ChatGPT Voice Mode Simulation Prompt from Section 2 to conduct the roleplay. Practice naturally answering IELTS-style questions.
 
-### Error Review & Consolidation (20 Mins)
+### Error Review & Consolidation (15 Mins)
 - Review feedback entries in your Feedback Logging Table.
 - Perform a 10-minute Anki flashcard drill on today's collocations.
