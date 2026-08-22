@@ -119,6 +119,17 @@ Practice speaking these key technical lines using visual rhythm markers (`/` = p
 ### AI Speaking Practice (60 Mins)
 - Use the ChatGPT Voice Mode Simulation Prompt from Section 2 to conduct the tech roleplay.
 
+**Suggested Exercises (AI Prompts):**
+
+1. **Rapid Q&A:**
+   > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
+
+2. **Instant Translation (Reverse Shadowing):**
+   > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
+
+3. **Role-play:**
+   > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
+
 ### Error Review & Consolidation (15 Mins)
 - Review feedback entries in your Feedback Logging Table.
 - Perform a 10-minute flashcard drill on technical slot-filling templates.

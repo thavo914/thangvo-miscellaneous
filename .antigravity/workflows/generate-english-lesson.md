@@ -133,7 +133,17 @@ For each of the **5 sentence structures**:
 - Collapsed Answer Key (`<details>`) with B1-B2 explanations.
 
 ### Section 5: Block 3 & 4 - AI Speaking & Daily Consolidation (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Instructions to practice speaking with AI (ChatGPT Voice Mode) using today's grammar rules, templates, and collocations.
+- **AI Speaking Practice (60 Mins)**: Instructions to practice speaking with AI (ChatGPT Voice Mode) using today's grammar rules, templates, and collocations. **IMPORTANT: You MUST append the following exact block to this section:**
+  > **Suggested Exercises (AI Prompts):**
+  >
+  > 1. **Rapid Q&A:**
+  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
+  >
+  > 2. **Instant Translation (Reverse Shadowing):**
+  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
+  >
+  > 3. **Role-play:**
+  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
 - **Review & Consolidation (15 Mins)**: Anki flashcard logging prompt and error log checklist.
 
 ---
@@ -170,7 +180,17 @@ This file facilitates Block 1 reflex warm-ups, active output, structured IELTS s
   - **Bold** or CAPITALIZED text for word stress and emphasis.
 
 ### Section 5: Block 3 & 4 - AI Speaking & Review (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Use the ChatGPT Voice Mode Simulation Prompt above to conduct the roleplay.
+- **AI Speaking Practice (60 Mins)**: Use the ChatGPT Voice Mode Simulation Prompt above to conduct the roleplay. **IMPORTANT: You MUST append the following exact block to this section:**
+  > **Suggested Exercises (AI Prompts):**
+  >
+  > 1. **Rapid Q&A:**
+  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
+  >
+  > 2. **Instant Translation (Reverse Shadowing):**
+  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
+  >
+  > 3. **Role-play:**
+  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
 - **Review & Consolidation (15 Mins)**: Feedback logging table & Anki review.
 
 ---
@@ -200,7 +220,17 @@ This file facilitates personal production, creative dialogue writing, structured
 - 2 role-specific speaking/writing scenarios relevant to Data Engineering or Casino Operations with collapsed model answers.
 
 ### Section 5: Block 3 & 4 - AI Speaking & Weekly Wrap-up (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Practice speaking with AI using today's dialogue/monologue.
+- **AI Speaking Practice (60 Mins)**: Practice speaking with AI using today's dialogue/monologue. **IMPORTANT: You MUST append the following exact block to this section:**
+  > **Suggested Exercises (AI Prompts):**
+  >
+  > 1. **Rapid Q&A:**
+  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
+  >
+  > 2. **Instant Translation (Reverse Shadowing):**
+  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
+  >
+  > 3. **Role-play:**
+  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
 - **Review & Consolidation (15 Mins)**: Weekly portfolio log completion & Evaluation Checklist.
 
 ---

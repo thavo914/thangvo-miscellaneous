@@ -10,6 +10,9 @@
   - [ ] Drills: Production, Translation, Spot the Mistake
 - [ ] **Blocks 3 & 4 (AI Speaking & Review - 75m):**
   - [ ] AI Speaking: Practice speaking with AI using today's lessons
+    - [ ] Rapid Q&A
+    - [ ] Instant Translation (Reverse Shadowing)
+    - [ ] Role-play
   - [ ] Review: Anki flashcard logging & error log
 
 ## Day 2: General Topic (Speaking & Output)
@@ -21,6 +24,9 @@
   - [ ] Drills: Interactive Shadowing & Pacing Guide
 - [ ] **Blocks 3 & 4 (AI Speaking & Review - 75m):**
   - [ ] AI Speaking: ChatGPT Voice Mode Roleplay (IELTS Simulation)
+    - [ ] Rapid Q&A
+    - [ ] Instant Translation (Reverse Shadowing)
+    - [ ] Role-play
   - [ ] Review: Feedback logging & Anki review
 
 ## Day 3: General Topic (Refinement & Writing)
@@ -33,6 +39,9 @@
   - [ ] Analysis: Band 6.5-7.0 Cue Card Model Answer
 - [ ] **Blocks 3 & 4 (AI Speaking & Review - 75m):**
   - [ ] AI Speaking: Practice speaking with AI using today's dialogue/monologue
+    - [ ] Rapid Q&A
+    - [ ] Instant Translation (Reverse Shadowing)
+    - [ ] Role-play
   - [ ] Review: Weekly portfolio log completion & Evaluation Checklist
 
 ## Day 4: Tech Topic (Study & Input)
@@ -44,6 +53,9 @@
   - [ ] Drills: Production, Translation, Spot the Mistake
 - [ ] **Blocks 3 & 4 (AI Speaking & Review - 75m):**
   - [ ] AI Speaking: Practice speaking with AI using today's tech lessons
+    - [ ] Rapid Q&A
+    - [ ] Instant Translation (Reverse Shadowing)
+    - [ ] Role-play
   - [ ] Review: Anki flashcard logging & error log
 
 ## Day 5: Tech Topic (Speaking & Output)
@@ -55,6 +67,9 @@
   - [ ] Drills: Interactive Shadowing & Pacing Guide
 - [ ] **Blocks 3 & 4 (AI Speaking & Review - 75m):**
   - [ ] AI Speaking: ChatGPT Voice Mode Roleplay (Tech Simulation)
+    - [ ] Rapid Q&A
+    - [ ] Instant Translation (Reverse Shadowing)
+    - [ ] Role-play
   - [ ] Review: Feedback logging & Anki review
 
 ## Day 6: Mock Test & Review (Weekend)

@@ -141,6 +141,17 @@ Rewrite the incorrect sentences:
 ### AI Speaking Practice (60 Mins)
 - Practice speaking with AI (ChatGPT Voice Mode) using today's tech grammar rules, templates, and collocations. 
 
+**Suggested Exercises (AI Prompts):**
+
+1. **Rapid Q&A:**
+   > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
+
+2. **Instant Translation (Reverse Shadowing):**
+   > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
+
+3. **Role-play:**
+   > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English." 
+
 ### Review & Error Logging (15 Mins)
 - Log today's 5 technical collocations (*iron out, root cause, bring up to speed*) into Anki.
 - Review your technical grammar notes before tomorrow's simulation.
