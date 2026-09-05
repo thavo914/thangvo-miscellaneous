@@ -355,50 +355,346 @@ document.addEventListener('DOMContentLoaded', () => {
     const navPrevLabel = document.getElementById('nav-prev-label');
     const navNextLabel = document.getElementById('nav-next-label');
 
+    // ==========================================================================
+    // Comprehensive Reader Scaling Engine (Phone & Web)
+    // ==========================================================================
+    const STORAGE_KEY_SCALE = 'study_reader_scale';
+    const STORAGE_KEY_WIDTH = 'study_reader_width';
+
+    const readerScaleContainer = document.getElementById('reader-scale-container');
     const btnFontSmaller = document.getElementById('btn-font-smaller');
     const btnFontReset = document.getElementById('btn-font-reset');
     const btnFontLarger = document.getElementById('btn-font-larger');
-    let currentFontSize = 1.05;
+    const scalePercentText = document.getElementById('scale-percent-text');
+    const scalePopoverMenu = document.getElementById('scale-popover-menu');
+    const btnScaleResetDirect = document.getElementById('btn-scale-reset-direct');
+    const readerScaleSlider = document.getElementById('reader-scale-slider');
+    const scalePresetsGrid = document.getElementById('scale-presets-grid');
+    const scaleWidthToggles = document.getElementById('scale-width-toggles');
+    const readerZoomHud = document.getElementById('reader-zoom-hud');
+    const zoomHudText = document.getElementById('zoom-hud-text');
+    const readerScrollArea = document.getElementById('reader-scroll-area');
+    const sidebarBackdrop = document.getElementById('sidebar-backdrop');
 
-    // Font size controls
-    btnFontSmaller?.addEventListener('click', () => {
-        currentFontSize = Math.max(0.85, currentFontSize - 0.1);
-        applyFontSize();
-    });
-    btnFontReset?.addEventListener('click', () => {
-        currentFontSize = 1.05;
-        applyFontSize();
-    });
-    btnFontLarger?.addEventListener('click', () => {
-        currentFontSize = Math.min(1.4, currentFontSize + 0.1);
-        applyFontSize();
-    });
+    // Mobile overflow actions
+    const btnReaderMore = document.getElementById('btn-reader-more');
+    const readerMoreMenu = document.getElementById('reader-more-menu');
+    const btnMobileCopyMarkdown = document.getElementById('btn-mobile-copy-markdown');
+    const btnMobileToggleRaw = document.getElementById('btn-mobile-toggle-raw');
+    const mobileToggleRawText = document.getElementById('mobile-toggle-raw-text');
 
-    function applyFontSize() {
-        const article = document.getElementById('doc-article');
-        if (article) article.style.fontSize = `${currentFontSize}rem`;
-        if (btnFontReset) btnFontReset.innerText = `${Math.round((currentFontSize / 1.05) * 100)}%`;
+    // Load persisted preferences
+    let readerScale = parseFloat(localStorage.getItem(STORAGE_KEY_SCALE)) || 1.0;
+    if (isNaN(readerScale) || readerScale < 0.7 || readerScale > 2.0) readerScale = 1.0;
+
+    let readerWidthMode = localStorage.getItem(STORAGE_KEY_WIDTH) || 'standard';
+    let zoomHudTimeout = null;
+
+    // Show visual feedback HUD badge
+    function showZoomHud(percentage) {
+        if (!readerZoomHud || !zoomHudText) return;
+        zoomHudText.innerText = `${percentage}%`;
+        readerZoomHud.classList.add('show');
+        if (zoomHudTimeout) clearTimeout(zoomHudTimeout);
+        zoomHudTimeout = setTimeout(() => {
+            readerZoomHud.classList.remove('show');
+        }, 1200);
     }
 
-    // Toggle Mobile Sidebar
+    // Apply scale to reader container and update controls
+    function applyReaderScale(newScale, persist = true) {
+        readerScale = Math.min(2.0, Math.max(0.7, Math.round(newScale * 100) / 100));
+        const percent = Math.round(readerScale * 100);
+
+        const article = document.getElementById('doc-article');
+        if (article) {
+            article.style.setProperty('--reader-scale', readerScale.toString());
+        }
+        if (docRenderedBody) {
+            docRenderedBody.style.setProperty('--reader-scale', readerScale.toString());
+        }
+        if (docRawBody) {
+            docRawBody.style.setProperty('--reader-scale', readerScale.toString());
+        }
+
+        if (scalePercentText) {
+            scalePercentText.innerText = `${percent}%`;
+        }
+        if (readerScaleSlider) {
+            readerScaleSlider.value = percent.toString();
+        }
+
+        // Highlight matching preset chip
+        scalePresetsGrid?.querySelectorAll('.scale-chip').forEach(chip => {
+            const chipScale = parseFloat(chip.getAttribute('data-scale'));
+            const isMatch = Math.abs(chipScale - readerScale) < 0.04;
+            chip.classList.toggle('active', isMatch);
+        });
+
+        if (persist) {
+            try {
+                localStorage.setItem(STORAGE_KEY_SCALE, readerScale.toString());
+            } catch (e) {
+                console.warn('Storage unavailable:', e);
+            }
+        }
+    }
+
+    // Apply reading width mode
+    function applyReaderWidth(mode, persist = true) {
+        readerWidthMode = mode;
+        const article = document.getElementById('doc-article');
+        if (article) {
+            if (mode === 'wide') {
+                article.style.setProperty('--reader-max-width', '1180px');
+            } else if (mode === 'full') {
+                article.style.setProperty('--reader-max-width', '100%');
+            } else {
+                article.style.setProperty('--reader-max-width', '880px');
+            }
+        }
+
+        scaleWidthToggles?.querySelectorAll('.width-toggle-btn').forEach(btn => {
+            const btnMode = btn.getAttribute('data-width');
+            btn.classList.toggle('active', btnMode === mode);
+        });
+
+        if (persist) {
+            try {
+                localStorage.setItem(STORAGE_KEY_WIDTH, mode);
+            } catch (e) {
+                console.warn('Storage unavailable:', e);
+            }
+        }
+    }
+
+    // Zoom Step Controls (- and +)
+    btnFontSmaller?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const nextScale = Math.max(0.7, readerScale - 0.1);
+        applyReaderScale(nextScale);
+        showZoomHud(Math.round(nextScale * 100));
+    });
+
+    btnFontLarger?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const nextScale = Math.min(2.0, readerScale + 0.1);
+        applyReaderScale(nextScale);
+        showZoomHud(Math.round(nextScale * 100));
+    });
+
+    // Display button toggles scale menu
+    btnFontReset?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const isOpen = scalePopoverMenu?.style.display === 'block';
+        if (isOpen) {
+            closeScaleMenu();
+        } else {
+            openScaleMenu();
+        }
+    });
+
+    // Reset direct button
+    btnScaleResetDirect?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        applyReaderScale(1.0);
+        showZoomHud(100);
+        closeScaleMenu();
+    });
+
+    function openScaleMenu() {
+        if (!scalePopoverMenu) return;
+        closeReaderMoreMenu();
+        scalePopoverMenu.style.display = 'block';
+        readerScaleContainer?.classList.add('active');
+    }
+
+    function closeScaleMenu() {
+        if (!scalePopoverMenu) return;
+        scalePopoverMenu.style.display = 'none';
+        readerScaleContainer?.classList.remove('active');
+    }
+
+    // Scale Preset Chips
+    scalePresetsGrid?.addEventListener('click', (e) => {
+        const chip = e.target.closest('.scale-chip');
+        if (!chip) return;
+        e.stopPropagation();
+        const targetScale = parseFloat(chip.getAttribute('data-scale'));
+        if (!isNaN(targetScale)) {
+            applyReaderScale(targetScale);
+            showZoomHud(Math.round(targetScale * 100));
+        }
+    });
+
+    // Continuous Range Slider
+    readerScaleSlider?.addEventListener('input', (e) => {
+        const val = parseInt(e.target.value, 10);
+        if (!isNaN(val)) {
+            const scale = val / 100;
+            applyReaderScale(scale, false);
+            showZoomHud(val);
+        }
+    });
+
+    readerScaleSlider?.addEventListener('change', (e) => {
+        const val = parseInt(e.target.value, 10);
+        if (!isNaN(val)) {
+            applyReaderScale(val / 100, true);
+        }
+    });
+
+    // Reading Width Toggles
+    scaleWidthToggles?.addEventListener('click', (e) => {
+        const btn = e.target.closest('.width-toggle-btn');
+        if (!btn) return;
+        e.stopPropagation();
+        const mode = btn.getAttribute('data-width');
+        if (mode) {
+            applyReaderWidth(mode);
+        }
+    });
+
+    // Mobile Multi-Touch Pinch-to-Zoom Gesture Detection
+    let touchStartDistance = 0;
+    let initialScaleOnPinch = 1.0;
+    let isPinching = false;
+
+    if (readerScrollArea) {
+        readerScrollArea.addEventListener('touchstart', (e) => {
+            if (e.touches.length === 2) {
+                touchStartDistance = Math.hypot(
+                    e.touches[0].clientX - e.touches[1].clientX,
+                    e.touches[0].clientY - e.touches[1].clientY
+                );
+                initialScaleOnPinch = readerScale;
+                isPinching = true;
+            }
+        }, { passive: true });
+
+        readerScrollArea.addEventListener('touchmove', (e) => {
+            if (isPinching && e.touches.length === 2) {
+                const currentDist = Math.hypot(
+                    e.touches[0].clientX - e.touches[1].clientX,
+                    e.touches[0].clientY - e.touches[1].clientY
+                );
+                if (touchStartDistance > 0) {
+                    const factor = currentDist / touchStartDistance;
+                    const liveScale = Math.min(2.0, Math.max(0.7, initialScaleOnPinch * factor));
+                    applyReaderScale(liveScale, false);
+                    showZoomHud(Math.round(liveScale * 100));
+                }
+            }
+        }, { passive: true });
+
+        readerScrollArea.addEventListener('touchend', (e) => {
+            if (isPinching && e.touches.length < 2) {
+                isPinching = false;
+                applyReaderScale(readerScale, true); // persist current pinch result
+            }
+        });
+    }
+
+    // Web / Desktop Keyboard Shortcuts (Ctrl/Cmd + Plus/Minus/0)
+    window.addEventListener('keydown', (e) => {
+        // Don't trigger when typing in inputs or textareas
+        const activeTag = document.activeElement?.tagName?.toLowerCase();
+        if (activeTag === 'input' || activeTag === 'textarea' || document.activeElement?.isContentEditable) {
+            return;
+        }
+
+        // Only handle when reader view is active
+        const isReaderActive = tabBtnReader?.classList.contains('active');
+        if (!isReaderActive) return;
+
+        const isModifier = e.ctrlKey || e.metaKey;
+        if (isModifier && (e.key === '=' || e.key === '+')) {
+            e.preventDefault();
+            const nextScale = Math.min(2.0, readerScale + 0.1);
+            applyReaderScale(nextScale);
+            showZoomHud(Math.round(nextScale * 100));
+        } else if (isModifier && (e.key === '-' || e.key === '_')) {
+            e.preventDefault();
+            const nextScale = Math.max(0.7, readerScale - 0.1);
+            applyReaderScale(nextScale);
+            showZoomHud(Math.round(nextScale * 100));
+        } else if (isModifier && e.key === '0') {
+            e.preventDefault();
+            applyReaderScale(1.0);
+            showZoomHud(100);
+        }
+    });
+
+    // Mobile Overflow Menu Handlers
+    btnReaderMore?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeScaleMenu();
+        const isOpen = readerMoreMenu?.style.display === 'block';
+        if (readerMoreMenu) {
+            readerMoreMenu.style.display = isOpen ? 'none' : 'block';
+        }
+    });
+
+    function closeReaderMoreMenu() {
+        if (readerMoreMenu) readerMoreMenu.style.display = 'none';
+    }
+
+    btnMobileCopyMarkdown?.addEventListener('click', () => {
+        closeReaderMoreMenu();
+        if (!activeRawMarkdown) return;
+        navigator.clipboard.writeText(activeRawMarkdown).then(() => {
+            showToast('Full Markdown copied to clipboard');
+        });
+    });
+
+    btnMobileToggleRaw?.addEventListener('click', () => {
+        closeReaderMoreMenu();
+        toggleRawRenderedView();
+    });
+
+    // Dismiss popovers when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!e.target.closest('#reader-scale-container')) {
+            closeScaleMenu();
+        }
+        if (!e.target.closest('#reader-more-container')) {
+            closeReaderMoreMenu();
+        }
+    });
+
+    // Initialize initial scale and width
+    applyReaderScale(readerScale, false);
+    applyReaderWidth(readerWidthMode, false);
+
+    // Toggle Mobile Sidebar & Backdrop
     btnToggleSidebar?.addEventListener('click', () => {
-        readerSidebar?.classList.toggle('open');
+        const isOpen = readerSidebar?.classList.toggle('open');
+        sidebarBackdrop?.classList.toggle('active', isOpen);
+    });
+
+    sidebarBackdrop?.addEventListener('click', () => {
+        readerSidebar?.classList.remove('open');
+        sidebarBackdrop?.classList.remove('active');
     });
 
     // Toggle Raw / Rendered
     let isRawMode = false;
-    btnToggleRaw?.addEventListener('click', () => {
+    function toggleRawRenderedView() {
         isRawMode = !isRawMode;
         if (isRawMode) {
             docRenderedBody.style.display = 'none';
             docRawBody.style.display = 'block';
-            btnToggleRaw.querySelector('span').innerText = 'View Rendered';
+            if (btnToggleRaw) btnToggleRaw.querySelector('.btn-text').innerText = 'Rendered';
+            if (mobileToggleRawText) mobileToggleRawText.innerText = 'View Rendered Content';
         } else {
             docRenderedBody.style.display = 'block';
             docRawBody.style.display = 'none';
-            btnToggleRaw.querySelector('span').innerText = 'View Raw';
+            if (btnToggleRaw) btnToggleRaw.querySelector('.btn-text').innerText = 'Raw';
+            if (mobileToggleRawText) mobileToggleRawText.innerText = 'View Raw Markdown';
         }
-    });
+    }
+
+    btnToggleRaw?.addEventListener('click', toggleRawRenderedView);
 
     // Copy Markdown
     btnCopyDocMarkdown?.addEventListener('click', () => {
@@ -630,6 +926,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Close mobile sidebar
                 if (window.innerWidth <= 860) {
                     readerSidebar?.classList.remove('open');
+                    sidebarBackdrop?.classList.remove('active');
                 }
             });
         });
@@ -690,6 +987,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (docRawBody) {
                     docRawBody.textContent = data.rawMarkdown;
                 }
+
+                applyReaderScale(readerScale, false);
+                applyReaderWidth(readerWidthMode, false);
 
                 // Populate Table of Contents
                 renderTOC(data.headings || []);
