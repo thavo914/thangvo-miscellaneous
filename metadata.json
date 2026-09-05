@@ -1,6 +1,6 @@
 {
   "name": "Vocabulary Review App",
-  "description": "An interactive vocabulary review and flashcard web application",
+  "description": "Interactive vocabulary flashcards, live markdown reader, and markdown file editor for English curriculum and running guides",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
