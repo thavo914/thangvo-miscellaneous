@@ -356,18 +356,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const navNextLabel = document.getElementById('nav-next-label');
 
     // ==========================================================================
-    // Comprehensive Reader Scaling Engine (Phone & Web)
+    // Comprehensive Reader Scaling & Auto Fit Engine (Phone & Web)
     // ==========================================================================
     const STORAGE_KEY_SCALE = 'study_reader_scale';
     const STORAGE_KEY_WIDTH = 'study_reader_width';
+    const STORAGE_KEY_AUTOFIT = 'study_reader_autofit';
 
     const readerScaleContainer = document.getElementById('reader-scale-container');
+    const btnAutoFitScreen = document.getElementById('btn-autofit-screen');
     const btnFontSmaller = document.getElementById('btn-font-smaller');
     const btnFontReset = document.getElementById('btn-font-reset');
     const btnFontLarger = document.getElementById('btn-font-larger');
     const scalePercentText = document.getElementById('scale-percent-text');
     const scalePopoverMenu = document.getElementById('scale-popover-menu');
+    const btnScaleAutoFitDirect = document.getElementById('btn-scale-autofit-direct');
     const btnScaleResetDirect = document.getElementById('btn-scale-reset-direct');
+    const chipScaleAuto = document.getElementById('chip-scale-auto');
     const readerScaleSlider = document.getElementById('reader-scale-slider');
     const scalePresetsGrid = document.getElementById('scale-presets-grid');
     const scaleWidthToggles = document.getElementById('scale-width-toggles');
@@ -379,6 +383,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Mobile overflow actions
     const btnReaderMore = document.getElementById('btn-reader-more');
     const readerMoreMenu = document.getElementById('reader-more-menu');
+    const btnMobileAutoFit = document.getElementById('btn-mobile-autofit');
     const btnMobileCopyMarkdown = document.getElementById('btn-mobile-copy-markdown');
     const btnMobileToggleRaw = document.getElementById('btn-mobile-toggle-raw');
     const mobileToggleRawText = document.getElementById('mobile-toggle-raw-text');
@@ -388,12 +393,15 @@ document.addEventListener('DOMContentLoaded', () => {
     if (isNaN(readerScale) || readerScale < 0.7 || readerScale > 2.0) readerScale = 1.0;
 
     let readerWidthMode = localStorage.getItem(STORAGE_KEY_WIDTH) || 'standard';
+    let storedAutoFit = localStorage.getItem(STORAGE_KEY_AUTOFIT);
+    // Auto Fit defaults to true on mobile screens (< 860px) unless explicitly disabled
+    let isAutoFitActive = storedAutoFit !== null ? storedAutoFit === 'true' : (window.innerWidth <= 860);
     let zoomHudTimeout = null;
 
     // Show visual feedback HUD badge
-    function showZoomHud(percentage) {
+    function showZoomHud(textOrPercent) {
         if (!readerZoomHud || !zoomHudText) return;
-        zoomHudText.innerText = `${percentage}%`;
+        zoomHudText.innerText = typeof textOrPercent === 'number' ? `${textOrPercent}%` : textOrPercent;
         readerZoomHud.classList.add('show');
         if (zoomHudTimeout) clearTimeout(zoomHudTimeout);
         zoomHudTimeout = setTimeout(() => {
@@ -401,8 +409,56 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 1200);
     }
 
+    // Determine optimal readability scale based on viewport dimensions
+    function getAutoFitScale() {
+        const width = window.innerWidth;
+        if (width <= 360) {
+            return 0.90; // compact screens
+        } else if (width <= 480) {
+            return 0.95; // standard iPhone / Android portrait
+        } else if (width <= 768) {
+            return 1.0;
+        } else {
+            return 1.0;
+        }
+    }
+
+    function setAutoFitActiveState(active) {
+        isAutoFitActive = active;
+        try {
+            localStorage.setItem(STORAGE_KEY_AUTOFIT, active ? 'true' : 'false');
+        } catch (e) {}
+
+        btnAutoFitScreen?.classList.toggle('active', active);
+        chipScaleAuto?.classList.toggle('active', active);
+    }
+
+    // Trigger auto-fit to screen width
+    function triggerAutoFit(notify = true) {
+        setAutoFitActiveState(true);
+        const targetScale = getAutoFitScale();
+        const targetWidth = window.innerWidth <= 860 ? 'full' : 'standard';
+
+        applyReaderScale(targetScale, true, false);
+        applyReaderWidth(targetWidth, true);
+
+        // Ensure reader is scrolled to left boundary
+        if (readerScrollArea) {
+            readerScrollArea.scrollLeft = 0;
+        }
+        window.scrollTo({ left: 0, top: window.scrollY });
+
+        if (notify) {
+            showZoomHud(`Fit (${Math.round(targetScale * 100)}%)`);
+        }
+    }
+
     // Apply scale to reader container and update controls
-    function applyReaderScale(newScale, persist = true) {
+    function applyReaderScale(newScale, persist = true, resetAutoFit = true) {
+        if (resetAutoFit) {
+            setAutoFitActiveState(false);
+        }
+
         readerScale = Math.min(2.0, Math.max(0.7, Math.round(newScale * 100) / 100));
         const percent = Math.round(readerScale * 100);
 
@@ -427,9 +483,15 @@ document.addEventListener('DOMContentLoaded', () => {
         // Highlight matching preset chip
         scalePresetsGrid?.querySelectorAll('.scale-chip').forEach(chip => {
             const chipScale = parseFloat(chip.getAttribute('data-scale'));
-            const isMatch = Math.abs(chipScale - readerScale) < 0.04;
-            chip.classList.toggle('active', isMatch);
+            if (!isNaN(chipScale)) {
+                const isMatch = Math.abs(chipScale - readerScale) < 0.04;
+                chip.classList.toggle('active', isMatch);
+            }
         });
+
+        // Update Auto chip and toolbar button active state
+        chipScaleAuto?.classList.toggle('active', isAutoFitActive);
+        btnAutoFitScreen?.classList.toggle('active', isAutoFitActive);
 
         if (persist) {
             try {
@@ -468,6 +530,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // Auto Fit Button in Toolbar
+    btnAutoFitScreen?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        triggerAutoFit(true);
+    });
+
     // Zoom Step Controls (- and +)
     btnFontSmaller?.addEventListener('click', (e) => {
         e.stopPropagation();
@@ -494,7 +562,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Reset direct button
+    // Auto Fit direct button in popover header
+    btnScaleAutoFitDirect?.addEventListener('click', (e) => {
+        e.stopPropagation();
+        triggerAutoFit(true);
+        closeScaleMenu();
+    });
+
+    // Reset direct button (100%)
     btnScaleResetDirect?.addEventListener('click', (e) => {
         e.stopPropagation();
         applyReaderScale(1.0);
@@ -520,6 +595,11 @@ document.addEventListener('DOMContentLoaded', () => {
         const chip = e.target.closest('.scale-chip');
         if (!chip) return;
         e.stopPropagation();
+        if (chip.id === 'chip-scale-auto') {
+            triggerAutoFit(true);
+            closeScaleMenu();
+            return;
+        }
         const targetScale = parseFloat(chip.getAttribute('data-scale'));
         if (!isNaN(targetScale)) {
             applyReaderScale(targetScale);
@@ -639,6 +719,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (readerMoreMenu) readerMoreMenu.style.display = 'none';
     }
 
+    btnMobileAutoFit?.addEventListener('click', () => {
+        closeReaderMoreMenu();
+        triggerAutoFit(true);
+    });
+
     btnMobileCopyMarkdown?.addEventListener('click', () => {
         closeReaderMoreMenu();
         if (!activeRawMarkdown) return;
@@ -662,9 +747,29 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Initialize initial scale and width
-    applyReaderScale(readerScale, false);
-    applyReaderWidth(readerWidthMode, false);
+    // Dynamic viewport & orientation adaptation for Mobile Safari and Chrome
+    window.addEventListener('resize', () => {
+        if (isAutoFitActive) {
+            triggerAutoFit(false);
+        }
+    });
+
+    window.addEventListener('orientationchange', () => {
+        setTimeout(() => {
+            if (isAutoFitActive) {
+                triggerAutoFit(false);
+            }
+        }, 200);
+    });
+
+    // Initialize initial scale, width, and Auto Fit mode
+    if (isAutoFitActive) {
+        triggerAutoFit(false);
+    } else {
+        applyReaderScale(readerScale, false, false);
+        applyReaderWidth(readerWidthMode, false);
+        setAutoFitActiveState(false);
+    }
 
     // Toggle Mobile Sidebar & Backdrop
     btnToggleSidebar?.addEventListener('click', () => {
