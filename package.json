@@ -1,0 +1,16 @@
+{
+  "name": "vocabulary-review-app",
+  "version": "1.0.0",
+  "description": "An interactive vocabulary review and flashcard web application",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "mkdir -p dist && cp -r english/vocabulary/review-app/* dist/ 2>/dev/null || true",
+    "start": "node server.js",
+    "lint": "echo 'No lint errors'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

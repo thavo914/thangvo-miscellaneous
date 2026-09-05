@@ -1,0 +1,6 @@
+{
+  "name": "Vocabulary Review App",
+  "description": "An interactive vocabulary review and flashcard web application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
