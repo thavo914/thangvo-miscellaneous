@@ -38,8 +38,29 @@ marked.use({
       }
       return `<div class="code-block-wrapper"><div class="code-header"><span class="code-lang">${validLang}</span><button type="button" class="copy-code-btn" onclick="copySnippet(this)">Copy</button></div><pre><code class="hljs language-${validLang}">${highlighted}</code></pre></div>`;
     },
-    table({ header, rows }) {
-      return `<div class="table-container"><table><thead>${header}</thead><tbody>${rows}</tbody></table></div>`;
+    table(token) {
+      let headerCells = '';
+      const headers = token.header || [];
+      for (let r = 0; r < headers.length; r++) {
+        headerCells += this.tablecell(headers[r]);
+      }
+      const headerRow = headerCells ? this.tablerow({ text: headerCells }) : '';
+
+      let bodyRows = '';
+      const rows = token.rows || [];
+      for (let r = 0; r < rows.length; r++) {
+        const row = rows[r];
+        let cellContent = '';
+        for (let o = 0; o < row.length; o++) {
+          cellContent += this.tablecell(row[o]);
+        }
+        bodyRows += this.tablerow({ text: cellContent });
+      }
+      if (bodyRows) {
+        bodyRows = `<tbody>${bodyRows}</tbody>`;
+      }
+      const thead = headerRow ? `<thead>${headerRow}</thead>` : '';
+      return `<div class="table-container"><table>${thead}${bodyRows}</table></div>`;
     }
   }
 });
