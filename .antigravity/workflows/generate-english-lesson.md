@@ -40,7 +40,7 @@ Every generated daily file (`day1` through `day5`) must align with the following
 | Block | Focus | Duration | Key Activities |
 | :--- | :--- | :--- | :--- |
 | **Block 1** | Warm-up & Reflex Drills | **35-45 mins** | • 15m Daily Speaking Reflex Exercise<br>• 20-30m TOEIC Dictation (3 Exercises) |
-| **Block 2** | Workplace Practice | **60 mins** | • **Days 1 & 4**: Grammar Rules (3), Slot Templates (5), Collocations (5), Drills<br>• **Day 2**: Topic 1 IELTS Speaking Part 1-3, Shadowing & Rhythm<br>• **Day 3**: Topic 1 Vietnamese-to-English Conversation Translation, Monologue & Model Analysis<br>• **Day 5**: Topic 2 Vietnamese-to-English Tech Conversation Translation, IELTS Speaking & Shadowing |
+| **Block 2** | Workplace Practice | **60 mins** | • **Days 1 & 4**: Grammar Rules (3 with inline drills), Slot Templates (5 with inline drills), Collocations (5), Section Mastery Combos, Translation Drills with Answer Keys<br>• **Day 2**: Topic 1 IELTS Speaking Part 1-3, Shadowing & Rhythm<br>• **Day 3**: Topic 1 Vietnamese-to-English Conversation Translation, Monologue & Model Analysis<br>• **Day 5**: Topic 2 Vietnamese-to-English Tech Conversation Translation, IELTS Speaking & Shadowing |
 | **Block 3** | AI Speaking | **60 mins** | • Practice speaking English with AI using the lessons/vocabulary from Block 2<br>• ChatGPT Voice Mode Roleplay (IELTS Simulation / Tech Workplace Simulation) |
 | **Block 4** | Review & Consolidation | **15 mins** | • Anki / Flashcard Review<br>• Error Logging & Self-Evaluation Checklist |
 
@@ -107,13 +107,26 @@ Provide explicit practice prompts for the day's designated exercises from [daily
   - *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation, pausing as needed. Compare with transcript and correct with a red pen.
 
 ### Section 1: Block 2 - Workplace Practice (Grammar & Structures) (60 Mins)
+> [!IMPORTANT]
+> **ALL grammar rules MUST have dedicated, interactive practice exercises.** Do not present theoretical rules without immediate output drills.
+
 For each of the **3 target grammar rules**:
 - **Grammar Point Name** (e.g., *Talking about experience using Present Perfect*)
 - **Quote**: Exact sentence from the dialogue showing this rule.
 - **Rule Explanation**: Simple, clear explanation of usage and form.
 - **Common Pitfall Box**: A warning box showing a frequent mistake and how to correct it (*Incorrect vs. Correct*).
+- **Targeted Practice Exercises (MANDATORY)**: Directly under each rule, provide:
+  - *Drill A (Transformation / Upgrade)*: 3 sentences converting weak, habitual, or broken structures into the target grammar with blank rewrite prompts (`$\rightarrow$ **Your Rewrite**: ____________________`).
+  - *Drill B (Contextual Precision / Fill-in-the-Blank)*: 2–3 contextual sentences testing the rule with verb brackets or choice selection.
+  - *Drill C (Your Turn)*: 1 personalized prompt tailored to Data Engineering / Tech Workplace context with fill-in blanks.
+  - *Collapsible Answer Key (`<details><summary>💡 Click to View Suggested Answers & Analysis</summary>`)*: Full model answers and linguistic explanations for why the upgrade works.
+- **Section 1 Mastery Drill (Multi-Rule Integration)**:
+  At the end of Section 1, include a synthesis challenge combining all 3 rules into a cohesive 2-sentence executive/workplace narrative (with a worked example and fill-in slots).
 
 ### Section 2: Sentence Structure Templates (5 Patterns)
+> [!IMPORTANT]
+> **ALL sentence templates MUST have dedicated, immediate practice exercises.** Do not just list examples; the learner must actively practice each pattern immediately.
+
 For each of the **5 sentence structures**:
 - **Communicative Function**: (e.g., *To give a recommendation*, *To compare two choices*).
 - **Slot-Filling Formula**: Expressed using brackets for modular components (e.g., `It's really important that + [Subject] + [Verb] + before + [Noun]`).
@@ -121,14 +134,23 @@ For each of the **5 sentence structures**:
   1. *Everyday Context*
   2. *Data Engineering / Casino Context*
   3. *General Workplace Context*
+- **Immediate Practice Drill for EACH Template (MANDATORY)**:
+  Directly beneath the 3 examples for each template, provide:
+  - *Mini-Drill (Scenario Rephrasing or Slot-Filling)*: A practical prompt asking the learner to express a specific idea using the template.
+  - *Your Turn Slot*: A customized prompt line with blank slots (`____________________`) to customize with the learner's own project experience.
+  - *Collapsible Answer Key (`<details><summary>💡 Click to View Suggested Completions</summary>`)*: 2 sample completions showing high-band professional expression.
 
 ### Section 3: Production & Translation Drills
-- **"Your Turn" Exercises**: Prompts for each of the 5 templates with blank spaces (`- `) for custom sentence construction.
-- **Translation / Transformation Challenge**: 3 custom sentences to translate (Vietnamese to English) or restructure using target grammar.
+- **Drill 1: Consolidated "Your Turn" Customization**: Prompts for each of the 5 templates with blank spaces (`____________________`) for end-to-end custom sentence construction.
+- **Drill 2: Translation & Transformation Challenge**: 3 custom workplace/tech sentences in Vietnamese to translate into natural English using today's target grammar and templates.
+- **Collapsible Translation Models & Breakdown (MANDATORY)**: Provide a collapsed `<details><summary>💡 Click to View Model Translations & Linguistic Breakdown</summary>` containing:
+  1. Natural Band 6.5–7.0 English translations for all 3 sentences.
+  2. Contrastive linguistic notes highlighting key collocations and grammatical choices.
+  3. Alternative native phrasing variations.
 
 ### Section 4: Spot the Mistake (Error Correction Drill)
 - 3 custom incorrect sentences featuring common grammatical or collocation pitfalls.
-- Collapsed Answer Key (`<details>`) with B1-B2 explanations.
+- Collapsed Answer Key (`<details><summary>💡 Click to View Explanations & Corrections</summary>`) with B1-B2 explanations.
 
 ### Section 5: Block 3 & 4 - AI Speaking & Daily Consolidation (75 Mins)
 - **AI Speaking Practice (60 Mins)**: Instructions to practice speaking with AI (ChatGPT Voice Mode) using today's grammar rules, templates, and collocations. **IMPORTANT: You MUST append the following exact block to this section:**

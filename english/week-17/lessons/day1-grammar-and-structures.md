@@ -17,7 +17,10 @@
 
 #### 💡 Worked Example (What to Say Out Loud):
 > *"Right now, I'm sitting down at my desk, opening up my performance review folder. Over the last few months, I've really tried to **go above and beyond** by keeping detailed notes of all our pipeline refactoring. When I look at our metrics, our team uptime has consistently **exceeded expectations**. In my review meeting, I want to clearly explain what I **bring to the table** instead of feeling shy about my results."*
+> My turn: Right now, I'm sitting down at my desk, practicing the day-1 english excercise. I think it's a good way to improve my english skills. My working contract is about to expire in this month, I think so far I do a great work, the tasks consistently exceeded the deadline expectations , I always go above and beyond my job scope, and what I bring to the table says I am a valuable member of the team.
+Natural Native Revision
 
+"Right now, I'm sitting at my desk knocking out my Day 1 English exercise. It feels like a solid routine to sharpen my reflexes. My contract is actually up for renewal this month, and looking back, I know I've done great work. My deliverables have consistently exceeded expectations, I regularly go above and beyond my basic scope, and what I bring to the table makes it obvious that I’m a key player on this team."
 ---
 
 ### 🎧 Active Listening: TOEIC Dictation (20–30 Mins)
@@ -38,6 +41,44 @@
   > ❌ **Incorrect**: *Last year until now, I always deliver projects on time.* (Sounds like a repetitive simple habit, lacks professional connection to current value).  
   >  **Correct**: *Over the past year, I **have consistently delivered** critical data deliverables ahead of schedule.*
 
+#### 🎯 Rule 1 Practice Exercises
+
+##### Drill 1.1: Upgrade to Present Perfect
+Rewrite the following weak, habitual, or timestamp-broken statements into authoritative Present Perfect impact statements using `have/has + [adverb] + [past participle]`:
+1. *In the last six months, I usually resolve on-call pipeline incidents within 15 minutes.*  
+   $\rightarrow$ **Your Rewrite**: __________________________________________________
+2. *From January until now, I took full ownership of migrating our Airflow DAGs.*  
+   $\rightarrow$ **Your Rewrite**: __________________________________________________
+3. *I am maintaining 99.9% uptime for our real-time streaming ingestion since Q2.*  
+   $\rightarrow$ **Your Rewrite**: __________________________________________________
+
+##### Drill 1.2: Fill in the Blanks (Adverb + Past Participle)
+Choose an appropriate adverb (*consistently, steadily, successfully, proactively*) and the correct past participle form of the verb in parentheses:
+1. Throughout this quarter, I have ____________________ ____________________ (refactor) our slowest SQL queries to prevent cluster timeouts.
+2. Over the past twelve months, our data engineering pod has ____________________ ____________________ (achieve) zero unhandled pipeline outages.
+3. I have ____________________ ____________________ (identify) upstream schema drift before it impacted executive financial reporting.
+
+##### Drill 1.3: Your Turn (Real Workplace Win)
+Draft 1 sentence highlighting an engineering responsibility you have sustained over the past 6–12 months:
+* `Over the past ` ____________________ `, I have consistently ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Answers & Analysis (Rule 1)</summary>
+
+**Drill 1.1 Suggested Answers:**
+1. *Over the last six months, I **have consistently resolved** on-call pipeline incidents within 15 minutes.*  
+   *(Analysis: Replaces the habitual "usually resolve" with Present Perfect, linking past consistency directly to your present reliability).*
+2. *Over the past year, I **have successfully taken** full ownership of migrating our Airflow DAGs.*  
+   *(Analysis: Replaces the rigid "From January until now" and past simple with Present Perfect modified by "successfully").*
+3. *Since Q2, I **have steadily maintained** 99.9% uptime for our real-time streaming ingestion.*  
+   *(Analysis: Replaces present continuous with Present Perfect to indicate an unbroken standard of performance).*
+
+**Drill 1.2 Suggested Answers:**
+1. *have **consistently / proactively refactored***
+2. *has **successfully achieved***
+3. *have **proactively identified***
+</details>
+
 ---
 
 ### Rule 2: Cleft Sentences for Highlighting Impact (`What + Clause + is/was...`)
@@ -46,6 +87,40 @@
 * **Common Pitfall**:
   > ❌ **Incorrect**: *I am proud because I stabilize reporting pipeline.* (Fragmented, low band score).  
   >  **Correct**: *What I am most proud of **is how we stabilized** the reporting pipeline under tight deadlines.*
+
+#### 🎯 Rule 2 Practice Exercises
+
+##### Drill 2.1: Cleft Transformation (Spotlight Fronting)
+Transform each standard sentence into a high-impact Cleft Sentence starting with **"What..."**:
+1. *I am especially proud of reducing average query latency from 12 seconds down to 800 milliseconds.*  
+   $\rightarrow$ **Your Rewrite**: What I am most proud of __________________________________________________
+2. *I bring to the team an ability to rapidly diagnose Kafka consumer lag.*  
+   $\rightarrow$ **Your Rewrite**: What I bring to the table __________________________________________________
+3. *The leadership team appreciated most that we delivered the casino telemetry sync two weeks ahead of schedule.*  
+   $\rightarrow$ **Your Rewrite**: What the leadership team appreciated most was __________________________________________________
+
+##### Drill 2.2: Complete the Cleft Structure
+Complete the following cleft constructions using natural technical phrasing:
+1. `What I really want to emphasize regarding our data infrastructure is ` ________________________________________.
+2. `What allowed us to scale our CDC pipelines smoothly was ` ________________________________________.
+
+##### Drill 2.3: Your Turn (Front Your Standout Strength)
+Draft your core value proposition for your upcoming evaluation:
+* `What I'm most proud of bringing to the table is ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Answers & Analysis (Rule 2)</summary>
+
+**Drill 2.1 Suggested Answers:**
+1. *What I am most proud of **is reducing** average query latency from 12 seconds down to 800 milliseconds.* (or: *What I am most proud of **is how we brought** average query latency down to 800 milliseconds.*)
+2. *What I bring to the table **is my proven ability to** rapidly diagnose Kafka consumer lag.*
+3. *What the leadership team appreciated most **was our ability to deliver** the casino telemetry sync two weeks ahead of schedule.*  
+   *(Analysis: Fronting with "What..." gives your contribution executive weight and sharp focus).*
+
+**Drill 2.2 Sample Completions:**
+1. *What I really want to emphasize regarding our data infrastructure is **our transition toward automated CI/CD schema validation**.*
+2. *What allowed us to scale our CDC pipelines smoothly was **the implementation of decoupled message queuing**.*
+</details>
 
 ---
 
@@ -56,7 +131,59 @@
   > ❌ **Incorrect**: *I refactored legacy SQL scripts and it made compute costs reduce 35%.* (Clunky, disjointed phrasing).  
   >  **Correct**: *I refactored several legacy SQL scripts, **which reduced compute costs by over 35%**.*
 
+#### 🎯 Rule 3 Practice Exercises
+
+##### Drill 3.1: Sentence Combining (Action + Measurable Result)
+Combine the two choppy sentences into one cohesive, executive statement using `, which + [verb]`:
+1. *I migrated twenty staging tables to partitioned Parquet files. This reduced our daily cloud storage footprint by 45%.*  
+   $\rightarrow$ **Your Combined Sentence**: __________________________________________________
+2. *We automated our daily data reconciliation checks. It saved our engineering team roughly five manual hours each week.*  
+   $\rightarrow$ **Your Combined Sentence**: __________________________________________________
+3. *I redesigned our indexing strategy on the transaction warehouse. This enabled sub-second dashboard rendering for executive reporting.*  
+   $\rightarrow$ **Your Combined Sentence**: __________________________________________________
+
+##### Drill 3.2: Punctuation & Precision Check
+Find and fix the mistake in each relative clause:
+1. *I optimized the ETL workflow that saved over $8,000 in monthly Snowflake credits.*  
+   $\rightarrow$ **Correction**: __________________________________________________
+2. *We deployed partition pruning which resulted in 30% faster analytics queries.*  
+   $\rightarrow$ **Correction**: __________________________________________________
+
+##### Drill 3.3: Your Turn (Quantify a Win)
+State a technical improvement you delivered and link it to a measurable outcome:
+* `Over the past quarter, I ` ____________________ `, which directly ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Answers & Analysis (Rule 3)</summary>
+
+**Drill 3.1 Suggested Answers:**
+1. *I migrated twenty staging tables to partitioned Parquet files, **which reduced our daily cloud storage footprint by 45%**.*
+2. *We automated our daily data reconciliation checks, **which saved our engineering team roughly five manual hours each week**.*
+3. *I redesigned our indexing strategy on the transaction warehouse, **which enabled sub-second dashboard rendering for executive reporting**.*
+
+**Drill 3.2 Corrections & Analysis:**
+1. *I optimized the ETL workflow**, which** saved over $8,000 in monthly Snowflake credits.*  
+   *(Analysis: Use `, which` with a comma to add supplementary business outcome metrics; "that" without a comma defines the workflow rather than highlighting the achievement).*
+2. *We deployed partition pruning**, which resulted** in 30% faster analytics queries.*  
+   *(Analysis: Always place a comma before non-defining `which` to separate the technical action from the metric outcome).*
+</details>
+
 ---
+
+### 🏆 Section 1 Mastery Drill: The Triple-Rule Integration Challenge
+* **The Goal**: In a performance review, top performers do not isolate grammar rules—they combine them into a tight, two-sentence value narrative.
+* **The Formula**:
+  > **Sentence 1 (Rule 1 + Rule 3)**: *Over the past + [Timeframe], I have consistently + [Past Participle] + [Deliverable], which + [Quantifiable Metric].*  
+  > **Sentence 2 (Rule 2)**: *What I am most proud of bringing to the table is + [Core Strategic / Leadership Strength].*
+
+#### 💡 Worked Example:
+> *"Over the past year, I **have consistently spearheaded** our real-time CDC pipeline optimizations, **which reduced reporting latency by 45%** and eliminated morning dashboard delays. **What I'm most proud of bringing to the table is** how our team fostered proactive communication across data analytics and infrastructure during the entire migration."*
+
+#### ✍️ Your Turn: Build Your Review Pitch
+1. **Sentence 1 (Sustained Delivery + Metric Outcome)**:  
+   `Over the past year, I have consistently ` ________________________________________ `, which ` ________________________________________.
+2. **Sentence 2 (Cleft Value Proposition)**:  
+   `What I am most proud of bringing to the table is ` ________________________________________.
 
 ## 🧩 Section 2: Sentence Structure Templates (5 Patterns)
 
@@ -68,6 +195,21 @@
   2. *Data Engineering / Casino Context*: "Over the past year, I have consistently maintained our gaming ETL workflows, which directly helped the team prevent revenue reporting delays."
   3. *General Workplace Context*: "Over the past quarter, I have consistently automated weekly status updates, which directly helped the team save four hours each Friday."
 
+#### 🎯 Template 1 Practice Drill
+* **Task 1 (Scenario Application)**: You maintained CDC data streaming connectors for the past 6 months, preventing morning dashboard delays for finance. Complete the template:  
+  `Over the past six months, I have consistently ` ________________________________________ `, which directly helped the team ` ________________________________________.
+* **Task 2 (Your Turn)**: Express a consistent process or automation win from your own project:  
+  `Over the past ` ____________________ `, I have consistently ` ________________________________________ `, which directly helped ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Completions (Template 1)</summary>
+
+* **Data Engineering Model**: *"Over the past six months, I have consistently **monitored and optimized our CDC streaming connectors**, which directly helped the team **prevent morning dashboard reporting delays for finance**."*
+* **Alternative Workplace Model**: *"Over the past quarter, I have consistently **standardized our deployment runbooks**, which directly helped the team **onboard incoming engineers with zero downtime**."*
+</details>
+
+---
+
 ### Template 2: Fronting Your Core Value Proposition (Cleft Pattern)
 * **Communicative Function**: To draw your manager's focus directly to your standout strength.
 * **Slot Formula**: `What I'm most proud of bringing to the table is + [Noun Phrase / Gerund Phrase].`
@@ -75,6 +217,21 @@
   1. *Everyday Context*: "What I'm most proud of bringing to the table is my ability to stay calm during family emergencies."
   2. *Data Engineering / Casino Context*: "What I'm most proud of bringing to the table is my deep familiarity with real-time CDC architectures and slot machine telemetry."
   3. *General Workplace Context*: "What I'm most proud of bringing to the table is my dedication to mentoring incoming associate engineers."
+
+#### 🎯 Template 2 Practice Drill
+* **Task 1 (Fronting Your Edge)**: Transform this statement: *"I am really skilled at quickly troubleshooting distributed database bottlenecks under pressure."* into Template 2:  
+  `What I'm most proud of bringing to the table is ` ________________________________________.
+* **Task 2 (Your Turn)**: State your unique technical differentiator:  
+  `What I'm most proud of bringing to the table is ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Completions (Template 2)</summary>
+
+* **Model 1 (Noun Phrase)**: *"What I'm most proud of bringing to the table is **my proven ability to rapidly diagnose and resolve distributed database bottlenecks under tight deadlines**."*
+* **Model 2 (Gerund Phrase)**: *"What I'm most proud of bringing to the table is **bridging the technical gap between business analysts and data infrastructure teams**."*
+</details>
+
+---
 
 ### Template 3: Demonstrating Proven Track Record
 * **Communicative Function**: To justify seniority or praise based on past consistency.
@@ -84,6 +241,21 @@
   2. *Data Engineering / Casino Context*: "Given my proven track record in resolving database bottlenecks, I feel I have regularly gone above and beyond standard on-call duties."
   3. *General Workplace Context*: "Given my proven track record in cross-functional communication, I feel I have regularly gone above and beyond my core job description."
 
+#### 🎯 Template 3 Practice Drill
+* **Task 1 (Seniority Justification)**: You handled cross-department data integration and took on architectural reviews far beyond routine ticket resolution. Complete the sentence:  
+  `Given my proven track record in ` ________________________________________ `, I feel I have regularly gone above and beyond ` ________________________________________.
+* **Task 2 (Your Turn)**: Link one of your core engineering strengths to exceeding role expectations:  
+  `Given my proven track record in ` ________________________________________ `, I feel I have regularly gone above and beyond ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Completions (Template 3)</summary>
+
+* **Model 1**: *"Given my proven track record in **cross-department data architecture and schema design**, I feel I have regularly gone above and beyond **standard day-to-day ticket resolution**."*
+* **Model 2**: *"Given my proven track record in **proactive incident management**, I feel I have regularly gone above and beyond **my baseline on-call obligations**."*
+</details>
+
+---
+
 ### Template 4: Dual-Achievement Inversion (`Not only did I... but I also...`)
 * **Communicative Function**: To emphasize that you accomplished both the expected baseline and an extraordinary initiative.
 * **Slot Formula**: `Not only did I + [Base Verb] + [Core Deliverable], but I also + [Past Verb] + [Additional High-Impact Result].`
@@ -92,6 +264,23 @@
   2. *Data Engineering / Casino Context*: "Not only did I migrate our historical gaming logs to S3, but I also created automated partition checks to prevent table bloat."
   3. *General Workplace Context*: "Not only did I hit all project deadlines, but I also revamped our internal onboarding documentation."
 
+#### 🎯 Template 4 Practice Drill
+* **Task 1 (Inversion Accuracy Check)**: Correct the inversion mistake in this sentence:  
+  *Incorrect*: *Not only I cleaned up the stale database partitions, but I also created automated alert triggers.*  
+  $\rightarrow$ **Your Rewrite**: __________________________________________________
+* **Task 2 (Your Turn)**: Combine two related accomplishments (one baseline, one extra high-impact):  
+  `Not only did I ` ________________________________________ `, but I also ` ________________________________________.
+
+<details>
+<summary>💡 Click to View Suggested Completions & Analysis (Template 4)</summary>
+
+* **Correction for Task 1**: *"Not only **did I clean up** the stale database partitions, but I also created automated alert triggers."*  
+  *(Analysis: Negative adverbial inversion requires the auxiliary verb `did` + the base verb form `clean up`, not the past simple).*
+* **Data Engineering Model**: *"Not only did I **complete the scheduled Cassandra schema migration on time**, but I also **authored comprehensive operational playbooks to help junior on-call engineers**."*
+</details>
+
+---
+
 ### Template 5: Seeking Constructive Alignment
 * **Communicative Function**: To maintain humility and invite forward-looking managerial feedback.
 * **Slot Formula**: `I'd love to get your thoughts on how I can continue to + [Base Verb Phrase] + moving forward.`
@@ -99,6 +288,19 @@
   1. *Everyday Context*: "I'd love to get your thoughts on how I can continue to balance my work and fitness goals moving forward."
   2. *Data Engineering / Casino Context*: "I'd love to get your thoughts on how I can continue to drive architectural improvements across our real-time data tier moving forward."
   3. *General Workplace Context*: "I'd love to get your thoughts on how I can continue to step into a leadership capacity moving forward."
+
+#### 🎯 Template 5 Practice Drill
+* **Task 1 (Diplomatic Softening)**: Soften this blunt question: *"What do I need to do to get promoted to Senior Engineer next quarter?"* into Template 5:  
+  `I'd love to get your thoughts on how I can continue to ` ________________________________________ ` moving forward.`
+* **Task 2 (Your Turn)**: Ask for feedback on expanding your technical or leadership impact:  
+  `I'd love to get your thoughts on how I can continue to ` ________________________________________ ` moving forward.`
+
+<details>
+<summary>💡 Click to View Suggested Completions (Template 5)</summary>
+
+* **Model 1**: *"I'd love to get your thoughts on how I can continue to **expand my architectural ownership and operate at a Senior Engineer level** moving forward."*
+* **Model 2**: *"I'd love to get your thoughts on how I can continue to **mentor associate engineers and strengthen our deployment pipelines** moving forward."*
+</details>
 
 ---
 
@@ -114,9 +316,26 @@ Fill in the blanks with your own real Data Engineering accomplishments:
 
 ### Drill 2: Translation & Restructuring Challenge
 Translate the following 3 workplace statements into natural English using today's target structures:
-1. *Trong năm qua, tôi đã liên tục tối ưu hóa các pipeline dữ liệu, điều này đã giúp hệ thống chạy nhanh hơn 40%.*
-2. *Điều mà tôi tự hào nhất khi đóng góp cho team chính là khả năng xử lý sự cố database nhanh chóng.*
-3. *Với lịch sử thành tích đã được chứng minh trong việc quản lý dự án, tôi tin rằng mình đã cống hiến vượt xa mong đợi ban đầu.*
+1. *Trong năm qua, tôi đã liên tục tối ưu hóa các pipeline dữ liệu, điều này đã giúp hệ thống chạy nhanh hơn 40%.*  
+   $\rightarrow$ **Your Translation**: __________________________________________________
+2. *Điều mà tôi tự hào nhất khi đóng góp cho team chính là khả năng xử lý sự cố database nhanh chóng.*  
+   $\rightarrow$ **Your Translation**: __________________________________________________
+3. *Với lịch sử thành tích đã được chứng minh trong việc quản lý dự án, tôi tin rằng mình đã cống hiến vượt xa mong đợi ban đầu.*  
+   $\rightarrow$ **Your Translation**: __________________________________________________
+
+<details>
+<summary>💡 Click to View Model Translations & Linguistic Breakdown</summary>
+
+1. **Sentence 1**:  
+   * **Model**: *"Over the past year, I have consistently optimized our data pipelines, which directly helped the system run 40% faster."* (or: *"...which resulted in a 40% performance gain across our core pipelines."*)  
+   * **Grammar Note**: Uses `have consistently optimized` (Rule 1) + non-defining relative clause `, which directly helped...` (Rule 3) to attach the measurable 40% metric.
+2. **Sentence 2**:  
+   * **Model**: *"What I'm most proud of bringing to the table is my ability to rapidly troubleshoot and resolve database incidents."*  
+   * **Grammar Note**: Uses the Cleft Sentence formula `What I'm most proud of bringing to the table is...` (Rule 2 & Template 2) to front your standout capability.
+3. **Sentence 3**:  
+   * **Model**: *"Given my proven track record in project management, I feel I have regularly gone above and beyond initial expectations."*  
+   * **Grammar Note**: Employs `Given my proven track record in...` + `go above and beyond` (Template 3) to establish credibility and justify senior appraisal.
+</details>
 
 ---
 
