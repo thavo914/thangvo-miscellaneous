@@ -46,17 +46,17 @@ Natural Native Revision
 ##### Drill 1.1: Upgrade to Present Perfect
 Rewrite the following weak, habitual, or timestamp-broken statements into authoritative Present Perfect impact statements using `have/has + [adverb] + [past participle]`:
 1. *In the last six months, I usually resolve on-call pipeline incidents within 15 minutes.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   $\rightarrow$ **Your Rewrite**: In the last six months, I have always resolved incidents within 15 minutes.
 2. *From January until now, I took full ownership of migrating our Airflow DAGs.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   $\rightarrow$ **Your Rewrite**: From January until now, I have always taken full ownership of migrating our Airflow DAGs.
 3. *I am maintaining 99.9% uptime for our real-time streaming ingestion since Q2.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   $\rightarrow$ **Your Rewrite**: From Q2, I have always maintained 99.9% uptime for our real-time streaming ingestion.
 
 ##### Drill 1.2: Fill in the Blanks (Adverb + Past Participle)
 Choose an appropriate adverb (*consistently, steadily, successfully, proactively*) and the correct past participle form of the verb in parentheses:
-1. Throughout this quarter, I have ____________________ ____________________ (refactor) our slowest SQL queries to prevent cluster timeouts.
-2. Over the past twelve months, our data engineering pod has ____________________ ____________________ (achieve) zero unhandled pipeline outages.
-3. I have ____________________ ____________________ (identify) upstream schema drift before it impacted executive financial reporting.
+1. Throughout this quarter, I have  proactively refactored (refactor) our slowest SQL queries to prevent cluster timeouts.
+2. Over the past twelve months, our data engineering pod has successfully achieved  (achieve) zero unhandled pipeline outages.
+3. I have proactively identified (identify) upstream schema drift before it impacted executive financial reporting.
 
 ##### Drill 1.3: Your Turn (Real Workplace Win)
 Draft 1 sentence highlighting an engineering responsibility you have sustained over the past 6–12 months:
@@ -93,20 +93,20 @@ Draft 1 sentence highlighting an engineering responsibility you have sustained o
 ##### Drill 2.1: Cleft Transformation (Spotlight Fronting)
 Transform each standard sentence into a high-impact Cleft Sentence starting with **"What..."**:
 1. *I am especially proud of reducing average query latency from 12 seconds down to 800 milliseconds.*  
-   $\rightarrow$ **Your Rewrite**: What I am most proud of __________________________________________________
+   $\rightarrow$ **Your Rewrite**: What I am most proud of is reducing average query latency from 12 seconds down to 800 milliseconds
 2. *I bring to the team an ability to rapidly diagnose Kafka consumer lag.*  
-   $\rightarrow$ **Your Rewrite**: What I bring to the table __________________________________________________
+   $\rightarrow$ **Your Rewrite**: What I bring to the table is an ability to rapidly diagnose Kafka consumer lag
 3. *The leadership team appreciated most that we delivered the casino telemetry sync two weeks ahead of schedule.*  
-   $\rightarrow$ **Your Rewrite**: What the leadership team appreciated most was __________________________________________________
+   $\rightarrow$ **Your Rewrite**: What the leadership team appreciated most was we delivered the casino telemetry sync two weeks ahead of schedule.
 
 ##### Drill 2.2: Complete the Cleft Structure
 Complete the following cleft constructions using natural technical phrasing:
-1. `What I really want to emphasize regarding our data infrastructure is ` ________________________________________.
-2. `What allowed us to scale our CDC pipelines smoothly was ` ________________________________________.
+1. What I really want to emphasize regarding our data infrastructure is the stable of our data pipeline and reduced the compute costs of running them by 30%.
+2. `What allowed us to scale our CDC pipelines smoothly was` our data migration strategy and its comprehensive testing procedures.
 
 ##### Drill 2.3: Your Turn (Front Your Standout Strength)
 Draft your core value proposition for your upcoming evaluation:
-* `What I'm most proud of bringing to the table is ` ________________________________________.
+* `What I'm most proud of bringing to the table is ` my ability to rapidly diagnose Kafka consumer lag and provide quick fixes.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 2)</summary>
@@ -136,22 +136,22 @@ Draft your core value proposition for your upcoming evaluation:
 ##### Drill 3.1: Sentence Combining (Action + Measurable Result)
 Combine the two choppy sentences into one cohesive, executive statement using `, which + [verb]`:
 1. *I migrated twenty staging tables to partitioned Parquet files. This reduced our daily cloud storage footprint by 45%.*  
-   $\rightarrow$ **Your Combined Sentence**: __________________________________________________
+   $\rightarrow$ **Your Combined Sentence**: I migrated twenty staging tables to partitioned Parquet files, which reduced our daily cloud storage footprint by 45%.
 2. *We automated our daily data reconciliation checks. It saved our engineering team roughly five manual hours each week.*  
-   $\rightarrow$ **Your Combined Sentence**: __________________________________________________
+   $\rightarrow$ **Your Combined Sentence**: We automated our daily data reconciliation checks, which saved our engineering team roughly five manual hours each week.
 3. *I redesigned our indexing strategy on the transaction warehouse. This enabled sub-second dashboard rendering for executive reporting.*  
-   $\rightarrow$ **Your Combined Sentence**: __________________________________________________
+   $\rightarrow$ **Your Combined Sentence**: I redesigned our indexing strategy on the transaction warehouse, which enabled sub-second dashboard rendering for executive reporting.
 
 ##### Drill 3.2: Punctuation & Precision Check
 Find and fix the mistake in each relative clause:
 1. *I optimized the ETL workflow that saved over $8,000 in monthly Snowflake credits.*  
-   $\rightarrow$ **Correction**: __________________________________________________
+   $\rightarrow$ **Correction**: I optimized the ETL workflow, which saved over $8,000 in monthly Snowflake credits.
 2. *We deployed partition pruning which resulted in 30% faster analytics queries.*  
-   $\rightarrow$ **Correction**: __________________________________________________
+   $\rightarrow$ **Correction**: We deployed partition pruning, which resulted in 30% faster analytics queries.
 
 ##### Drill 3.3: Your Turn (Quantify a Win)
 State a technical improvement you delivered and link it to a measurable outcome:
-* `Over the past quarter, I ` ____________________ `, which directly ` ________________________________________.
+* `Over the past quarter, I migrated the legacy ETL workflow into Airflow, which saved us $30,000 in licensing costs.`
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 3)</summary>
