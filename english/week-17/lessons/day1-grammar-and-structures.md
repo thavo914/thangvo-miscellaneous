@@ -181,9 +181,9 @@ State a technical improvement you delivered and link it to a measurable outcome:
 
 #### ✍️ Your Turn: Build Your Review Pitch
 1. **Sentence 1 (Sustained Delivery + Metric Outcome)**:  
-   `Over the past year, I have consistently ` ________________________________________ `, which ` ________________________________________.
+   `Over the past year, I have consistently ` delievered pipeline refactoring tasks with high quality `, which ` helped not only ` improving the data quality and reliabily ` but also ` saving 30%  of the computational cost `.
 2. **Sentence 2 (Cleft Value Proposition)**:  
-   `What I am most proud of bringing to the table is ` ________________________________________.
+   `What I am most proud of bringing to the table is ` improving not only the  data quality and reliabily `, but also ` enhancing the cooperation with the other teams `.
 
 ## 🧩 Section 2: Sentence Structure Templates (5 Patterns)
 
@@ -197,9 +197,9 @@ State a technical improvement you delivered and link it to a measurable outcome:
 
 #### 🎯 Template 1 Practice Drill
 * **Task 1 (Scenario Application)**: You maintained CDC data streaming connectors for the past 6 months, preventing morning dashboard delays for finance. Complete the template:  
-  `Over the past six months, I have consistently ` ________________________________________ `, which directly helped the team ` ________________________________________.
+  `Over the past six months, I have consistently ` delivered data pipeline optimization tasks `, which directly helped the team ` prevent morning dashboard delays for finance `.
 * **Task 2 (Your Turn)**: Express a consistent process or automation win from your own project:  
-  `Over the past ` ____________________ `, I have consistently ` ________________________________________ `, which directly helped ` ________________________________________.
+  `Over the past ` year `, I have consistently ` migrated data pipeline from the legacy system to the modern data stack `, which directly helped ` improve the data quality and reliabily `.
 
 <details>
 <summary>💡 Click to View Suggested Completions (Template 1)</summary>
@@ -220,9 +220,9 @@ State a technical improvement you delivered and link it to a measurable outcome:
 
 #### 🎯 Template 2 Practice Drill
 * **Task 1 (Fronting Your Edge)**: Transform this statement: *"I am really skilled at quickly troubleshooting distributed database bottlenecks under pressure."* into Template 2:  
-  `What I'm most proud of bringing to the table is ` ________________________________________.
+  `What I'm most proud of bringing to the table is ` troubleshooting database bottlenecks under pressure `.
 * **Task 2 (Your Turn)**: State your unique technical differentiator:  
-  `What I'm most proud of bringing to the table is ` ________________________________________.
+  `What I'm most proud of bringing to the table is ` migrating data pipeline from the legacy system to the modern data stack `.
 
 <details>
 <summary>💡 Click to View Suggested Completions (Template 2)</summary>
@@ -243,9 +243,9 @@ State a technical improvement you delivered and link it to a measurable outcome:
 
 #### 🎯 Template 3 Practice Drill
 * **Task 1 (Seniority Justification)**: You handled cross-department data integration and took on architectural reviews far beyond routine ticket resolution. Complete the sentence:  
-  `Given my proven track record in ` ________________________________________ `, I feel I have regularly gone above and beyond ` ________________________________________.
+  `Given my proven track record in ` handling cross-department data integration `, I feel I have regularly gone above and beyond `  routine ticket resolution `.
 * **Task 2 (Your Turn)**: Link one of your core engineering strengths to exceeding role expectations:  
-  `Given my proven track record in ` ________________________________________ `, I feel I have regularly gone above and beyond ` ________________________________________.
+  `Given my proven track record in ` migrating data pipeline from the legacy system `, I feel I have regularly gone above and beyond `  routine ticket resolution `.
 
 <details>
 <summary>💡 Click to View Suggested Completions (Template 3)</summary>
@@ -267,9 +267,9 @@ State a technical improvement you delivered and link it to a measurable outcome:
 #### 🎯 Template 4 Practice Drill
 * **Task 1 (Inversion Accuracy Check)**: Correct the inversion mistake in this sentence:  
   *Incorrect*: *Not only I cleaned up the stale database partitions, but I also created automated alert triggers.*  
-  $\rightarrow$ **Your Rewrite**: __________________________________________________
+  $\rightarrow$ **Your Rewrite**: Not only did I clean up the stale database partitions, but I also created automated alert triggers
 * **Task 2 (Your Turn)**: Combine two related accomplishments (one baseline, one extra high-impact):  
-  `Not only did I ` ________________________________________ `, but I also ` ________________________________________.
+  `Not only did I ` successfully migrated data pipeline from the legacy system `, but I also `  reduced pipeline execution time by 50% . ` 
 
 <details>
 <summary>💡 Click to View Suggested Completions & Analysis (Template 4)</summary>
@@ -291,9 +291,9 @@ State a technical improvement you delivered and link it to a measurable outcome:
 
 #### 🎯 Template 5 Practice Drill
 * **Task 1 (Diplomatic Softening)**: Soften this blunt question: *"What do I need to do to get promoted to Senior Engineer next quarter?"* into Template 5:  
-  `I'd love to get your thoughts on how I can continue to ` ________________________________________ ` moving forward.`
+  `I'd love to get your thoughts on how I can continue to ` step up into a senior engineer role ` moving forward.`
 * **Task 2 (Your Turn)**: Ask for feedback on expanding your technical or leadership impact:  
-  `I'd love to get your thoughts on how I can continue to ` ________________________________________ ` moving forward.`
+  `I'd love to get your thoughts on how I can continue to ` take on more ownership of the data platform` moving forward.`
 
 <details>
 <summary>💡 Click to View Suggested Completions (Template 5)</summary>
@@ -308,20 +308,23 @@ State a technical improvement you delivered and link it to a measurable outcome:
 
 ### Drill 1: Your Turn (Slot-Filling Customization)
 Fill in the blanks with your own real Data Engineering accomplishments:
-1. `Over the past year, I have consistently ` ________________________________________ `, which directly helped the team ` ________________________________________.
-2. `What I'm most proud of bringing to the table is ` ________________________________________.
-3. `Given my proven track record in ` ________________________________________ `, I feel I have regularly gone above and beyond ` ________________________________________.
-4. `Not only did I ` ________________________________________ `, but I also ` ________________________________________.
-5. `I'd love to get your thoughts on how I can continue to ` ________________________________________ ` moving forward.`
+1. `Over the past year, I have consistently ` migrated data pipeline from the legacy system `, which directly helped the team `  reduced pipeline execution time by 50% . `.
+2. `What I'm most proud of bringing to the table is ` migrated data pipeline from the legacy system `.
+3. `Given my proven track record in ` migrated data pipeline from the legacy system `, I feel I have regularly gone above and beyond ` reduced pipeline execution time by 50% . `.
+4. `Not only did I ` migrated data pipeline from the legacy system `, but I also ` reduced pipeline execution time by 50% . `.
+5. `I'd love to get your thoughts on how I can continue to ` migrated data pipeline from the legacy system ` moving forward.`
 
 ### Drill 2: Translation & Restructuring Challenge
 Translate the following 3 workplace statements into natural English using today's target structures:
 1. *Trong năm qua, tôi đã liên tục tối ưu hóa các pipeline dữ liệu, điều này đã giúp hệ thống chạy nhanh hơn 40%.*  
-   $\rightarrow$ **Your Translation**: __________________________________________________
+   $\rightarrow$ **Your Translation**: 
+Over the past year, I have consistently optimized data pipelines, which directly helped the team achieve 40% faster system performance
 2. *Điều mà tôi tự hào nhất khi đóng góp cho team chính là khả năng xử lý sự cố database nhanh chóng.*  
-   $\rightarrow$ **Your Translation**: __________________________________________________
+   $\rightarrow$ **Your Translation**: 
+What I'm most proud of bringing to the table is my ability to rapidly troubleshoot and resolve database incidents
 3. *Với lịch sử thành tích đã được chứng minh trong việc quản lý dự án, tôi tin rằng mình đã cống hiến vượt xa mong đợi ban đầu.*  
-   $\rightarrow$ **Your Translation**: __________________________________________________
+   $\rightarrow$ **Your Translation**: 
+Given my proven track record in project management, I feel I have regularly gone above and beyond initial expectations
 
 <details>
 <summary>💡 Click to View Model Translations & Linguistic Breakdown</summary>
@@ -343,8 +346,14 @@ Translate the following 3 workplace statements into natural English using today'
 
 Identify the grammatical or collocational error in each sentence below:
 1. *Over the last six months, I am consistently exceeding the team's expectations.*
+   -> 
+   Over the last six months, I **have consistently exceeded** the team's expectations.
 2. *What I bring to table is my strong track records in cloud migration.*
+   -> 
+   What I bring to **the** table is my strong track record in cloud migration.
 3. *I have went above and beyond when I fixed the production outage last Sunday.*
+   -> 
+   I **went** above and beyond when I fixed the production outage last Sunday.
 
 <details>
 <summary>💡 Click to View Explanations & Corrections</summary>
