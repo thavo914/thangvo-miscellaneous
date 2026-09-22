@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    container_name: study-hub-app
+    ports:
+      - "3000:3000"
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./english:/app/english
+      - ./running:/app/running
+      - ./server.js:/app/server.js
+    restart: unless-stopped
