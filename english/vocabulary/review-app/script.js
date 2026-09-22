@@ -34,25 +34,29 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // =========================================================================
-    // 2. View Switching (Reader vs Editor vs Vocab vs Running Report)
+    // 2. View Switching (Reader vs Editor vs Vocab vs Running Report vs AI Coach vs Voice)
     // =========================================================================
     const tabBtnReader = document.getElementById('tab-btn-reader');
     const tabBtnEditor = document.getElementById('tab-btn-editor');
     const tabBtnVocab = document.getElementById('tab-btn-vocab');
     const tabBtnRunning = document.getElementById('tab-btn-running');
+    const tabBtnChat = document.getElementById('tab-btn-chat');
+    const tabBtnVoice = document.getElementById('tab-btn-voice');
 
     const viewReader = document.getElementById('view-reader');
     const viewEditor = document.getElementById('view-editor');
     const viewVocab = document.getElementById('view-vocabulary');
     const viewRunning = document.getElementById('view-running');
+    const viewChat = document.getElementById('view-chat');
+    const viewVoice = document.getElementById('view-voice');
 
     const btnQuickSwitchReader = document.getElementById('btn-quick-switch-reader');
     const btnJumpMafDocs = document.getElementById('btn-jump-maf-docs');
 
     function switchView(viewName) {
         // Deactivate all
-        [tabBtnReader, tabBtnEditor, tabBtnVocab, tabBtnRunning].forEach(btn => btn?.classList.remove('active'));
-        [viewReader, viewEditor, viewVocab, viewRunning].forEach(view => view?.classList.remove('active'));
+        [tabBtnReader, tabBtnEditor, tabBtnVocab, tabBtnRunning, tabBtnChat, tabBtnVoice].forEach(btn => btn?.classList.remove('active'));
+        [viewReader, viewEditor, viewVocab, viewRunning, viewChat, viewVoice].forEach(view => view?.classList.remove('active'));
 
         if (viewName === 'vocab') {
             tabBtnVocab?.classList.add('active');
@@ -62,6 +66,17 @@ document.addEventListener('DOMContentLoaded', () => {
             tabBtnRunning?.classList.add('active');
             viewRunning?.classList.add('active');
             window.location.hash = 'running';
+        } else if (viewName === 'chat') {
+            tabBtnChat?.classList.add('active');
+            viewChat?.classList.add('active');
+            window.location.hash = 'chat';
+            setTimeout(() => {
+                document.getElementById('chat-input-textarea')?.focus();
+            }, 100);
+        } else if (viewName === 'voice') {
+            tabBtnVoice?.classList.add('active');
+            viewVoice?.classList.add('active');
+            window.location.hash = 'voice';
         } else if (viewName === 'editor') {
             tabBtnEditor?.classList.add('active');
             viewEditor?.classList.add('active');
@@ -87,6 +102,8 @@ document.addEventListener('DOMContentLoaded', () => {
     tabBtnEditor?.addEventListener('click', () => switchView('editor'));
     tabBtnVocab?.addEventListener('click', () => switchView('vocab'));
     tabBtnRunning?.addEventListener('click', () => switchView('running'));
+    tabBtnChat?.addEventListener('click', () => switchView('chat'));
+    tabBtnVoice?.addEventListener('click', () => switchView('voice'));
     btnQuickSwitchReader?.addEventListener('click', () => switchView('reader'));
     btnJumpMafDocs?.addEventListener('click', () => {
         switchView('reader');
@@ -343,6 +360,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const docMetaWordCount = document.getElementById('doc-meta-word-count');
     const docRenderedBody = document.getElementById('doc-rendered-body');
     const docRawBody = document.getElementById('doc-raw-body');
+    const docFrontmatterContainer = document.getElementById('doc-frontmatter-container');
+    let currentDocHasFrontmatter = false;
     const tocList = document.getElementById('toc-list');
 
     const btnToggleMarkDone = document.getElementById('btn-toggle-mark-done');
@@ -468,6 +487,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         if (docRenderedBody) {
             docRenderedBody.style.setProperty('--reader-scale', readerScale.toString());
+        }
+        if (docFrontmatterContainer) {
+            docFrontmatterContainer.style.setProperty('--reader-scale', readerScale.toString());
         }
         if (docRawBody) {
             docRawBody.style.setProperty('--reader-scale', readerScale.toString());
@@ -788,16 +810,44 @@ document.addEventListener('DOMContentLoaded', () => {
         isRawMode = !isRawMode;
         if (isRawMode) {
             docRenderedBody.style.display = 'none';
+            if (docFrontmatterContainer) docFrontmatterContainer.style.display = 'none';
             docRawBody.style.display = 'block';
             if (btnToggleRaw) btnToggleRaw.querySelector('.btn-text').innerText = 'Rendered';
             if (mobileToggleRawText) mobileToggleRawText.innerText = 'View Rendered Content';
         } else {
             docRenderedBody.style.display = 'block';
+            if (docFrontmatterContainer && currentDocHasFrontmatter) {
+                docFrontmatterContainer.style.display = 'block';
+            }
             docRawBody.style.display = 'none';
             if (btnToggleRaw) btnToggleRaw.querySelector('.btn-text').innerText = 'Raw';
             if (mobileToggleRawText) mobileToggleRawText.innerText = 'View Raw Markdown';
         }
     }
+
+    // Front-Matter helper actions (copy & toggle collapse)
+    window.copyFrontMatterYaml = function(btn) {
+        const base64 = btn?.getAttribute('data-yaml-base64');
+        if (!base64) return;
+        try {
+            const yamlText = atob(base64);
+            navigator.clipboard.writeText(yamlText).then(() => {
+                showToast('YAML front-matter copied to clipboard');
+            });
+        } catch (err) {
+            console.error('Failed to copy YAML:', err);
+        }
+    };
+
+    window.toggleFrontMatterTable = function(btn) {
+        const panel = btn?.closest('.doc-frontmatter-panel');
+        if (!panel) return;
+        const isCollapsed = panel.classList.toggle('collapsed');
+        const textSpan = btn.querySelector('.fm-toggle-text');
+        if (textSpan) {
+            textSpan.textContent = isCollapsed ? 'Expand' : 'Collapse';
+        }
+    };
 
     btnToggleRaw?.addEventListener('click', toggleRawRenderedView);
 
@@ -917,6 +967,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     switchView('vocab');
                 } else if (hash === '#running') {
                     switchView('running');
+                } else if (hash === '#chat') {
+                    switchView('chat');
+                } else if (hash === '#voice') {
+                    switchView('voice');
                 } else {
                     // Default first document: Week 9 Day 1
                     const initialDoc = allDocuments.find(d => d.path.includes('week-9') && d.badge === 'Day 1') || allDocuments[0];
@@ -1056,6 +1110,10 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Show loading in main reader
+        if (docFrontmatterContainer) {
+            docFrontmatterContainer.style.display = 'none';
+            docFrontmatterContainer.innerHTML = '';
+        }
         if (docRenderedBody) {
             docRenderedBody.innerHTML = '<div class="loading-doc-spinner" style="padding: 3rem 0; color: var(--text-muted); text-align: center;">Loading lesson...</div>';
         }
@@ -1083,6 +1141,21 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="crumb-sep">/</span>
                         <span class="crumb-title">${data.title}</span>
                     `;
+                }
+
+                // Front-Matter Metadata Table
+                if (data.frontMatterHtml && data.frontMatter && Object.keys(data.frontMatter).length > 0) {
+                    currentDocHasFrontmatter = true;
+                    if (docFrontmatterContainer) {
+                        docFrontmatterContainer.innerHTML = data.frontMatterHtml;
+                        docFrontmatterContainer.style.display = isRawMode ? 'none' : 'block';
+                    }
+                } else {
+                    currentDocHasFrontmatter = false;
+                    if (docFrontmatterContainer) {
+                        docFrontmatterContainer.innerHTML = '';
+                        docFrontmatterContainer.style.display = 'none';
+                    }
                 }
 
                 // Rendered HTML
@@ -1759,6 +1832,979 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!btnNavNextDoc?.disabled) btnNavNextDoc?.click();
         }
     });
+
+    // =========================================================================
+    // 6. GEMINI MULTI-TURN AI CHATBOT (gemini-3.8-flash & models)
+    // =========================================================================
+    const chatModelSelect = document.getElementById('chat-model-select');
+    const chatRoleSelect = document.getElementById('chat-role-select');
+    const btnToggleSystemPrompt = document.getElementById('btn-toggle-system-prompt');
+    const chatSystemPromptPanel = document.getElementById('chat-system-prompt-panel');
+    const chatSystemPromptTextarea = document.getElementById('chat-system-prompt-textarea');
+    const btnClosePromptPanel = document.getElementById('btn-close-prompt-panel');
+    const btnApplyCustomPrompt = document.getElementById('btn-apply-custom-prompt');
+
+    const btnChatAttachDoc = document.getElementById('btn-chat-attach-doc');
+    const chatAttachedDocName = document.getElementById('chat-attached-doc-name');
+    const chatActiveDocBanner = document.getElementById('chat-active-doc-banner');
+    const chatDocBannerText = document.getElementById('chat-doc-banner-text');
+    const btnRemoveAttachedDoc = document.getElementById('btn-remove-attached-doc');
+    const btnExportChat = document.getElementById('btn-export-chat');
+    const btnClearChat = document.getElementById('btn-clear-chat');
+
+    const chatMessagesContainer = document.getElementById('chat-messages-container');
+    const chatInputTextarea = document.getElementById('chat-input-textarea');
+    const btnChatSend = document.getElementById('btn-chat-send');
+    const btnChatStop = document.getElementById('btn-chat-stop');
+    const chatQuickChips = document.getElementById('chat-quick-chips');
+
+    // Reader Toolbar Quick Action Buttons
+    const btnAskAiReader = document.getElementById('btn-ask-ai-reader');
+    const btnVoiceReader = document.getElementById('btn-voice-reader');
+
+    let chatHistory = []; // Array of { role: 'user' | 'model', content: string }
+    let chatActiveAbortController = null;
+    let isAttachedDocActive = false;
+    let chatAttachedDocData = null;
+
+    // Role preset system prompts
+    const ROLE_PROMPTS = {
+        'ielts-coach': `You are an elite IELTS Examiner and C1/C2 Professional English Coach.
+Your objectives:
+1. Provide actionable, high-impact feedback on lexical resource, grammatical range and accuracy, and natural discourse markers.
+2. When answering or reviewing user responses, give an honest Band score estimation (e.g. Band 6.5 vs Band 7.5+), highlighting specific phrases that sound unnatural or textbook-like.
+3. Suggest native-speaker alternatives, collocations, and advanced sentence transformations (e.g., Cleft sentences, Negative Inversion, Participle clauses).
+4. Maintain an encouraging, articulate, and intellectually rigorous tone.`,
+
+        'negotiator': `You are a Senior Engineering Director at a high-growth tech enterprise, conducting a performance and compensation review with the user.
+Your role:
+1. Challenge the user's salary raise proposal (e.g., a 25% compensation increase) realistically. Ask for concrete business metrics, ROI, cross-functional leverage, and data architecture improvements.
+2. Push back gently on vague statements ("I worked hard", "I completed tasks") and demand quantified impact ("What was the percentage latency reduction?", "How many engineering hours did your pipeline save?").
+3. Give real-time coaching on how to reframe their points using executive presence, diplomatic firmness, and persuasive C1 business English.`,
+
+        'grammar-tutor': `You are a rigorous English Syntax & Grammar Drillmaster.
+Your expertise is in advanced sentence formulas:
+- Cleft Sentences (It was X that... / What I did was... / All we need is...)
+- Negative Inversion (Not only did..., Seldom had..., Under no circumstances should...)
+- Spotlight Fronting and Parallelism
+Whenever the user writes a sentence or requests a drill:
+1. Analyze the syntactic structure.
+2. Point out subtle errors in auxiliary placement, subject-verb agreement, or tense harmony.
+3. Provide 2-3 upgraded variations for immediate repetition.`,
+
+        'data-engineer': `You are a Staff Data Engineer and Technical English Specialist.
+Your focus:
+1. Help the user articulate complex distributed systems, PySpark dataframes, Kafka streaming, Airflow DAG orchestration, and lakehouse storage concepts in crisp, unambiguous English.
+2. Clarify terminology (e.g., idempotent, backpressure, distributed consensus, eventual consistency, schema evolution).
+3. Conduct mock technical behavioral and system design interview responses with immediate phrasing critiques.`,
+
+        'custom': `You are an intelligent, versatile AI English Coach. Provide clear, accurate, and structured explanations.`
+    };
+
+    let activeSystemInstruction = ROLE_PROMPTS['ielts-coach'];
+    if (chatSystemPromptTextarea) chatSystemPromptTextarea.value = activeSystemInstruction;
+
+    // Toggle custom system prompt drawer
+    btnToggleSystemPrompt?.addEventListener('click', () => {
+        if (!chatSystemPromptPanel) return;
+        const isHidden = chatSystemPromptPanel.style.display === 'none';
+        chatSystemPromptPanel.style.display = isHidden ? 'block' : 'none';
+        if (isHidden) chatSystemPromptTextarea?.focus();
+    });
+
+    btnClosePromptPanel?.addEventListener('click', () => {
+        if (chatSystemPromptPanel) chatSystemPromptPanel.style.display = 'none';
+    });
+
+    chatRoleSelect?.addEventListener('change', (e) => {
+        const selected = e.target.value;
+        if (ROLE_PROMPTS[selected]) {
+            activeSystemInstruction = ROLE_PROMPTS[selected];
+            if (chatSystemPromptTextarea) chatSystemPromptTextarea.value = activeSystemInstruction;
+        }
+        if (selected === 'custom') {
+            if (chatSystemPromptPanel) chatSystemPromptPanel.style.display = 'block';
+            chatSystemPromptTextarea?.focus();
+        } else {
+            showToast(`Role updated: ${chatRoleSelect.options[chatRoleSelect.selectedIndex].text.split('(')[0].trim()}`);
+        }
+    });
+
+    btnApplyCustomPrompt?.addEventListener('click', () => {
+        const customText = chatSystemPromptTextarea?.value.trim();
+        if (customText) {
+            activeSystemInstruction = customText;
+            if (chatRoleSelect) chatRoleSelect.value = 'custom';
+            if (chatSystemPromptPanel) chatSystemPromptPanel.style.display = 'none';
+            showToast('Custom system instruction applied');
+        }
+    });
+
+    // Helper: Render Markdown inside bubbles
+    function renderMarkdownToHtml(markdownText) {
+        if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
+            try {
+                return marked.parse(markdownText);
+            } catch (e) {
+                console.warn('marked.parse error, using fallback:', e);
+            }
+        }
+        // Fallback lightweight regex formatter
+        let html = escapeHtml(markdownText)
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            .replace(/\*(.*?)\*/g, '<em>$1</em>')
+            .replace(/`([^`]+)`/g, '<code>$1</code>')
+            .replace(/\n\n/g, '</p><p>')
+            .replace(/\n/g, '<br>');
+        return `<p>${html}</p>`;
+    }
+
+    // Render Welcome Greeting Card in Chat
+    function renderChatWelcome() {
+        if (!chatMessagesContainer) return;
+        chatMessagesContainer.innerHTML = `
+            <div class="chat-welcome-card" id="chat-welcome-card">
+                <div class="welcome-badge">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/>
+                    </svg>
+                    <span>Gemini AI English Coach</span>
+                </div>
+                <h3 class="welcome-title">Welcome to your Personal AI English & IELTS Coach</h3>
+                <p class="welcome-desc">
+                    Practice multi-turn conversational drills, simulate salary raise discussions, review grammar exercises from your lessons, and refine your Data Engineering technical English.
+                </p>
+                <div class="welcome-features">
+                    <div class="welcome-feature-item">
+                        <h4>🎯 IELTS & Professional Feedback</h4>
+                        <p>Analyze sentences for band score criteria, lexical range, and idiomatic phrasing.</p>
+                    </div>
+                    <div class="welcome-feature-item">
+                        <h4>💼 Salary Negotiation Simulation</h4>
+                        <p>Roleplay executive discussions with realistic pushbacks and tactical justifications.</p>
+                    </div>
+                    <div class="welcome-feature-item">
+                        <h4>📑 Context-Aware Lesson Review</h4>
+                        <p>Attach any curriculum lesson or markdown document to ask targeted questions.</p>
+                    </div>
+                </div>
+            </div>
+        `;
+    }
+
+    // Toggle Document Attachment in Chat
+    function toggleAttachDoc(forceState = null) {
+        if (forceState !== null) {
+            isAttachedDocActive = forceState;
+        } else {
+            isAttachedDocActive = !isAttachedDocActive;
+        }
+
+        if (isAttachedDocActive) {
+            // Find current active document
+            const currentDoc = allDocuments.find(d => d.path === activeDocPath) || allDocuments[0];
+            if (currentDoc) {
+                chatAttachedDocData = {
+                    path: currentDoc.path,
+                    title: currentDoc.title,
+                    rawMarkdown: activeRawMarkdown
+                };
+                if (btnChatAttachDoc) {
+                    btnChatAttachDoc.classList.add('active');
+                    btnChatAttachDoc.title = `Attached: ${currentDoc.title}. Click to detach.`;
+                }
+                if (chatAttachedDocName) {
+                    chatAttachedDocName.textContent = currentDoc.title.length > 20 ? currentDoc.title.substring(0, 18) + '...' : currentDoc.title;
+                }
+                if (chatActiveDocBanner) {
+                    chatActiveDocBanner.style.display = 'flex';
+                }
+                if (chatDocBannerText) {
+                    chatDocBannerText.textContent = `Attached: ${currentDoc.title} (${currentDoc.path})`;
+                }
+                showToast(`Attached document: ${currentDoc.title}`);
+            } else {
+                showToast('No document currently open to attach');
+                isAttachedDocActive = false;
+            }
+        } else {
+            chatAttachedDocData = null;
+            if (btnChatAttachDoc) {
+                btnChatAttachDoc.classList.remove('active');
+                btnChatAttachDoc.title = 'Attach current document to chat';
+            }
+            if (chatAttachedDocName) {
+                chatAttachedDocName.textContent = 'Attach Current Doc';
+            }
+            if (chatActiveDocBanner) {
+                chatActiveDocBanner.style.display = 'none';
+            }
+        }
+    }
+
+    btnChatAttachDoc?.addEventListener('click', () => toggleAttachDoc());
+    btnRemoveAttachedDoc?.addEventListener('click', () => toggleAttachDoc(false));
+
+    // Clear Chat History
+    btnClearChat?.addEventListener('click', () => {
+        if (chatHistory.length > 0 && !confirm('Are you sure you want to clear this conversation history?')) {
+            return;
+        }
+        chatHistory = [];
+        renderChatWelcome();
+        showToast('Chat history cleared');
+    });
+
+    // Export Chat Transcript
+    btnExportChat?.addEventListener('click', () => {
+        if (chatHistory.length === 0) {
+            showToast('No messages to export');
+            return;
+        }
+        let transcript = `# Gemini AI Coach - Conversation Transcript\n\n`;
+        transcript += `**Date:** ${new Date().toLocaleString()}\n`;
+        transcript += `**Role Directive:** ${chatRoleSelect ? chatRoleSelect.options[chatRoleSelect.selectedIndex].text : 'IELTS Coach'}\n`;
+        transcript += `**Model:** ${chatModelSelect?.value || 'gemini-3.8-flash'}\n\n---\n\n`;
+
+        chatHistory.forEach(msg => {
+            const speaker = msg.role === 'user' ? '### 👤 You' : '### 🤖 Gemini Coach';
+            transcript += `${speaker}\n\n${msg.content}\n\n`;
+        });
+
+        const blob = new Blob([transcript], { type: 'text/markdown;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `chat-transcript-${new Date().toISOString().slice(0, 10)}.md`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        showToast('Transcript exported as Markdown');
+    });
+
+    // Auto-resize Chat Input Textarea
+    chatInputTextarea?.addEventListener('input', () => {
+        chatInputTextarea.style.height = 'auto';
+        chatInputTextarea.style.height = Math.min(chatInputTextarea.scrollHeight, 160) + 'px';
+    });
+
+    // Enter to Send, Shift+Enter for New Line
+    chatInputTextarea?.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendChatMessage();
+        }
+    });
+
+    btnChatSend?.addEventListener('click', () => {
+        sendChatMessage();
+    });
+
+    btnChatStop?.addEventListener('click', () => {
+        if (chatActiveAbortController) {
+            chatActiveAbortController.abort();
+            chatActiveAbortController = null;
+            showToast('Response stopped');
+            finishChatStreaming();
+        }
+    });
+
+    // Quick Chips click handlers
+    chatQuickChips?.addEventListener('click', (e) => {
+        const chip = e.target.closest('.quick-chip');
+        if (!chip) return;
+        const prompt = chip.getAttribute('data-prompt');
+        if (prompt && chatInputTextarea) {
+            chatInputTextarea.value = prompt;
+            sendChatMessage();
+        }
+    });
+
+    // Append Message to UI
+    function appendChatMessageToUI(role, content, isStreaming = false) {
+        // Remove welcome card if present
+        const welcomeCard = document.getElementById('chat-welcome-card');
+        if (welcomeCard) welcomeCard.remove();
+
+        const messageRow = document.createElement('div');
+        messageRow.className = `chat-message-row ${role}`;
+
+        const isUser = role === 'user';
+        const roleLabel = isUser ? 'You' : 'Gemini Coach';
+        const avatarText = isUser ? 'ME' : 'AI';
+
+        messageRow.innerHTML = `
+            <div class="message-avatar" title="${roleLabel}">${avatarText}</div>
+            <div class="message-body-wrapper">
+                <div class="message-meta">
+                    <span class="message-role-tag">${roleLabel}</span>
+                    <span class="message-time">${new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</span>
+                </div>
+                <div class="message-bubble rendered-markdown-body">
+                    ${isStreaming ? '<span class="streaming-content"></span><span class="streaming-cursor"></span>' : renderMarkdownToHtml(content)}
+                </div>
+                ${!isUser && !isStreaming ? `
+                    <div class="message-actions-bar">
+                        <button type="button" class="msg-action-btn btn-copy-msg" title="Copy message">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect>
+                                <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path>
+                            </svg>
+                            <span>Copy</span>
+                        </button>
+                    </div>
+                ` : ''}
+            </div>
+        `;
+
+        // Wire copy button
+        messageRow.querySelector('.btn-copy-msg')?.addEventListener('click', (e) => {
+            navigator.clipboard.writeText(content).then(() => {
+                showToast('Message copied to clipboard');
+            });
+        });
+
+        chatMessagesContainer.appendChild(messageRow);
+        chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
+        return messageRow;
+    }
+
+    function finishChatStreaming() {
+        if (btnChatSend) btnChatSend.style.display = 'inline-flex';
+        if (btnChatStop) btnChatStop.style.display = 'none';
+        if (chatInputTextarea) chatInputTextarea.disabled = false;
+        document.querySelectorAll('.streaming-cursor').forEach(c => c.remove());
+    }
+
+    // Send Message to Gemini Chat API
+    async function sendChatMessage() {
+        const text = chatInputTextarea?.value.trim();
+        if (!text) return;
+
+        // Reset input textarea
+        chatInputTextarea.value = '';
+        chatInputTextarea.style.height = 'auto';
+
+        // Check if document context needs to be prefixed
+        let messageToSend = text;
+        if (isAttachedDocActive && chatAttachedDocData) {
+            messageToSend = `[Context Attached: "${chatAttachedDocData.title}"]\nDocument Path: ${chatAttachedDocData.path}\n\nDocument Content Excerpt:\n"""\n${chatAttachedDocData.rawMarkdown.substring(0, 3500)}\n"""\n\nUser Question:\n${text}`;
+        }
+
+        // Add user message to history & UI
+        chatHistory.push({ role: 'user', content: messageToSend });
+        appendChatMessageToUI('user', text);
+
+        // Prepare UI for streaming assistant response
+        if (btnChatSend) btnChatSend.style.display = 'none';
+        if (btnChatStop) btnChatStop.style.display = 'inline-flex';
+        if (chatInputTextarea) chatInputTextarea.disabled = true;
+
+        const assistantRow = appendChatMessageToUI('model', '', true);
+        const streamingContentEl = assistantRow.querySelector('.streaming-content');
+        const bubbleEl = assistantRow.querySelector('.message-bubble');
+
+        let fullAssistantReply = '';
+        const model = chatModelSelect?.value || 'gemini-3.8-flash';
+
+        chatActiveAbortController = new AbortController();
+
+        try {
+            // First attempt: Server-Sent Events (SSE) streaming endpoint
+            const res = await fetch('/api/chat/stream', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                signal: chatActiveAbortController.signal,
+                body: JSON.stringify({
+                    messages: chatHistory,
+                    model: model,
+                    systemInstruction: activeSystemInstruction
+                })
+            });
+
+            if (!res.ok) {
+                // If stream returns an error status (e.g., 403 / 500), parse error payload
+                const errorData = await res.json().catch(() => ({}));
+                throw new Error(errorData.error || `HTTP ${res.status}: ${res.statusText}`);
+            }
+
+            const reader = res.body.getReader();
+            const decoder = new TextDecoder('utf-8');
+            let buffer = '';
+
+            while (true) {
+                const { value, done } = await reader.read();
+                if (done) break;
+
+                buffer += decoder.decode(value, { stream: true });
+                const lines = buffer.split('\n');
+                buffer = lines.pop(); // Keep partial line in buffer
+
+                for (const line of lines) {
+                    const trimmed = line.trim();
+                    if (trimmed.startsWith('data:')) {
+                        const jsonStr = trimmed.replace('data:', '').trim();
+                        if (!jsonStr) continue;
+                        try {
+                            const data = JSON.parse(jsonStr);
+                            if (data.text) {
+                                fullAssistantReply += data.text;
+                                if (streamingContentEl) {
+                                    streamingContentEl.innerHTML = renderMarkdownToHtml(fullAssistantReply);
+                                }
+                                chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
+                            }
+                            if (data.error) {
+                                throw new Error(data.error);
+                            }
+                        } catch (parseErr) {
+                            console.warn('Error parsing SSE chunk:', parseErr);
+                        }
+                    }
+                }
+            }
+
+            // Stream completed successfully
+            chatHistory.push({ role: 'model', content: fullAssistantReply });
+            if (bubbleEl) {
+                bubbleEl.innerHTML = renderMarkdownToHtml(fullAssistantReply);
+            }
+
+            // Add copy button
+            const wrapper = assistantRow.querySelector('.message-body-wrapper');
+            if (wrapper) {
+                const actionsBar = document.createElement('div');
+                actionsBar.className = 'message-actions-bar';
+                actionsBar.innerHTML = `
+                    <button type="button" class="msg-action-btn btn-copy-msg" title="Copy message">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect>
+                            <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path>
+                        </svg>
+                        <span>Copy</span>
+                    </button>
+                `;
+                actionsBar.querySelector('.btn-copy-msg')?.addEventListener('click', () => {
+                    navigator.clipboard.writeText(fullAssistantReply).then(() => showToast('Message copied'));
+                });
+                wrapper.appendChild(actionsBar);
+            }
+
+        } catch (err) {
+            if (err.name === 'AbortError') {
+                console.log('Stream generation aborted by user.');
+            } else {
+                console.error('Chat error:', err);
+                const isPermissionError = err.message.includes('denied') || err.message.includes('403') || err.message.includes('PERMISSION_DENIED');
+                let errHtml = `
+                    <div style="color: #fca5a5; padding: 0.5rem 0;">
+                        <strong>⚠️ API Request Error</strong>
+                        <p style="margin: 0.4rem 0; font-size: 0.82rem;">${escapeHtml(err.message)}</p>
+                `;
+                if (isPermissionError) {
+                    errHtml += `
+                        <div style="background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.35); border-radius: 8px; padding: 0.75rem; margin-top: 0.6rem; font-size: 0.8rem; color: #fecaca;">
+                            <strong>Note on Project Permissions:</strong> The server's GEMINI_API_KEY is configured, but Google Cloud returned <code>PERMISSION_DENIED</code>. Ensure that the Gemini API is enabled in your Google Cloud / AI Studio project and the billing/quota tier is active.
+                        </div>
+                    `;
+                }
+                errHtml += `</div>`;
+                if (bubbleEl) bubbleEl.innerHTML = errHtml;
+            }
+        } finally {
+            chatActiveAbortController = null;
+            finishChatStreaming();
+            chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
+        }
+    }
+
+    // Reader Toolbar "Ask AI" button handler
+    btnAskAiReader?.addEventListener('click', () => {
+        switchView('chat');
+        toggleAttachDoc(true);
+        if (chatInputTextarea) {
+            chatInputTextarea.value = 'Please provide a comprehensive study guide for this lesson: highlight key grammatical formulas, breakdown high-yield vocabulary with collocations, and give 3 practice sentences.';
+            chatInputTextarea.focus();
+        }
+    });
+
+    // =========================================================================
+    // 7. LIVE VOICE CONVERSATIONS (gemini-3.8-live WebSockets & Web Audio)
+    // =========================================================================
+    const voicePickerSelect = document.getElementById('voice-picker-select');
+    const voiceScenarioSelect = document.getElementById('voice-scenario-select');
+    const voiceStatusPill = document.getElementById('voice-connection-status');
+    const voiceStatusLabel = document.getElementById('voice-status-label');
+    const voiceWaveformCanvas = document.getElementById('voice-waveform-canvas');
+    const voiceOrbBtn = document.getElementById('btn-voice-toggle');
+    const voiceOrbLabel = document.getElementById('voice-orb-label');
+    const voiceControlsRow = document.getElementById('voice-controls-row');
+    const btnVoiceMute = document.getElementById('btn-voice-mute');
+    const btnVoiceMuteText = document.getElementById('btn-voice-mute-text');
+    const btnVoiceInterrupt = document.getElementById('btn-voice-interrupt');
+    const btnVoiceEnd = document.getElementById('btn-voice-end');
+    const voiceTranscriptFeed = document.getElementById('voice-transcript-feed');
+    const btnClearVoiceTranscript = document.getElementById('btn-clear-voice-transcript');
+    const voiceTextInput = document.getElementById('voice-text-input');
+    const btnVoiceTextSend = document.getElementById('btn-voice-text-send');
+
+    const voiceStage = document.querySelector('.voice-stage');
+
+    let voiceWs = null;
+    let voiceAudioCtx = null;
+    let voiceMediaStream = null;
+    let voiceAudioProcessor = null;
+    let voiceAudioSource = null;
+    let isVoiceConnected = false;
+    let isVoiceMuted = false;
+    let nextAudioPlayTime = 0;
+    let audioScheduledSources = [];
+    let canvasAnimationId = null;
+
+    // Visualizer Audio Analyser
+    let audioAnalyser = null;
+    let analyserDataArray = null;
+
+    // Live Scenario Prompt Definitions
+    const VOICE_SCENARIOS = {
+        'performance-review': `You are an Executive Engineering Director in a formal year-end performance review with the user.
+The user is arguing for a 25% compensation increase based on their data engineering leadership, pipeline optimization, and mentoring.
+Your persona: Professional, exacting, articulate, and discerning.
+Speak in short, conversational turns (1 to 2 sentences) to simulate realistic back-and-forth speech.
+Ask probing questions about latency benchmarks, stakeholder buy-in, and ROI.`,
+
+        'ielts-speaking': `You are a certified senior IELTS Speaking Examiner.
+Conduct an official Part 3 discussion on the topic of "Technological Innovation, Big Data, and the Future of Human Labor".
+Speak naturally, asking one thought-provoking question at a time.
+Maintain authentic IELTS examiner intonation and conversational pacing.`,
+
+        'grammar-drills': `You are a fast-paced English sentence transformation trainer.
+Provide a standard sentence and challenge the user to transform it on the fly using either:
+1. A Cleft sentence (e.g., 'What really saved the project was...')
+2. Negative Inversion (e.g., 'Not only did we...')
+Evaluate their spoken answer immediately, give praise or correction, and present the next sentence.`,
+
+        'free-conversation': `You are a friendly, articulate native English conversationalist.
+Discuss books, running, habit formation, technology, and life philosophies with warmth, humor, and intellectual curiosity.`
+    };
+
+    function updateVoiceStatus(status, label) {
+        if (!voiceStatusPill || !voiceStatusLabel) return;
+        voiceStatusPill.className = `voice-status-pill status-${status}`;
+        voiceStatusLabel.textContent = label;
+
+        if (voiceStage) {
+            voiceStage.classList.remove('listening', 'speaking');
+            if (status === 'listening') voiceStage.classList.add('listening');
+            if (status === 'speaking') voiceStage.classList.add('speaking');
+        }
+
+        if (voiceOrbLabel) {
+            if (status === 'idle') voiceOrbLabel.textContent = 'Click to Start Conversation';
+            else if (status === 'connecting') voiceOrbLabel.textContent = 'Connecting to Gemini Live...';
+            else if (status === 'listening') voiceOrbLabel.textContent = 'Listening (Speak freely)';
+            else if (status === 'speaking') voiceOrbLabel.textContent = 'Gemini is speaking...';
+        }
+    }
+
+    // Downsample PCM buffer from any mic rate (e.g. 44100 / 48000) to 16000Hz
+    function downsampleBuffer(buffer, inputSampleRate, outputSampleRate = 16000) {
+        if (inputSampleRate === outputSampleRate) return buffer;
+        const sampleRateRatio = inputSampleRate / outputSampleRate;
+        const newLength = Math.round(buffer.length / sampleRateRatio);
+        const result = new Float32Array(newLength);
+        let offsetResult = 0;
+        let offsetBuffer = 0;
+        while (offsetResult < result.length) {
+            const nextOffsetBuffer = Math.round((offsetResult + 1) * sampleRateRatio);
+            let accum = 0, count = 0;
+            for (let i = offsetBuffer; i < nextOffsetBuffer && i < buffer.length; i++) {
+                accum += buffer[i];
+                count++;
+            }
+            result[offsetResult] = count > 0 ? accum / count : 0;
+            offsetResult++;
+            offsetBuffer = nextOffsetBuffer;
+        }
+        return result;
+    }
+
+    // Convert Float32Array [-1.0, 1.0] to base64 16-bit linear PCM
+    function floatTo16BitPCMBase64(floatSamples) {
+        const pcm16 = new Int16Array(floatSamples.length);
+        for (let i = 0; i < floatSamples.length; i++) {
+            const s = Math.max(-1, Math.min(1, floatSamples[i]));
+            pcm16[i] = s < 0 ? s * 0x8000 : s * 0x7FFF;
+        }
+        const bytes = new Uint8Array(pcm16.buffer);
+        let binary = '';
+        const len = bytes.byteLength;
+        for (let i = 0; i < len; i++) {
+            binary += String.fromCharCode(bytes[i]);
+        }
+        return btoa(binary);
+    }
+
+    // Decode Base64 24kHz PCM to Float32Array
+    function base64PCM24kToFloat(base64) {
+        const binary = atob(base64);
+        const len = binary.length;
+        const bytes = new Uint8Array(len);
+        for (let i = 0; i < len; i++) {
+            bytes[i] = binary.charCodeAt(i);
+        }
+        const int16 = new Int16Array(bytes.buffer);
+        const floatSamples = new Float32Array(int16.length);
+        for (let i = 0; i < int16.length; i++) {
+            floatSamples[i] = int16[i] / 32768.0;
+        }
+        return floatSamples;
+    }
+
+    // Schedule 24kHz PCM Audio Playback seamlessly
+    function scheduleAudioChunk(floatSamples) {
+        if (!voiceAudioCtx) return;
+
+        const audioBuffer = voiceAudioCtx.createBuffer(1, floatSamples.length, 24000);
+        audioBuffer.copyToChannel(floatSamples, 0);
+
+        const source = voiceAudioCtx.createBufferSource();
+        source.buffer = audioBuffer;
+
+        if (audioAnalyser) {
+            source.connect(audioAnalyser);
+            audioAnalyser.connect(voiceAudioCtx.destination);
+        } else {
+            source.connect(voiceAudioCtx.destination);
+        }
+
+        const now = voiceAudioCtx.currentTime;
+        const startTime = Math.max(now, nextAudioPlayTime);
+        source.start(startTime);
+        nextAudioPlayTime = startTime + audioBuffer.duration;
+
+        audioScheduledSources.push(source);
+        updateVoiceStatus('speaking', 'Gemini Speaking...');
+
+        source.onended = () => {
+            const index = audioScheduledSources.indexOf(source);
+            if (index !== -1) audioScheduledSources.splice(index, 1);
+            if (audioScheduledSources.length === 0 && voiceWs && voiceWs.readyState === WebSocket.OPEN) {
+                updateVoiceStatus('listening', 'Listening (Speak now)');
+            }
+        };
+    }
+
+    // Clear all playing audio buffers (e.g. on interrupt)
+    function stopAllPlayingAudio() {
+        audioScheduledSources.forEach(s => {
+            try { s.stop(); } catch (e) {}
+        });
+        audioScheduledSources = [];
+        if (voiceAudioCtx) {
+            nextAudioPlayTime = voiceAudioCtx.currentTime;
+        }
+    }
+
+    // Add Live Voice Transcript bubble
+    function appendVoiceTranscript(role, text) {
+        if (!voiceTranscriptFeed || !text) return;
+
+        // Clear empty state if present
+        const emptyState = voiceTranscriptFeed.querySelector('.transcript-empty-state');
+        if (emptyState) emptyState.remove();
+
+        const bubble = document.createElement('div');
+        bubble.className = `transcript-bubble ${role}`;
+        const speaker = role === 'user' ? 'You' : 'Gemini 3.8 Live';
+
+        bubble.innerHTML = `
+            <span class="transcript-speaker">${speaker}</span>
+            <span class="transcript-text">${escapeHtml(text)}</span>
+        `;
+        voiceTranscriptFeed.appendChild(bubble);
+        voiceTranscriptFeed.scrollTop = voiceTranscriptFeed.scrollHeight;
+    }
+
+    // Waveform Visualizer on Canvas
+    function initWaveformVisualizer() {
+        if (!voiceWaveformCanvas) return;
+        const ctx = voiceWaveformCanvas.getContext('2d');
+        const width = voiceWaveformCanvas.width;
+        const height = voiceWaveformCanvas.height;
+
+        let phase = 0;
+
+        function drawWaveform() {
+            canvasAnimationId = requestAnimationFrame(drawWaveform);
+            ctx.clearRect(0, 0, width, height);
+
+            let amplitude = 0.08;
+            if (audioAnalyser && analyserDataArray) {
+                audioAnalyser.getByteFrequencyData(analyserDataArray);
+                let sum = 0;
+                for (let i = 0; i < analyserDataArray.length; i++) {
+                    sum += analyserDataArray[i];
+                }
+                const avg = sum / analyserDataArray.length;
+                amplitude = Math.max(0.08, (avg / 255) * 0.9);
+            }
+
+            ctx.lineWidth = 3;
+            ctx.lineCap = 'round';
+
+            // Draw multi-layer glowing sine waves
+            const waves = [
+                { color: 'rgba(59, 130, 246, 0.75)', freq: 0.02, speed: 0.04, ampMult: 1.0 },
+                { color: 'rgba(139, 92, 246, 0.65)', freq: 0.03, speed: -0.03, ampMult: 0.75 },
+                { color: 'rgba(16, 185, 129, 0.55)', freq: 0.015, speed: 0.025, ampMult: 0.5 }
+            ];
+
+            waves.forEach(w => {
+                ctx.beginPath();
+                ctx.strokeStyle = w.color;
+                for (let x = 0; x < width; x++) {
+                    const y = height / 2 + Math.sin(x * w.freq + phase * w.speed) * (height * 0.35 * amplitude * w.ampMult);
+                    if (x === 0) ctx.moveTo(x, y);
+                    else ctx.lineTo(x, y);
+                }
+                ctx.stroke();
+            });
+
+            phase += 1;
+        }
+
+        if (canvasAnimationId) cancelAnimationFrame(canvasAnimationId);
+        drawWaveform();
+    }
+
+    // Start Live Voice Connection
+    async function startVoiceConversation() {
+        if (isVoiceConnected) {
+            disconnectVoice();
+            return;
+        }
+
+        updateVoiceStatus('connecting', 'Connecting...');
+        try {
+            // 1. Request Microphone access
+            voiceMediaStream = await navigator.mediaDevices.getUserMedia({
+                audio: {
+                    channelCount: 1,
+                    echoCancellation: true,
+                    noiseSuppression: true,
+                    autoGainControl: true
+                }
+            });
+
+            // 2. Initialize Web Audio Context
+            const AudioCtx = window.AudioContext || window.webkitAudioContext;
+            voiceAudioCtx = new AudioCtx();
+            if (voiceAudioCtx.state === 'suspended') {
+                await voiceAudioCtx.resume();
+            }
+
+            audioAnalyser = voiceAudioCtx.createAnalyser();
+            audioAnalyser.fftSize = 64;
+            analyserDataArray = new Uint8Array(audioAnalyser.frequencyBinCount);
+
+            // Connect mic to analyser & script processor
+            voiceAudioSource = voiceAudioCtx.createMediaStreamSource(voiceMediaStream);
+            voiceAudioSource.connect(audioAnalyser);
+
+            const bufferSize = 4096;
+            voiceAudioProcessor = voiceAudioCtx.createScriptProcessor(bufferSize, 1, 1);
+
+            voiceAudioProcessor.onaudioprocess = (e) => {
+                if (!isVoiceConnected || isVoiceMuted || !voiceWs || voiceWs.readyState !== WebSocket.OPEN) return;
+                const inputSamples = e.inputBuffer.getChannelData(0);
+                const downsampled = downsampleBuffer(inputSamples, voiceAudioCtx.sampleRate, 16000);
+                const base64Pcm = floatTo16BitPCMBase64(downsampled);
+                voiceWs.send(JSON.stringify({ type: 'audio', audio: base64Pcm }));
+            };
+
+            voiceAudioSource.connect(voiceAudioProcessor);
+            voiceAudioProcessor.connect(voiceAudioCtx.destination);
+
+            // 3. Connect to Backend WebSocket
+            const selectedVoice = voicePickerSelect?.value || 'Zephyr';
+            const selectedScenario = voiceScenarioSelect?.value || 'performance-review';
+            const instruction = VOICE_SCENARIOS[selectedScenario] || VOICE_SCENARIOS['performance-review'];
+
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/api/live?voice=${encodeURIComponent(selectedVoice)}&instruction=${encodeURIComponent(instruction)}`;
+
+            voiceWs = new WebSocket(wsUrl);
+
+            voiceWs.onopen = () => {
+                isVoiceConnected = true;
+                if (voiceControlsRow) voiceControlsRow.style.display = 'flex';
+                updateVoiceStatus('listening', 'Connected • Listening (Speak now)');
+                initWaveformVisualizer();
+                showToast('Voice session connected');
+            };
+
+            voiceWs.onmessage = (event) => {
+                try {
+                    const data = JSON.parse(event.data);
+                    if (data.type === 'ready') {
+                        updateVoiceStatus('listening', 'Listening (Speak now)');
+                    } else if (data.type === 'audio' && data.audio) {
+                        const floatSamples = base64PCM24kToFloat(data.audio);
+                        scheduleAudioChunk(floatSamples);
+                    } else if (data.type === 'outputTranscription' && data.text) {
+                        appendVoiceTranscript('model', data.text);
+                    } else if (data.type === 'inputTranscription' && data.text) {
+                        appendVoiceTranscript('user', data.text);
+                    } else if (data.type === 'interrupted') {
+                        stopAllPlayingAudio();
+                        updateVoiceStatus('listening', 'Listening (Speak now)');
+                    } else if (data.type === 'turnComplete') {
+                        if (audioScheduledSources.length === 0) {
+                            updateVoiceStatus('listening', 'Listening (Speak now)');
+                        }
+                    } else if (data.type === 'error') {
+                        console.error('Live session server error:', data.error);
+                        appendVoiceTranscript('model', `⚠️ Error: ${data.error}`);
+                        showToast(`Voice error: ${data.error}`);
+                    }
+                } catch (err) {
+                    console.error('Error handling live ws message:', err);
+                }
+            };
+
+            voiceWs.onerror = (err) => {
+                console.error('Voice WebSocket error:', err);
+                updateVoiceStatus('idle', 'Connection Error');
+                showToast('Voice connection failed');
+                disconnectVoice();
+            };
+
+            voiceWs.onclose = () => {
+                disconnectVoice();
+                updateVoiceStatus('idle', 'Disconnected');
+            };
+
+        } catch (err) {
+            console.error('Failed to start voice session:', err);
+            updateVoiceStatus('idle', 'Microphone Denied');
+            alert(`Microphone access error: ${err.message}. Please allow microphone permissions in your browser.`);
+            disconnectVoice();
+        }
+    }
+
+    // Cleanly Disconnect Voice Session
+    function disconnectVoice() {
+        isVoiceConnected = false;
+        isVoiceMuted = false;
+        stopAllPlayingAudio();
+
+        if (canvasAnimationId) {
+            cancelAnimationFrame(canvasAnimationId);
+            canvasAnimationId = null;
+        }
+
+        if (voiceAudioProcessor) {
+            try { voiceAudioProcessor.disconnect(); } catch (e) {}
+            voiceAudioProcessor = null;
+        }
+
+        if (voiceAudioSource) {
+            try { voiceAudioSource.disconnect(); } catch (e) {}
+            voiceAudioSource = null;
+        }
+
+        if (voiceMediaStream) {
+            voiceMediaStream.getTracks().forEach(t => t.stop());
+            voiceMediaStream = null;
+        }
+
+        if (voiceAudioCtx) {
+            try { voiceAudioCtx.close(); } catch (e) {}
+            voiceAudioCtx = null;
+        }
+
+        if (voiceWs) {
+            try { voiceWs.close(); } catch (e) {}
+            voiceWs = null;
+        }
+
+        if (voiceControlsRow) voiceControlsRow.style.display = 'none';
+        updateVoiceStatus('idle', 'Ready to Connect');
+    }
+
+    voiceOrbBtn?.addEventListener('click', () => {
+        startVoiceConversation();
+    });
+
+    btnVoiceMute?.addEventListener('click', () => {
+        isVoiceMuted = !isVoiceMuted;
+        if (btnVoiceMuteText) btnVoiceMuteText.textContent = isVoiceMuted ? 'Unmute Mic' : 'Mute Mic';
+        btnVoiceMute?.classList.toggle('active', isVoiceMuted);
+        showToast(isVoiceMuted ? 'Microphone muted' : 'Microphone unmuted');
+    });
+
+    btnVoiceInterrupt?.addEventListener('click', () => {
+        stopAllPlayingAudio();
+        if (voiceWs && voiceWs.readyState === WebSocket.OPEN) {
+            // Signal turn interrupt to live session
+            voiceWs.send(JSON.stringify({ type: 'text', text: '[User interrupted]' }));
+        }
+        updateVoiceStatus('listening', 'Interrupted • Listening');
+        showToast('Interrupted model');
+    });
+
+    btnVoiceEnd?.addEventListener('click', () => {
+        disconnectVoice();
+        showToast('Call ended');
+    });
+
+    btnClearVoiceTranscript?.addEventListener('click', () => {
+        if (!voiceTranscriptFeed) return;
+        voiceTranscriptFeed.innerHTML = `
+            <div class="transcript-empty-state">
+                <p>Real-time speech transcripts from you and Gemini will appear here as you speak.</p>
+                <span class="transcript-tip">💡 Tip: Speak naturally. Gemini responds in 24kHz real-time audio with low latency.</span>
+            </div>
+        `;
+    });
+
+    // Voice Fallback Text Input
+    function sendVoiceTextMessage() {
+        const text = voiceTextInput?.value.trim();
+        if (!text) return;
+        voiceTextInput.value = '';
+
+        appendVoiceTranscript('user', text);
+
+        if (voiceWs && voiceWs.readyState === WebSocket.OPEN) {
+            voiceWs.send(JSON.stringify({ type: 'text', text }));
+            stopAllPlayingAudio();
+        } else {
+            showToast('Voice session not connected. Connect first.');
+        }
+    }
+
+    voiceTextInput?.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            sendVoiceTextMessage();
+        }
+    });
+
+    btnVoiceTextSend?.addEventListener('click', () => {
+        sendVoiceTextMessage();
+    });
+
+    // Reader Toolbar "Voice" button handler
+    btnVoiceReader?.addEventListener('click', () => {
+        switchView('voice');
+        showToast('Ready to start Live Voice session for this lesson');
+    });
+
+    // Initialize Chat Welcome Card on start
+    renderChatWelcome();
 
     // Initialize Reader
     loadDocumentsList();

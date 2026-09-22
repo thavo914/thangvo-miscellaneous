@@ -1,3 +1,23 @@
+---
+title: "Week 17 - 5-Day Lesson Overview: Performance Review & 25% Raise Negotiation"
+week: 17
+target_level: "IELTS Band 6.5 / CEFR B1-B2"
+schedule: "5 Days / 15 Hours (3 Hours/Day)"
+badge: "Overview"
+category: "Weekly Curriculum"
+subcategory: "Week 17"
+topic_1: "Preparing for the Performance Review & Articulating Value (Days 1–3)"
+topic_2: "Negotiating a 25% Salary Raise & Quantifying Data Engineering Business Value (Days 4–5)"
+tags:
+  - English Mastery
+  - Performance Review
+  - Salary Negotiation
+  - Data Engineering
+author: "Thang Vo"
+date: 2026-09-22
+verified: true
+---
+
 # Week 17 - 5-Day Lesson Overview: Performance Review & 25% Raise Negotiation
 
 Welcome to Week 17 of the English Mastery Engine! This week is dedicated to one of the most important milestones in your professional career: **preparing for your annual performance review and negotiating a 25% salary raise as a Data Engineer**.

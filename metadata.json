@@ -1,6 +1,6 @@
 {
   "name": "Vocabulary Review App",
-  "description": "Interactive vocabulary flashcards, live markdown reader, and markdown file editor for English curriculum and running guides",
-  "requestFramePermissions": [],
+  "description": "Interactive vocabulary flashcards, live markdown reader, markdown file editor, Gemini multi-turn AI coach, and real-time voice conversations with gemini-3.8-live",
+  "requestFramePermissions": ["microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

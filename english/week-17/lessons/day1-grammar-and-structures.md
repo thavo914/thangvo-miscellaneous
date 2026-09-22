@@ -1,3 +1,25 @@
+---
+title: "Day 1: Grammar & Sentence Formulas (Topic 1: Preparing for Performance Review)"
+week: 17
+day: 1
+target_duration: "3 Hours (180 Minutes)"
+category: "Weekly Curriculum"
+subcategory: "Week 17"
+badge: "Day 1"
+target_level: "IELTS Band 6.5 / CEFR B1-B2"
+key_collocations:
+  - exceed expectations
+  - track record
+  - bring to the table
+  - go above and beyond
+  - stand out
+grammar_focus:
+  - Present Perfect vs Past Simple for accomplishments
+  - Adverb + Participle collocations
+drills_included: true
+date: 2026-09-22
+---
+
 # Day 1: Grammar & Sentence Formulas (Topic 1: Preparing for Performance Review)
 
 > [!NOTE]
