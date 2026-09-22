@@ -1,5 +1,17 @@
 // Study & Training Hub - Interactive Vocabulary and Live Markdown Reader
 
+// Global helper for escaping HTML special characters
+function escapeHtml(text) {
+    if (text === null || text === undefined) return '';
+    return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+window.escapeHtml = escapeHtml;
+
 // Global helper for copying code block snippets
 window.copySnippet = function(button) {
     const wrapper = button.closest('.code-block-wrapper');
@@ -1942,6 +1954,7 @@ Your focus:
 
     // Helper: Render Markdown inside bubbles
     function renderMarkdownToHtml(markdownText) {
+        if (!markdownText) return '';
         if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
             try {
                 return marked.parse(markdownText);
@@ -2206,7 +2219,7 @@ Your focus:
         const bubbleEl = assistantRow.querySelector('.message-bubble');
 
         let fullAssistantReply = '';
-        const model = chatModelSelect?.value || 'gemini-3.8-flash';
+        const model = chatModelSelect?.value || 'gemini-3-flash-preview';
 
         chatActiveAbortController = new AbortController();
 
@@ -2232,6 +2245,7 @@ Your focus:
             const reader = res.body.getReader();
             const decoder = new TextDecoder('utf-8');
             let buffer = '';
+            let streamError = null;
 
             while (true) {
                 const { value, done } = await reader.read();
@@ -2246,23 +2260,61 @@ Your focus:
                     if (trimmed.startsWith('data:')) {
                         const jsonStr = trimmed.replace('data:', '').trim();
                         if (!jsonStr) continue;
+                        let data = null;
                         try {
-                            const data = JSON.parse(jsonStr);
-                            if (data.text) {
-                                fullAssistantReply += data.text;
-                                if (streamingContentEl) {
-                                    streamingContentEl.innerHTML = renderMarkdownToHtml(fullAssistantReply);
-                                }
-                                chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
-                            }
-                            if (data.error) {
-                                throw new Error(data.error);
-                            }
+                            data = JSON.parse(jsonStr);
                         } catch (parseErr) {
                             console.warn('Error parsing SSE chunk:', parseErr);
+                            continue;
+                        }
+                        if (data.error) {
+                            streamError = new Error(data.error);
+                            break;
+                        }
+                        if (data.activeModel) {
+                            console.log(`[Gemini Coach] Responding with model: ${data.activeModel}`);
+                        }
+                        if (data.text) {
+                            fullAssistantReply += data.text;
+                            if (streamingContentEl) {
+                                streamingContentEl.innerHTML = renderMarkdownToHtml(fullAssistantReply);
+                            }
+                            chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
                         }
                     }
                 }
+                if (streamError) break;
+            }
+
+            if (streamError) {
+                throw streamError;
+            }
+
+            // Fallback: If streaming ended without output, gracefully try standard /api/chat endpoint
+            if (!fullAssistantReply.trim()) {
+                console.log('[Gemini Coach] SSE stream produced no content. Invoking fallback /api/chat endpoint...');
+                if (streamingContentEl) {
+                    streamingContentEl.innerHTML = '<span style="color: var(--text-muted); font-style: italic;">Generating response...</span>';
+                }
+                const fallbackRes = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    signal: chatActiveAbortController?.signal,
+                    body: JSON.stringify({
+                        messages: chatHistory,
+                        model: model,
+                        systemInstruction: activeSystemInstruction
+                    })
+                });
+                const fallbackData = await fallbackRes.json();
+                if (!fallbackRes.ok || !fallbackData.success) {
+                    throw new Error(fallbackData.error || `HTTP ${fallbackRes.status}: Failed to receive response`);
+                }
+                fullAssistantReply = fallbackData.text || '';
+            }
+
+            if (!fullAssistantReply.trim()) {
+                throw new Error('The Gemini Coach returned an empty response. Please try again.');
             }
 
             // Stream completed successfully
@@ -2294,13 +2346,23 @@ Your focus:
         } catch (err) {
             if (err.name === 'AbortError') {
                 console.log('Stream generation aborted by user.');
+                if (!fullAssistantReply) {
+                    assistantRow.remove();
+                }
             } else {
                 console.error('Chat error:', err);
                 const isPermissionError = err.message.includes('denied') || err.message.includes('403') || err.message.includes('PERMISSION_DENIED');
                 let errHtml = `
-                    <div style="color: #fca5a5; padding: 0.5rem 0;">
-                        <strong>⚠️ API Request Error</strong>
-                        <p style="margin: 0.4rem 0; font-size: 0.82rem;">${escapeHtml(err.message)}</p>
+                    <div style="color: #fca5a5; padding: 0.4rem 0;">
+                        <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem; font-weight: 600;">
+                            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <line x1="12" y1="8" x2="12" y2="12"></line>
+                                <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                            </svg>
+                            <span>Coach Response Error</span>
+                        </div>
+                        <p style="margin: 0.3rem 0; font-size: 0.84rem; line-height: 1.4;">${escapeHtml(err.message)}</p>
                 `;
                 if (isPermissionError) {
                     errHtml += `
@@ -2309,8 +2371,31 @@ Your focus:
                         </div>
                     `;
                 }
-                errHtml += `</div>`;
-                if (bubbleEl) bubbleEl.innerHTML = errHtml;
+                errHtml += `
+                        <button type="button" class="btn-retry-chat-inline" style="margin-top: 0.6rem; display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.35rem 0.75rem; border-radius: 6px; background: rgba(239, 68, 68, 0.2); border: 1px solid rgba(239, 68, 68, 0.4); color: #fee2e2; font-size: 0.8rem; cursor: pointer;">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M3 12a9 9 0 0 1 15-6.7L21 8"></path>
+                                <path d="M21 3v5h-5"></path>
+                                <path d="M21 12a9 9 0 0 1-15 6.7L3 16"></path>
+                                <path d="M3 21v-5h5"></path>
+                            </svg>
+                            <span>Retry Question</span>
+                        </button>
+                    </div>
+                `;
+                if (bubbleEl) {
+                    bubbleEl.innerHTML = errHtml;
+                    bubbleEl.querySelector('.btn-retry-chat-inline')?.addEventListener('click', () => {
+                        assistantRow.remove();
+                        if (chatHistory.length && chatHistory[chatHistory.length - 1].role === 'user') {
+                            chatHistory.pop();
+                        }
+                        if (chatInputTextarea) {
+                            chatInputTextarea.value = text;
+                        }
+                        sendChatMessage();
+                    });
+                }
             }
         } finally {
             chatActiveAbortController = null;

@@ -13,7 +13,22 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3000;
+
+// Determine port:
+// In the AI Studio development environment, an internal nginx proxy
+// routes traffic exclusively to port 3000 (DEFAULT_APP_PORT).
+// In deployed Cloud Run production, Cloud Run sets NODE_ENV=production and requires listening on process.env.PORT (typically 8080).
+const isProduction = process.env.NODE_ENV === 'production';
+const isDevSandbox = !isProduction && Boolean(process.env.DEFAULT_APP_PORT || process.env.CONTROL_PLANE_PORT || process.env.NGINX_PORT);
+const PORT = (!isDevSandbox && process.env.PORT) ? parseInt(process.env.PORT, 10) : 3000;
+
+// Healthcheck endpoints for container probes
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
+});
 
 // Lazy initialization of Gemini client to prevent startup failure if key is pending
 let aiClient = null;
@@ -642,24 +657,44 @@ app.get('/api/stats', (req, res) => {
   }
 });
 
+// Helper to generate resilient fallback model chain
+function getModelCandidates(requestedModel) {
+  // Prioritize active models with available quota
+  const defaults = [
+    'gemini-3-flash-preview',
+    'gemini-3.5-flash',
+    'gemini-3.1-flash-lite-preview',
+    'gemini-3.8-flash'
+  ];
+  const candidates = [requestedModel, ...defaults.filter(m => m && m !== requestedModel)];
+  return [...new Set(candidates.filter(Boolean))];
+}
+
+const withTimeout = (promise, ms = 15000) => {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error(`Operation timed out after ${ms}ms`)), ms))
+  ]);
+};
+
 // Gemini Status API
 app.get('/api/gemini/status', (req, res) => {
   const hasKey = Boolean(process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim());
   res.json({
     success: true,
     available: hasKey,
-    defaultModel: 'gemini-3.8-flash',
+    defaultModel: 'gemini-3-flash-preview',
     liveModel: 'gemini-3.8-live',
     supportedModels: [
-      { id: 'gemini-3.8-flash', name: 'Gemini 3.8 Flash (Recommended)', role: 'General Tasks & Fast Evaluation' },
+      { id: 'gemini-3-flash-preview', name: 'Gemini 3 Flash Preview (Recommended • Active Quota)', role: 'General Tasks & Fast Evaluation' },
       { id: 'gemini-3.5-flash', name: 'Gemini 3.5 Flash', role: 'General Conversational & Review' },
-      { id: 'gemini-3.1-flash-lite', name: 'Gemini 3.1 Flash Lite', role: 'Fast Feedback & Short Answers' },
-      { id: 'gemini-3.1-pro-preview', name: 'Gemini 3.1 Pro Preview', role: 'Complex Analysis & Deep Reasoning' }
+      { id: 'gemini-3.1-flash-lite-preview', name: 'Gemini 3.1 Flash Lite', role: 'Fast Feedback & Short Answers' },
+      { id: 'gemini-3.8-flash', name: 'Gemini 3.8 Flash', role: 'Auto-Fallback & Advanced Tasks' }
     ]
   });
 });
 
-// Gemini Multi-Turn Chat (Standard)
+// Gemini Multi-Turn Chat (Standard with Fallback)
 app.post('/api/chat', async (req, res) => {
   try {
     const ai = getAI();
@@ -679,16 +714,36 @@ app.post('/api/chat', async (req, res) => {
       config.systemInstruction = systemInstruction.trim();
     }
 
-    const response = await ai.models.generateContent({
-      model: model || 'gemini-3.8-flash',
-      contents,
-      config,
-    });
+    const candidateModels = getModelCandidates(model);
+    let response = null;
+    let chosenModel = null;
+    let lastError = null;
+
+    for (const cand of candidateModels) {
+      try {
+        response = await withTimeout(ai.models.generateContent({
+          model: cand,
+          contents,
+          config,
+        }), 15000);
+        if (response && (response.text !== undefined && response.text !== null)) {
+          chosenModel = cand;
+          break;
+        }
+      } catch (candErr) {
+        lastError = candErr;
+        console.warn(`[Chat API] Candidate model "${cand}" failed: ${candErr.message}. Trying next candidate...`);
+      }
+    }
+
+    if (!response || !chosenModel) {
+      throw lastError || new Error('All model candidates failed to respond.');
+    }
 
     res.json({
       success: true,
       text: response.text || '',
-      model: model || 'gemini-3.8-flash'
+      model: chosenModel
     });
   } catch (err) {
     console.error('Chat error:', err);
@@ -696,11 +751,11 @@ app.post('/api/chat', async (req, res) => {
   }
 });
 
-// Gemini Multi-Turn Chat (Streaming via SSE)
+// Gemini Multi-Turn Chat (Streaming via SSE with Fallback)
 app.post('/api/chat/stream', async (req, res) => {
   try {
     const ai = getAI();
-    const { messages = [], model = 'gemini-3.8-flash', systemInstruction } = req.body;
+    const { messages = [], model = 'gemini-3-flash-preview', systemInstruction } = req.body;
 
     if (!Array.isArray(messages) || messages.length === 0) {
       return res.status(400).json({ success: false, error: 'Messages array is required.' });
@@ -711,28 +766,56 @@ app.post('/api/chat/stream', async (req, res) => {
       parts: [{ text: m.content || '' }]
     }));
 
-    res.setHeader('Content-Type', 'text/event-stream');
-    res.setHeader('Cache-Control', 'no-cache');
-    res.setHeader('Connection', 'keep-alive');
-
     const config = {};
     if (systemInstruction && typeof systemInstruction === 'string' && systemInstruction.trim()) {
       config.systemInstruction = systemInstruction.trim();
     }
 
-    const responseStream = await ai.models.generateContentStream({
-      model: model || 'gemini-3.8-flash',
-      contents,
-      config,
-    });
+    const candidateModels = getModelCandidates(model);
+    let responseStream = null;
+    let chosenModel = null;
+    let lastError = null;
 
+    for (const cand of candidateModels) {
+      try {
+        responseStream = await withTimeout(ai.models.generateContentStream({
+          model: cand,
+          contents,
+          config,
+        }), 15000);
+        if (responseStream) {
+          chosenModel = cand;
+          break;
+        }
+      } catch (candErr) {
+        lastError = candErr;
+        console.warn(`[Chat Stream API] Candidate model "${cand}" stream initialization failed: ${candErr.message}. Trying next candidate...`);
+      }
+    }
+
+    if (!responseStream || !chosenModel) {
+      throw lastError || new Error('All model stream candidates failed to initialize.');
+    }
+
+    // Now send SSE headers once stream is confirmed ready
+    res.setHeader('Content-Type', 'text/event-stream');
+    res.setHeader('Cache-Control', 'no-cache');
+    res.setHeader('Connection', 'keep-alive');
+    res.flushHeaders?.();
+
+    // Inform client about which model is actively answering
+    res.write(`data: ${JSON.stringify({ activeModel: chosenModel })}\n\n`);
+
+    let streamedAnyChunk = false;
     for await (const chunk of responseStream) {
       const text = chunk.text;
       if (text) {
+        streamedAnyChunk = true;
         res.write(`data: ${JSON.stringify({ text })}\n\n`);
       }
     }
-    res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
+
+    res.write(`data: ${JSON.stringify({ done: true, model: chosenModel, empty: !streamedAnyChunk })}\n\n`);
     res.end();
   } catch (err) {
     console.error('Chat stream error:', err);
@@ -750,20 +833,27 @@ const vocabAppPath = path.join(__dirname, 'english', 'vocabulary', 'review-app')
 const runningPath = path.join(__dirname, 'running');
 const distPath = path.join(__dirname, 'dist');
 
-// If dist exists, serve from dist first
-app.use(express.static(distPath));
-app.use(express.static(vocabAppPath));
-app.use('/english/vocabulary/review-app', express.static(vocabAppPath));
+// Serve vocabAppPath first so changes reflect immediately, fallback to dist
+if (fs.existsSync(vocabAppPath)) {
+  app.use(express.static(vocabAppPath));
+  app.use('/english/vocabulary/review-app', express.static(vocabAppPath));
+}
+if (fs.existsSync(distPath)) {
+  app.use(express.static(distPath));
+}
 app.use('/running', express.static(runningPath, { index: 'README.html' }));
 app.use('/english', express.static(path.join(__dirname, 'english')));
 
 // Fallback to index.html
 app.get('*', (req, res) => {
+  const vocabIndex = path.join(vocabAppPath, 'index.html');
   const distIndex = path.join(distPath, 'index.html');
-  if (fs.existsSync(distIndex)) {
+  if (fs.existsSync(vocabIndex)) {
+    res.sendFile(vocabIndex);
+  } else if (fs.existsSync(distIndex)) {
     res.sendFile(distIndex);
   } else {
-    res.sendFile(path.join(vocabAppPath, 'index.html'));
+    res.status(404).send('Not found');
   }
 });
 
@@ -907,6 +997,10 @@ wss.on('connection', async (clientWs, request) => {
   }
 });
 
+server.on('error', (err) => {
+  console.error('Server error:', err);
+});
+
 server.listen(PORT, '0.0.0.0', () => {
-  console.log(`Study & Training Hub server running at http://0.0.0.0:${PORT}`);
+  console.log(`Study & Training Hub server running at http://0.0.0.0:${PORT} [${isDevSandbox ? 'dev-sandbox' : 'production'}]`);
 });
