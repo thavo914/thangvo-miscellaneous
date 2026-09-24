@@ -31,11 +31,11 @@
 ##### Drill 1.1: Assertive Upgrade Drill
 Rewrite the following timid or aggressive statements into polished, assertive negotiation proposals using `I'd like to propose / I'd like to make a strong case for + [Noun Phrase]`:
 1. *Maybe if it's not too difficult, could the company think about giving me more pay next cycle?*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: __________________________________________________
 2. *You have to give me a 25% raise because competitors pay that amount.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: __________________________________________________
 3. *I want a salary adjustment of 20% starting next month.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: __________________________________________________
 
 ##### Drill 1.2: Your Turn (Formulate Your Compensation Ask)
 State your desired salary adjustment backed by market benchmarks:
@@ -67,11 +67,11 @@ State your desired salary adjustment backed by market benchmarks:
 ##### Drill 2.1: Causative Restructuring Drill
 Combine the technical configuration and financial outcome into a single causative sentence using `By + [Verb-ing]..., I was able to + [impact verb]`:
 1. *I compressed cold table partitions and purged stale staging logs. Our monthly AWS S3 bill dropped by $3,200.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: __________________________________________________
 2. *I built an automated caching layer for the daily analytics dashboard. Query runtime dropped from 4 minutes to 15 seconds.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: __________________________________________________
 3. *I deduplicated Kafka event streams before database ingestion. We avoided buying additional database nodes.*  
-   $\rightarrow$ **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: __________________________________________________
 
 ##### Drill 2.2: Your Turn (Bottom-Line Metric Win)
 State a technical optimization you delivered and quantify its business impact:
@@ -101,10 +101,10 @@ State a technical optimization you delivered and quantify its business impact:
 Formulate a diplomatic pivot that acknowledges the constraint while reinforcing your value:
 1. *Corporate Constraint*: The annual company merit increase is officially capped at 7%.  
    *Your Value*: You single-handedly re-architected the customer telemetry ingestion pipeline.  
-   $\rightarrow$ **Your Pivot**: While I understand ________________________________________, given that ________________________________________, I believe ________________________________________.
+   → **Your Pivot**: While I understand ________________________________________, given that ________________________________________, I believe ________________________________________.
 2. *Corporate Constraint*: The department is currently under a hiring freeze for senior titles.  
    *Your Value*: You have been operating as the sole technical lead for data engineering on-call rotations.  
-   $\rightarrow$ **Your Pivot**: While I recognize ________________________________________, in light of ________________________________________.
+   → **Your Pivot**: While I recognize ________________________________________, in light of ________________________________________.
 
 ##### Drill 3.2: Your Turn (Diplomatic Pushback)
 Draft your response to a manager who mentions tight departmental budget bands:
@@ -264,11 +264,11 @@ Fill in the blanks with your exact figures and technical context:
 ### Drill 2: Translation & Transformation Challenge
 Translate these 3 negotiation statements into natural workplace English:
 1. *Dựa trên việc mở rộng trách nhiệm và đối chiếu với mặt bằng thị trường, tôi muốn đề xuất mức tăng lương 25%.*  
-   $\rightarrow$ **Your Translation**: __________________________________________________
+   → **Your Translation**: __________________________________________________
 2. *Bằng cách tối ưu hóa các câu lệnh SQL nặng, tôi đã mang lại tác động trực tiếp đến chi phí của công ty, giúp tiết kiệm 35% chi phí cloud.*  
-   $\rightarrow$ **Your Translation**: __________________________________________________
+   → **Your Translation**: __________________________________________________
 3. *Mặc dù tôi hiểu mức tăng thông thường của công ty chỉ từ 5-10%, nhưng những đóng góp của tôi trong năm qua hoàn toàn xứng đáng với mức tăng 25%.*  
-   $\rightarrow$ **Your Translation**: __________________________________________________
+   → **Your Translation**: __________________________________________________
 
 <details>
 <summary>💡 Click to View Model Translations & Linguistic Breakdown</summary>
@@ -296,9 +296,9 @@ Identify the mistake in each statement:
 <details>
 <summary>💡 Click to View Explanations & Corrections</summary>
 
-1. **Error**: *By optimize* and *save 30% cost* $\rightarrow$ **Correction**: *By **optimizing** the warehouse queries, I was able to **deliver significant bottom-line impact, cutting compute costs by 30%**.* (Gerund after preposition 'by', and use executive vocabulary).
-2. **Error**: *other company benchmark pay higher* $\rightarrow$ **Correction**: *I want to justify a 25% raise because **market benchmarks for this role are significantly higher**.*
-3. **Error**: *While I am understanding* $\rightarrow$ **Correction**: *While I **understand** standard company bands...* ('Understand' is a stative verb; do not use in continuous form).
+1. **Error**: *By optimize* and *save 30% cost* → **Correction**: *By **optimizing** the warehouse queries, I was able to **deliver significant bottom-line impact, cutting compute costs by 30%**.* (Gerund after preposition 'by', and use executive vocabulary).
+2. **Error**: *other company benchmark pay higher* → **Correction**: *I want to justify a 25% raise because **market benchmarks for this role are significantly higher**.*
+3. **Error**: *While I am understanding* → **Correction**: *While I **understand** standard company bands...* ('Understand' is a stative verb; do not use in continuous form).
 </details>
 
 ---

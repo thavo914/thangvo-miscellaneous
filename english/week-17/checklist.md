@@ -6,7 +6,7 @@
   - [ ] Listening: TOEIC Dictation - 3 Exercises (20-30m)
 - [ ] **Block 2 (Workplace Practice - 60m):**
   - [ ] Grammar Study: 3 Target Rules (Present Perfect Impact, Cleft Sentences, Relative Clauses)
-  - [ ] Vocabulary: 5 Sentence Formulas & 5 Collocations (`exceed expectations`, `track record`, `bring to the table`, `go above and beyond`, `stand out`)
+  - [ ] Vocabulary: 5 Sentence Formulas & 5 Collocations (`deliver ahead of schedule`, `history of delivering`, `contribute to`, `take on extra tasks`, `stand out`)
   - [ ] Drills: Production, Translation, Spot the Mistake
 - [ ] **Blocks 3 & 4 (AI Speaking & Review - 75m):**
   - [ ] AI Speaking: Practice speaking with AI using today's review preparation lessons

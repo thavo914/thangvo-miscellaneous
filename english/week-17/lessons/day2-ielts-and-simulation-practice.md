@@ -17,7 +17,7 @@
   4. Challenge: Speak without pausing for >2 seconds!
 
 #### 💡 Worked Example Script:
-> *"This wireless mouse right here is genuinely the unsung hero of my engineering workflow. Over the past year, it has survived millions of clicks while I refactored our data pipelines. Having a reliable tool allows me to maintain focus and consistently **exceed expectations** when debugging complex SQL queries under pressure. If you want to build a proven **track record**, you need equipment that never lets you down, and this mouse always **goes above and beyond** to keep my productivity sharp!"*
+> *"This wireless mouse right here is genuinely the unsung hero of my engineering workflow. Over the past year, it has survived millions of clicks while I refactored our data pipelines. Having a reliable tool allows me to maintain focus and consistently **deliver key tasks ahead of schedule**. If you want to build a solid **history of delivering** good results, you need equipment that never lets you down, and this mouse always helps me **take on extra tasks** when things get busy!"*
 
 ---
 
@@ -33,9 +33,9 @@
 
 ### Part 1: Introductory Interview (Work & Professional Development)
 1. *Do you prefer receiving feedback on your work frequently or only during annual reviews?*  
-   * **Tip**: Use today's collocations: *"I actually prefer frequent check-ins because they help me address issues early and build a solid **track record** before the official review."*
+   * **Tip**: Use today's collocations: *"I actually prefer frequent check-ins because they help me address issues early and build a consistent **history of delivering** results before the official review."*
 2. *How do you feel when you have to talk about your own achievements to senior management?*  
-   * **Tip**: Use Template 2: *"To be honest, it can feel a little awkward, but I focus on **what I bring to the table** in terms of measurable data outcomes."*
+   * **Tip**: Use Template 2: *"To be honest, it can feel a little awkward, but I focus on **what I contributed to** the team in terms of measurable data outcomes."*
 3. *What is one goal you have set for your career over the coming year?*  
    * **Tip**: *"My primary goal is to **take on more ownership** of our end-to-end data architecture and mentor junior teammates."*
 
@@ -53,14 +53,14 @@
 #### Model Outline to Structure Your Answer:
 * **Introduction**: Identify the technical milestone (e.g., migrating our real-time ingestion pipeline or automating data audits).
 * **The Challenge**: Legacy system instability, tight deadlines, or high cloud costs.
-* **Your Action**: Took initiative, worked across teams, applied optimization formulas.
-* **The Impact**: Uptime exceeded expectations, cut cloud bill by 35%, demonstrated your proven track record.
+* **Your Action**: Took initiative, worked across teams, took on extra tasks to resolve blockers.
+* **The Impact**: Delivered ahead of schedule, cut cloud bill by 35%, demonstrated a solid history of delivering results.
 
 ---
 
 ### Part 3: Analytical Discussion (Performance & Workplace Value)
 1. *In your opinion, should employee compensation be based primarily on years of service or on performance outcomes?*  
-   * **Model Perspective**: *"I strongly believe compensation should reflect performance outcomes and business impact. When engineers **go above and beyond** to deliver direct cost savings or system reliability, their compensation should reflect that value rather than just tenure."*
+   * **Model Perspective**: *"I strongly believe compensation should reflect performance outcomes and business impact. When engineers **take on extra tasks** to deliver direct cost savings or system reliability, their compensation should reflect that value rather than just tenure."*
 2. *Why do many professionals find it uncomfortable to negotiate a salary raise?*  
    * **Model Perspective**: *"Many people worry about damaging rapport with their managers. However, when you **benchmark against the market** and ground your conversation in concrete metrics, it transforms an awkward ask into an objective business discussion."*
 
@@ -83,7 +83,7 @@ Use this table during or immediately following your AI voice session to record c
 | Area | What I Said (My Version) | AI Suggestion (Native / Executive Phrasing) | Notes on Impact |
 | :--- | :--- | :--- | :--- |
 | **Grammar** | *I make the pipeline run very fast...* | *I optimized the ETL pipeline, reducing latency by 45%...* | Sounds more quantitative |
-| **Vocabulary** | *I did more work than requested...* | *I consistently went above and beyond my core duties...* | Uses professional collocation |
+| **Vocabulary** | *I did more work than requested...* | *I took on extra tasks outside my core scope to help the team...* | Sounds proactive and modest |
 | **Tone** | *Maybe you can give me more salary...* | *I would like to discuss a compensation adjustment reflecting my impact...* | Confident & polished |
 
 ---
@@ -93,10 +93,10 @@ Use this table during or immediately following your AI voice session to record c
 Read these lines out loud with the designated pauses (`/`) and emphasized stressed syllables (**BOLD CAPS**):
 
 ### Line 1:
-> "Over the **PAST YEAR** / I have **CON-SIS-TENT-LY DE-LIV-ERED** / key data **MILE-STONES** / which directly **HELPED** the team / **EX-CEED** our uptime targets."
+> "Over the **PAST YEAR** / I have **CON-SIS-TENT-LY DE-LIV-ERED** / key data **MILE-STONES** / which directly **HELPED** the team / **A-HEAD OF SCHED-ULE**."
 
 ### Line 2:
-> "**WHAT** I'm most proud of / **BRING-ING** to the **TA-BLE** / is a **PROV-EN TRACK RE-CORD** / of optimizing **HEAV-Y QUE-RIES** / and cutting **O-VER-ALL COSTS**."
+> "**WHAT** I'm most proud of / is **HOW** our team / **CON-TRIB-UT-ED** to the **MI-GRA-TION** / and made our **PROJ-ECT STAND OUT**."
 
 ---
 

@@ -9,6 +9,7 @@ Use when the user provides a daily situation and asks to generate a conversation
 ## Requirements
 
 - **Data Engineer Practical Daily Focus (CRITICAL)**: The conversation context, situations, and vocabulary must prioritize **practical daily life and office-social settings** for a tech professional / Data Engineer. Strictly **avoid academic, abstract, or formal themes** (e.g., environmental protection, scientific reports, space exploration). Keep scenarios highly conversational and grounded in real-life tech workplace and social interactions (e.g., small talk, discussing weekend plans, daily commutes, asking colleagues for help, handling work stress, discussing computers/setups, explaining simple tech concepts to non-tech people).
+- **Plain English & Functional Self-Explanation (CRITICAL)**: Follow [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md). The dialogue and extracted structures must focus on **how people actually explain themselves** in daily life and work—using simple, clear words and natural, breath-friendly sentences. Strictly avoid show-off vocabulary, complex sentence acrobatics, and corporate clichés (*bring to the table*, *go above and beyond*, *synergy*, etc.).
 - **Level**: B1-B2 English grammar and vocabulary.
 - **Format**: A conversation transcript between 2 people.
 - **Structure**:

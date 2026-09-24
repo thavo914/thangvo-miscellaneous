@@ -43,11 +43,11 @@ Welcome to Week 17 of the English Mastery Engine! This week is dedicated to one 
 
 | Collocation / Phrase | POS | Vietnamese Meaning | Natural IELTS-Style / Workplace Example |
 | :--- | :--- | :--- | :--- |
-| **exceed expectations** | Verb phrase | Vượt kỳ vọng | *Over the last two quarters, our data pipeline uptime has consistently **exceeded expectations**.* |
-| **track record** | Noun phrase | Lịch sử thành tích / hồ sơ năng lực | *He built a proven **track record** of optimizing heavy queries and cutting cloud costs.* |
-| **bring to the table** | Verb phrase | Đóng góp giá trị / mang lại lợi ích thiết thực | *I wanted to highlight the technical versatility and mentoring that I **bring to the table**.* |
-| **go above and beyond** | Verb phrase | Làm vượt mức yêu cầu / hết mình cống hiến | *Whenever critical incidents occur, she always **goes above and beyond** to safeguard production data.* |
-| **stand out** | Phrasal verb | Nổi bật / tạo sự khác biệt | *Taking complete ownership of the data migration made his work really **stand out** to leadership.* |
+| **deliver ahead of schedule** | Verb phrase | Hoàn thành trước thời hạn | *Over the last two quarters, our team managed to **deliver several critical milestones ahead of schedule**.* |
+| **history of delivering** | Noun phrase | Lịch sử hoàn thành tốt / kinh nghiệm thực tế | *He built a solid **history of delivering** clean data pipelines and cutting query runtimes.* |
+| **contribute to** | Verb phrase | Đóng góp vào... | *I wanted to clearly explain how my daily work **contributes to** the team's overall goals.* |
+| **take on extra tasks** | Verb phrase | Gánh vác thêm việc / chủ động hỗ trợ thêm | *Whenever critical incidents occurred, she readily **took on extra tasks** to safeguard production data.* |
+| **stand out** | Phrasal verb | Nổi bật / đáng nhớ | *Automating the daily reconciliation made that project really **stand out** as a major milestone.* |
 
 ### Topic 2: Tech / Data Operations (Salary Negotiation & Business Value)
 
@@ -81,10 +81,10 @@ Welcome to Week 17 of the English Mastery Engine! This week is dedicated to one 
 
 **Nam:** Hey Thang, how's your prep going for the annual performance review next Thursday?  
 **Thang:** Honestly Nam, I'm feeling a bit nervous. I know **I have consistently delivered** key projects this year, but I always find it awkward to talk about my own achievements without sounding boastful.  
-**Nam:** That's completely normal, but remember that reviews are meant for self-advocacy. You shouldn't be shy about what you **bring to the table**.  
-**Thang:** True. **What I'm most proud of bringing to the table is** how our team stabilized the daily reporting pipelines. In fact, our uptime has consistently **exceeded expectations** over the last six months.  
-**Nam:** Exactly! Point to concrete metrics. You also **went above and beyond** when you stepped in during the payment gateway migration. That really made your dedication **stand out**.  
-**Thang:** Thanks, Nam. You're right. **Given my proven track record in** pipeline optimization, I should frame it around business impact rather than personal bragging.  
+**Nam:** That's completely normal, but remember that reviews are meant for self-advocacy. You shouldn't be shy about how your work **contributes to** the team.  
+**Thang:** True. **What I'm most proud of is how** our team stabilized the daily reporting pipelines. In fact, we **delivered key updates ahead of schedule** and kept uptime above 99.8%.  
+**Nam:** Exactly! Point to concrete metrics. You also **took on extra tasks** when you stepped in during the payment gateway migration. That really made your work **stand out** to the whole team.  
+**Thang:** Thanks, Nam. You're right. With my **history of delivering** pipeline optimizations, I should focus on clear facts and results rather than trying to sound fancy.  
 **Nam:** Spot on. If you present hard data with confidence, your manager will see the full value you provide.
 
 ---

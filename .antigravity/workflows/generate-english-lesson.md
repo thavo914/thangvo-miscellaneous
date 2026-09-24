@@ -16,7 +16,9 @@ description: The core topic-agnostic project backbone of the English learning sy
 > - **Vietnamese-to-English Conversation Translation Drills (Days 3 & 5)**: Embedded realistic Vietnamese workplace and social dialogues to bridge the idea gap, transcreate into natural native English, compare with model native phrasings, and reinforce through spoken roleplay.
 > - **Daily & Practical Tech-Adjacent Topics (CRITICAL)**: All generated themes/topics must focus on **practical daily situations** and **casual workplace settings** rather than academic, formal, or abstract IELTS topics (strictly avoid themes like environmental protection, global warming, space exploration, biodiversity, history). Prioritize topics applicable to daily social and professional life as a data engineer.
 >   - *Ideal Topic Examples*: Small talk at the coffee machine, talking about weekend plans with colleagues, discussing daily commutes, team lunch conversations, handling busy or stressful workdays, asking a coworker for help, explaining a pipeline/query to non-technical stakeholders, discussing work-life balance or tech-industry stress.
-> - **Band 6.5 & Real-Life Target**: Prioritize natural, widely-used, conversational English (CEFR B1-B2) suitable for a strong IELTS 6.5 Speaking score. Avoid academic bloat or obscure C1-C2 terms.
+> - **Plain English & Functional Self-Explanation (CRITICAL)**: Prioritize clear, direct, and effortless self-expression over complex vocabulary or elaborate grammar. All generated content must strictly follow [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md).
+>   - **Vocabulary**: Use natural, high-frequency B1-B2 spoken English. Strictly avoid show-off words (*utilize*, *facilitate*, *commence*, *plethora*) and empty corporate clichés or boastful idioms (*bring to the table*, *go above and beyond*, *synergy*, *hit the ground running*, unsubstantiated *exceed expectations*).
+>   - **Sentence Structures**: Keep formulas short-to-medium (breath-friendly, 12–20 words). Focus on functional explanation: explaining what happened, why it happened, what action was taken, and what comes next.
 
 ---
 
@@ -62,7 +64,7 @@ Identify or extract the following core elements based on the **dynamically suppl
 2. **Topic 1 (General Social/Workplace)** & **Topic 2 (Tech/Data Operations)**: Dual-topic focus per week for 5-day cycles (Days 1–3 focus on Topic 1; Days 4–5 focus on Topic 2).
 3. **3 Target Grammar Rules per Topic**: Key grammatical concepts highly relevant to B1-B2 speaking (e.g., *Using modals for advice, Simple conditionals with "if", Present Perfect for past-to-present experience, Contrast linkers*).
 4. **5 Sentence Structure Templates per Topic**: Natural, conversational sentence patterns used in real-life speaking that can be generalized into slot-filling formulas.
-5. **5 High-Yield Collocations/Idioms per Topic**: Highly common, natural expressions used by native speakers in day-to-day conversation, defined with Vietnamese translations and real-life examples.
+5. **5 High-Yield Collocations/Phrases per Topic**: Highly common, natural expressions used by native speakers to explain ideas, actions, and situations clearly. Must be practical and grounded (no corporate buzzwords, boastful idioms, or overly formal phrases), defined with Vietnamese translations and real-life examples.
 6. **IELTS Speaking Questions**: Topic-related questions for Part 1 (3 questions), Part 2 (1 Cue Card), and Part 3 (2 questions).
 
 ---
@@ -77,7 +79,7 @@ This file introduces the week's themes, conversational vocabulary, 3-hour 5-day 
 ### 2. High-Yield Collocations & Vocabulary Tables
 Separate into Topic 1 (General Social/Workplace) and Topic 2 (Tech/Data Operations).
 Columns: `Collocation/Phrase` | `POS` | `Vietnamese Meaning` | `Natural IELTS-Style Example`
-- List **5 common, natural, real-life phrases** per topic with accurate Vietnamese translations and standard spoken examples.
+- List **5 common, natural, real-life phrases** per topic with accurate Vietnamese translations and standard spoken examples. Prioritize functional self-explanation phrases over exaggerated idioms or corporate clichés.
 
 ### 3. Comprehensive 5-Day Study Schedule & Objectives Table (3-Hour Focus)
 Include the full 5-Day schedule table mapping out all 4 blocks per day:
@@ -116,7 +118,7 @@ For each of the **3 target grammar rules**:
 - **Rule Explanation**: Simple, clear explanation of usage and form.
 - **Common Pitfall Box**: A warning box showing a frequent mistake and how to correct it (*Incorrect vs. Correct*).
 - **Targeted Practice Exercises (MANDATORY)**: Directly under each rule, provide:
-  - *Drill A (Transformation / Upgrade)*: 3 sentences converting weak, habitual, or broken structures into the target grammar with blank rewrite prompts (`$\rightarrow$ **Your Rewrite**: ____________________`).
+  - *Drill A (Transformation / Upgrade)*: 3 sentences converting weak, habitual, or broken structures into the target grammar with blank rewrite prompts (`→ **Your Rewrite**: ____________________`).
   - *Drill B (Contextual Precision / Fill-in-the-Blank)*: 2–3 contextual sentences testing the rule with verb brackets or choice selection.
   - *Drill C (Your Turn)*: 1 personalized prompt tailored to Data Engineering / Tech Workplace context with fill-in blanks.
   - *Collapsible Answer Key (`<details><summary>💡 Click to View Suggested Answers & Analysis</summary>`)*: Full model answers and linguistic explanations for why the upgrade works.

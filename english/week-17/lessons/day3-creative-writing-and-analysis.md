@@ -18,7 +18,7 @@
 
 #### 💡 Worked Example Script:
 > *AI Coach*: "Why should your company give you any recognition? Aren't you just doing the basic job you were hired for?!"  
-> *You (Response)*: *"Not at all! Over the past year, **I have consistently gone above and beyond** my core job description. **What I bring to the table is** a proven **track record** of stabilizing our data pipeline uptime to over 99.8%. I didn't just maintain existing jobs; I spearheaded architectural overhauls that saved the business thousands of dollars each month. That's why my work truly **stands out**!"*
+> *You (Response)*: *"Not at all! Over the past year, **I have consistently taken on extra tasks** outside my core role. I have a solid **history of delivering** reliable data pipelines, keeping our uptime over 99.8%. I didn't just maintain existing jobs; I helped refactor our slowest queries to save cloud costs. That's why this project really **stands out**!"*
 
 ---
 
@@ -35,12 +35,12 @@
 
 1. **Thắng:** "Anh Huy ơi, tuần sau em có buổi performance review với sếp Sarah rồi. Em thấy hơi lo, không biết nên nói thế nào về mấy thành tích của mình cho khéo mà không bị mang tiếng là tự cao."
 2. **Huy:** "Lo gì em! Buổi review là lúc em phải tự khẳng định giá trị bản thân. Nếu em không nói ra thì sếp bận rộn cả năm đâu thể nhớ hết từng đóng góp của em được."
-3. **Thắng:** "Dạ, em cũng biết thế. Trong năm qua em đã liên tục tối ưu hóa hệ thống ETL và giảm chi phí cloud tới 30%, điều đó vượt xa mong đợi ban đầu của team."
+3. **Thắng:** "Dạ, em cũng biết thế. Trong năm qua em đã liên tục tối ưu hóa hệ thống ETL và giảm chi phí cloud tới 30%, điều đó hoàn thành trước cả hạn dự kiến của team."
 4. **Huy:** "Đúng rồi! Cứ lấy số liệu thực tế ra làm bằng chứng. Những con số cụ thể về chi phí và độ ổn định sẽ tự nói lên tất cả."
 5. **Thắng:** "Nhưng đợt này em cũng muốn đề xuất tăng lương 25% luôn vì em thấy trách nhiệm của mình giờ lớn hơn rất nhiều so với vị trí cũ."
-6. **Huy:** "25% là mức tăng khá cao đấy, nhưng hoàn toàn xứng đáng nếu em chứng minh được hồ sơ năng lực và tầm ảnh hưởng của mình. Em đã tham khảo mặt bằng lương thị trường chưa?"
+6. **Huy:** "25% là mức tăng khá cao đấy, nhưng hoàn toàn xứng đáng nếu em chứng minh được kinh nghiệm hoàn thành tốt công việc và tầm ảnh hưởng của mình. Em đã tham khảo mặt bằng lương thị trường chưa?"
 7. **Thắng:** "Em có tham khảo mặt bằng thị trường cho vị trí Data Engineer có cùng số năm kinh nghiệm rồi anh, thấy mức hiện tại của em đang hơi thấp so với thị trường."
-8. **Huy:** "Thế thì tốt! Hãy tập trung vào những giá trị cốt lõi mà em mang lại cho công ty, và chỉ ra rằng mức tăng 25% là sự đầu tư xứng đáng để giữ chân nhân tài."
+8. **Huy:** "Thế thì tốt! Hãy tập trung vào những đóng góp cụ thể mà em mang lại cho công ty, và chỉ ra rằng mức tăng 25% là sự đầu tư xứng đáng để giữ chân nhân tài."
 9. **Thắng:** "Em hiểu rồi. Em sẽ chuẩn bị một tài liệu tóm tắt ngắn gọn với các chỉ số đo lường cụ thể để trình bày cho sếp."
 10. **Huy:** "Chuẩn đấy em! Cứ tự tin trình bày đàng hoàng, đừng ngại ngùng gì cả. Chúc em thành công nhé!"
 
@@ -50,7 +50,7 @@
 Translate the 10-turn Vietnamese conversation above into **natural, executive-level English**.  
 *Requirements*:
 * Do **NOT** translate word-by-word. Focus on **intent and natural workplace phrasing**.
-* Incorporate today's collocations: `exceed expectations`, `track record`, `bring to the table`, `go above and beyond`, `stand out`, `benchmark against the market`.
+* Incorporate today's collocations: `deliver ahead of schedule`, `history of delivering`, `contribute to`, `take on extra tasks`, `stand out`, `benchmark against the market`.
 
 ---
 
@@ -62,12 +62,12 @@ Translate the 10-turn Vietnamese conversation above into **natural, executive-le
 #### 🇬🇧 Native English Model Script:
 1. **Thang:** "Hey Huy, I've got my annual performance review with Sarah next week. To be honest, I'm a bit nervous about how to present my accomplishments without sounding arrogant."
 2. **Huy:** "Don't sweat it! The review is specifically meant for self-advocacy. If you don't speak up, management is simply too busy to remember every single contribution you've made."
-3. **Thang:** "Yeah, fair point. Over the past year, I have consistently optimized our ETL pipelines and reduced cloud costs by 30%, which far **exceeded expectations**."
+3. **Thang:** "Yeah, fair point. Over the past year, I have consistently optimized our ETL pipelines and reduced cloud costs by 30%, which helped us **deliver ahead of schedule**."
 4. **Huy:** "Exactly! Let the hard data do the talking. Concrete numbers around uptime and cost savings speak for themselves."
 5. **Thang:** "The thing is, I also want to ask for a 25% salary raise because my scope of responsibility has expanded significantly compared to my original role."
-6. **Huy:** "Twenty-five percent is a notable jump, but it's completely justifiable if you demonstrate your proven **track record** and bottom-line impact. Have you **benchmarked against the market**?"
+6. **Huy:** "Twenty-five percent is a notable jump, but it's completely justifiable if you demonstrate your solid **history of delivering** results and cost savings. Have you **benchmarked against the market**?"
 7. **Thang:** "Yes, I looked at market data for Data Engineers with similar seniority, and my current compensation is definitely lagging behind."
-8. **Huy:** "Then you have a strong footing. Focus on what you **bring to the table** and frame the 25% raise as a fair alignment with your business impact."
+8. **Huy:** "Then you have a strong footing. Focus on how your work **contributes to** the team's goals and frame the 25% raise as a fair alignment with your business impact."
 9. **Thang:** "That makes total sense. I'll prepare a concise summary highlighting these key metrics to walk Sarah through."
 10. **Huy:** "Spot on! Walk in there with confidence and back it up with data. Best of luck!"
 
@@ -94,7 +94,7 @@ Translate the 10-turn Vietnamese conversation above into **natural, executive-le
 ## 🎙️ Section 2: Monologue (Topic 1: Overcoming Hesitation in Self-Advocacy)
 
 ### Sample Monologue: Learning to Advocate for My Work
-"For a long time, **I used to think that doing good technical work in silence was enough**, but recently **I've realized that self-advocacy is an essential professional skill**. Whenever performance review season approaches, engineers often hesitate because they don't want to seem boastful. However, **what I'm most proud of bringing to the table isn't just raw code, but quantifiable business outcomes**. Over the past twelve months, **I have consistently gone above and beyond** to safeguard our data infrastructure. When you present concrete data—like cutting cloud latency or boosting system uptime—**the results speak for themselves**, making your contributions genuinely **stand out**."
+"For a long time, **I used to think that doing good technical work in silence was enough**, but recently **I've realized that self-advocacy is an essential professional skill**. Whenever performance review season approaches, engineers often hesitate because they don't want to seem boastful. However, **what I'm most proud of isn't just raw code, but how our work contributed to the whole team**. Over the past twelve months, **I have consistently taken on extra tasks** to safeguard our data infrastructure and **deliver key milestones ahead of schedule**. When you present concrete data—like cutting cloud latency or boosting system uptime—**the results speak for themselves**, making your project genuinely **stand out**."
 
 ---
 
@@ -103,21 +103,21 @@ Translate the 10-turn Vietnamese conversation above into **natural, executive-le
 ### Prompt: Describe an achievement at work or study that you are particularly proud of.
 
 **Model Answer**:
-"I'd like to talk about a major data pipeline optimization project that I spearheaded over the past six months. At the beginning of the year, our analytical reporting system was plagued by frequent delays, which created bottlenecks for business stakeholders. 
+"I'd like to talk about a major data pipeline optimization project that I helped deliver over the past six months. At the beginning of the year, our analytical reporting system was plagued by frequent delays, which created bottlenecks for business stakeholders. 
 
-**What I really wanted wasn't just a quick band-aid fix, but a robust architectural overhaul**. Working alongside our infrastructure team, **not only did I redesign our ETL workflows**, but **I also automated our partition maintenance**, which **directly helped our team exceed our quarterly reliability targets**. 
+**What I really wanted wasn't just a quick band-aid fix, but a robust architectural overhaul**. Working alongside our infrastructure team, **I didn't just redesign our ETL workflows, I also automated our partition maintenance**, which **directly helped our team deliver the project ahead of schedule**. 
 
-Through this initiative, we cut our daily cloud processing costs by over thirty percent and eliminated morning reporting delays. **Given my proven track record in** database tuning, this project proved to me that when you **go above and beyond** to address root causes, you deliver genuine **bottom-line impact**."
+Through this initiative, we cut our daily cloud processing costs by over thirty percent and eliminated morning reporting delays. With my **history of delivering** database tuning, this project proved to me that when you **take on extra tasks** to solve root causes, the project truly **stands out**."
 
 ---
 
 ## ✅ Section 4: Self-Evaluation Checklist & Situational Practice
 
 ### Self-Evaluation Checklist
-- [ ] Used `exceed expectations` when discussing pipeline performance.
-- [ ] Applied `bring to the table` to describe core strengths.
-- [ ] Pronounced `track record` with proper word stress on **TRACK**.
-- [ ] Practiced the 10-turn dialogue translation without looking at the Vietnamese text.
+- [ ] Used `deliver ahead of schedule` when discussing project milestones.
+- [ ] Applied `contribute to` to describe value added to the team.
+- [ ] Used `history of delivering` to explain past consistency.
+- [ ] Highlighted a standout project using `stand out`.
 
 ---
 
