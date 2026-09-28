@@ -36,21 +36,21 @@ date: 2026-09-29
 #### Drill 1.1: Upgrade to "Tend to" / "Get into the habit of"
 Rewrite the following statements into clear, natural statements describing tendencies or workplace habits:
 1. *I usually work past 7 PM whenever a pipeline runs slowly.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: I tend to work past 7PM whenever a pipeline runs slowly
 2. *Our team often commits code without running full unit tests when we are in a hurry.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: Our team tends to commit code without running full unit tests when they are in a hurry
 3. *Recently, I started checking monitoring dashboards right before going to sleep.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: Recently, I got into the habit of checking monitoring dashboards right before going to sleep
 
 #### Drill 1.2: Contextual Fill-in-the-Blank
 Complete the sentences using `tend to` or `got into the habit of` with the correct verb form:
-1. When urgent data requests arrive, junior analysts ____________________ (panic) instead of checking existing reports.
-2. Over the last quarter, our engineers have ____________________ (document) every edge case in our runbooks.
-3. I ____________________ (underestimate) how long table backfills take when working with partitioned parquet files.
+1. When urgent data requests arrive, junior analysts tend to panic (panic) instead of checking existing reports.
+2. Over the last quarter, our engineers have got into the habit of documenting (document) every edge case in our runbooks.
+3. I tend to underestimate (underestimate) how long table backfills take when working with partitioned parquet files.
 
 #### Drill 1.3: Your Turn (Workplace Habit)
 Draft 1 sentence reflecting a personal habit you have observed in your daily work:
-* `When deadlines get tight, I tend to ` ____________________ `, but I'm trying to ` ____________________.
+* `When deadlines get tight, I tend to ` panic `, but I'm trying to ` set clear boundaries `.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 1)</summary>
@@ -84,18 +84,18 @@ Draft 1 sentence reflecting a personal habit you have observed in your daily wor
 #### Drill 2.1: Transform Blunt Refusals into Professional Boundaries
 Rewrite the following direct or defensive sentences into polite, assertive professional responses:
 1. *I don't have time to fix your dashboard query today.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: I wish I can help but I won't be able to take that on until I finish the pipeline refactor.
 2. *Stop sending me urgent tickets after 6 PM.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: I'm already off for the day, but I'll make sure to look into this first thing in the morning.
 3. *I can't build this new pipeline this week; ask someone else.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: I'd love to build this new pipeline, but I can't this week due to my current focus on the pipeline refactoring tasks. Maybe next week?
 
 #### Drill 2.2: Contextual Precision / Fill-in-the-Blank
 Complete the dialogue with appropriate polite refusal formulas:
 1. *"Could you pull this user churn cohort by 3 PM?"*  
-   → *"I'm currently running a schema migration, so I ____________________ (be able to / pull) that data until tomorrow morning."*
+   → *"I'm currently running a schema migration, so I won't be abloe to pull (be able to / pull) that data until tomorrow morning."*
 2. *"Can we schedule a 45-minute sync this afternoon?"*  
-   → *"My afternoon is fully booked with sprint planning, but ____________________ (be happy to / review) your notes async."*
+   → *"My afternoon is fully booked with sprint planning, but I'd be happy to review (be happy to / review) your notes async."*
 
 #### Drill 2.3: Your Turn (Real Scenario)
 Draft 1 realistic refusal for a stakeholder asking for an urgent ad-hoc report during your focus time:
