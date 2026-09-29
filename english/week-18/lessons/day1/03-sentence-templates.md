@@ -31,7 +31,7 @@ date: 2026-09-29
 
 ### Immediate Practice Drill
 * **Mini-Drill**: A PM asks you to build a new dashboard export today while you are fixing a broken warehouse ingestion pipeline. Use Template 1 to set a boundary.
-* **Your Turn**: `Right now, my top priority is ` ____________________ `, so I won't be able to take on ` ____________________ ` until ` ____________________.
+* **Your Turn**: `Right now, my top priority is ` fixing the broken pipeline `, so I won't be able to take on ` that task ` until ` tomorrow morning `.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -54,7 +54,7 @@ date: 2026-09-29
 
 ### Immediate Practice Drill
 * **Mini-Drill**: Explain what happens when you don't write down your daily priorities in the morning.
-* **Your Turn**: `I've noticed that whenever I ` ____________________ `, I tend to ` ____________________.
+* **Your Turn**: `I've noticed that whenever I ` forget to write down my priorities in the morning `, I tend to ` do fewer tasks than usual`.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -77,7 +77,7 @@ date: 2026-09-29
 
 ### Immediate Practice Drill
 * **Mini-Drill**: A manager asks to expedite a customer cohort report. Explain that doing so means delaying the daily ETL optimization.
-* **Your Turn**: `If we agree to take on ` ____________________ `, we'll have to push back on ` ____________________ ` because of ` ____________________.
+* **Your Turn**: `If we agree to take on ` that report right away `, we'll have to push back on ` the daily ETL optimization ` because of ` our current workload.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -100,7 +100,7 @@ date: 2026-09-29
 
 ### Immediate Practice Drill
 * **Mini-Drill**: Explain why you prefer building automated unit tests early rather than fixing bugs right before deployment.
-* **Your Turn**: `Instead of ` ____________________ ` at the last minute, I'd rather ` ____________________ ` upfront.`
+* **Your Turn**: `Instead of ` deploying an untested hotfix ` at the last minute, I'd rather ` take the time to write proper tests ` upfront.`
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -123,7 +123,7 @@ date: 2026-09-29
 
 ### Immediate Practice Drill
 * **Mini-Drill**: Describe a practical boundary you use to maintain your energy and productivity.
-* **Your Turn**: `To avoid spreading myself too thin, I make sure to ` ____________________ ` every ` ____________________.
+* **Your Turn**: `To avoid spreading myself too thin, I make sure to ` review and reprioritize my task board ` every ` morning `.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>

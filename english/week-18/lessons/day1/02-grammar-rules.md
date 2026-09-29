@@ -93,13 +93,13 @@ Rewrite the following direct or defensive sentences into polite, assertive profe
 #### Drill 2.2: Contextual Precision / Fill-in-the-Blank
 Complete the dialogue with appropriate polite refusal formulas:
 1. *"Could you pull this user churn cohort by 3 PM?"*  
-   → *"I'm currently running a schema migration, so I won't be abloe to pull (be able to / pull) that data until tomorrow morning."*
+   → *"I'm currently running a schema migration, so I won't be able to pull (be able to / pull) that data until tomorrow morning."*
 2. *"Can we schedule a 45-minute sync this afternoon?"*  
    → *"My afternoon is fully booked with sprint planning, but I'd be happy to review (be happy to / review) your notes async."*
 
 #### Drill 2.3: Your Turn (Real Scenario)
 Draft 1 realistic refusal for a stakeholder asking for an urgent ad-hoc report during your focus time:
-* `I'd be glad to look into ` ____________________ `, but right now my focus is on ` ____________________ `, so I won't be able to ` ____________________.
+* `I'd be glad to look into ` the report you requested `, but right now my focus is on ` fixing the pipeline bug `, so I won't be able to ` get to it until the end of the day.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 2)</summary>
@@ -134,20 +134,20 @@ Draft 1 realistic refusal for a stakeholder asking for an urgent ad-hoc report d
 #### Drill 3.1: Sentence Reconstruction
 Combine the two ideas into one cohesive sentence using `Instead of + [V-ing]` or `would rather + [base verb]`:
 1. *Don't patch the query temporarily. Re-architect the data model properly.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: instead of patching the query temporarily, I'd rather re-architect the data model properly.
 2. *I don't want to attend three status meetings today. I prefer to spend that time writing the ETL script.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: Instead of attending three status meetings today, I'd rather spend that time writing the ETL script.
 3. *Don't keep pinging people on Slack for status updates. Check the automated dashboard.*  
-   → **Your Rewrite**: __________________________________________________
+   → **Your Rewrite**: Instead of pinging people on Slack for status updates, check the automated dashboard.
 
 #### Drill 3.2: Complete the Comparison
 Fill in the blanks with the correct verb forms:
-1. Instead of ____________________ (accept) every ad-hoc request, Thang decided to create a standardized intake form.
-2. I would rather ____________________ (spend) two hours building an automated alert than ____________________ (check) logs manually every morning.
+1. Instead of accepting (accept) every ad-hoc request, Thang decided to create a standardized intake form.
+2. I would rather spend (spend) two hours building an automated alert than check (check) logs manually every morning.
 
 #### Drill 3.3: Your Turn (Engineering Trade-off)
 Write 1 sentence illustrating a healthy engineering trade-off you support:
-* `Instead of ` ________________________________________ `, I'd rather ` ________________________________________.
+* `Instead of ` arguing about whose fault it is, I'd rather ` fix it and move on `.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 3)</summary>
@@ -175,4 +175,11 @@ Combine **Rule 1 (Habits with *tend to*)**, **Rule 2 (Polite Refusal)**, and **R
   > *"I **tend to jump in** whenever tickets pile up, but right now **I won't be able to take on** this extra backfill before our sprint cut-off. **Instead of rushing an untested script into production**, I'd rather schedule it properly for the upcoming sprint so we can test it thoroughly."*
 
 * **Your Turn Slot**:
-  > *"When tickets come in, I tend to ________________________________________, but currently I won't be able to ________________________________________. Instead of ________________________________________, I'd rather ________________________________________."*
+  > *"When tickets come in, I tend to handle them ASAP, but currently I won't be able to take that on. Instead of trying to complete all of them, I'd rather push it back until I finish the current tasks."*
+
+
+Option 1 (Closest to your draft — clean & direct):
+"When tickets come in, I tend to handle them right away, but right now I won't be able to take this on. Instead of rushing to do everything, I'd rather push it back until I finish my current tasks."
+
+Option 2 (Tailored specifically for sprint deadlines):
+"I tend to jump on tickets quickly, but I won't be able to take this one on before sprint cut-off. Instead of rushing an untested fix, I'd rather push it to the next sprint so we can do it properly."
