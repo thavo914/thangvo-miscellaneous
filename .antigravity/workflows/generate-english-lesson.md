@@ -56,6 +56,10 @@ Every generated daily file (`day1` through `day5`) must align with the following
 > 2. **Verify Duplications**: Ensure that the dynamically chosen theme, target collocations, conversational phrases, and sentence template structures **do not duplicate** any entries used in the **last 3 generated weeks**.
 > 3. **Append New Entries**: Once the week's lesson files are successfully created, you **MUST** append the new week's metadata, topics, collocations, grammar, and sentence structures to the bottom of `lesson-registry.md` in the established tabular format.
 > 
+> **Priority Check: User-Supplied Notes (CRITICAL)**:
+> - Before picking topics dynamically, check if `english/week-<N>/notes/` exists.
+> - If any notes exist (created via `/add-next-week-material`), you **MUST** prioritize them as the primary grammar rules, sentence templates, collocations, and speaking scenarios for that week!
+>
 > **Topic Restrictions (No Academic Bloat)**:
 > - Confirm that the selected topic is highly practical, conversational, and related to tech workplace/social situations. **DO NOT** generate academic themes like Environmental Protection, Ecology, Science History, etc.
 
