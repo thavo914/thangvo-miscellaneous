@@ -13,7 +13,8 @@ dist/
 # Editor / IDE configs
 .idea/
 .vscode/
-.antigravity/
+.antigravity/*
+!.antigravity/workflows/
 
 # OS metadata
 .DS_Store
