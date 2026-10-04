@@ -34,7 +34,7 @@ All processed notes must strictly adhere to the repository guidelines in [englis
 ### Step 1: Detect Target Upcoming Week & Folder Resolution
 1. Check `english/` directory to identify existing `week-<N>` folders.
 2. Determine the **highest current week number** (e.g., `week-18`).
-3. Set the **target week number** to `week-<N+1>` (e.g., `week-19`), unless the user explicitly specifies a different week (e.g., *"add this to week 20"*).
+3. Set the **target week number** to `week-<N+2>` (e.g., `week-20`), unless the user explicitly specifies a different week (e.g., *"add this to week 21"*).
 4. Resolve the target notes directory:
    ```
    english/week-<target>/notes/
