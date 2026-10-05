@@ -31,8 +31,7 @@ date: 2026-10-04
 
 ### Immediate Practice Drill
 * **Mini-Drill**: A recruiter contacts you with an unsolicited job offer, but your team is currently migrating all production reporting pipelines. Express your commitment.
-* **Your Turn**: `I have been treated well by ` ____________________ `, so I don't want to leave them high and dry during ` ____________________ `.
-
+* **Your Turn**: `I have been treated well by ` my line manager `, so I don't want to leave them high and dry during this transition period`
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
 
@@ -54,7 +53,7 @@ date: 2026-10-04
 
 ### Immediate Practice Drill
 * **Mini-Drill**: Tell your tech lead that manual daily table backfills have become too time-consuming, and automation is now mandatory.
-* **Your Turn**: `The time has come to ` ____________________ ` because ` ____________________ `.
+* **Your Turn**: `The time has come to ` automate the daily table backfills ` because it is time consuming to do it manually `.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -77,7 +76,7 @@ date: 2026-10-04
 
 ### Immediate Practice Drill
 * **Mini-Drill**: After debriefing an interview with HR, summarize why a candidate is the right choice for your backend data infrastructure.
-* **Your Turn**: `Based on ` ____________________ `, ` ____________________ ` seems like a great match for ` ____________________ ` because ` ____________________ `.
+* **Your Turn**: `Based on ` what he presented in the interview `, ` Chris ` seems like a great match for ` the data engineer position ` because ` he has implemented an end to end data platform in his previous company`.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -100,7 +99,7 @@ date: 2026-10-04
 
 ### Immediate Practice Drill
 * **Mini-Drill**: You wanted to discuss documentation standards with your team lead, but you've been tied up fixing pipeline lag.
-* **Your Turn**: `I've been meaning to ` ____________________ `, but ` ____________________ `.
+* **Your Turn**: `I've been meaning to ` bring my bike to maintenance `, but ` I was busy with some urgent tasks last week `.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>
@@ -123,7 +122,7 @@ date: 2026-10-04
 
 ### Immediate Practice Drill
 * **Mini-Drill**: Ask your manager if the team can post an open headcount before the formal quarter review because the workload is critical.
-* **Your Turn**: `I was wondering if we could make a special exception for ` ____________________ ` given that ` ____________________ `.
+* **Your Turn**: `I was wondering if we could make a special exception for ` bringing someone on board ` given that ` the workload is critical `.
 
 <details>
 <summary>💡 Click to View Suggested Completions</summary>

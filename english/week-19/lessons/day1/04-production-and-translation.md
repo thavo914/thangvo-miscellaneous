@@ -23,11 +23,11 @@ date: 2026-10-04
 
 Complete all 5 sentence frames with details from your real projects or engineering workspace:
 
-1. `I have been treated well by ` ____________________ `, so I don't want to leave them high and dry during ` ____________________ `.
-2. `The time has come to ` ____________________ ` because ` ____________________ `.
-3. `Based on ` ____________________ `, ` ____________________ ` seems like a great match for ` ____________________ ` because ` ____________________ `.
-4. `I've been meaning to ` ____________________ `, but ` ____________________ `.
-5. `I was wondering if we could make a special exception for ` ____________________ ` given that ` ____________________ `.
+1. `I have been treated well by ` my team `, so I don't want to leave them high and dry during ` ____________________ `.
+2. `The time has come to ` request a raise ` because ` I think my contribution to the company is worth it `.
+3. `Based on ` what he introduced `, ` Chris ` seems like a great match for ` our data engineering team ` because ` he has a detailed-oriented and well-planned mindset `.
+4. `I've been meaning to ` call my friend to catch up `, but ` I have been busy with work `.
+5. `I was wondering if we could make a special exception for ` taking a day off `-` given that ` this month is my birthday month `.
 
 ---
 
@@ -36,13 +36,13 @@ Complete all 5 sentence frames with details from your real projects or engineeri
 Translate these 3 common workplace scenarios into natural, conversational English using today's grammar rules, sentence templates, and high-yield collocations (`bring someone on board`, `take something off someone's plate`, `a great match`, `be treated well by`, `leave someone high and dry`, `the time has come to`).
 
 1. **Câu 1**: *Đã đến lúc chúng ta phải tuyển thêm một kỹ sư dữ liệu vào nhóm để gánh bớt các công việc bảo trì đường ống dữ liệu hàng ngày cho hai đứa mình.*  
-   → **Your Translation**: ____________________
+   → **Your Translation**: The time has come to bring a data engineer on board to take the daily data pipeline maintenance off our plate.
 
 2. **Câu 2**: *Công ty hiện tại đối đãi với tôi rất tốt, vì vậy tôi tuyệt đối không bao giờ muốn bỏ mặc đồng đội bơ vơ giữa lúc dự án kho dữ liệu đang gấp rút hoàn thành.*  
-   → **Your Translation**: ____________________
+   → **Your Translation**: I have been treated well by my current company, so I would never want to leave my teammates high and dry in the middle of our data warehouse launch.
 
 3. **Câu 3**: *Dựa vào buổi phỏng vấn hôm qua, tôi thấy ứng viên đó là một mảnh ghép rất phù hợp cho văn hóa nhóm vì bạn ấy giao tiếp rõ ràng và luôn sẵn sàng gánh vác trách nhiệm.*  
-   → **Your Translation**: ____________________
+   → **Your Translation**: Based on yesterday's interview, the candidate seems like a great match for our team culture because he communicates clearly and is eager to pull his weight
 
 <details>
 <summary>💡 Click to View Model Translations & Linguistic Breakdown</summary>
@@ -70,13 +70,13 @@ Translate these 3 common workplace scenarios into natural, conversational Englis
 Find and correct the errors in the 3 sentences below:
 
 1. *I am treated very good by my company for two years, so I don't leave them high and dry.*  
-   → **Your Correction**: ____________________
+   → **Your Correction**: I have been treated very well by my company for two years, so I would never leave them high and dry.
 
 2. *The time has come to hiring someone on board because we have too much work.*  
-   → **Your Correction**: ____________________
+   → **Your Correction**: The time has come to bring someone on board because we have too much work.
 
 3. *I was wonder if we can make a special exception to work from home tomorrow.*  
-   → **Your Correction**: ____________________
+   → **Your Correction**: I was wondering if we could make a special exception to work from home tomorrow.
 
 <details>
 <summary>💡 Click to View Explanations & Corrections</summary>

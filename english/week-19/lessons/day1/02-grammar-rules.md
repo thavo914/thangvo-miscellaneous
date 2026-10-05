@@ -37,21 +37,21 @@ date: 2026-10-04
 #### Drill 1.1: Upgrade to Present Perfect Reciprocity
 Rewrite the following basic statements into natural B1-B2 statements reflecting positive past-to-present experience:
 1. *My manager was always fair to me in the past, so I won't resign abruptly.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: I have been treated well by my manager, so I don't want to leave them high and dry.
 2. *The company gave me a lot of learning opportunities since I joined, so I want to finish this project first.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: I have been given a lot of learning opportunities since I joined, so I want to finish this project first.
 3. *Our tech lead supported our team continuously, so we don't want to abandon the sprint.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: The team has been supported by our tech lead continuously, so we don't want to abandon the sprint.
 
 #### Drill 1.2: Contextual Fill-in-the-Blank
 Complete the sentences using the correct form of `treat well` or the target reciprocity structure:
-1. Throughout my two years here, I ____________________ (treat well) by leadership, which is why I remain committed.
-2. Because the engineering team ____________________ (treat well) by management during tough quarters, turnover remains remarkably low.
-3. We ____________________ (support) generously by our leads, so no one wants to leave the department high and dry.
+1. Throughout my two years here, I have been treated well (treat well) by leadership, which is why I remain committed.
+2. Because the engineering team has been treated well (treat well) by management during tough quarters, turnover remains remarkably low.
+3. We have been supported (support) generously by our leads, so no one wants to leave the department high and dry.
 
 #### Drill 1.3: Your Turn (Workplace Loyalty)
 Draft 1 personalized sentence about your own commitment to your current team or past project:
-* `I have been treated well by ` ____________________ `, so I ` ____________________ `.
+* `I have been treated well by ` my current team `, so I ` would never want to leave them high and dry `.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 1)</summary>
@@ -86,21 +86,21 @@ Draft 1 personalized sentence about your own commitment to your current team or 
 #### Drill 2.1: Upgrade to "The time has come to..."
 Rewrite these statements into authoritative, professional statements of transition:
 1. *We waited too long and now we really have to refactor our legacy database.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: the time has come to refactor our legacy database.
 2. *Our team is overwhelmed, so it is necessary that we hire an extra developer.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: the time has come to bring someone on board.
 3. *We need to stop using manual Excel exports and automate this report.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: the time has come to automate this report.
 
 #### Drill 2.2: Contextual Fill-in-the-Blank
 Complete the sentences using `The time has come to` with the bracketed verb:
-1. With user queries tripling every month, ____________________ (scale up) our analytical warehouse.
-2. Given our mounting technical debt, ____________________ (establish) strict unit testing standards.
-3. ____________________ (bring on board) a dedicated data engineer to manage our ingestion pipelines.
+1. With user queries tripling every month, the time has come to scale up our analytical warehouse.
+2. Given our mounting technical debt, the time has come to establish strict unit testing standards.
+3. The time has come to hire (bring on board) a dedicated data engineer to manage our ingestion pipelines.
 
 #### Drill 2.3: Your Turn (Project Turning Point)
 Draft 1 sentence declaring a transition needed in your current tech stack or daily schedule:
-* `The time has come to ` ____________________ ` because ` ____________________ `.
+* `The time has come to ` release the stream pipeline project  ` because ` the stakeholder asked for a real time dashboard `.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 2)</summary>
@@ -133,21 +133,20 @@ Draft 1 sentence declaring a transition needed in your current tech stack or dai
 #### Drill 3.1: Upgrade to Polite Past Continuous Softener
 Convert the following blunt questions into professional, courteous inquiries:
 1. *Can you approve my remote work request for next Friday?*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: I was wondering if you could approve my remote work request for next Friday.
 2. *Why were you absent from the team retrospective this morning?*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: I didn't see you in the sync this morning, I was wondering if something came up.
 3. *Can we hire a contractor for two months even if budget is tight?*  
-   → **Your Rewrite**: ____________________
-
+   → **Your Rewrite**: I was wondering if we could make a special exception to bring a contractor on board for two months even if budget is tight.
 #### Drill 3.2: Contextual Fill-in-the-Blank
 Complete the sentences with `I was wondering if`:
-1. Hey John, you missed the sync—____________________ (something came up)?
-2. ____________________ (we could make a special exception) for this client's data ingestion schedule.
-3. ____________________ (you had a few minutes) to review my pull request before the deployment window.
+1. Hey John, you missed the sync— I was wondering if something came up (something came up)?
+2. I was wondering if we could make a special exceptionn (we could make a special exception) for this client's data ingestion schedule.
+3. I was wordering if you had a few minutes (you had a few minutes) to review my pull request before the deployment window.
 
 #### Drill 3.3: Your Turn (Workplace Request)
 Draft 1 polite inquiry to your manager or team lead:
-* `I was wondering if ` ____________________ `.
+* `I was wondering if ` you had a few minutes to review my pull request before the deployment window `.
 
 <details>
 <summary>💡 Click to View Suggested Answers & Analysis (Rule 3)</summary>
@@ -173,7 +172,7 @@ Synthesize all 3 rules into a cohesive 2-sentence workplace explanation.
   > *"Because I **have been treated so well by my current team**, I'm fully committed to delivering this overhaul, but **the time has come to bring someone on board** to take routine tasks off our plate. **I was wondering if we could make a special exception** to start recruiting before the next budget cycle begins."*
 
 * **Your Turn Slot**:
-  > *Over the past two years, I have been treated well by ` ____________________ `, so I ` ____________________ `. However, the time has come to ` ____________________ `, so I was wondering if ` ____________________ `.*
+  > *Over the past two years, I have been treated well by my current team, so I though I would never leave them high and dry. However, the time has come to accept a new challenge, so I was wondering if I should start looking for a new job?*
 
 <details>
 <summary>💡 Click to View Suggested Completion</summary>
