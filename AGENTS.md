@@ -7,5 +7,5 @@ When generating, modifying, or discussing English learning materials, lesson pla
 - **Strictly Avoid**: Show-off vocabulary, overly complex or convoluted grammar, academic bloat, and empty corporate buzzwords/clichés (*bring to the table*, *go above and beyond*, *synergy*, etc.).
 
 ## 2. Git & Version Control Rules
-- **Do Not Auto-Push**: Never automatically push changes to remote repositories (`git push`).
-- Keep changes local (stage or commit locally as needed). Only run `git push` when the user explicitly instructs you to do so.
+- **Do Not Auto-Commit or Auto-Push**: Never automatically commit changes (`git commit`) or push to remote repositories (`git push`) without explicit permission from the user.
+- **Working Tree Only**: Keep all new files and modifications in the local working directory. Only stage, commit, or push when the user explicitly instructs you to do so.
