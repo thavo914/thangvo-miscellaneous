@@ -14,10 +14,18 @@ $$\mathbf{It's\ (entirely)\ your\ call} \quad (+\ \mathbf{;\ I'm\ good\ with\ ei
 * **Bản chất của từ `call`**:
   - `call` ở đây là **danh từ** mang nghĩa "quyết định / phán quyết" (xuất phát từ thể thao khi trọng tài đưa ra quyết định *make the call*).
   - Thể hiện sự tôn trọng quyền tự chủ, chuyên môn kỹ thuật hoặc trách nhiệm của đối phương (empowerment & trust).
-* **Tại sao nên dùng `It's your call` thay vì `Depend on you`?**:
-  - Người Việt rất hay dịch từ "Tùy bạn" thành *“Depend on you”* (đây là lỗi ngữ pháp và diễn đạt rất nặng: *depend* là động từ và thường dùng để chỉ điều kiện phụ thuộc *“It depends on the network speed”*).
-  - Nói *“Up to you”* thì đúng nghĩa nhưng hơi suồng sã, thiếu tính trang trọng trong công việc kỹ thuật.
-  - **`It's your call`** là cụm từ chuẩn mực, chuyên nghiệp và phổ biến nhất trong văn hóa làm việc của các kỹ sư bản xứ.
+* **So sánh cốt lõi: `It's your call` vs. `It's up to you`**:
+  - Cả hai đều dịch là *"Tùy bạn / Bạn quyết định nhé"*, nhưng sắc thái khác biệt rõ rệt:
+
+| Tiêu chí | **`It's your call`** | **`It's up to you`** |
+| :--- | :--- | :--- |
+| **Bản chất quyết định** | **Quyết định chuyên môn / có trách nhiệm (Authority & Responsibility)**. Mang tính "phán quyết" (call). | **Sở thích / Lựa chọn thông thường (Preference & Indifference)**. Mang tính "sao cũng được". |
+| **Ngữ cảnh tối ưu** | **Công việc kỹ thuật, họp dự án, kiến trúc hệ thống, thời điểm release**. | **Đời sống hàng ngày, chọn món ăn, giờ cà phê, sở thích cá nhân**. |
+| **Sắc thái truyền tải** | **Trao quyền & tin tưởng (Empowerment)**: *"Tôi tin vào phán đoán kỹ thuật của bạn."* | **Linh hoạt hoặc không có chính kiến**: *"Tôi thế nào cũng được, bạn chọn đi."* |
+| **Ví dụ điển hình** | *"Both Kafka and Celery work, but you're writing the code, so **it's your call**."* | *"Do you want pizza or sushi for lunch? — **It's up to you**, I'm good with either."* |
+
+* **Tránh lỗi Vietlish `Depend on you`**:
+  - Người Việt hay dịch từng chữ "Tùy bạn" thành *“Depend on you”* (đây là lỗi ngữ pháp: *depend* là động từ chỉ điều kiện phụ thuộc *“It depends on the API response time”*, không thể đứng một mình làm câu giao tiếp).
 * **Họ các cụm từ phản xạ liên quan với `call`**:
   - `make the call`: Đưa ra phán quyết / quyết định cuối cùng (*"Someone needs to make the call before code freeze"*).
   - `good call`: Quyết định sáng suốt, chuẩn xác (*"Good call on adding that composite index!"*).
