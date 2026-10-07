@@ -31,15 +31,20 @@ date: 2026-10-04
 *Bối cảnh: Thắng và đồng nghiệp Lan vừa mua cà phê mang đi (to go) dưới sảnh công ty, vừa đi dạo vừa trao đổi về khối lượng công việc và kế hoạch tuyển thêm người.*
 
 1. **Lan**: *"Cà phê này ngon ghê. À mà này Thắng, dạo này thấy ông cắm mặt xử lý mấy cái pipeline luồng dữ liệu suốt, team mình có vẻ đang quá tải dữ dội rồi nhỉ?"*
+Lan: This coffee is so good. Hey Thang, I've noticed you've been glued to those streaming pipelines lately. It feels like our team is getting severely overwhelmed, isn't it?
 2. **Thắng**: *"Đúng vậy đó Lan. Hai người mà gánh mười mấy cái pipeline từ ingestion đến kho dữ liệu thì không thể nào duy trì lâu dài được. Tôi nghĩ đã đến lúc chúng ta phải tuyển thêm một kỹ sư dữ liệu vào nhóm rồi."*
+Thang: You're absolutely right, Lan. It's just unsustainable for the two of us to handle over a dozen pipelines from ingestion to the data warehouse. I really think the time has come to bring another data engineer on board.
 3. **Lan**: *"Tôi hoàn toàn đồng ý. Đợt trước sếp cũng bảo là nếu tìm được ai ổn thì sẽ duyệt tuyển ngay. Nếu có thêm người thì sẽ gánh bớt các việc bảo trì bảng dữ liệu hàng ngày cho hai đứa mình."*
+Lan: I completely agree. Last time our boss said he would approve the headcount as soon as we found the right candidate. If we have another person, we will be able to take routine maintenance off our plate.
 4. **Thắng**: *"Chuẩn luôn. Hôm thứ Ba vừa rồi mình có tham gia phỏng vấn một bạn ứng viên. Bạn ấy có vẻ là một mảnh ghép rất phù hợp cho văn hóa nhóm mình—kỹ thuật chắc tay mà tính cách lại rất khiêm tốn, biết lắng nghe."*
+Thang: Exactly. I joined an interview last Tuesday, and he seemed like a great match for our team culture. He has solid technical foundations and is also humble and a great listener.
 5. **Lan**: *"Thế thì tuyệt quá! Mong là sớm có người mới để san sẻ việc. Mà này, hôm qua có người trong phòng marketing hỏi tôi là Thắng có tính nhảy việc sang công ty khác không khi thấy khối lượng việc nhiều như vậy?"*
+Lan: That's fantastic! Hopefully we can bring someone on board to share the load. Bye the way,     
 6. **Thắng**: *"Không bao giờ có chuyện đó đâu Lan. Công ty hiện tại đối đãi với tôi rất tốt, đặc biệt là các sếp luôn hỗ trợ tối đa khi tôi cần sắp xếp giờ giấc làm việc linh hoạt."*
-7. **Lan**: *"Đúng là ban lãnh đạo bên mình rất biết lắng nghe nhân viên."*
-8. **Thắng**: *"Ừ, đợt tôi bận việc gia đình, sếp còn chủ động tạo một ngoại lệ đặc biệt để tôi làm việc từ xa trọn vẹn cả tuần mà không hề gây khó dễ. Người ta đối xử tốt với mình như vậy, mình tuyệt đối không thể bỏ mặc anh em bơ vơ giữa lúc dự án kho dữ liệu đang gấp rút được."*
-9. **Lan**: *"Nghe ông nói vậy tôi thấy an tâm hẳn. Làm việc cùng một người có trách nhiệm và biết trước biết sau như ông thật sự rất thoải mái."*
-10. **Thắng**: *"Cảm ơn Lan nhé. Thôi hai đứa mình tranh thủ uống xong ly cà phê rồi lên họp với sếp để thúc đẩy việc tuyển người mới luôn đi."*
+8. **Lan**: *"Đúng là ban lãnh đạo bên mình rất biết lắng nghe nhân viên."*
+9. **Thắng**: *"Ừ, đợt tôi bận việc gia đình, sếp còn chủ động tạo một ngoại lệ đặc biệt để tôi làm việc từ xa trọn vẹn cả tuần mà không hề gây khó dễ. Người ta đối xử tốt với mình như vậy, mình tuyệt đối không thể bỏ mặc anh em bơ vơ giữa lúc dự án kho dữ liệu đang gấp rút được."*
+10. **Lan**: *"Nghe ông nói vậy tôi thấy an tâm hẳn. Làm việc cùng một người có trách nhiệm và biết trước biết sau như ông thật sự rất thoải mái."*
+11. **Thắng**: *"Cảm ơn Lan nhé. Thôi hai đứa mình tranh thủ uống xong ly cà phê rồi lên họp với sếp để thúc đẩy việc tuyển người mới luôn đi."*
 
 ---
 
@@ -80,16 +85,16 @@ Dịch toàn bộ 10 lượt thoại trên sang tiếng Anh tự nhiên. Hãy ch
 
 ### ⚖️ Side-by-Side Contrastive Notes: Literal "Vietlish" vs. Native Phrasing
 
-| Vietnamese Expression | Literal "Vietlish" Trap (Avoid ❌) | Natural Spoken English (Model ✅) | Why it Works |
-| :--- | :--- | :--- | :--- |
-| *Cắm mặt vào xử lý pipeline* | *put face into pipelines* | *glued to those streaming pipelines* | "Glued to" is a natural, vivid idiom for intense focus |
-| *Tuyển thêm người vào nhóm* | *recruit more people into group* | *bring another data engineer on board* | "Bring on board" is standard, friendly spoken workplace idiom |
-| *Gánh bớt việc bảo trì* | *carry my maintenance work* | *take routine maintenance off our plate* | "Off someone's plate" expresses workload relief idiomatically |
-| *Mảnh ghép phù hợp văn hóa* | *matching piece for culture* | *a great match for our team culture* | "A great match for" is conversational and precise |
-| *Nhảy việc sang công ty khác* | *jump work to another place* | *jump ship* | "Jump ship" is the established informal idiom for leaving an employer |
-| *Được đối đãi rất tốt* | *am treated very good* | *have been treated really well by...* | Present Perfect passive + adverb "well" reflects continuous gratitude |
-| *Tạo một ngoại lệ đặc biệt* | *make a special different thing* | *made a special exception* | Accurate professional collocation |
-| *Bỏ mặc anh em bơ vơ giữa lúc khó khăn* | *drop brothers alone in difficulty* | *leave them high and dry* | Idiomatic, expressive, and immediately understood |
+| Vietnamese Expression                   | Literal "Vietlish" Trap (Avoid ❌)   | Natural Spoken English (Model ✅)         | Why it Works                                                          |
+| :-------------------------------------- | :---------------------------------- | :--------------------------------------- | :-------------------------------------------------------------------- |
+| *Cắm mặt vào xử lý pipeline*            | *put face into pipelines*           | *glued to those streaming pipelines*     | "Glued to" is a natural, vivid idiom for intense focus                |
+| *Tuyển thêm người vào nhóm*             | *recruit more people into group*    | *bring another data engineer on board*   | "Bring on board" is standard, friendly spoken workplace idiom         |
+| *Gánh bớt việc bảo trì*                 | *carry my maintenance work*         | *take routine maintenance off our plate* | "Off someone's plate" expresses workload relief idiomatically         |
+| *Mảnh ghép phù hợp văn hóa*             | *matching piece for culture*        | *a great match for our team culture*     | "A great match for" is conversational and precise                     |
+| *Nhảy việc sang công ty khác*           | *jump work to another place*        | *jump ship*                              | "Jump ship" is the established informal idiom for leaving an employer |
+| *Được đối đãi rất tốt*                  | *am treated very good*              | *have been treated really well by...*    | Present Perfect passive + adverb "well" reflects continuous gratitude |
+| *Tạo một ngoại lệ đặc biệt*             | *make a special different thing*    | *made a special exception*               | Accurate professional collocation                                     |
+| *Bỏ mặc anh em bơ vơ giữa lúc khó khăn* | *drop brothers alone in difficulty* | *leave them high and dry*                | Idiomatic, expressive, and immediately understood                     |
 </details>
 
 ---
