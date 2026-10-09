@@ -19,9 +19,23 @@ $$\mathbf{[Subject]} + \mathbf{plan(s)\ to\ conduct\ [the\ interviews\ /\ audits
     - `conduct performance reviews` *(đánh giá hiệu suất nhân viên)*
   - ❌ *Tuyệt đối không dùng*: `make interviews` (lỗi dịch thô từ tiếng Việt "làm phỏng vấn").
 * **Cụm phân từ chỉ thời gian: `beginning on [Day/Date]`**:
-  - Thay vì câu ghép rườm rà như *"which will begin on Monday"* hay *"and start from Monday"*, người bản xứ dùng cụm phân từ rút gọn: **`beginning on Monday`** (hoặc `starting on Monday`).
-  - Lối viết này súc tích, chuyên nghiệp và rất phổ biến trong email điều phối, mô tả sprint hoặc thông báo lịch trình.
-  - Giới từ đi kèm: Dùng **`on`** với các thứ trong tuần hoặc ngày cụ thể (`beginning on Monday`, `beginning on October 15th`).
+  - **Bản chất ngữ pháp**: Đây là cụm phân từ hiện tại (present participle phrase) rút gọn từ mệnh đề quan hệ:
+    $$\text{conduct the interviews, [which will begin / which begins] on Monday} \longrightarrow \mathbf{conduct\ the\ interviews\ beginning\ on\ Monday}$$
+  - **Tại sao dùng cụm này thay vì câu ghép**: Thay vì viết dài dòng (*"which will begin on Monday"* hay *"and it starts from Monday"*), cụm phân từ `beginning on...` giúp câu ngắn gọn, dứt khoát, mang phong thái điều phối lịch trình hành chính / công sở chuyên nghiệp (*administrative scheduling tone*).
+  - **Bẫy giới từ `ON` vs. `FROM` (Lỗi kinh điển người Việt)**:
+    - Tiếng Việt nói: *"Bắt đầu từ thứ Hai"* $\rightarrow$ người học rất dễ dịch nhầm thành `❌ beginning from Monday`.
+    - Tiếng Anh chuẩn mực: Động từ `begin / start` khi gắn với một ngày hoặc thứ cụ thể **bắt buộc dùng giới từ `ON`**: `✅ beginning on Monday`.
+  - **Bảng quy tắc giới từ đi với `beginning` theo mốc thời gian**:
+    | Mốc thời gian | Cấu trúc chuẩn | Ví dụ thực tế |
+    | :--- | :--- | :--- |
+    | **Thứ trong tuần / Ngày cụ thể** | `beginning on [Day/Date]` | *beginning on Monday*, *beginning on October 15th* |
+    | **Tháng / Quý / Năm** | `beginning in [Month/Q/Year]` | *beginning in November*, *beginning in Q3* |
+    | **Giờ cụ thể** | `beginning at [Time]` | *beginning at 9:00 AM* |
+    | **Thời gian tương đối (`next`, `tomorrow`)** | `beginning [Time]` *(không dùng giới từ)* | *beginning next week*, *beginning tomorrow* |
+  - **Vị trí của cụm trong câu**:
+    - **Đứng cuối câu** (bổ nghĩa cho hoạt động kéo dài): *"We plan to conduct the interviews **beginning on Monday**."*
+    - **Đứng đầu câu** (dùng cho thông báo quy định, chính sách mới): *"**Beginning on Monday**, all production database changes require two peer approvals."*
+
 
 ---
 

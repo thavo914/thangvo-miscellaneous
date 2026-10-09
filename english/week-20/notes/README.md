@@ -34,4 +34,22 @@ When running `/generate-english-lesson` for Week 20, the lesson generation engin
 | [collocation-not-be-available-as-much-as-the-job-requires.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/collocation-not-be-available-as-much-as-the-job-requires.md) | Workplace Capacity & Boundary Expression | Cụm `not be available as much as the job requires` (không thể đáp ứng thời gian / độ sẵn sàng nhiều như công việc đòi hỏi, phản xạ thiết lập ranh giới công việc tự nhiên) | 🟢 Ready for Lesson Gen |
 | [phrase-this-way-purpose-result.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-this-way-purpose-result.md) | Conversational Connector & Workplace Rationale Pattern | Cấu trúc `This way, [we can/will ...]` (bằng cách này / nhờ vậy mà..., giải thích trực tiếp lợi ích của giải pháp/quy trình làm việc) | 🟢 Ready for Lesson Gen |
 | [grammar-participle-calls-you-offering.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/grammar-participle-calls-you-offering.md) | Spoken & Narrative Grammar / Participle Clauses | Mệnh đề phân từ `calls you offering...` vs `to offer` (hành động đi kèm đồng thời sống động và cách tránh trùng lặp To-Infinitive) | 🟢 Ready for Lesson Gen |
+| [phrase-be-looking-to-hire.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-be-looking-to-hire.md) | Professional Outreach / Workplace Inquiry Formula | Cụm `be looking to hire` / `were looking to hire` (công thức thăm dò nhu cầu tuyển dụng lịch thiệp, kỹ thuật lùi thì giảm nhẹ áp đặt) | 🟢 Ready for Lesson Gen |
+| [phrasal-verb-fill-out.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrasal-verb-fill-out.md) | Phrasal Verb & Documentation Collocation | Cụm động từ `fill out (an application/form)` (điền đơn từ, biểu mẫu, phân biệt chuẩn xác với `fill in` và bẫy `fill up`) | 🟢 Ready for Lesson Gen |
+| [grammar-as-as-and-as-much-as.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/grammar-as-as-and-as-much-as.md) | Grammar Rule & Comparative Structure | Cấu trúc so sánh bằng `as ... as` và các ứng dụng của `as much as` (đo lường dung lượng/thời gian `as much as [Clause]`, nhượng bộ lịch sự `As much as I'd like to...`) | 🟢 Ready for Lesson Gen |
+| [phrase-there-is-something-involved.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-there-is-something-involved.md) | Conversational Pattern & Workplace Assessment | Mẫu câu `There is/are [Noun] involved` (`There's some flexibility involved`, `significant risk involved` - đánh giá khách quan các yếu tố/rủi ro đi kèm) | 🟢 Ready for Lesson Gen |
+| [phrasal-verb-jump-on.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrasal-verb-jump-on.md) | Workplace Phrasal Verb & Communication Reflex | Cụm động từ `jump on (a call / an issue)` (vào họp nhanh trực tuyến, hoặc nhảy vào xử lý ngay sự cố/tác vụ gấp) | 🟢 Ready for Lesson Gen |
+| [phrase-have-you-got-anything-else.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-have-you-got-anything-else.md) | Conversational Workplace Formula / Prioritization | Mẫu câu `Have you got anything else (that needs to be done more urgently)?` (phản xạ chủ động hỏi việc và sắp xếp độ ưu tiên với Lead) | 🟢 Ready for Lesson Gen |
+| [phrasal-verb-act-up.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrasal-verb-act-up.md) | Phrasal Verb & Tech Troubleshooting | Cụm động từ `act up` (dở chứng, chập chờn, gặp trục trặc - dùng cho thiết bị phần cứng, máy tính, cloud và cơ thể) | 🟢 Ready for Lesson Gen |
+| [phrase-be-at-lunch.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-be-at-lunch.md) | Prepositional Phrase & Office Availability | Cụm `be at lunch (until [Time])` (đang trong giờ nghỉ trưa, phản xạ thông báo vắng mặt và tận dụng thời gian bảo trì hệ thống) | 🟢 Ready for Lesson Gen |
+| [phrase-have-a-quick-look.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-have-a-quick-look.md) | Conversational Collocation / Polite Request | Cụm `have a quick look (at...)` (nghía qua một chút, xem lướt qua nhanh, giảm nhẹ áp lực thời gian khi nhờ vả đồng nghiệp) | 🟢 Ready for Lesson Gen |
+
+
+
+
+
+
+
+
+
 
