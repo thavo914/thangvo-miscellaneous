@@ -43,6 +43,16 @@ When running `/generate-english-lesson` for Week 20, the lesson generation engin
 | [phrasal-verb-act-up.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrasal-verb-act-up.md) | Phrasal Verb & Tech Troubleshooting | Cụm động từ `act up` (dở chứng, chập chờn, gặp trục trặc - dùng cho thiết bị phần cứng, máy tính, cloud và cơ thể) | 🟢 Ready for Lesson Gen |
 | [phrase-be-at-lunch.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-be-at-lunch.md) | Prepositional Phrase & Office Availability | Cụm `be at lunch (until [Time])` (đang trong giờ nghỉ trưa, phản xạ thông báo vắng mặt và tận dụng thời gian bảo trì hệ thống) | 🟢 Ready for Lesson Gen |
 | [phrase-have-a-quick-look.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-20/notes/phrase-have-a-quick-look.md) | Conversational Collocation / Polite Request | Cụm `have a quick look (at...)` (nghía qua một chút, xem lướt qua nhanh, giảm nhẹ áp lực thời gian khi nhờ vả đồng nghiệp) | 🟢 Ready for Lesson Gen |
+| [grammar-be-going-to-and-go-ahead-plans.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-20/notes/grammar-be-going-to-and-go-ahead-plans.md) | Grammar Rule & Action-Taking Reflex / Future Plans | Cấu trúc `be going to`, `go ahead and [verb]` để nói về kế hoạch sắp tới và sửa lỗi chồng chéo động từ (`going ahead and starting installing`) | 🟢 Ready for Lesson Gen |
+| [phrase-as-those-things-often-do.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-20/notes/phrase-as-those-things-often-do.md) | Conversational Reflex Formula & Ellipsis Grammar | Cụm `... as those things often do` (như chuyện đó thường thế) và phản xạ dùng trợ động từ thay thế `often do` | 🟢 Ready for Lesson Gen |
+| [phrase-would-you-be-able-to.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-20/notes/phrase-would-you-be-able-to.md) | Conversational Formula / Polite Request & Capacity Inquiry | Mẫu câu `Would you be able to + [Base Verb]` (nhờ vả việc gấp nhã nhặn, tôn trọng dung lượng công việc của đồng nghiệp) | 🟢 Ready for Lesson Gen |
+| [grammar-passive-will-be-held-vs-take-place.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-20/notes/grammar-passive-will-be-held-vs-take-place.md) | Grammar Rule & Event Hosting Collocation | Cấu trúc bị động `will be held in/at` (được tổ chức), phân biệt với nội động từ `take place` (diễn ra) | 🟢 Ready for Lesson Gen |
+| [collocation-at-the-conclusion-of-the-meeting.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-20/notes/collocation-at-the-conclusion-of-the-meeting.md) | Workplace Collocation & Formal Transition Formula | Cụm `at the conclusion of the meeting` (khi cuộc họp kết thúc/khép lại), phân biệt với `in conclusion` | 🟢 Ready for Lesson Gen |
+
+
+
+
+
 
 
 
