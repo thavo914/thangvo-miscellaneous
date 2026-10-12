@@ -83,11 +83,11 @@ Translate the following 3 authentic workplace situations into natural Band 6.5�
 Identify and correct the grammatical or collocation error in each sentence:
 
 1. *I am going ahead and starting installing the new dependencies on the server.*  
-   → **Correction**: ____________________
+   → **Correction**: I'm going to go ahead and install the new dependency on the server
 2. *Would you can check this dashboard alert when you have a minute?*  
-   → **Correction**: ____________________
+   → **Correction**: Would you be able to check this dashboard alert when you have a minute
 3. *We will send the updated action items in the conclusion of the meeting.*  
-   → **Correction**: ____________________
+   → **Correction**: We will send the updated action items at the end of the meeting.
 
 ---
 

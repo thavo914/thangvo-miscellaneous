@@ -39,17 +39,17 @@ date: 2026-10-11
 #### Drill 1.1: Fix the Verb-Stacking Clutter
 Upgrade the following clunky sentences into clean, natural native sentences:
 1. *I am going ahead and starting running the migration script now.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: I'm going to go ahead and run the migration script now.
 2. *We will go ahead and start creating the new database tables.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: We are going to go ahead and create the new database tables.
 3. *I am starting going ahead with deploying the code.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**:  I'm going to go ahead and deploy the code
 
 #### Drill 1.2: Contextual Precision (Fill-in-the-Blank)
 Fill in the blanks using `be going to go ahead and` with the appropriate verb form:
-1. Since the QA team signed off on the release, I ____________________ (merge) the pull request.
-2. The staging tests passed without errors, so we ____________________ (run) the data backfill.
-3. If no one has any objections, I ____________________ (restart) the consumer service.
+1. Since the QA team signed off on the release, I'm going to go ahead and  (merge) the pull request.
+2. The staging tests passed without errors, so we are going to go ahead and (run) the data backfill.
+3. If no one has any objections, I'm going to go ahead and (restart) the consumer service.
 
 #### Drill 1.3: Your Turn (Workplace Standup)
 Draft 1 personalized sentence about an engineering task you intend to initiate today:
@@ -88,11 +88,11 @@ Draft 1 personalized sentence about an engineering task you intend to initiate t
 #### Drill 2.1: Upgrade to Native Spoken Rhythm
 Convert the stiff sentences into natural `Go + Bare Verb` patterns:
 1. *Let me go in order to ask our tech lead about the schema change.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**:  Let me go ask our tech lead about the schema change
 2. *I will go and look at the error logs immediately.*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: Ok I'm going to go check the error logs immediately
 3. *Could you go and see if the staging cluster is running?*  
-   → **Your Rewrite**: ____________________
+   → **Your Rewrite**: Okay, could you go see if the staging cluster is running
 
 #### Drill 2.2: Contextual Precision
 Select the correct native form:
