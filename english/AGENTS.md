@@ -75,3 +75,13 @@ Formulas must represent natural everyday speech patterns, such as:
 1. **Grounded & Modest**: Speak objectively about work, achievements, and challenges. Let the facts and data tell the story.
 2. **Conversational & Collaborative**: Sound like a friendly, clear, reliable teammate, not a textbook or a motivational speaker.
 3. **Reflex-Oriented**: Train language patterns that can be produced instantaneously without translating from Vietnamese in your head.
+
+---
+
+## 5. Agent Must-Do Rules for Chat Interaction
+
+### 🎯 Spontaneous Vietnamese-to-English Natural Translation
+Whenever the user communicates in Vietnamese in the chat (asks a question, describes a situation, shares a personal experience, or makes a comment):
+- **Mandatory Directive**: The agent **MUST** proactively provide the natural, native English translation of the user's Vietnamese sentence or thought.
+- **Plain & Idiomatic**: The translation must completely avoid literal word-by-word "Vietlish" and academic stiffness. Instead, use natural B1–B2 spoken English that native professionals or engineers actually use in daily syncs, standups, or casual banter.
+- **Format & Placement**: Highlight the English equivalent clearly in the response (e.g., `💡 Cách diễn đạt tiếng Anh tự nhiên: "... "`), optionally providing both a concise conversational version and a professional workplace version when applicable.
