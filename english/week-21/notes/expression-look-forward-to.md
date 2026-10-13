@@ -12,13 +12,38 @@
 
 $$\mathbf{[Subject] + look(s)\ /\ 'm\ looking + forward\ to\ +\ [Noun\ Phrase\ /\ Verb\text{-}ing]}$$
 
-### ⚠️ Quy tắc ngữ pháp số 1: Giới từ `TO` + `V-ing` (The #1 English Trap)
-* Chữ **`to`** trong cụm này là **Giới từ (Preposition)**, hoàn toàn **không phải** là "to-infinitive".
-* Vì là giới từ, từ đứng sau bắt buộc phải là **Danh từ (Noun Phrase)** hoặc **Danh động từ (Gerund `V-ing`)**:
-  * ✅ *"I look forward to **hearing** from you."*
-  * ✅ *"I look forward to **our meeting**."*
-  * ❌ *Tuyệt đối không dùng*: *"I look forward to hear from you."*
-  * ❌ *Tuyệt đối không dùng*: *"I look forward to see you."*
+### ⚠️ Vì sao là `to hearing` mà KHÔNG PHẢI `to hear`? (The #1 English Trap)
+
+#### 1. Sự nhầm lẫn tai hại giữa "To-Infinitive" và "Giới từ TO"
+Não bộ người học thường mặc định hễ thấy chữ `to` là nghĩ ngay tới động từ nguyên mẫu vì quen với các mẫu câu:
+* *I hope **to hear** from you.* (Sau `hope` là To-Infinitive).
+* *I want **to see** you.* (Sau `want` là To-Infinitive).
+
+Nhưng trong tiếng Anh, chữ **`to`** có **2 danh tính hoàn toàn khác nhau**:
+1. **Động từ nguyên mẫu có to (`To-Infinitive`)**: `to + Base Verb` (*want to go, need to do, hope to hear*).
+2. **Giới từ (`Preposition`)**: Đóng vai trò như `in, on, at, for, with, about`.
+
+Trong cụm `look forward to`, chữ **`to` chính là Giới từ**!  
+Quy tắc bất di bất dịch trong tiếng Anh: **Sau mọi giới từ, từ đi kèm BẮT BUỘC là Danh từ hoặc Danh động từ (`V-ing`)**:
+* Giống như: *Thank you for **coming*** (không ai nói *for come*).
+* Giống như: *Good at **coding*** (không ai nói *at code*).
+* ➔ Vì vậy: *look forward to **hearing*** (không bao giờ là *to hear*).
+
+---
+
+#### 2. Bài kiểm tra thay thế danh từ ("The Noun Substitution Test")
+Để chứng minh chữ `to` ở đây là giới từ, bạn hãy thử thay thế vị trí đó bằng một Danh từ thông thường:
+* ✅ *"I look forward to **the weekend**."* *(Tôi mong chờ cuối tuần).*
+* ✅ *"I look forward to **your reply**."* *(Tôi mong chờ thư hồi âm của bạn).*
+* ✅ *"I look forward to **our meeting**."* *(Tôi mong chờ buổi họp của chúng ta).*
+
+Vị trí sau `look forward to` rõ ràng là **vị trí của một Danh từ**!  
+Khi bạn muốn đưa một hành động như "nghe tin từ bạn" (`hear from you`) vào vị trí danh từ đó, bạn bắt buộc phải biến động từ thành **Danh động từ (Gerund)** bằng cách thêm đuôi `-ing`:
+👉 **`hear` ➔ `hearing from you`**!
+
+* ✅ *"I look forward to **hearing** from you."*
+* ❌ *Tuyệt đối không dùng*: *"I look forward to hear from you."*
+* ❌ *Tuyệt đối không dùng*: *"I look forward to see you."* ➔ Phải là *"I look forward to **seeing** you."*
 
 ---
 

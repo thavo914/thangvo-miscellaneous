@@ -33,6 +33,36 @@ $$\mathbf{Pattern\ 3\ (That-Clause):\ One\ of\ the\ reasons\ [Subject] + [Past\ 
 
 ---
 
+### 🔍 Chuyên đề: Cách dùng `was because of` vs. `was because` vs. `was due to`
+
+$$\mathbf{Cấu\ trúc\ 1:\ [Event\ /\ Result] + was\ because\ of\ +\ [Noun\ Phrase\ /\ V\text{-}ing]}$$
+$$\mathbf{Cấu\ trúc\ 2:\ [Event\ /\ Result] + was\ because\ +\ [Subject\ +\ Verb\ (Clause)]}$$
+$$\mathbf{Cấu\ trúc\ 3\ (Formal):\ [Event\ /\ Result] + was\ due\ to\ +\ [Noun\ Phrase]}$$
+
+#### 1. `was because of + [Noun Phrase]` (Giới từ chỉ nguyên nhân)
+* **`because of`** là một **cụm giới từ (prepositional phrase)**. Do đó, từ theo sau **bắt buộc** phải là **Danh từ / Cụm danh từ** hoặc **V-ing**:
+  * ✅ *"The pipeline failure **was because of an unexpected schema mismatch**."*
+  * ✅ *"One of the reasons I bought it **was because of the warranty**."*
+  * ❌ *Lỗi sai*: Không được đặt một mệnh đề có chủ ngữ và vị ngữ ngay sau `because of` (*Không nói: was because of the schema changed*).
+
+#### 2. Phân biệt: `was because of` vs. `was because`
+* Dùng **`was because`** (không có *of*) khi phía sau là một **Mệnh đề hoàn chỉnh (`Subject + Verb`)**:
+  * *"The job delay **was because the upstream cluster ran out of memory**."*
+* Dùng **`was because of`** khi phía sau là một **Cụm danh từ tóm tắt**:
+  * *"The job delay **was because of a cluster memory leak**."*
+
+#### 3. Phân biệt: `was because of` vs. `was due to`
+* **`was because of`**: Tự nhiên, thông dụng trong 100% các cuộc hội thoại, standup, và giải thích hàng ngày.
+* **`was due to`**: Mang phong cách văn bản báo cáo sự cố (Post-mortem incident reports), trang trọng và mang tính phân tích kỹ thuật:
+  * *"The downtime **was due to a sudden hardware fault**."*
+
+#### 4. Các biến thể thì linh hoạt của `because of`:
+* **Quá khứ**: `was because of` (*"The decision was because of budget cuts."*)
+* **Hiện tại**: `is because of` (*"The high query latency is because of missing index partitions."*)
+* **Dự đoán / Suy đoán**: `might / could be because of` (*"The data discrepancy might be because of timezone conversion."*)
+
+---
+
 ## 📚 2. Categorized Usages & Real-Life Examples
 
 ### Domain A: Vendor Selection, Cloud Providers & Software Licensing

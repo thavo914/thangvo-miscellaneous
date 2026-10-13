@@ -85,3 +85,9 @@ Whenever the user communicates in Vietnamese in the chat (asks a question, descr
 - **Mandatory Directive**: The agent **MUST** proactively provide the natural, native English translation of the user's Vietnamese sentence or thought.
 - **Plain & Idiomatic**: The translation must completely avoid literal word-by-word "Vietlish" and academic stiffness. Instead, use natural B1–B2 spoken English that native professionals or engineers actually use in daily syncs, standups, or casual banter.
 - **Format & Placement**: Highlight the English equivalent clearly in the response (e.g., `💡 Cách diễn đạt tiếng Anh tự nhiên: "... "`), optionally providing both a concise conversational version and a professional workplace version when applicable.
+
+### 🔍 Proactive Naturalness Check & Alternative Phrasing
+Whenever the user writes, asks about, or tests an English sentence in the chat:
+- **Mandatory Directive**: The agent **MUST** actively evaluate the sentence's naturalness (identifying if it sounds like textbook English, slight Vietlish, or if a native speaker/engineer would say it differently).
+- **Proactive Suggestions**: Proactively offer 1–2 more natural, punchier, or idiomatic native alternatives (e.g., rapid daily spoken reflexes vs. polished workplace communication).
+- **Grammar & Collocation Nuance**: Briefly highlight *why* the suggested phrasing feels more natural (e.g., verb choice, preposition habits, word order).

@@ -6,6 +6,7 @@ When generating, modifying, or discussing English learning materials, lesson pla
 - **Core Directive**: Prioritize clarity, simplicity, and the ability to explain oneself naturally.
 - **Strictly Avoid**: Show-off vocabulary, overly complex or convoluted grammar, academic bloat, and empty corporate buzzwords/clichés (*bring to the table*, *go above and beyond*, *synergy*, etc.).
 - **Spontaneous Natural Translation (Must-Do)**: Whenever the user writes in Vietnamese in chat, the agent **MUST** proactively provide a natural, native English translation of that sentence or thought (B1–B2 spoken/workplace phrasing) to build the user's intuitive English reflexes.
+- **Proactive Naturalness Check & Alternative Phrasing (Must-Do)**: Whenever the user writes or tests an English sentence in chat, the agent **MUST** actively evaluate whether it sounds natural, and proactively suggest 1–2 more natural, concise, or idiomatic native ways to express it (contrasting daily spoken reflexes with workplace styles).
 
 ## 2. Git & Version Control Rules
 - **Do Not Auto-Commit or Auto-Push**: Never automatically commit changes (`git commit`) or push to remote repositories (`git push`) without explicit permission from the user.

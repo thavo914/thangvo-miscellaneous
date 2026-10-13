@@ -22,6 +22,7 @@ This workflow ensures that any spontaneous language insight, grammar discovery, 
 All processed notes must strictly adhere to the repository guidelines in [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md):
 - **Plain English & Functional Self-Explanation**: Focus on how this language is actually used by engineers and professionals to explain situations, problems, actions, and results.
 - **Strictly Avoid**: Show-off vocabulary, academic bloat, and empty corporate buzzwords (*synergy*, *bring to the table*, etc.).
+- **Proactive Natural Alternative & Collocation Check (Must-Do)**: Always inspect the user-supplied phrase or sentence to identify if native speakers or engineers prefer a more idiomatic, punchier, or more natural everyday alternative (e.g., `keeps beeping` vs. `keeps making a beeping sound`; `by corporate` vs. `by the company`; `do their fair share` vs. `pull their weight`). Always document these natural alternatives in the note so the learner acquires both descriptive and rapid reflexive phrasing.
 - **Grounding Contexts**: Root examples in the user's authentic life:
   1. *Data Engineering & Systems*: Pipelines, schemas, SQL, Spark jobs, cloud infrastructure, monitoring, disaster recovery, software licensing, internal data security.
   2. *Daily Workplace & Social*: Setting boundaries, handling ad-hoc requests, standup updates, cross-team alignment, logging off on time.
@@ -55,11 +56,18 @@ Analyze the user's input and organize it into the following standardized section
    - Group the expressions by authentic domains (e.g., *Licensing & Compliance*, *Internal Security & Access*, *Hardware & Technical Load*, *Daily Workplace*).
    - Provide concrete, natural example sentences for each group.
 
-3. **Core Rules & Pitfalls to Avoid (Common Mistakes)**:
+3. **Proactive Natural Alternatives & Sibling Collocations (Must-Check)**:
+   - Always check if native speakers or senior engineers use a shorter, punchier, or more idiomatic alternative:
+     - E.g., *keeps beeping* vs. *keeps making a beeping sound*.
+     - E.g., *on the company dime* vs. *paid for by corporate*.
+     - E.g., *do their fair share / pitch in* vs. *pull one's weight*.
+   - Present a clear comparison table or breakdown highlighting when to use the descriptive form vs. the punchy spoken reflex.
+
+4. **Core Rules & Pitfalls to Avoid (Common Mistakes)**:
    - Explicitly highlight what **NOT** to do (e.g., incorrect collocations, literal Vietnamese translation traps, invalid verb forms).
    - Present a clear comparison table: ❌ *Incorrect / Awkward* vs. ✅ *Natural Native English*.
 
-4. **Curriculum Integration Blueprint (Ready for `/generate-english-lesson`)**:
+5. **Curriculum Integration Blueprint (Ready for `/generate-english-lesson`)**:
    - **For Day 1/Day 4 Grammar Rules (`02-grammar-rules.md`)**:
      - Rule summary + formula.
      - 2 inline practice drills with model answers.
@@ -136,7 +144,17 @@ Present a concise summary to the user:
 
 ---
 
-## ⚠️ 3. Common Pitfalls & Vietlish Traps
+## 💡 3. Proactive Native Alternatives & Variations
+
+| Style / Register | Expression / Collocation | Practical Nuance / When to Use |
+| :--- | :--- | :--- |
+| **Descriptive / Diagnostic** | *[User's phrase or formal phrasing]* | Detailed explanation, bug tickets, or formal communication. |
+| **Punchy Native Reflex** | *[Shorter, more natural idiom/verb]* | ⚡ Rapid daily speech, standups, Slack chats. |
+| **Sibling / Related Collocation**| *[Counterpart or contrasting phrase]* | Complementary usage (e.g., *pull one's weight* vs. *pick up the slack*). |
+
+---
+
+## ⚠️ 4. Common Pitfalls & Vietlish Traps
 
 | ❌ Common Mistake / Awkward Phrasing | ✅ Natural Native English | Why / Linguistic Reason |
 | :--- | :--- | :--- |
@@ -144,7 +162,7 @@ Present a concise summary to the user:
 
 ---
 
-## 🎯 4. Lesson Integration Blueprint (For `/generate-english-lesson`)
+## 🎯 5. Lesson Integration Blueprint (For `/generate-english-lesson`)
 
 ### A. Grammar / Template Slot Formula:
 * `[Slot-Filling Formula]`
