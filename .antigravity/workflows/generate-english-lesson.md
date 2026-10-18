@@ -19,6 +19,23 @@ description: The core topic-agnostic project backbone of the English learning sy
 > - **Plain English & Functional Self-Explanation (CRITICAL)**: Prioritize clear, direct, and effortless self-expression over complex vocabulary or elaborate grammar. All generated content must strictly follow [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md).
 >   - **Vocabulary**: Use natural, high-frequency B1-B2 spoken English. Strictly avoid show-off words (*utilize*, *facilitate*, *commence*, *plethora*) and empty corporate clichés or boastful idioms (*bring to the table*, *go above and beyond*, *synergy*, *hit the ground running*, unsubstantiated *exceed expectations*).
 >   - **Sentence Structures**: Keep formulas short-to-medium (breath-friendly, 12–20 words). Focus on functional explanation: explaining what happened, why it happened, what action was taken, and what comes next.
+> - **Spoken Response Methodologies & Frameworks (MANDATORY ENFORCEMENT)**:
+>   All speaking practices, IELTS preparation sections, and AI voice roleplay simulations MUST explicitly instruct, structure, and enforce the following frameworks:
+>   1. **Daily / Weekly General Practice & IELTS Speaking**:
+>      - **Part 1 & Part 2: 5W1H Framework (Who, What, Where, When, Why, How)**:
+>        * *For Part 1*: Strictly ensure a direct answer + 1 or 2 supporting details (e.g., Why + How/When) to avoid flat single-sentence answers.
+>        * *For Part 2 (Cue Card)*: Structure cue card responses and 1-minute preparation scratchpads logically through the 5W1H checklist (Who was involved, What happened, Where & When it took place, Why it mattered, How it was resolved/felt) to ensure 1.5–2 minutes of continuous, natural flow.
+>      - **Part 3 (Abstract / Analytical Discussion): O-R-E-O Framework**:
+>        * **O - Opinion**: Clear, direct thesis statement or stance.
+>        * **R - Reason**: Logical explanation/cause (Why / Because...).
+>        * **E - Example**: Concrete real-life instance, scenario, or illustration.
+>        * **O - Opinion / Outcome**: Concise synthesis, restatement, or final takeaway.
+>   2. **Job Interview Mode (ONLY when the scenario is a Job / Behavioral Interview)**:
+>      - Switch behavior-based situational questions to the **S-T-A-R Framework**:
+>        * **S - Situation**: Context, background, and project environment.
+>        * **T - Task**: The specific objective, obstacle, or challenge faced.
+>        * **A - Action**: Concrete actions taken by the speaker (using strong, active first-person verbs).
+>        * **R - Result**: Measurable business/engineering outcome, metric improvement, or key lesson learned.
 
 ---
 
@@ -69,7 +86,11 @@ Identify or extract the following core elements based on the **dynamically suppl
 3. **3 Target Grammar Rules per Topic**: Key grammatical concepts highly relevant to B1-B2 speaking (e.g., *Using modals for advice, Simple conditionals with "if", Present Perfect for past-to-present experience, Contrast linkers*).
 4. **5 Sentence Structure Templates per Topic**: Natural, conversational sentence patterns used in real-life speaking that can be generalized into slot-filling formulas.
 5. **5 High-Yield Collocations/Phrases per Topic**: Highly common, natural expressions used by native speakers to explain ideas, actions, and situations clearly. Must be practical and grounded (no corporate buzzwords, boastful idioms, or overly formal phrases), defined with Vietnamese translations and real-life examples.
-6. **IELTS Speaking Questions**: Topic-related questions for Part 1 (3 questions), Part 2 (1 Cue Card), and Part 3 (2 questions).
+6. **IELTS Speaking Questions & Delivery Frameworks**: Topic-related questions for:
+   - **Part 1 (3 questions)**: Strictly enforce **5W1H** (Direct answer + 1–2 supporting details like Why/When/How).
+   - **Part 2 (1 Cue Card)**: Enforce **5W1H checklist** (Who, What, Where, When, Why, How) across bullet points and 1-minute scratchpad.
+   - **Part 3 (2 questions)**: Strictly enforce **O-R-E-O** (Opinion, Reason, Example, Opinion/Outcome).
+   - *(Note: If a designated scenario or exercise is a Job / Behavioral Interview, switch situational questions to the **S-T-A-R** framework).*
 
 ---
 
@@ -184,8 +205,15 @@ This file facilitates Block 1 reflex warm-ups, active output, structured IELTS s
 
 ### Section 1: Block 2 - Workplace Practice (IELTS Prep) (60 Mins)
 - **Part 1 (Interview)**: 3 introductory questions related to Topic 1.
+  - *Framework Requirement*: Strictly enforce **5W1H** (Direct answer + 1 or 2 supporting details, e.g., Why + How/When). Provide model answers explicitly showing this 5W1H expansion.
 - **Part 2 (Cue Card)**: 1 complete IELTS Part 2 prompt with bullet points.
+  - *Framework Requirement*: Structure the 1-minute preparation scratchpad and model answer logically through the **5W1H checklist** (Who, What, Where, When, Why, How) to ensure 1.5–2 minutes of continuous, natural flow.
 - **Part 3 (Analytical Discussion)**: 2 discussion questions.
+  - *Framework Requirement*: Strictly enforce the **O-R-E-O framework**:
+    - **O (Opinion)**: Direct stance.
+    - **R (Reason)**: Logical explanation (Why/Because).
+    - **E (Example)**: Concrete real-life instance.
+    - **O (Opinion/Outcome)**: Concise synthesis or final takeaway.
 
 ### Section 2: ChatGPT Voice Mode Simulation Prompt
 - A prompt based on Topic 1 and the user's background.
@@ -240,6 +268,7 @@ This file facilitates personal production, **Vietnamese-to-English Conversation 
 
 ### Section 3: Band 6.5-7.0 Cue Card Sample Answer
 - A natural **Band 6.5-7.0 model response** answering the Day 2 Part 2 Cue Card.
+- Must clearly demonstrate the **5W1H framework** (Who, What, Where, When, Why, How) to maintain continuous 1.5–2 minute spoken flow.
 - Highlight 3-5 key real-life phrases with Vietnamese translations.
 
 ### Section 4: Self-Evaluation Checklist & Situational Responses
@@ -277,9 +306,9 @@ This file integrates the **Tech Conversation Translation Drill**, structured IEL
   - **Task 2: Native Model Comparison & Analysis**: Provide a collapsed `<details><summary>💡 Native English Tech Model Translation & Analysis</summary>` block showing the natural workplace English script and technical vocabulary contrast.
   - **Task 3: Spoken Reinforcement**: Aloud repetition of the model script.
 - **Part B: IELTS Practice (Tech-Adjacent Context)**:
-  - **Part 1 (Interview)**: 3 tech/workplace questions.
-  - **Part 2 (Cue Card)**: 1 tech/project-focused IELTS Part 2 prompt with bullet points.
-  - **Part 3 (Analytical Discussion)**: 2 analytical discussion questions.
+  - **Part 1 (Interview)**: 3 tech/workplace questions enforcing **5W1H** (Direct answer + 1–2 supporting details).
+  - **Part 2 (Cue Card)**: 1 tech/project-focused IELTS Part 2 prompt with bullet points and scratchpad structured via **5W1H** (Who, What, Where, When, Why, How) for 1.5–2 minutes.
+  - **Part 3 (Analytical Discussion)**: 2 analytical discussion questions strictly enforcing **O-R-E-O** (Opinion, Reason, Example, Opinion/Outcome).
 
 ### Section 2: ChatGPT Voice Mode Simulation Prompt
 - A prompt based on Topic 2 and Data Engineering / Tech Operations.

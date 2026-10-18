@@ -12,11 +12,28 @@ Use when the user provides a daily situation and asks to generate a conversation
 - **Plain English & Functional Self-Explanation (CRITICAL)**: Follow [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md). The dialogue and extracted structures must focus on **how people actually explain themselves** in daily life and work—using simple, clear words and natural, breath-friendly sentences. Strictly avoid show-off vocabulary, complex sentence acrobatics, and corporate clichés (*bring to the table*, *go above and beyond*, *synergy*, etc.).
 - **Level**: B1-B2 English grammar and vocabulary.
 - **Format**: A conversation transcript between 2 people.
+- **Spoken Response Methodologies & Frameworks (MANDATORY ENFORCEMENT)**:
+  When generating practice drills, follow-up questions, or speaking application guidelines based on the dialogue, explicitly instruct and format responses using:
+  1. **Daily / General Practice & Follow-up Q&A**:
+     - **5W1H Framework (Who, What, Where, When, Why, How)**:
+       * For general Q&A: Strictly ensure a direct answer + 1 or 2 supporting details (e.g., Why + How/When) to prevent flat single-sentence answers.
+     - **O-R-E-O Framework for Analytical Discussion & Stance**:
+       * **O - Opinion**: Clear, direct thesis statement or stance.
+       * **R - Reason**: Logical explanation/cause (Why / Because...).
+       * **E - Example**: Concrete real-life instance, scenario, or illustration.
+       * **O - Opinion / Outcome**: Concise synthesis, restatement, or final takeaway.
+  2. **Job Interview Mode (ONLY when the scenario is a Job / Behavioral Interview)**:
+     - Switch behavior-based situational questions to the **S-T-A-R Framework**:
+       * **S - Situation**: Context, background, and project environment.
+       * **T - Task**: The specific objective, obstacle, or challenge faced.
+       * **A - Action**: Concrete actions taken by the speaker (using strong, active first-person verbs).
+       * **R - Result**: Measurable business/engineering outcome, metric improvement, or key lesson learned.
 - **Structure**:
   1. The conversation transcript.
   2. Sentence Structure Analysis (after the transcript).
   3. How to use it (practical application).
   4. Why you should use it (context and benefits).
+  5. Spoken Practice & Delivery Drills (using 5W1H, O-R-E-O, or S-T-A-R).
 
 ---
 
@@ -43,3 +60,10 @@ Use when the user provides a daily situation and asks to generate a conversation
 ### 4. Why you should use it
 - Explain *why* these structures are effective in this specific situation.
 - Highlight the nuances (e.g., politeness, expressing uncertainty, softening a request, natural flow) that make these structures appropriate and native-like for B1-B2 learners in real-world scenarios.
+
+### 5. Spoken Practice & Delivery Drills
+- Provide 2–3 targeted speaking practice prompts based on the dialogue, explicitly mapped to the required frameworks:
+  - **General Follow-up Prompt**: Apply **5W1H** (Direct answer + 1–2 supporting details).
+  - **Opinion / Discussion Prompt**: Apply **O-R-E-O** (Opinion, Reason, Example, Opinion/Outcome).
+  - **Job / Behavioral Interview Prompt (if applicable)**: Apply **S-T-A-R** (Situation, Task, Action, Result).
+

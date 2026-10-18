@@ -29,6 +29,11 @@ Act as a Product Manager demanding real-time dashboards during peak hours. I wil
 
 *(Character count: 265 characters | Hyphens: 1)*
 
+> [!TIP]
+> **Active Speaking Frameworks**:
+> - **5W1H Reflex**: When presenting the architectural proposal or answering technical questions, deliver a direct answer first, supported by *Who, What, Where, When, Why, or How*.
+> - **O-R-E-O Reflex**: When debating trade-offs or defending system resilience against the PM, structure arguments with **O**pinion ➔ **R**eason ➔ **E**xample ➔ **O**utcome.
+
 ---
 
 ## 🎵 Section 2: Interactive Shadowing & Pacing Guide

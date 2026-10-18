@@ -28,6 +28,12 @@ Open ChatGPT on your phone or desktop, activate **Voice Mode 🎧**, and practic
 
 ---
 
+> [!TIP]
+> **Active Speaking Framework Checklist**:
+> - **5W1H (Daily Standup & Diagnostics)**: Deliver a direct answer first, supported by 1–2 details (*Why, When, How*).
+> - **O-R-E-O (Architecture Decisions)**: Structure viewpoints as **O**pinion ➔ **R**eason ➔ **E**xample ➔ **O**utcome.
+> - **S-T-A-R (Job Interview Mode)**: Answer behavioral questions with **S**ituation ➔ **T**ask ➔ **A**ction ➔ **R**esult.
+
 > **Suggested Exercises (AI Prompts):**
 >
 > 1. **Rapid Q&A:**
@@ -37,7 +43,7 @@ Open ChatGPT on your phone or desktop, activate **Voice Mode 🎧**, and practic
 >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
 >
 > 3. **Role-play:**
->    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
+>    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English. If we choose a job interview, ask me behavioral questions and evaluate my responses using the STAR framework (Situation, Task, Action, Result)."
 
 ---
 

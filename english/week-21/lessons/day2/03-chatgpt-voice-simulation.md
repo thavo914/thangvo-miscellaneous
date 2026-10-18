@@ -29,6 +29,11 @@ Act as a couple touring an event venue. Ask me about your wedding packages and h
 
 *(Character count: 268 characters | Hyphens: 0)*
 
+> [!TIP]
+> **Active Speaking Frameworks**:
+> - **5W1H Reflex**: When presenting packages or answering questions, deliver a direct answer first, then support it with *Who, What, Where, When, Why, or How*.
+> - **O-R-E-O Reflex**: If the couple asks for your analytical opinion or recommendation, structure your response as: **O**pinion ➔ **R**eason ➔ **E**xample ➔ **O**utcome.
+
 ---
 
 ## 📝 Spoken Feedback Logging Table

@@ -73,13 +73,19 @@ Welcome to Week 21 of the English Mastery Engine! Following our cross-functional
 
 ## 🗓️ 3. Comprehensive 5-Day Study Schedule & Objectives (15-Hour Focus)
 
+> [!TIP]
+> **Week 21 Spoken Delivery Frameworks**:
+> - **5W1H Framework**: Strictly enforced for Part 1 (Direct Answer + Why/When/How) and Part 2 Cue Cards (Who, What, Where, When, Why, How checklist for 1.5–2 min flow).
+> - **O-R-E-O Framework**: Strictly enforced for Part 3 abstract discussions (**O**pinion ➔ **R**eason ➔ **E**xample ➔ **O**utcome).
+> - **S-T-A-R Framework**: Strictly enforced whenever entering Job Interview mode (**S**ituation ➔ **T**ask ➔ **A**ction ➔ **R**esult).
+
 | Day | Phase | Speaking Reflex Focus (15m) | Active Listening Focus (20-30m) | Workplace Practice (60m) | AI Speaking & Review (75m) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | Study & Input (Topic 1) | 🎙️ The Daily Commentator | 🎧 TOEIC Dictation (3 Exercises) | Mentorship, Growth, `will be + V-ing` & Prepositions | Practice with AI using today's growth and availability formulas |
-| **Day 2** | Speaking & Output (Topic 1) | ⏱️ 60s Random Object Pitch | 🎧 TOEIC Dictation (3 Exercises) | Service Walkthroughs, Relative Quantifiers & Pricing Negotiation | ChatGPT Voice Mode Roleplay (Client Consultation Simulation) |
-| **Day 3** | Translation & Analysis (Topic 1) | 🤖 AI Voice Roleplay | 🎧 TOEIC Dictation (3 Exercises) | 🇻🇳➡️🇬🇧 **Conversation Translation Drill**: Workload reality, picking up the slack & company policy | Practice with AI using today's translated dialogue & monologue |
-| **Day 4** | Study & Input (Topic 2) | *(Focused Input)* | 🎧 TOEIC Dictation (3 Exercises) | System Modernization, Active Passive & Hardware Troubleshooting | Practice with AI using today's modernization & diagnostic formulas |
-| **Day 5** | Translation & Output (Topic 2) | 😈 Devil's Advocate Challenge | 🎧 TOEIC Dictation (3 Exercises) | 🇻🇳➡️🇬🇧 **Tech Conversation Translation Drill**: Off-peak scheduling & quality non-negotiables | ChatGPT Voice Mode Roleplay (Architectural War Room Simulation) |
+| **Day 1** | Study & Input (Topic 1) | 🎙️ The Daily Commentator | 🎧 TOEIC Dictation (3 Exercises) | Mentorship, Growth, `will be + V-ing` & Prepositions | AI Voice practice (Onboarding mentorship; 5W1H / STAR role-play) |
+| **Day 2** | Speaking & Output (Topic 1) | ⏱️ 60s Random Object Pitch | 🎧 TOEIC Dictation (3 Exercises) | **IELTS Speaking & Pitching**: Venue Walkthroughs (P1/P2: 5W1H, P3: O-R-E-O) | ChatGPT Voice Roleplay (Client Consultation Simulation) |
+| **Day 3** | Translation & Analysis (Topic 1) | 🤖 AI Voice Roleplay | 🎧 TOEIC Dictation (3 Exercises) | 🇻🇳➡️🇬🇧 **Translation Drill**: Workload boundaries & 5W1H Cue Card Model | Practice with AI using today's translated dialogue & monologue |
+| **Day 4** | Study & Input (Topic 2) | *(Focused Input)* | 🎧 TOEIC Dictation (3 Exercises) | System Modernization, Active Passive & Hardware Diagnostics | AI Voice practice (Standup diagnostics; 5W1H / STAR role-play) |
+| **Day 5** | Translation & Output (Topic 2) | 😈 Devil's Advocate Challenge | 🎧 TOEIC Dictation (3 Exercises) | 🇻🇳➡️🇬🇧 **Translation Drill & Tech IELTS**: Off-peak scheduling (5W1H & O-R-E-O) | ChatGPT Voice Roleplay (Architectural War Room Simulation) |
 | **Weekend** | Rest & Recharge | — | — | **No lessons!** Enjoy your weekend or do light Anki review | — |
 
 ---

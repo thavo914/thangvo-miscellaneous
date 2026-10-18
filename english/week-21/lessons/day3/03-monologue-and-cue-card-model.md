@@ -39,18 +39,34 @@ date: 2026-10-18
 
 ---
 
-## 📋 Section 2: Band 6.5–7.0 Model Answer (Day 2 Cue Card)
+## 📋 Section 2: Band 6.5–7.0 Model Answer (Day 2 Cue Card - Technical Angle)
 
 *Prompt: Describe a time when you had to evaluate and choose between multiple service or product options for an important event or project.*
 
-### Model Answer
-> *"I'd like to share an experience from last quarter when our data engineering squad had to evaluate cloud data storage providers for our historical analytics lake. Our existing on-premise relational database was running out of disk space, so our architect asked me to research modern cloud options.
-> 
-> Over the course of two weeks, I scheduled technical demos with three different cloud vendors. During the sessions, their solution architects **walked us through all of the options** available for distributed columnar storage. We looked closely at three main candidates—Snowflake, BigQuery, and Databricks—**all of which** offered seamless autoscaling and pay-as-you-go pricing models.
-> 
-> What made the decision straightforward was how our team weighed the trade-offs. One vendor presented an attractive commercial proposal: if our company signed an enterprise agreement **by the end of the quarter**, we would **get 25% off our compute costs**. Furthermore, their customer success lead told us: '**I have no doubt that** your ingestion pipeline latency will drop by half within the first month.'
-> 
-> Ultimately, we selected their platform because it offered the best balance between ease of use and cost efficiency. Looking back, going through all those options methodically was completely **worth it**, as our daily dashboards now refresh three times faster without any manual babysitting."*
+### 🎯 5W1H Planning Checklist (Ensuring 1.5–2 Minutes Flow)
+
+| 5W1H Element | Technical Case Study Details |
+| :--- | :--- |
+| **Who** | Our data engineering squad, software architect, and 3 enterprise cloud vendors |
+| **What** | Evaluating and selecting distributed columnar storage for our historical analytics lake |
+| **Where** | Migrating legacy on-premise relational databases to cloud infrastructure |
+| **When** | Last quarter during a major capacity expansion project |
+| **Why** | On-premise disk space was exhausted; needed autoscaling and predictable compute pricing |
+| **How** | Technical demos, vendor walkthroughs, 25% enterprise discount *by the end of the quarter*, seamless cutover |
+
+### Model Answer (Structured with 5W1H Progression)
+
+* **[When & Who & Context]**:  
+  > *"I'd like to share an experience from last quarter when our data engineering squad had to evaluate cloud data storage providers for our historical analytics lake. Our existing on-premise relational database was running out of disk space, so our architect asked me to research modern cloud options."*
+
+* **[Where / What Options & How Explained]**:  
+  > *"Over the course of two weeks, I scheduled technical demos with three different cloud vendors. During the sessions, their solution architects **walked us through all of the options** available for distributed columnar storage. We looked closely at three main candidates—Snowflake, BigQuery, and Databricks—**all of which** offered seamless autoscaling and pay-as-you-go pricing models."*
+
+* **[Why We Weighed Trade-offs & Commercial Proposal]**:  
+  > *"What made the decision straightforward was how our team weighed the trade-offs. One vendor presented an attractive commercial proposal: if our company signed an enterprise agreement **by the end of the quarter**, we would **get 25% off our compute costs**. Furthermore, their customer success lead told us: '**I have no doubt that** your ingestion pipeline latency will drop by half within the first month.' "*
+
+* **[Outcome & How Satisfied We Were]**:  
+  > *"Ultimately, we selected their platform because it offered the best balance between ease of use and cost efficiency. Looking back, going through all those options methodically was completely **worth it**, as our daily dashboards now refresh three times faster without any manual babysitting."*
 
 ### 💡 High-Yield Collocations to Note:
 * **walked us through all of the options**: Dẫn dắt chúng tôi đi qua toàn bộ các lựa chọn.
