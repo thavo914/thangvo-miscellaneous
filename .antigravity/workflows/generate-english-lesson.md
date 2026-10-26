@@ -43,25 +43,38 @@ description: The core topic-agnostic project backbone of the English learning sy
 ```
 english/week-<N>/lessons/
 ├── lesson-overview.md
-├── day1-grammar-and-structures.md
-├── day2-ielts-and-simulation-practice.md
-├── day3-creative-writing-and-analysis.md
-├── day4-grammar-and-structures.md
-└── day5-ielts-and-simulation-practice.md
+├── day1/
+│   ├── 01-knowledge.md
+│   └── 02-exercises.md
+├── day2/
+│   ├── 01-knowledge.md
+│   └── 02-exercises.md
+├── day3/
+│   ├── 01-knowledge.md
+│   └── 02-exercises.md
+├── day4/
+│   ├── 01-knowledge.md
+│   └── 02-exercises.md
+└── day5/
+    ├── 01-knowledge.md
+    └── 02-exercises.md
 ```
 
 ---
 
-## ⏰ Daily 3-Hour (180 Mins) Time Allocation Breakdown
+## ⏰ Daily 3-Hour (180 Mins) Time Allocation & File Architecture Breakdown
 
-Every generated daily file (`day1` through `day5`) must align with the following 4-block operational breakdown:
+Every day (`day1` through `day5`) is cleanly split into exactly **2 files**:
+1. `01-knowledge.md` (~45–60 mins): Input Engine (Context, Dialogue, Rules, Formulas, Collocations, Nuance)
+2. `02-exercises.md` (~90–120 mins): Output & Reflex Engine (Warm-up, Drills, Translation, Spoken Frameworks, AI Voice, Review)
 
-| Block | Focus | Duration | Key Activities |
+| Day | Phase | File 1: `01-knowledge.md` (Input ~45-60m) | File 2: `02-exercises.md` (Output ~90-120m) |
 | :--- | :--- | :--- | :--- |
-| **Block 1** | Warm-up & Reflex Drills | **35-45 mins** | • 15m Daily Speaking Reflex Exercise<br>• 20-30m TOEIC Dictation (3 Exercises) |
-| **Block 2** | Workplace Practice | **60 mins** | • **Days 1 & 4**: Grammar Rules (3 with inline drills), Slot Templates (5 with inline drills), Collocations (5), Section Mastery Combos, Translation Drills with Answer Keys<br>• **Day 2**: Topic 1 IELTS Speaking Part 1-3, Shadowing & Rhythm<br>• **Day 3**: Topic 1 Vietnamese-to-English Conversation Translation, Monologue & Model Analysis<br>• **Day 5**: Topic 2 Vietnamese-to-English Tech Conversation Translation, IELTS Speaking & Shadowing |
-| **Block 3** | AI Speaking | **60 mins** | • Practice speaking English with AI using the lessons/vocabulary from Block 2<br>• ChatGPT Voice Mode Roleplay (IELTS Simulation / Tech Workplace Simulation) |
-| **Block 4** | Review & Consolidation | **15 mins** | • Anki / Flashcard Review<br>• Error Logging & Self-Evaluation Checklist |
+| **Day 1** | Study & Input (Topic 1) | • Topic 1 Setting & Dialogue 1<br>• 3 Grammar Rules & 5 Templates<br>• 5 Collocations & Nuance Guide | • Reflex: The Daily Commentator<br>• Active Listening: TOEIC Dictation<br>• Slot-filling & Translation Drills<br>• AI Speaking & Daily Review |
+| **Day 2** | Speaking & Output (Topic 1) | • Topic 1 Setting & Dialogue 2<br>• Model Answers & Analysis<br>• Shadowing & Pacing Guide | • Reflex: 60s Random Pitch<br>• Active Listening: TOEIC Dictation<br>• IELTS Speaking (5W1H & O-R-E-O)<br>• ChatGPT Voice Roleplay & Review |
+| **Day 3** | Translation & Analysis (Topic 1) | • Workplace Dialogue Scenario & Model<br>• Native vs Vietlish Contrast Analysis<br>• Monologue & Cue Card Model (5W1H) | • Reflex: AI Voice Roleplay<br>• Active Listening: TOEIC Dictation<br>• Conversation Transcreation Drill<br>• Delivery & Review Checklist |
+| **Day 4** | Study & Input (Topic 2 - Tech) | • Topic 2 Tech Setting & Dialogue<br>• 3 Tech Grammar Rules & 5 Templates<br>• 5 Tech Collocations & Nuance Guide | • Active Listening: TOEIC Dictation<br>• Tech Slot-filling & Translation<br>• Error Correction & Plain English Drills<br>• AI Speaking & Daily Review |
+| **Day 5** | Translation & STAR (Topic 2 - Tech) | • Tech Incident Scenario & Model<br>• Tech S-T-A-R Model Answer<br>• Shadowing & Pacing Guide | • Reflex: Devil's Advocate Challenge<br>• Active Listening: TOEIC Dictation<br>• Tech Transcreation Drill<br>• S-T-A-R Interview & ChatGPT Voice |
 
 ---
 
@@ -123,218 +136,127 @@ Include the full 5-Day schedule table mapping out all 4 blocks per day:
 
 ---
 
-## 📄 Step 2 - Generate `day1-grammar-and-structures.md` & `day4-grammar-and-structures.md`
+## 📄 Step 2 - Generate Day 1 & Day 4: `day<D>/01-knowledge.md` & `day<D>/02-exercises.md`
 
-This file houses Block 1 (Warm-up & Reflex Drills), Block 2 (Structural Foundation & Grammar Deconstruction), Block 3 (Skimming & Production), and Block 4 (Review & Error Logging).
+For both **Day 1** (Topic 1: General Social/Workplace) and **Day 4** (Topic 2: Tech/Data Operations), create two distinct files:
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening
-Provide explicit practice prompts for the day's designated exercises from [daily-reflex-and-active-listening-practices.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/daily-reflex-and-active-listening-practices.md):
-- **Day 1 & Day 4**:
-  - *Speaking Reflex*: **The Daily Commentator 🎙️** (15 mins) — Prompts for narrating actions using the day's target vocabulary. (Day 1 only)
-  - *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation, pausing as needed. Compare with transcript and correct with a red pen.
+### File 1: `day<D>/01-knowledge.md` (The Input Engine — ~45–60 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day`, `type: knowledge`, `target_level`, `estimated_time`.
+- **Section 1: Scenario & Context**: Setting the scene for the dialogue.
+- **Section 2: Dialogue Transcript**: Realistic conversation (10–14 turns) between 2 characters with target structures in **bold**.
+- **Section 3: Grammar Deconstruction (3 Target Rules)**:
+  - Rule name, quote from dialogue, simple explanation, and Common Pitfall Box (*Incorrect vs. Correct*).
+- **Section 4: Sentence Structure Templates (5 Patterns)**:
+  - Communicative function, slot-filling formula, and 3 distinct examples (Everyday, Tech/Casino, General Workplace).
+- **Section 5: High-Yield Collocations (5 Items)** & **Nuance Guide**:
+  - Collocation table with POS, Vietnamese meaning, and plain English usage tips.
+  - Delivery tips on breath-friendly phrasing and natural pausing.
 
-### Section 1: Block 2 - Workplace Practice (Grammar & Structures) (60 Mins)
-> [!IMPORTANT]
-> **ALL grammar rules MUST have dedicated, interactive practice exercises.** Do not present theoretical rules without immediate output drills.
-
-For each of the **3 target grammar rules**:
-- **Grammar Point Name** (e.g., *Talking about experience using Present Perfect*)
-- **Quote**: Exact sentence from the dialogue showing this rule.
-- **Rule Explanation**: Simple, clear explanation of usage and form.
-- **Common Pitfall Box**: A warning box showing a frequent mistake and how to correct it (*Incorrect vs. Correct*).
-- **Targeted Practice Exercises (MANDATORY)**: Directly under each rule, provide:
-  - *Drill A (Transformation / Upgrade)*: 3 sentences converting weak, habitual, or broken structures into the target grammar with blank rewrite prompts (`→ **Your Rewrite**: ____________________`).
-  - *Drill B (Contextual Precision / Fill-in-the-Blank)*: 2–3 contextual sentences testing the rule with verb brackets or choice selection.
-  - *Drill C (Your Turn)*: 1 personalized prompt tailored to Data Engineering / Tech Workplace context with fill-in blanks.
-  - *Collapsible Answer Key (`<details><summary>💡 Click to View Suggested Answers & Analysis</summary>`)*: Full model answers and linguistic explanations for why the upgrade works.
-- **Section 1 Mastery Drill (Multi-Rule Integration)**:
-  At the end of Section 1, include a synthesis challenge combining all 3 rules into a cohesive 2-sentence executive/workplace narrative (with a worked example and fill-in slots).
-
-### Section 2: Sentence Structure Templates (5 Patterns)
-> [!IMPORTANT]
-> **ALL sentence templates MUST have dedicated, immediate practice exercises.** Do not just list examples; the learner must actively practice each pattern immediately.
-
-For each of the **5 sentence structures**:
-- **Communicative Function**: (e.g., *To give a recommendation*, *To compare two choices*).
-- **Slot-Filling Formula**: Expressed using brackets for modular components (e.g., `It's really important that + [Subject] + [Verb] + before + [Noun]`).
-- **Examples**: Provide 3 distinct example sentences utilizing the formula:
-  1. *Everyday Context*
-  2. *Data Engineering / Casino Context*
-  3. *General Workplace Context*
-- **Immediate Practice Drill for EACH Template (MANDATORY)**:
-  Directly beneath the 3 examples for each template, provide:
-  - *Mini-Drill (Scenario Rephrasing or Slot-Filling)*: A practical prompt asking the learner to express a specific idea using the template.
-  - *Your Turn Slot*: A customized prompt line with blank slots (`____________________`) to customize with the learner's own project experience.
-  - *Collapsible Answer Key (`<details><summary>💡 Click to View Suggested Completions</summary>`)*: 2 sample completions showing high-band professional expression.
-
-### Section 3: Production & Translation Drills
-- **Drill 1: Consolidated "Your Turn" Customization**: Prompts for each of the 5 templates with blank spaces (`____________________`) for end-to-end custom sentence construction.
-- **Drill 2: Translation & Transformation Challenge**: 3 custom workplace/tech sentences in Vietnamese to translate into natural English using today's target grammar and templates.
-- **Collapsible Translation Models & Breakdown (MANDATORY)**: Provide a collapsed `<details><summary>💡 Click to View Model Translations & Linguistic Breakdown</summary>` containing:
-  1. Natural Band 6.5–7.0 English translations for all 3 sentences.
-  2. Contrastive linguistic notes highlighting key collocations and grammatical choices.
-  3. Alternative native phrasing variations.
-
-### Section 4: Spot the Mistake (Error Correction Drill)
-- 3 custom incorrect sentences featuring common grammatical or collocation pitfalls.
-- Collapsed Answer Key (`<details><summary>💡 Click to View Explanations & Corrections</summary>`) with B1-B2 explanations.
-
-### Section 5: Block 3 & 4 - AI Speaking & Daily Consolidation (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Instructions to practice speaking with AI (ChatGPT Voice Mode) using today's grammar rules, templates, and collocations. **IMPORTANT: You MUST append the following exact block to this section:**
-  > **Suggested Exercises (AI Prompts):**
-  >
-  > 1. **Rapid Q&A:**
-  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
-  >
-  > 2. **Instant Translation (Reverse Shadowing):**
-  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
-  >
-  > 3. **Role-play:**
-  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
-- **Review & Consolidation (15 Mins)**: Anki flashcard logging prompt and error log checklist.
+### File 2: `day<D>/02-exercises.md` (The Output Engine — ~90–120 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day`, `type: exercises`, `target_level`, `estimated_time`.
+- **Block 1: Warm-up Reflex & Active Listening (35–45 Mins)**:
+  - *Speaking Reflex*: **The Daily Commentator 🎙️** (15 mins) (Day 1) or targeted spoken warm-up (Day 4).
+  - *Active Listening*: **TOEIC Dictation 🎧** (20–30 mins) — 3 exercises with red-pen transcription analysis.
+- **Block 2: Interactive Grammar & Template Drills (35–40 Mins)**:
+  - Dedicated transformation, contextual fill-in, and personalized rewrite prompts for all 3 grammar rules and 5 templates.
+  - Multi-rule integration mastery drill.
+  - Collapsible Answer Keys (`<details><summary>💡 Click to View Suggested Answers & Analysis</summary>`).
+- **Block 3: Production, Translation & Error Correction (30 Mins)**:
+  - 3 custom Vietnamese-to-English translation challenges with collapsed model answers.
+  - Spot the Mistake (3 pitfall sentences with explanations).
+- **Block 4 & 5: AI Speaking & Review (45–60 Mins)**:
+  - ChatGPT Voice Mode instructions with the 3 mandatory exercises (Rapid Q&A, Instant Translation, Roleplay).
+  - Anki flashcard review reminder & error log table.
 
 ---
 
-## 📄 Step 3A - Generate `day2-ielts-and-simulation-practice.md`
+## 📄 Step 3A - Generate Day 2: `day2/01-knowledge.md` & `day2/02-exercises.md`
 
-This file facilitates Block 1 reflex warm-ups, active output, structured IELTS speaking practice, AI voice simulation, and intonation shadowing for **Topic 1 (General Social/Workplace)**.
+For **Day 2 (Topic 1: Speaking Output & Reflex Frameworks)**:
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening
-- *Speaking Reflex*: **The 60-Second Random Object Pitch ⏱️** (15 mins) — Continuous 60s pitch on an object using target descriptors without pausing >2s.
-- *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
+### File 1: `day2/01-knowledge.md` (The Input Engine — ~45–60 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day: 2`, `type: knowledge`, `target_level`, `estimated_time`.
+- **Section 1: Scenario Setup & Follow-up Context**: Contextualizing today's deeper discussions or speaking prompts.
+- **Section 2: High-Performing Model Structures & Vocabulary**:
+  - Sample Band 6.5–7.0 responses showing natural, non-academic Plain English.
+  - Useful discursive linkers (*because of that, the reason is, what surprised me was*).
+- **Section 3: Interactive Shadowing & Pacing Guide**:
+  - 2–3 key spoken lines broken down with rhythm slashes `/` for natural pauses and **bold/CAPITALIZED** stress markers.
 
-### Section 1: Block 2 - Workplace Practice (IELTS Prep) (60 Mins)
-- **Part 1 (Interview)**: 3 introductory questions related to Topic 1.
-  - *Framework Requirement*: Strictly enforce **5W1H** (Direct answer + 1 or 2 supporting details, e.g., Why + How/When). Provide model answers explicitly showing this 5W1H expansion.
-- **Part 2 (Cue Card)**: 1 complete IELTS Part 2 prompt with bullet points.
-  - *Framework Requirement*: Structure the 1-minute preparation scratchpad and model answer logically through the **5W1H checklist** (Who, What, Where, When, Why, How) to ensure 1.5–2 minutes of continuous, natural flow.
-- **Part 3 (Analytical Discussion)**: 2 discussion questions.
-  - *Framework Requirement*: Strictly enforce the **O-R-E-O framework**:
-    - **O (Opinion)**: Direct stance.
-    - **R (Reason)**: Logical explanation (Why/Because).
-    - **E (Example)**: Concrete real-life instance.
-    - **O (Opinion/Outcome)**: Concise synthesis or final takeaway.
-
-### Section 2: ChatGPT Voice Mode Simulation Prompt
-- A prompt based on Topic 1 and the user's background.
-- **Prompt Constraints (CRITICAL)**:
-  - **Length**: Prompt text inside code block must be **less than 300 characters**.
-  - **Hyphens**: Must contain **fewer than 10 hyphens/dashes (`-`)**.
-  - **Topic**: Clear, natural conversation topic or direction.
-
-### Section 3: Feedback Logging Table
-- A blank table to log grammar, pronunciation, and vocabulary corrections received during AI voice sessions.
-
-### Section 4: Interactive Shadowing & Pacing Guide
-- 2 key lines from lesson dialogues broken down with visual rhythm markers:
-  - Slashes `/` for natural speaking pauses/boundaries.
-  - **Bold** or CAPITALIZED text for word stress and emphasis.
-
-### Section 5: Block 3 & 4 - AI Speaking & Review (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Use the ChatGPT Voice Mode Simulation Prompt above to conduct the roleplay. **IMPORTANT: You MUST append the following exact block to this section:**
-  > **Suggested Exercises (AI Prompts):**
-  >
-  > 1. **Rapid Q&A:**
-  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
-  >
-  > 2. **Instant Translation (Reverse Shadowing):**
-  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
-  >
-  > 3. **Role-play:**
-  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
-- **Review & Consolidation (15 Mins)**: Feedback logging table & Anki review.
+### File 2: `day2/02-exercises.md` (The Output Engine — ~90–120 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day: 2`, `type: exercises`, `target_level`, `estimated_time`.
+- **Block 1: Warm-up Reflex & Active Listening (35–45 Mins)**:
+  - *Speaking Reflex*: **The 60-Second Random Object Pitch ⏱️** (15 mins) — Continuous 60s pitch on an object/work tool without long pauses.
+  - *Active Listening*: **TOEIC Dictation 🎧** (20–30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
+- **Block 2: Spoken Framework Drills (IELTS & Workplace Prep) (45 Mins)**:
+  - **Part 1 (3 Questions)**: Strictly enforcing **5W1H** (Direct answer + 1–2 supporting details).
+  - **Part 2 (Cue Card)**: 1 prompt structured with 1-min scratchpad through the **5W1H checklist** for 1.5–2 mins flow.
+  - **Part 3 (2 Questions)**: Strictly enforcing **O-R-E-O** (Opinion, Reason, Example, Opinion/Outcome).
+- **Block 3: Interactive Shadowing Practice (15 Mins)**:
+  - Practice reading aloud with the pacing markers from `01-knowledge.md` to internalize natural rhythm.
+- **Block 4 & 5: AI Voice Simulation & Review (45–60 Mins)**:
+  - ChatGPT Voice Mode simulation prompt (<300 chars, <10 hyphens).
+  - Mandatory 3 AI exercises (Rapid Q&A, Instant Translation, Roleplay).
+  - Blank feedback logging table & Anki review.
 
 ---
 
-## 📄 Step 3B - Generate `day3-creative-writing-and-analysis.md`
+## 📄 Step 3B - Generate Day 3: `day3/01-knowledge.md` & `day3/02-exercises.md`
 
-This file facilitates personal production, **Vietnamese-to-English Conversation Translation & Transcreation**, structured analysis of high-performing Band 6.5 model answers, monologue explanations, and daily reflex warm-ups for **Topic 1 (General Social/Workplace)**.
+For **Day 3 (Topic 1: Translation & Monologue Analysis)**:
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening
-- *Speaking Reflex*: **Unconventional AI Voice Roleplay 🤖** (15 mins) — Dramatic/quirky AI voice roleplay (e.g., Demanding Customer, Alien Encounter).
-- *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
+### File 1: `day3/01-knowledge.md` (The Input Engine — ~45–60 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day: 3`, `type: knowledge`, `target_level`, `estimated_time`.
+- **Section 1: Dialogue Scenario**: Relatable Vietnamese dialogue (8–12 turns) set in office/social life.
+- **Section 2: Native Model Comparison & Analysis**:
+  - Complete native English dialogue model.
+  - Side-by-side contrastive notes showing literal "Vietlish" traps vs. natural native idioms/phrases.
+- **Section 3: Monologue & Cue Card Model Answer**:
+  - Natural monologue explaining a daily life or workplace topic.
+  - Band 6.5–7.0 model response demonstrating the **5W1H framework** (Who, What, Where, When, Why, How) for 1.5–2 min flow.
 
-### Section 1: Block 2 - Workplace Practice: Vietnamese-to-English Conversation Translation Drill (60 Mins)
-- **Vietnamese Dialogue Scenario (8–12 Turns)**: Generate a highly realistic, relatable Vietnamese dialogue between two colleagues or friends reflecting Topic 1 (e.g., small talk, venting about a busy week, coffee chat, lunch plans).
-- **Task 1: Active Translation & Transcreation**: The user translates/transcreates the Vietnamese dialogue into natural, conversational English, intentionally incorporating Topic 1's target grammar rules and high-yield collocations.
-- **Task 2: Native Model Comparison & Analysis**: Provide a collapsed `<details><summary>💡 Native English Model Translation & Contrastive Analysis</summary>` block displaying:
-  1. The complete native English dialogue model.
-  2. Side-by-side contrastive notes showing literal "Vietlish" traps vs. natural native idioms/phrases.
-- **Task 3: Spoken Delivery Reinforcement**: Read the English model aloud 3–5 times to build muscle memory and rhythm without mental translation.
-
-### Section 2: Monologue (General Topic)
-- An original monologue explaining a daily life, sports, or office-social topic.
-- Highlight target grammar/phrases in **bold**. Include a "Key Vocabulary & Concepts" section below it with Vietnamese translations.
-
-### Section 3: Band 6.5-7.0 Cue Card Sample Answer
-- A natural **Band 6.5-7.0 model response** answering the Day 2 Part 2 Cue Card.
-- Must clearly demonstrate the **5W1H framework** (Who, What, Where, When, Why, How) to maintain continuous 1.5–2 minute spoken flow.
-- Highlight 3-5 key real-life phrases with Vietnamese translations.
-
-### Section 4: Self-Evaluation Checklist & Situational Responses
-- A checklist for target grammar, templates, and collocations.
-- 2 role-specific speaking/writing scenarios relevant to Data Engineering or Casino Operations with collapsed model answers.
-
-### Section 5: Block 3 & 4 - AI Speaking & Consolidation (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Practice speaking with AI using today's translated dialogue and monologue. **IMPORTANT: You MUST append the following exact block to this section:**
-  > **Suggested Exercises (AI Prompts):**
-  >
-  > 1. **Rapid Q&A:**
-  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
-  >
-  > 2. **Instant Translation (Reverse Shadowing):**
-  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
-  >
-  > 3. **Role-play:**
-  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
-- **Review & Consolidation (15 Mins)**: Anki logging & Evaluation Checklist.
+### File 2: `day3/02-exercises.md` (The Output Engine — ~90–120 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day: 3`, `type: exercises`, `target_level`, `estimated_time`.
+- **Block 1: Warm-up Reflex & Active Listening (35–45 Mins)**:
+  - *Speaking Reflex*: **Unconventional AI Voice Roleplay 🤖** (15 mins) — Dramatic/quirky AI voice roleplay (e.g., Demanding Customer, Alien Encounter).
+  - *Active Listening*: **TOEIC Dictation 🎧** (20–30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
+- **Block 2: Conversation Transcreation Drill (45 Mins)**:
+  - Active transcreation of the 8–12 turn dialogue into natural spoken English.
+  - Aloud repetition drill (3–5 times) to cement natural rhythm.
+- **Block 3: Situational Production & Monologue Delivery (20 Mins)**:
+  - Deliver the monologue aloud using target linkers; self-evaluation checklist.
+- **Block 4 & 5: AI Speaking & Review (45–60 Mins)**:
+  - Practice speaking with AI using today's translated dialogue and the 3 mandatory exercises (Rapid Q&A, Instant Translation, Roleplay).
+  - Portfolio error logging & Anki review.
 
 ---
 
-## 📄 Step 3C - Generate `day5-ielts-and-simulation-practice.md`
+## 📄 Step 3C - Generate Day 5: `day5/01-knowledge.md` & `day5/02-exercises.md`
 
-This file integrates the **Tech Conversation Translation Drill**, structured IELTS speaking practice, AI voice simulation, and intonation shadowing for **Topic 2 (Tech/Data Operations)**.
+For **Day 5 (Topic 2: Tech Translation & S-T-A-R Interview Output)**:
 
-### Section 0: Block 1 - Warm-up Reflex & Active Listening
-- *Speaking Reflex*: **The "Devil's Advocate" Challenge 😈** (15 mins) — Stating an opinion and immediately refuting it within 30s using contrast linkers.
-- *Active Listening*: **TOEIC Dictation 🎧** (20-30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
+### File 1: `day5/01-knowledge.md` (The Input Engine — ~45–60 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day: 5`, `type: knowledge`, `target_level`, `estimated_time`.
+- **Section 1: Tech Workplace Scenario**:
+  - Realistic Vietnamese workplace dialogue (8–12 turns) set in a real data engineering context (pipeline delay, schema migration, ETL debugging).
+  - Native English model dialogue and contrastive notes.
+- **Section 2: Tech S-T-A-R Model Answer**:
+  - Model response demonstrating Situation, Task, Action, Result for a behavioral interview or post-mortem incident report.
+- **Section 3: Tech Shadowing & Pacing Guide**:
+  - 2 key lines from lesson dialogues broken down with rhythm slashes `/` and **bold/CAPITALIZED** stress markers.
 
-### Section 1: Block 2 - Workplace Practice: Tech Conversation Translation Drill & IELTS Prep (60 Mins)
-- **Part A: Tech Conversation Translation Drill (Topic 2 Context)**:
-  - **Vietnamese Tech Dialogue Scenario (8–12 Turns)**: Generate a realistic workplace dialogue in Vietnamese set in a real data engineering or tech operation context (e.g., pipeline delay, schema migration, debugging with a backend engineer, explaining ETL latency to a manager).
-  - **Task 1: Active Translation & Transcreation**: The user translates the dialogue into natural tech workplace English incorporating Topic 2's target grammar rules and high-yield tech collocations.
-  - **Task 2: Native Model Comparison & Analysis**: Provide a collapsed `<details><summary>💡 Native English Tech Model Translation & Analysis</summary>` block showing the natural workplace English script and technical vocabulary contrast.
-  - **Task 3: Spoken Reinforcement**: Aloud repetition of the model script.
-- **Part B: IELTS Practice (Tech-Adjacent Context)**:
-  - **Part 1 (Interview)**: 3 tech/workplace questions enforcing **5W1H** (Direct answer + 1–2 supporting details).
-  - **Part 2 (Cue Card)**: 1 tech/project-focused IELTS Part 2 prompt with bullet points and scratchpad structured via **5W1H** (Who, What, Where, When, Why, How) for 1.5–2 minutes.
-  - **Part 3 (Analytical Discussion)**: 2 analytical discussion questions strictly enforcing **O-R-E-O** (Opinion, Reason, Example, Opinion/Outcome).
-
-### Section 2: ChatGPT Voice Mode Simulation Prompt
-- A prompt based on Topic 2 and Data Engineering / Tech Operations.
-- **Prompt Constraints (CRITICAL)**:
-  - **Length**: Prompt text inside code block must be **less than 300 characters**.
-  - **Hyphens**: Must contain **fewer than 10 hyphens/dashes (`-`)**.
-  - **Topic**: Clear, natural tech conversation topic or workplace scenario.
-
-### Section 3: Feedback Logging Table
-- A blank table to log grammar, pronunciation, and vocabulary corrections received during AI voice sessions.
-
-### Section 4: Interactive Shadowing & Pacing Guide
-- 2 key lines from lesson dialogues broken down with visual rhythm markers:
-  - Slashes `/` for natural speaking pauses/boundaries.
-  - **Bold** or CAPITALIZED text for word stress and emphasis.
-
-### Section 5: Block 3 & 4 - AI Speaking & Weekly Wrap-up (75 Mins)
-- **AI Speaking Practice (60 Mins)**: Use the ChatGPT Voice Mode Simulation Prompt to conduct the tech roleplay. **IMPORTANT: You MUST append the following exact block to this section:**
-  > **Suggested Exercises (AI Prompts):**
-  >
-  > 1. **Rapid Q&A:**
-  >    > "Act as my English tutor. Ask me random English questions ranging from easy to advanced (topics: daily life, work, opinions, etc.). I will answer in English as quickly as possible. After I answer, please correct my grammar and vocabulary, and suggest more natural, native-like ways to express my ideas."
-  >
-  > 2. **Instant Translation (Reverse Shadowing):**
-  >    > "Give me a common Vietnamese situation or daily phrase. I will try to translate it into English out loud within 3–5 seconds. After my attempt, please provide the most natural English translation so I can compare."
-  >
-  > 3. **Role-play:**
-  >    > "Let's do a role-play. Please choose one of these topics: ordering at a restaurant, a job interview, traveling/at the airport, or discussing work with a colleague. We will have a back-and-forth conversation entirely in English."
-- **Review & Consolidation (15 Mins)**: Weekly portfolio log completion, feedback logging & Anki wrap-up. Rest on the weekend!
+### File 2: `day5/02-exercises.md` (The Output Engine — ~90–120 mins)
+- **Metadata Frontmatter**: `title`, `week`, `day: 5`, `type: exercises`, `target_level`, `estimated_time`.
+- **Block 1: Warm-up Reflex & Active Listening (35–45 Mins)**:
+  - *Speaking Reflex*: **The "Devil's Advocate" Challenge 😈** (15 mins) — Stating an opinion and immediately refuting it within 30s using contrast linkers.
+  - *Active Listening*: **TOEIC Dictation 🎧** (20–30 mins) — Complete 3 short TOEIC listening exercises with full word-for-word dictation.
+- **Block 2: Tech Transcreation & S-T-A-R Practice (45 Mins)**:
+  - Active transcreation of the tech workplace dialogue.
+  - S-T-A-R interview question practice with blank slots for Situation, Task, Action, Result.
+  - Tech IELTS questions using **5W1H** (Part 1/2) and **O-R-E-O** (Part 3).
+- **Block 3: Interactive Shadowing Practice (15 Mins)**:
+  - Aloud repetition using the pacing guide markers.
+- **Block 4 & 5: AI Voice Simulation & Weekly Wrap-up (45–60 Mins)**:
+  - ChatGPT Voice Mode tech prompt (<300 chars, <10 hyphens).
+  - Mandatory 3 AI exercises (Rapid Q&A, Instant Translation, Roleplay).
+  - Weekly portfolio log completion, feedback logging table, Anki wrap-up. Rest on the weekend!
