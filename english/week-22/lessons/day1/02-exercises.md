@@ -38,16 +38,16 @@ Read these two key lines aloud 3–5 times. Pay attention to the rhythm slashes 
 Customize each sentence formula with your own real-life workplace or personal details:
 1. *(Polite inquiry)*:  
    `I was calling to check on + [an order / an update / a ticket]...`  
-   → **Your Sentence**: __________________________________________________
+   → **Your Sentence**: I was calling to check on a ticket I raised to access D365 Dataverse.
 2. *(System record under a name)*:  
    `The [reservation / order / account] was placed under + [Name / Department]...`  
-   → **Your Sentence**: __________________________________________________
+   → **Your Sentence**: The ticket was placed under Chris Vo.
 3. *(Availability boundary)*:  
    `I'm currently busy with [Task], but I should be back / free by + [Time]...`  
-   → **Your Sentence**: __________________________________________________
+   → **Your Sentence**: I'm currently busy with a sync meeting, but I should be free by 11AM.
 4. *(Past roadblock with gerund)*:  
    `Earlier this week, we had trouble + [Verb-ing] + because + [Reason]...`  
-   → **Your Sentence**: __________________________________________________
+   → **Your Sentence**: Earlier this week, we had trouble accessing D365 dataverse.
 
 <details>
 <summary>💡 Click to View Suggested Model Completions</summary>
@@ -63,8 +63,11 @@ Customize each sentence formula with your own real-life workplace or personal de
 ### Drill 2: Spot the Pitfall (Error Correction)
 Find and correct the mistake in each sentence:
 1. *"I am calling because I am expecting for an important package today."*
+*Correct*: I was calling because I'm expecting an important package today.
 2. *"Can you check the order? It is placed with my name, Thang Vo."*
+*Correct*: Can you check the order? It is placed under my name, Thang Vo.
 3. *"I will be away from my desk until 3:00 PM, but I will return until 3:30 PM."*
+*Correct*: I will be away from my desk until 3:00 PM, but I will return by 3:30 PM.
 
 <details>
 <summary>💡 Click to View Explanations & Corrections</summary>
@@ -84,11 +87,11 @@ Find and correct the mistake in each sentence:
 Translate these realistic workplace sentences into natural Plain English. Avoid literal word-by-word translation:
 
 1. *"Tôi gọi điện để hỏi thăm về bưu kiện màn hình máy tính được đặt dưới tên công ty chúng tôi."*  
-   → **Your Translation**: __________________________________________________
+   → **Your Translation**: I was calling to inquire about the computer monitor shipment placed under our company's name.
 2. *"Chiều nay tôi có cuộc họp với sếp, nhưng tôi chắc chắn sẽ quay lại bàn làm việc trước 3 giờ rưỡi."*  
-   → **Your Translation**: __________________________________________________
+   → **Your Translation**: I have a meeting with my manager this afternoon, but I will be back by 3 PM.
 3. *"Bên kho báo là họ gặp khó khăn trong việc tìm linh kiện thay thế còn hàng trong kho."*  
-   → **Your Translation**: __________________________________________________
+   → **Your Translation**: The warehouse team said they had trouble finding the replacement parts in stock.
 
 <details>
 <summary>💡 Click to View Native Model Translations & Phrasing Comparison</summary>
