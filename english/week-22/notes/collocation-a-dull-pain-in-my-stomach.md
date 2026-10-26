@@ -25,6 +25,63 @@ $$\mathbf{I've\ had\ +\ a\ dull\ pain\ in\ my\ [stomach\ /\ abdomen\ /\ lower\ b
 
 ---
 
+### 🔍 Giải mã toàn diện cách dùng của `I've had` (The 4 Functional Pillars of "I've had")
+
+Cụm **`I've had`** là dạng viết tắt của **`I have had`** (Hiện tại hoàn thành của động từ `have`). Đây là một trong những cấu trúc phản xạ cốt lõi và đa năng nhất trong tiếng Anh giao tiếp công sở và đời sống B1–B2:
+
+```
+                  ┌─── 1. SỨC KHỎE & TRIỆU CHỨNG: I've had a dull pain, a headache all day
+                  ├─── 2. SỰ CỐ & KHÓ KHĂN:       I've had trouble connecting to the VPN
+  ["I'VE HAD"] ───┼─── 3. TRẢI NGHIỆM & CUỘC HỌP: I've had a quick chat with the team
+                  └─── 4. KHẨU NGỮ CẠN KIÊN NHẪN: I've had enough!, I've had it with this bug!
+```
+
+#### 1. Mô tả triệu chứng sức khỏe & bệnh lý kéo dài (Health & Medical Symptoms)
+Người bản xứ dùng `have` để nói về bệnh tật (`I have a headache / fever`). Khi triệu chứng kéo dài từ một mốc thời gian trong quá khứ đến tận bây giờ, **bắt buộc** phải dùng `I've had`:
+* *"**I've had a dull pain in my stomach** since last week."*  
+  *(Tôi bị đau âm ỉ ở bụng từ tuần trước đến giờ).*
+* *"**I've had a nagging cough** for almost two weeks now."*  
+  *(Tôi bị một cơn ho dai dẳng suốt gần hai tuần nay).*
+* *"**I've had a terrible headache** all morning, so I'm stepping away to rest."*  
+  *(Tôi bị đau đầu dữ dội suốt từ sáng tới giờ, nên tôi xin phép rời máy một chút để nghỉ ngơi).*
+
+#### 2. Trải qua sự cố, khó khăn hoặc trục trặc kỹ thuật (Workplace & Technical Issues)
+Khi gặp trục trặc kỹ thuật hoặc công việc tồn đọng:
+* *"**I've had some trouble** running the ETL pipeline this morning."*  
+  *(Sáng nay tôi gặp chút trục trặc khi chạy pipeline ETL).*
+* *"**We've had several network outages** since the last firewall update."*  
+  *(Chúng tôi đã gặp vài đợt rớt mạng kể từ lần cập nhật tường lửa vừa rồi).*
+* *"**I've had a lot on my plate** recently."*  
+  *(Dạo này tôi đang phải gánh rất nhiều đầu việc cùng lúc).*
+
+#### 3. Trải nghiệm, cuộc gặp hoặc cơ hội vừa diễn ra (Experiences & Interactions)
+* *"**I've had the privilege of working** with some incredible data engineers."*  
+  *(Tôi đã có cơ hội quý báu được làm việc cùng những kỹ sư dữ liệu xuất sắc).*
+* *"**I've had a quick sync** with the product manager regarding the release scope."*  
+  *(Tôi vừa có một cuộc trao đổi ngắn với PM về phạm vi đợt release).*
+* *"**I've never had this happen** on production before."*  
+  *(Trước đây tôi chưa từng gặp lỗi này xảy ra trên production bao giờ).*
+
+#### 4. Khẩu ngữ thể hiện sự cạn kiên nhẫn (Idiomatic Frustration Reflexes)
+* **`I've had enough (of this / of it)`**: Đủ rồi đấy / Chịu hết nổi rồi!
+  * *"**I've had enough of** these broken builds; let's fix the root cause today."*  
+    *(Tôi chịu hết nổi mấy đợt build hỏng này rồi; hôm nay dứt khoát phải xử lý tận gốc).*
+* **`I've had it (with...)`**: Tôi không thể chịu đựng thêm được nữa!
+  * *"**I've had it with** this slow internet connection!"*  
+    *(Tôi hết chịu nổi cái mạng chậm như rùa này rồi!)*
+
+---
+
+### ⏱️ Bảng so sánh 3 mốc thời gian: `I had` vs. `I've had` vs. `I'm having`
+
+| Dạng thức | Thì ngữ pháp | Sắc thái & Tính thời điểm | Ví dụ minh họa |
+| :--- | :--- | :--- | :--- |
+| **`I had`** | Quá khứ đơn (Past Simple) | Đã **chấm dứt hoàn toàn** trong quá khứ; hiện tại không còn nữa. | *"I **had** a stomach ache yesterday, but I feel fine now."*<br>*(Hôm qua đau bụng, giờ khỏi rồi).* |
+| **`I've had`** | Hiện tại hoàn thành (Present Perfect) | Bắt đầu từ quá khứ, **kéo dài liên tục tới hiện tại** (hoặc vừa xảy ra). | *"I'**ve had** a dull pain in my stomach since last week."*<br>*(Đau từ tuần trước, giờ vẫn đang đau).* |
+| **`I'm having`** | Hiện tại tiếp diễn (Present Continuous) | Đang trải nghiệm hoặc đang diễn ra **ngay tại thời điểm nói**. | *"I'**m having** lunch right now; I'll ping you back."*<br>*"I'**m having** trouble hearing your microphone."* |
+
+---
+
 ### Bảng phân biệt các tính từ mô tả cơn đau chuẩn y khoa & giao tiếp
 
 Khi đi khám bệnh hoặc báo cáo sức khỏe, người bản xứ phân biệt rất rõ 6 loại cơn đau sau:

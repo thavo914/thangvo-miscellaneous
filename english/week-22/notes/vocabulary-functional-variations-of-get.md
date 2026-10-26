@@ -13,10 +13,37 @@
 > *"Well, I'll have to call our usual private shuttle service and **get a quick quote**."*
 
 * **Lưu ý Collocation trọng tâm**:
-  * Khi gọi điện cho dịch vụ xe đưa đón (`shuttle service`), nhà xe hoặc nhà cung cấp dịch vụ kỹ thuật, cụm từ tự nhiên và chính xác 100% của người bản xứ là **`get a quick quote`** (/kwoʊt/ = xin báo giá nhanh / ước tính chi phí sơ bộ).
-  * Từ *"note"* nếu dùng trong ngữ cảnh này sẽ dễ gây khó hiểu (người bản xứ nói `take a quick note` = ghi chép nhanh, chứ không nói *get a quick note* từ nhà xe).
+  * Khi gọi điện cho dịch vụ xe đưa đón (`shuttle service`), nhà xe hoặc nhà cung cấp dịch vụ kỹ thuật để hỏi về chi phí, từ chuẩn xác 100% của người bản xứ là **`get a quick quote`** (/kwoʊt/ = xin báo giá nhanh / ước tính chi phí sơ bộ).
+  * Từ *"note"* nếu dùng trong ngữ cảnh này sẽ gây hiểu lầm hoặc khó hiểu đối với bên dịch vụ xe (vì họ tưởng bạn xin giấy xác nhận hoặc để lại lời nhắn).
 * **Cụm `our usual [service / vendor]`**:
   * Mang nghĩa là đối tác quen thuộc, nhà xe mối ruột mà công ty thường xuyên sử dụng.
+
+---
+
+### 📝 Khi nào người bản xứ thực sự dùng `get a quick note`?
+
+Cụm **`get a quick note`** hoàn toàn là tiếng Anh chuẩn mực và cực kỳ tự nhiên, nhưng nó mang các lớp nghĩa chức năng sau:
+
+#### 1. Nhận tin nhắn ngắn / email vắn tắt từ ai đó (`receive a brief message / email`)
+Trong công sở hằng ngày, khi bạn nhận được một mẩu tin nhanh qua Slack, email ngắn hoặc mẩu giấy ghi chú:
+* *"I just **got a quick note from Sarah** saying the staging deployment was successful."*  
+  *(Tôi vừa nhận được tin nhắn ngắn từ Sarah báo rằng đợt triển khai staging đã thành công).*
+* *"Did you **get my quick note** about the updated database schema?"*  
+  *(Cậu có nhận được mẩu tin ngắn tớ gửi về việc cập nhật cấu trúc database không?)*
+
+#### 2. Xin / Nhận giấy xác nhận y tế hoặc giấy phép (`obtain an official excuse / slip`)
+Khi cần giấy xác nhận khám bệnh từ bác sĩ để nộp cho phòng nhân sự (HR) hoặc trường học:
+* *"I woke up with a migraine, so I'll drop by the clinic to **get a quick doctor's note** for HR."*  
+  *(Sáng nay tôi thức dậy bị đau nửa đầu, nên tôi sẽ ghé qua phòng khám để xin một tờ giấy xác nhận nhanh của bác sĩ gửi cho HR).*
+
+#### 3. Bộ 3 động từ tự nhiên đi với `note` (Tránh nhầm lẫn phản xạ)
+Để nói chuẩn và không bị ngắc ngứ, hãy ghi nhớ cách kết hợp động từ với `note`:
+* **Nhận tin nhắn / giấy chứng nhận**: **`get a quick note (from someone)`**  
+  *Ví dụ: "I got a quick note from the client confirming our meeting."*
+* **Ghi chép nhanh lại thông tin**: **`take a quick note`** hoặc **`jot down a quick note`** *(không dùng `get`)*  
+  *Ví dụ: "Let me take a quick note so I don't forget the server IP."*
+* **Gửi một tin nhắn ngắn cho ai đó**: **`drop / send someone a quick note`**  
+  *Ví dụ: "I'll drop you a quick note once the data pipeline finishes running."*
 
 ---
 
@@ -94,7 +121,7 @@ Người Việt thường có xu hướng lạm dụng các từ vựng gốc La
 
 | ❌ Common Mistake / Awkward Phrasing | ✅ Natural Native English | Why / Linguistic Reason |
 | :--- | :--- | :--- |
-| *Get a quick note from the shuttle service.* | *Get a **quick quote** from the shuttle service.* | ⚠️ **Nhầm lẫn từ vựng phát âm tương đồng**: Khi gọi hỏi giá nhà xe hoặc bên dịch vụ, từ chuẩn là **`quote`** (/kwoʊt/ = báo giá), không phải `note`. Nếu ghi chép thì nói *"take a note"*. |
+| *Get a quick note from the shuttle service.* (khi muốn hỏi giá) | *Get a **quick quote** from the shuttle service.* | ⚠️ **Nhầm lẫn từ vựng phát âm tương đồng**: Khi gọi hỏi giá nhà xe hoặc bên dịch vụ, từ chuẩn là **`quote`** (/kwoʊt/ = báo giá). Cụm `get a quick note` chỉ dùng khi **nhận tin nhắn/email ngắn** (`got a quick note from Sarah`) hoặc **xin giấy xác nhận y tế/phép nghỉ** (`get a doctor's note`). Còn khi viết lại thông tin thì dùng `take a quick note`. |
 | *I get to the office at 8 AM yesterday.* | *I **got** to the office at 8 AM yesterday.* | ❌ **Lỗi thì quá khứ**: `Get` là động từ bất quy tắc, quá khứ là **`got`**, phân từ hai là `got` (UK) hoặc `gotten` (US). |
 | *I get him fix the bug.* | *I **got him to fix** the bug.* | ❌ **Cấu trúc Causative với người**: `get + someone + TO + Base Verb` (khác với `have someone do something`). Bắt buộc phải có **`to`**. |
 | *I get locked from the system.* | *I **got locked out of** the system.* | ❌ **Lỗi thiếu giới từ phrasal verb**: Phải là `got locked out of`. |

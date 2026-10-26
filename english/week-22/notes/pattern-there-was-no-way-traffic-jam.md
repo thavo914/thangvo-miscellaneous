@@ -43,6 +43,29 @@ $$\mathbf{No,\ but\ [Subject]\ did\ say\ there\ was\ no\ way\ to\ bypass\ the\ t
 #### 3. Trợ động từ nhấn mạnh: `did say`
 * Thay vì chỉ nói *"he said"*, người bản xứ thêm trợ động từ **`did` + động từ nguyên thể** (`did say`) để nhấn mạnh sự thật nhằm bảo vệ đồng nghiệp hoặc xác nhận lại chi tiết quan trọng: *"Anh ấy có nói là..."*.
 
+#### 4. Tại sao câu này lại dùng Quá khứ đơn (`was no way`, `was open`) thay vì Hiện tại đơn?
+* **Đối chiếu trực tiếp với bài học câu tường thuật trước đó**:
+  * Khi sự việc **đang diễn ra ngay lúc bạn phát ngôn** (standup sáng): *"He said **he's** on his way, but **he's** stuck in traffic."* (Sự thật vẫn đang tiếp diễn ở hiện tại $\rightarrow$ giữ nguyên thì hiện tại đơn).
+  * Nhưng trong câu này: *"No, but he did say there **was** no way to bypass the traffic jam since only one lane **was** open."*
+* **Lý do dùng Quá khứ đơn**:
+  * Đây là cuộc đối thoại **hồi tưởng / giải trình sự cố sau khi sự việc ĐÃ HOÀN TẤT TRONG QUÁ KHỨ (Post-Incident Debrief)**:
+    1. Chuyến đi đã kết thúc, người đó đã tới nơi (hoặc sự cố diễn ra sáng nay/hôm qua).
+    2. Tình trạng "chỉ có một làn đường mở" là một **thực tế tạm thời gắn liền với thời điểm kẹt xe đó**, hiện tại không còn tồn tại nữa.
+    3. Vì sự việc đã kết thúc và không còn tính tiếp diễn ở hiện tại, câu bắt buộc phải tuân theo quy tắc hòa hợp thì quá khứ chuẩn mực: `did say` $\longrightarrow$ `there was no way` $\longrightarrow$ `only one lane was open`.
+
+#### 5. Tại sao là `open` mà KHÔNG PHẢI là `opened`? (`since only one lane was open`)
+Đây là một trong những cái bẫy ngữ pháp kinh điển nhất giữa **Tính từ chỉ trạng thái (State Adjective)** và **Động từ dạng bị động (Passive Action)**:
+* **`open` là TÍNH TỪ chỉ TRẠNG THÁI (State Adjective)**:
+  * Mang nghĩa: **"đang mở, đang thông xe, có thể lưu thông"** (ngược nghĩa với `closed`).
+  * Khi đi sau to-be (`be open`), nó miêu tả tình trạng sẵn sàng lưu thông của làn đường:
+    * *"Only one lane was **open**."* *(Chỉ có một làn đường là đang mở / thông thoáng cho xe chạy).*
+    * Tương tự: *"The store is **open**"* *(Cửa hàng đang mở cửa)*; *"Is the road **open**?"* *(Đường đã thông xe chưa?)*. Không ai hỏi *"Is the road opened?"*.
+* **Nếu dùng `opened` (Quá khứ phân từ / Dạng bị động của động từ `open`)**:
+  * `opened` diễn tả một **HÀNH ĐỘNG mở ra** bởi một tác nhân cụ thể tại một thời điểm nhất định:
+    * *"The lane was **opened by the police** at 9 AM."* *(Làn đường đã được cảnh sát mở chốt lúc 9 giờ sáng - Hành động).*
+    * *"The new bridge was **opened to traffic** last week."* *(Cây cầu mới đã được làm lễ thông xe tuần trước - Hành động).*
+  * Trong câu này, người nói không miêu tả hành động ai đó đang "mở" làn đường, mà đang miêu tả **tình trạng mặt đường lúc đó** (chỉ có 1 làn thông suốt). Do đó, bắt buộc phải dùng **tính từ `open`**.
+
 ---
 
 ## 📚 2. Categorized Usages & Real-Life Examples
@@ -91,6 +114,7 @@ $$\mathbf{No,\ but\ [Subject]\ did\ say\ there\ was\ no\ way\ to\ bypass\ the\ t
 | *There was no way for bypass.* | *There was no way **to bypass**.* | ❌ **Lỗi sai giới từ sau way**: Cấu trúc chuẩn là `no way TO + Base Verb`, không dùng *for + Base Verb*. |
 | *I was stuck in a traffic.* | *I was stuck in **traffic** / in **a traffic jam**.* | ❌ **Lỗi danh từ không đếm được**: `Traffic` là danh từ không đếm được (không dùng mạo từ `a traffic`). Nếu muốn dùng mạo từ `a`, phải ghép thành cụm danh từ đếm được **`a traffic jam`**. |
 | *There is no way he did that yesterday.* | *There **was** no way...* | ❌ **Lỗi hòa hợp thì**: Khi diễn tả sự việc đã xảy ra trong quá khứ (*yesterday / was open*), to-be phải lùi về quá khứ là **`was`** (`there was no way`). |
+| *since only one lane was opened.* | *since only one lane was **open**.* | ⚠️ **Nhầm lẫn giữa Tính từ trạng thái và Động từ bị động**: `open` là tính từ chỉ trạng thái (đang mở/cho xe chạy). Dạng `opened` chỉ dùng khi có hành động ai đó mở ra (`was opened by the police`). Khi nói về trạng thái đường xá hay hàng quán, luôn dùng tính từ **`open`** hoặc **`closed`**. |
 
 ---
 
