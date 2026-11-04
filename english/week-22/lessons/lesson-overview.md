@@ -72,9 +72,10 @@ english/week-22/lessons/
 ├── day4/
 │   ├── 01-knowledge.md   # [Input] Payment Channels, POS Hardware, Banking
 │   └── 02-exercises.md   # [Output] TOEIC Dictation, Quantifier Drills, Tech Flow
-└── day5/
+├── day5/
     ├── 01-knowledge.md   # [Input] Incident Resolution (STAR), Bug vs Conflict
-    └── 02-exercises.md   # [Output] Devil's Advocate, STAR Interview, War Room Voice
+│   └── 02-exercises.md   # [Output] Devil's Advocate, STAR Interview, War Room Voice
+└── day6-review-test-90min.md # [Milestone] 90-Minute Comprehensive Assessment (Weeks 20–22)
 ```
 
 | Day | Focus | File 1: `01-knowledge.md` (~45–60m) | File 2: `02-exercises.md` (~90–120m) | AI Speaking & Review Focus |
@@ -84,3 +85,4 @@ english/week-22/lessons/
 | **Day 3** | Transit Delays & Status Updates | Urgent event prep dialogue, reported speech with present relevance | Transcreation drill (Vietnamese ➔ English), Aloud Shadowing | Courier & conference organizer roleplay |
 | **Day 4** | Payment Gateway & Banking | Payment channels, POS scanners, `most` vs `almost`, banking rules | Technical slot-filling, fee breakdown, TOEIC listening dictation | Explaining payment workflows to a merchant |
 | **Day 5** | System Outages & S-T-A-R Resolution | S-T-A-R incident deconstruction, `solve` vs `resolve`, `locked out of` | S-T-A-R interview responses, tech transcreation, backlog debate | Post-mortem simulation & behavioral interview |
+| **Day 6** | **3-Week Milestone Assessment (Weeks 20–22)** | [day6-review-test-90min.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-22/lessons/day6-review-test-90min.md) *(Comprehensive 90-Minute Test)* | 4 Parts: Collocation Precision, Vietlish Traps, Sentence Formulas & Tech Transcreation | Written Mastery & Diagnostic Self-Check |
