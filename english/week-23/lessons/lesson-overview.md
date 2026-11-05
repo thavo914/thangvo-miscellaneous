@@ -59,6 +59,7 @@ Every day follows a balanced, action-packed 4-block engine focusing on active sp
 * **Block 2 (35–45 Mins)**: 3-Second Quick-Fire Reflex Drills ⚡ (15–20 rapid situational prompts + De-Vietlish traps).
 * **Block 3 (20–25 Mins)**: Storyline Transcreation & Dialogue Breakdown 🎭 (Multi-turn conversational roleplay transcreation).
 * **Block 4 (25–35 Mins)**: ChatGPT Voice Mode Real-Time Simulation 🎙️ (Hands-free voice mission & live listening-speaking practice).
+* **Self-Paced Listening Drill**: [1-Minute Gist-Catching & Verbal Summary Reference](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-23/lessons/listening-gist-catching-reference.md) 🎧 (4 authentic workplace transcripts, 3W breakdowns, and 10-point scoring rubrics).
 * **Saturday (90 Mins)**: Written Proficiency Review Test (Part 1 Collocations, Part 2 Vietlish Traps, Part 3 Formulas, Part 4 Transcreation).
 * **Sunday**: Rest & Recharge!
 
