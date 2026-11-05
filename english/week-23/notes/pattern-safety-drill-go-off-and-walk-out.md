@@ -42,11 +42,30 @@ Trong tiếng Anh, **`go off`** là một phrasal verb đa năng cực kỳ quan
 
 ---
 
-### 3. Trọng tâm từ vựng 2: Phrasal Verb `Walk out (of)`
+### 3. Trọng tâm từ vựng 2: Phrasal Verb `Walk out` vs. `Walk out of`
+
+Rất nhiều người học thắc mắc: *Tại sao câu trên lại dùng `walk out of your classrooms` mà không thể nói `walk out your classrooms`?*
+
+```
+                         ĐỐI CHIẾU: "WALK OUT" VS. "WALK OUT OF"
+                         
+             WALK OUT                                      WALK OUT OF + [Địa điểm]
+   (Nội động từ - KHÔNG có tân ngữ)                 (Giới từ kép - BẮT BUỘC có danh từ nơi chốn)
+   ─────────────────────────────────                 ─────────────────────────────────────────────
+   • "Out" là phó từ (adverb particle).              • "Out of" đóng vai trò là giới từ kép (preposition).
+   • KHÔNG ĐƯỢC đi kèm danh từ nơi chốn.             • Dùng khi muốn nói rõ RỜI KHỎI ĐỊA ĐIỂM NÀO.
+   • Thường đứng cuối câu hoặc mang nghĩa:           • Đối trọng không gian trực tiếp của "INTO":
+     1. Bước ra ngoài:                                   walk INTO the room  <──>  walk OUT OF the room
+        "Please stand up and walk out."              • Ví dụ:
+     2. Đình công / Bỏ về vì tức giận:                   "Please walk out OF your classrooms."
+        "The workers decided to walk out."               "He walked out OF the meeting."
+   ⚠️ Tuyệt đối không nói:                           ⚠️ Khẩu ngữ Mỹ đôi khi nói tắt với "the door":
+      ❌ walk out your classrooms                       "He walked out the door" (nhưng phòng/nhà thì bắt buộc có OF).
+```
 
 * **Nghĩa 1: Rời khỏi phòng / tòa nhà một cách trật tự (Evacuation Protocol)**:
   * Trong các quy trình an toàn (Safety drills), người chỉ huy luôn nhấn mạnh: **`walk out, do not run`** (hãy đi bộ bình tĩnh ra ngoài, không được chạy) nhằm tránh tình trạng hoảng loạn, vấp ngã và giẫm đạp lên nhau.
-  * Giới từ bắt buộc khi có địa điểm phía sau: **`walk out OF [the room / the building]`**.
+  * Giới từ bắt buộc khi chỉ đích danh căn phòng: **`walk out OF [the classroom / the building]`**.
 * **Nghĩa 2: Đình công / Bỏ họp để phản đối (Protest / Walkout)**:
   * Khi nhân viên hoặc học sinh đồng loạt bỏ ra ngoài để phản đối:
     * *"Over 500 engineers **walked out** in protest of the return-to-office policy."*

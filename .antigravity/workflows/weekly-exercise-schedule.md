@@ -1,23 +1,23 @@
-# Weekly English Exercise Schedule (5-Day / 15-Hour Focus)
+# Weekly English Exercise Schedule (Story-Driven High-Intensity Speed Reflex)
 
-Based on the `generate-english-lesson` and `generate-daily-conversation` workflows, each day in the 5-day cycle (Monday to Friday, leaving weekends free for rest & recovery) is organized into exactly **2 modular files**:
-- `01-knowledge.md`: The Input & Comprehension Engine (~45–60 mins)
-- `02-exercises.md`: The Output & Reflex Engine (~90–120 mins)
+Based on the updated `generate-english-lesson` workflow, the weekly cycle is engineered for **High-Intensity Speed Reflex & Story-Driven Immersion** (90–120 minutes/day, Monday to Friday, followed by a 90-minute Proficiency Review Test on Saturday, leaving Sunday for rest & recovery).
 
-| Day | File 1: `01-knowledge.md` (Input ~45-60m) | File 2: `02-exercises.md` (Output ~90-120m) | AI Speaking & Review Focus |
+Each day from Day 1 to Day 5 is consolidated into **1 single, action-packed file** (`day<N>-speed-reflex.md`) to maintain unbroken focus:
+
+| Day | File | Core Storyline & Focus | Daily 4-Block Breakdown (90–120 Mins Total) |
 | :--- | :--- | :--- | :--- |
-| **Day 1**<br>*(General Topic)* | • **Speaking (15m):** The Daily Commentator<br>• **Listening (20-30m):** TOEIC Dictation (3 Exercises) | • **Grammar Study:** 3 Target Rules<br>• **Vocabulary:** 5 Sentence Templates & 5 Collocations<br>• **Drills:** Production, Translation, Spot the Mistake | • **AI Speaking:** Practice with AI using today's lessons<br>• **Review:** Anki flashcard logging & error log |
-| **Day 2**<br>*(General Topic)* | • **Speaking (15m):** The 60-Second Random Object Pitch<br>• **Listening (20-30m):** TOEIC Dictation (3 Exercises) | • **IELTS Practice:** Part 1 (5W1H), Part 2 (Cue Card - 5W1H), Part 3 (O-R-E-O)<br>• **Drills:** Interactive Shadowing & Pacing Guide | • **AI Speaking:** ChatGPT Voice Mode Roleplay (IELTS / STAR Job Interview)<br>• **Review:** Feedback logging & Anki review |
-| **Day 3**<br>*(General Topic)* | • **Speaking (15m):** Unconventional AI Voice Roleplay<br>• **Listening (20-30m):** TOEIC Dictation (3 Exercises) | • **Translation Drill:** Vietnamese-to-English Conversation Transcreation (8–12 turns) & Native Model Comparison<br>• **Speaking Prep:** General Topic Monologue<br>• **Analysis:** Band 6.5-7.0 Cue Card Model Answer (5W1H flow) | • **AI Speaking:** Practice with AI using today's translated dialogue/monologue<br>• **Review:** Weekly portfolio log completion & Evaluation Checklist |
-| **Day 4**<br>*(Tech Topic)* | • **Listening (20-30m):** TOEIC Dictation (3 Exercises) | • **Grammar Study:** 3 Target Rules (Tech Context)<br>• **Vocabulary:** 5 Sentence Templates & 5 Tech Collocations<br>• **Drills:** Production, Translation, Spot the Mistake | • **AI Speaking:** Practice with AI using today's tech lessons<br>• **Review:** Anki flashcard logging & error log |
-| **Day 5**<br>*(Tech Topic)* | • **Speaking (15m):** The "Devil's Advocate" Challenge<br>• **Listening (20-30m):** TOEIC Dictation (3 Exercises) | • **Translation Drill:** Vietnamese-to-English Tech Conversation Transcreation (8–12 turns) & Native Model Comparison<br>• **IELTS Practice:** Part 1 (5W1H), Part 2 (Cue Card - 5W1H), Part 3 (O-R-E-O)<br>• **Drills:** Interactive Shadowing & Pacing Guide | • **AI Speaking:** ChatGPT Voice Mode Roleplay (Tech Simulation / STAR Interview)<br>• **Review:** Feedback logging & Anki wrap-up |
-| **Weekend**<br>*(Rest)* | — | — | • **Rest & Recharge** (or optional light Anki review) |
+| **Day 1** | `day1-speed-reflex.md` | **Story Arc 1: Episode 1**<br>*(Daily Life, Social & Morning Sync)* | • **Block 1 (15–20m):** Story Mission & Pattern Activation (From Notes)<br>• **Block 2 (35–45m):** 3-Second Quick-Fire Reflex Drills (15–20 prompts)<br>• **Block 3 (20–25m):** Storyline Transcreation & Dialogue Breakdown<br>• **Block 4 (25–35m):** ChatGPT Voice Mode Real-Time Simulation |
+| **Day 2** | `day2-speed-reflex.md` | **Story Arc 1: Episode 2**<br>*(Workplace Collaboration & Handoffs)* | • **Block 1 (15–20m):** Story Mission & Pattern Activation (From Notes)<br>• **Block 2 (35–45m):** 3-Second Quick-Fire Reflex Drills (15–20 prompts)<br>• **Block 3 (20–25m):** Storyline Transcreation & Dialogue Breakdown<br>• **Block 4 (25–35m):** ChatGPT Voice Mode Real-Time Simulation |
+| **Day 3** | `day3-speed-reflex.md` | **Story Arc 2: Episode 1**<br>*(Technical Planning & Meetings)* | • **Block 1 (15–20m):** Story Mission & Pattern Activation (From Notes)<br>• **Block 2 (35–45m):** 3-Second Quick-Fire Reflex Drills (15–20 prompts)<br>• **Block 3 (20–25m):** Storyline Transcreation & Dialogue Breakdown<br>• **Block 4 (25–35m):** ChatGPT Voice Mode Real-Time Simulation |
+| **Day 4** | `day4-speed-reflex.md` | **Story Arc 2: Episode 2**<br>*(System Incidents, Triage & Empathy)* | • **Block 1 (15–20m):** Story Mission & Pattern Activation (From Notes)<br>• **Block 2 (35–45m):** 3-Second Quick-Fire Reflex Drills (15–20 prompts)<br>• **Block 3 (20–25m):** Storyline Transcreation & Dialogue Breakdown<br>• **Block 4 (25–35m):** ChatGPT Voice Mode Real-Time Simulation |
+| **Day 5** | `day5-speed-reflex.md` | **Story Arc 3: Climax & Resolution**<br>*(Town Hall, Tributes & Upsells)* | • **Block 1 (15–20m):** Story Mission & Pattern Activation (From Notes)<br>• **Block 2 (35–45m):** 3-Second Quick-Fire Reflex Drills (15–20 prompts)<br>• **Block 3 (20–25m):** Storyline Transcreation & Dialogue Breakdown<br>• **Block 4 (25–35m):** ChatGPT Voice Mode Real-Time Simulation |
+| **Day 6** | `day6-review-test-90min.md` | **Weekly Proficiency Review Test**<br>*(90 Minutes / 100 Points)* | • **Part 1 (20 pts):** Vocabulary & Collocation Slot-Filling<br>• **Part 2 (20 pts):** Vietlish Trap Detection & Deconstruction<br>• **Part 3 (30 pts):** Dynamic Sentence Construction & Transformation<br>• **Part 4 (30 pts):** Situational Story Transcreation & Resolution |
+| **Day 7** | — | **Rest & Recovery** | • Relax, recharge mental batteries, or optional light Anki flashcard review. |
 
 ---
 
-> [!NOTE]
-> **Core Spoken Response Frameworks**:
-> - **5W1H (Who, What, Where, When, Why, How)**: Applied in Part 1 (Direct answer + 1–2 supporting details) and Part 2 (1.5–2 min Cue Card continuous flow).
-> - **O-R-E-O (Opinion, Reason, Example, Opinion/Outcome)**: Applied in Part 3 (Analytical / abstract discussion).
-> - **S-T-A-R (Situation, Task, Action, Result)**: Applied exclusively when practicing Job / Behavioral Interview scenarios.
-
+> [!IMPORTANT]
+> **Core Speed-Reflex Principles**:
+> - **Zero Academic Bloat**: Eliminate abstract essays, academic cue cards, or passive grammar lectures. 80% of daily time is spent speaking, building sentences, and engaging in voice dialogs.
+> - **Anchored in Notes**: All story arcs, target formulas, and vocabulary originate directly from `english/week-<N>/notes/`.
+> - **The 3-Second Rule**: Train rapid involuntary reflexes — hear a Vietnamese context or prompt and fire out native spoken English within 3 seconds.

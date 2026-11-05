@@ -8,7 +8,24 @@
 
 ## 🌟 1. Core Explanation & Mechanics
 
-### 1. Phân biệt bản chất: `IN` vs. `TO` vs. `INTO` (Tĩnh học vs. Hướng đi vs. Xuyên thấu ranh giới)
+### 1. Phân tích cấu trúc câu chiến lược: `Furthermore, we are expanding (our business) into [Market]`
+
+$$\textbf{Furthermore,} \quad \text{[Subject]} + \textbf{be expanding} + \text{[(our business)]} + \textbf{into} + \text{[Territory / Market]}$$
+
+```
+[Furthermore,]    [we]     [are expanding]      [(our business)]      [into]          [California].
+      └─           └─             └─                   └─               └─                 └─
+Formal Transition Subj    Present Continuous     Direct Object    Preposition of      New Market /
+   Adverb                (Strategic Future)       (Optional)      Boundary Entry       Territory
+```
+
+* **`Furthermore,`**: Phó từ liên kết trang trọng, bổ sung một bước tiến chiến lược có tầm vóc lớn tiếp nối thành tích kinh doanh trước đó.
+* **`are expanding` (Hiện tại tiếp diễn chỉ kế hoạch chiến lược tương lai)**: Trong tiếng Anh doanh nghiệp, thì Hiện tại tiếp diễn thường được dùng để công bố các dự án/kế hoạch đã được phê duyệt và đang trong quá trình xúc tiến triển khai (*near-future strategic initiatives*).
+* **`our business`**: Có thể giữ lại để nhấn mạnh quy mô hoạt động kinh doanh, hoặc lược bỏ trong văn nói thường ngày: *"We are expanding into California"*.
+
+---
+
+### 2. Phân biệt bản chất: `IN` vs. `TO` vs. `INTO` (Tĩnh học vs. Hướng đi vs. Xuyên thấu ranh giới)
 
 Rất nhiều người học băn khoăn: *Tại sao không nói "expanding in California" hay "expanding to California"?*
 
@@ -36,7 +53,7 @@ Rất nhiều người học băn khoăn: *Tại sao không nói "expanding in C
 
 ---
 
-### 2. Trọn bộ 5 trụ cột ngữ pháp thực chiến của giới từ `INTO`
+### 3. Trọn bộ 5 trụ cột ngữ pháp thực chiến của giới từ `INTO`
 
 Giới từ **`INTO`** không chỉ dùng cho không gian địa lý, mà là một trong những giới từ biến hóa và giàu hình ảnh nhất trong tiếng Anh:
 
@@ -64,7 +81,7 @@ Giới từ **`INTO`** không chỉ dùng cho không gian địa lý, mà là m�
 
 ---
 
-### 3. Cụm từ vựng xâm nhập thị trường (Market Penetration Collocations)
+### 4. Cụm từ vựng xâm nhập thị trường (Market Penetration Collocations)
 
 Trong báo cáo kinh doanh và công nghệ, hãy làm giàu vốn từ với các động từ đi kèm `into`:
 
@@ -78,7 +95,7 @@ Trong báo cáo kinh doanh và công nghệ, hãy làm giàu vốn từ với c�
 
 ---
 
-### 4. Liên từ liên kết trang trọng: `Furthermore`
+### 5. Liên từ liên kết trang trọng: `Furthermore`
 
 * **`Furthermore` /ˌfɜːrðərˈmɔːr/ (Phó từ liên kết)**: Dùng ở đầu câu để bổ sung thêm một luận điểm quan trọng, có sức nặng hơn ý trước (*Hơn thế nữa, thêm vào đó*).
 * **Bảng so sánh mức độ trang trọng**:

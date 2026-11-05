@@ -30,15 +30,17 @@ description: Propose and preview a cohesive curriculum blueprint for the upcomin
 
 ---
 
-### Step 2: Thematic Clustering (Define Topic 1 & Topic 2)
-Cluster the staged user notes into two practical, authentic themes aligned with the 5-day schedule in [weekly-exercise-schedule.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/.antigravity/workflows/weekly-exercise-schedule.md):
+### Step 2: Thematic Clustering & Storyline Mapping (Define Weekly Story Arcs)
+Cluster the staged user notes into **2–3 practical, connected story arcs** aligned with the 5-day speed-reflex schedule in [weekly-exercise-schedule.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/.antigravity/workflows/weekly-exercise-schedule.md):
 
-* **Topic 1 (Days 1–3: General Workplace Collaboration & Social Dynamics)**:
-  - Situations: Small talk at the coffee machine, negotiating deadlines, setting boundaries, weekend plans, giving peer feedback, polite requests, team catch-ups.
-  - Target Audience: Colleagues, managers, cross-functional partners.
-* **Topic 2 (Days 4–5: Technical Workplace & Data Engineering Operations)**:
-  - Situations: Cloud cost optimization (FinOps), pipeline latency & bottlenecks, database migrations, hiring & team capacity, on-call incidents, architecture reviews.
-  - Target Audience: Tech leads, fellow engineers, DevOps, product stakeholders.
+* **Story Arc 1 (Days 1–2: Daily Life, Commuting & Workplace Collaboration)**:
+  - Situations: Morning routines, coffee orders, negotiating earliest start times, equipment service logistics, accommodation policies, manager 1-on-1s.
+* **Story Arc 2 (Days 3–4: Technical Incidents, Triage & Client Empathy)**:
+  - Situations: Executive leadership changes, emergency safety sirens, device freezing up, customer de-escalation, hardware repairs, service add-ons.
+* **Story Arc 3 (Day 5: Milestone Celebrations, Leadership & Expansion)**:
+  - Situations: Annual Town Hall, record profitability, praising employee diligence, geographic expansion, MC stage handovers, applause cues.
+* **Day 6 (Milestone Assessment)**:
+  - 90-minute Written Proficiency Review Test (100 Points, 4 Parts).
 
 ---
 
