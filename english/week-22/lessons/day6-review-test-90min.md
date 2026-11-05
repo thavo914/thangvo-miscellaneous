@@ -88,16 +88,26 @@
 ### Section B: Cloze Fill-in-the-Blank with Target Prepositions & Collocations (10 Points)
 *Fill in each blank with the exact 1-to-2 word preposition or collocation particle learned in Weeks 20–22. (1 point each)*
 
-16. If we can't push the deadline by a full week, let's meet ________________________ and deliver the core tables by Wednesday.
+16. If we can't push the deadline by a full week, let's meet ________________________ and deliver the core tables by Wednesday. 
+16. I can't remember the answer
 17. I'm going to investigate the server logs now; I'll make sure to keep you ________________________ the loop.
+17. in
 18. Alex is taking parental leave; we all need to pitch in and pick ________________________ the slack.
+18. pick up but I remember that we can use pick up as the way to learn something?
 19. We evaluated three architectural patterns, all ________________________ which scale horizontally.
+19. all of which?
 20. Would you be able to have a quick look at my schema PR ________________________ you get a second?
+20. can't answer
 21. We can't normally do this, but since this is an extenuating circumstance, I'll make an exception just ________________________ once.
+21. this
 22. I have a client meeting this morning, but I should be back ________________________ 1:30 PM.
+22. at
 23. There is a strong possibility that this contract could turn ________________________ a full-time role.
+23. into
 24. Continuing to pay for idle GPU clusters is simply throwing money ________________________ the drain.
+24. on
 25. Our engineering squad is currently running ________________________ full capacity with the sprint deliverables.
+25. the
 
 ---
 
@@ -111,53 +121,53 @@ For each sentence:*
 *(2.5 points per sentence: 0.5 for identifying, 1.0 for correction, 1.0 for explanation)*
 
 26. *"I am expecting for a delivery of two replacement server racks."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
-    * 💡 Linguistic Reason: _________________________________________
+    * ❌ Error: for  a delivery  
+    * ✅ Correction: I am expecting a delivery of two replacement server racks.  
+    * 💡 Linguistic Reason: I can't answer it
 
 27. *"According to the company's policy, all employees must log off VPN by 7 PM."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
-    * 💡 Linguistic Reason: _________________________________________
+    * ❌ Error: log off  
+    * ✅ Correction: According to the company's policy, all employees must log out VPN by 7 PM.  
+    * 💡 Linguistic Reason: pleaes explain it to me
 
 28. *"We need to solve the production outage incident before the market opens."*  
-    * ❌ Error: ____________________________________________________  
+    * ❌ Error: can't reconize the error  
     * ✅ Correction: _______________________________________________  
     * 💡 Linguistic Reason: _________________________________________
 
 29. *"Continuing to pay for unused idle instances is just throwing money into the drain."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error: into the drain  
+    * ✅ Correction: on the drain  
     * 💡 Linguistic Reason: _________________________________________
 
 30. *"There is a big possibility that our contract will turn into a full-time position."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error: There is a big possibility  
+    * ✅ Correction: There could be a big possibility  
     * 💡 Linguistic Reason: _________________________________________
 
 31. *"The server keeps to make a strange buzzing sound every ten minutes."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error:  keeps to make  
+    * ✅ Correction: keep making  
     * 💡 Linguistic Reason: _________________________________________
 
 32. *"I am very impressive by your extensive experience in distributed streaming systems."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error: I am very impressive  
+    * ✅ Correction: I was very impressive  
     * 💡 Linguistic Reason: _________________________________________
 
 33. *"I was wondering if you could check the order with this order code."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error:  order code  
+    * ✅ Correction: ref no  
     * 💡 Linguistic Reason: _________________________________________
 
 34. *"He said he is on his way and will drop the package at our office."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error: drop the package at our office.  
+    * ✅ Correction: drop the package off our office.  
     * 💡 Linguistic Reason: _________________________________________
 
 35. *"Most of pipelines run smoothly during the weekend."*  
-    * ❌ Error: ____________________________________________________  
-    * ✅ Correction: _______________________________________________  
+    * ❌ Error: during the weekend  
+    * ✅ Correction: at the weekend  
     * 💡 Linguistic Reason: _________________________________________
 
 ---
@@ -168,19 +178,19 @@ For each sentence:*
 
 36. **Target Formula**: `Would you be able to + [Base Verb]... when you get a second?` *(Week 20)*  
     * *Draft Sentence*: "Check my pull request now because I need your review."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: would you albe to look over my PR when you get a second? 
 
 37. **Target Formula**: `Say we + [Present Verb]... This way, we can [Outcome].` *(Week 20)*  
     * *Draft Sentence*: "If we migrate the cold data to S3, we will save 30% of our monthly storage budget."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: Say we migrate the cold data to S3, this way, we can save 30% of our monthly storage budget.
 
 38. **Target Formula**: `I think I can make that work, as long as [Condition].` *(Week 20)*  
     * *Draft Sentence*: "I accept your deadline, but only if product management removes the third report requirement."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: I think I can make that work, as long as product management removes the third report requirement
 
 39. **Target Formula**: `Believe it or not, I was once... but what stuck with me was [Value].` *(Week 21)*  
     * *Draft Sentence*: "You may not believe this, but in the past I had zero programming experience, but my hard work helped me."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: Believe it or not, I was once a newbie in this filed, but what stuck with me was a strong work ethic, and it helped me a lot to become a Senior Data Engineer.
 
 40. **Target Formula**: `...without compromising [Key Quality / Non-Negotiable Metric].` *(Week 21)*  
     * *Draft Sentence*: "We must reduce the cluster size, but we cannot let the dashboard queries become slow or inaccurate."  
@@ -188,15 +198,15 @@ For each sentence:*
 
 41. **Target Formula**: `We can't normally do this, but since this is an extenuating circumstance, I'll [Action] just this once.` *(Week 22)*  
     * *Draft Sentence*: "Our policy forbids same-day delivery, but because your situation is urgent, I will allow it this time."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: we can't normally do this, but since this is an extenuating circumstance, I'll allow it just this once.
 
 42. **Target Formula**: `If that's what needs to be done, then [Decisive Action].` *(Week 22)*  
     * *Draft Sentence*: "If we really must rewrite the entire payment processing pipeline over the weekend, I will do it."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: If that's what needs to be done, then I will rewrite the entire payment processing pipeline over next week.
 
 43. **Target Formula**: `There is a strong possibility this could turn into [Outcome].` *(Week 22/23)*  
     * *Draft Sentence*: "There is a very high chance that this three-month trial contract will become a permanent full-time job."  
-    * ✍️ *Your Transformation*: __________________________________________________________________
+    * ✍️ *Your Transformation*: The is a strong possibility this cound turn into a permanent full-time job.
 
 ---
 
