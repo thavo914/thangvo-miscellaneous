@@ -48,17 +48,26 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì n�
 ---
 
 ### ⏱️ Drill 2: 1-Minute Gist-Catching & 15-Second Verbal Summary (5–7 Phút)
-*Nghe bắt ý chính & Tóm tắt 3W bằng miệng (Không ghi chép)*
+*Nghe bắt ý chính & Tóm tắt 3W bằng miệng (Chiến lược 2 Lần Nghe - The 2-Pass Strategy)*
 
 * **Nguồn nghe**: Đoạn hội thoại 30–45 giây từ **TOEIC Part 3/4** (xem mẫu tại [listening-gist-catching-reference.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-23/lessons/listening-gist-catching-reference.md)) hoặc các clip 60–100 giây của *Fireship* / *ByteByteGo*.
-* **Cách thực hiện**:
-  1. Nghe trọn vẹn đoạn audio 1 lần duy nhất (không nhìn transcript, không cầm bút ghi chép).
-  2. Audio vừa dứt, bấm dừng và **lập tức nói to 1 câu tóm tắt trong 15 giây** theo **Khung 3W**:
-     * **WHO**: Ai đang nói với ai?
-     * **WHAT**: Vấn đề trục trặc, tình huống hoặc rào cản là gì?
-     * **ACTION / NEXT**: Họ đã thống nhất giải pháp gì tiếp theo?
-  3. Mở transcript đối chiếu xem mình đã tóm tắt trúng 100% ý chính chưa.
-* **Lợi ích**: Huấn luyện khả năng xử lý thông tin tầng vĩ mô (*Top-down comprehension*), không bị "đơ" khi gặp 1–2 từ vựng lạ.
+* **Cách thực hiện (Lộ trình 2-Pass thực chiến theo trình độ)**:
+  1. **Pass 1 (The Gist Pass - Bắt khung xương 3W)**:
+     * Nghe trọn vẹn lần 1. Không nhìn transcript, không cầm bút ghi chép.
+     * Chỉ tập trung bắt **bức tranh toàn cảnh 3W**:
+       * **WHO**: Ai đang nói với ai?
+       * **WHAT**: Vấn đề trục trặc, tình huống hoặc rào cản là gì?
+       * **ACTION / NEXT**: Hướng giải quyết tiếp theo là gì?
+     * *Lưu ý*: Bỏ qua các chi tiết phụ, con số, giờ giấc hoặc từ vựng lạ; tuyệt đối không bấm dừng.
+  2. **Pass 2 (The Precision Pass - Bắt chi tiết & Lắp ghép)**:
+     * Nghe lại lần 2. Do não bộ đã nắm được sườn câu chuyện ở Pass 1, áp lực nhận thức giảm 60%.
+     * Tai thảnh thơi bắt các chi tiết ràng buộc: thời gian (*2 PM meeting*), lý do hủy hẹn (*cancelled at the last minute*), địa điểm lựa chọn (*4th floor copier*).
+  3. **Tóm tắt bằng miệng ngay lập tức (15 Giây)**:
+     * Audio vừa dứt lần 2, bấm dừng và **lập tức nói to 1–2 câu tóm tắt trong 15 giây** theo Khung 3W.
+  4. **Đối chiếu Transcript (Audit)**:
+     * Mở transcript kiểm tra xem mình đã bắt đúng 100% ý chính chưa, ghi nhận các hiện tượng nuốt âm/từ vựng mới.
+  5. *(Lưu ý nâng cấp)*: Khi đã đạt B2 vững vàng sau 3–4 tuần, bạn sẽ nâng cấp lên **chỉ nghe 1 lần duy nhất** rồi tóm tắt ngay. Tuyệt đối không nghe quá 3 lần; nếu lần 3 vẫn không hiểu, hãy mở ngay transcript để tra từ vựng.
+* **Lợi ích**: Giảm tải áp lực nhận thức (*Cognitive Load*), huấn luyện khả năng xử lý thông tin tầng vĩ mô (*Top-down comprehension*), không bị "đơ" khi gặp 1–2 từ vựng lạ.
 
 ---
 
