@@ -71,6 +71,40 @@ $$\textbf{Subject + show + [Person] + how to + [Base Verb]}$$
 
 ---
 
+### 5. Giải mã đại từ: Tại sao lại dùng `THEIR laptops` và `THEY can view`? 🌟
+
+Rất nhiều người học khi đọc câu này thắc mắc: *Ở câu trước chỉ có David và người phụ nữ, vậy "their" và "they" ở đây là chỉ ai?*
+
+#### 1. Mối liên kết ngữ cảnh (Antecedent in Context):
+Hãy nhìn lại câu nói ngay trước đó của người phụ nữ trong đoạn hội thoại:
+> *"That's frustrating. I really need these documents for my two o'clock meeting with **THE SALES TEAM**."*
+
+👉 **`their`** và **`they`** ở đây chính là quy chiếu ngược về **`the sales team`** (các thành viên trong nhóm kinh doanh mà chị sắp họp cùng)!
+
+#### 2. Cơ chế ngữ pháp: Danh từ tập hợp (Collective Nouns) & Đại từ số nhiều:
+* Từ `team` (cũng như `staff`, `committee`, `group`) là danh từ tập hợp.
+* Về hình thức: `team` là danh từ số ít khi nói về một tổ chức thống nhất.
+* Tuy nhiên, khi hành động hướng vào **từng cá nhân thành viên cấu thành nên tập thể đó** (mỗi thành viên đều sở hữu một chiếc laptop riêng, và mỗi người tự dùng mắt để nhìn vào màn hình của mình), tư duy bản xứ **bắt buộc phải dùng đại từ số nhiều `their / they`**:
+  * ✅ *"send the files directly to **their** laptops"* (gửi tới laptop của từng người trong team).
+  * ❌ *Sẽ cực kỳ phi logic nếu dùng số ít*: *"send the files directly to its laptop so that it can view"* (bởi vì cả cái team không dùng chung 1 chiếc laptop và không có mắt để nhìn).
+
+#### 3. Cụm từ nối đắt giá: `THAT WAY + CLAUSE`
+* **`That way`** = "Nhờ đó mà... / Bằng cách đó thì..." (diễn đạt mục đích và hệ quả tích cực một cách tự nhiên hơn *so that*).
+* **`view on screen`**: Cụm từ cố định chỉ việc xem tài liệu trực tiếp trên màn hình thiết bị điện tử, không cần chèn mạo từ `the` (*on screen* thay vì *on the screen*).
+
+#### 4. Tại sao TUYỆT ĐỐI KHÔNG THỂ dùng "YOUR laptops" hay "YOU can view"? ⚠️
+Nhiều người học băn khoăn: *David đang nói chuyện với người phụ nữ, sao không nói "send the files to YOUR laptops so that YOU can view..."?*
+
+Hãy nhìn vào bản chất của tình huống văn phòng:
+1. **Người phụ nữ ĐÃ CÓ FILE trong máy của chị ấy rồi**: Chị ấy chính là người chuẩn bị tài liệu và đang bấm lệnh in từ máy mình. Chị ấy không cần ai "gửi file vào laptop của chị ấy để chị ấy xem".
+2. **Mục đích in tài liệu là ĐỂ PHÁT CHO NGƯỜI KHÁC**: Trong các cuộc họp công ty, người thuyết trình in 5–10 bản tài liệu để phát tận tay cho các thành viên tham dự (*the sales team*) để họ đọc theo.
+3. **Mối quan hệ giao tiếp (You vs. They)**:
+   * David đang nói chuyện trực tiếp với **MỘT NGƯỜI** (người phụ nữ = `you`). Một cá nhân không thể sở hữu số nhiều `your laptops`.
+   * Đối tượng cần xem tài liệu trong cuộc họp lúc 2 giờ là **BÊN THỨ BA (The Sales Team = `THEY / THEIR`)**.
+   * Vì vậy, giải pháp của David là: Thay vì chị phải in một xấp giấy đem phát cho **HỌ**, tôi sẽ chỉ cho chị cách bắn thẳng file số sang laptop của **HỌ (`their laptops`)**, nhờ đó **HỌ (`they`)** có thể tự mở xem trên màn hình trong lúc họp!
+
+---
+
 ## ⚡ 2. Quick-Fire Workplace Substitution Drills
 
 Luyện phản xạ cấu trúc: **`Or, if you'd prefer, I can show you how to [Verb] [Object] directly to [Target]`** qua 4 tình huống IT / văn phòng:
