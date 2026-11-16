@@ -2,6 +2,9 @@
 
 > **Target Skill**: Real-Time Listening Comprehension, 3W Gist Extraction & 15-Second Verbal Summaries  
 > **Source Material**: 6 Authentic Workplace & Daily Operations Audio Transcripts (TOEIC Part 3)  
+> **Source Audio Links**:
+> - [TOEIC Part 3 Practice - Test 2 (esl-lounge.com)](https://www.esl-lounge.com/student/toeic-test-practice/toeic-030-listening-part-three-2.php)
+> - [TOEIC Part 3 Practice - Test 3 (esl-lounge.com)](https://www.esl-lounge.com/student/toeic-test-practice/toeic-031-listening-part-three-3.php)  
 > **Scoring Scale**: 10 Points per Clip (Total: 60 Points)  
 > **Passing Benchmark**: 48/60 (80% — Proficient B1–B2 Workplace Reflex)
 
