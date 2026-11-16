@@ -8,16 +8,15 @@
 
 ---
 
-## 📅 Lịch Trình Review Cuốn Chiếu Trong Tuần (The 6-Clip Rolling Cycle)
+## 📅 Lịch Trình Review Cuốn Chiếu 5 Ngày (The 5-Day 6-Clip Rolling Cycle)
 
 ```
-Thứ Hai   : Clip 1 (Mới) + Clip 2 (Mới)
-Thứ Ba    : Clip 1 (Review - Active Recall) + Clip 3 (Mới)
-Thứ Tư    : Clip 2 (Review - Active Recall) + Clip 4 (Mới)
-Thứ Năm   : Clip 3 (Review - Active Recall) + Clip 5 (Mới)
-Thứ Sáu   : Clip 4 (Review - Active Recall) + Clip 6 (Mới)
-Thứ Bảy   : Clip 5 (Review - Active Recall) + Clip 6 (Review - Active Recall)
-Chủ Nhật  : Thử thách Iron Reflex: Tóm tắt liên tục cả 6 Clip (6 x 15s = 90 giây không vấp)
+Thứ Hai (Day 1) : Clip 1 (Mới) + Clip 2 (Mới)
+Thứ Ba  (Day 2) : Review Clip 1 + Clip 2 (Active Recall) + Clip 3 (Mới)
+Thứ Tư  (Day 3) : Review Clip 3 (Active Recall) + Clip 4 (Mới)
+Thứ Năm (Day 4) : Review Clip 4 (Active Recall) + Clip 5 (Mới)
+Thứ Sáu (Day 5) : Review Clip 5 (Active Recall) + Clip 6 (Mới)
+Thứ Bảy (Day 6) : Iron Reflex (5 phút trước giờ thi) — Tóm tắt nhanh Clip 6 & ôn lướt 1–5 (90 giây)
 ```
 
 ---

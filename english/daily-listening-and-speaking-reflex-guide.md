@@ -93,14 +93,25 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì 2 
 3. **Kích hoạt Active Verbal Recall (15 Giây)**: Bấm đồng hồ 15 giây, **tự nói to bản tóm tắt bằng trí nhớ**! Ép bản thân phải vận dụng lại các từ đã note (như *jamming*, *was supposed to*, *up and running*, *work in a pinch*).
 4. **Đối chiếu khi bị nghẽn**: Chỉ khi nào nói bị tắc tị hoặc quên hẳn cốt truyện thì mới bấm nghe lại 30 giây hoặc bấm link đối chiếu đáp án chi tiết.
 
-#### C. Lịch Trình Luyện Cuốn Chiếu 6 Clip/Tuần (The 6-Clip Rolling Cycle)
-* **Thứ Hai**: Nghe Clip 1 (Mới) + Clip 2 (Mới)
-* **Thứ Ba**: Review Clip 1 (Active Verbal Recall) + Nghe Clip 3 (Mới)
-* **Thứ Tư**: Review Clip 2 (Active Verbal Recall) + Nghe Clip 4 (Mới)
-* **Thứ Năm**: Review Clip 3 (Active Verbal Recall) + Nghe Clip 5 (Mới)
-* **Thứ Sáu**: Review Clip 4 (Active Verbal Recall) + Nghe Clip 6 (Mới)
-* **Thứ Bảy**: Review Clip 5 (Active Verbal Recall) + Review Clip 6 (Active Verbal Recall)
-* **Chủ Nhật**: **Thử thách Iron Reflex** — Nhìn Cue Sheet tóm tắt liên tục cả 6 Clip (6 x 15s = 90 giây không vấp)
+#### C. Lịch Trình Luyện Cuốn Chiếu 6 Clip Trong 5 Ngày (The 5-Day 6-Clip Rolling Cycle)
+* **Thứ Hai (Day 1)**: Nghe Clip 1 (Mới) + Clip 2 (Mới)
+* **Thứ Ba (Day 2)**: Review Clip 1 + Clip 2 (Active Verbal Recall) + Nghe Clip 3 (Mới)
+* **Thứ Tư (Day 3)**: Review Clip 3 (Active Verbal Recall) + Nghe Clip 4 (Mới)
+* **Thứ Năm (Day 4)**: Review Clip 4 (Active Verbal Recall) + Nghe Clip 5 (Mới)
+* **Thứ Sáu (Day 5)**: Review Clip 5 (Active Verbal Recall) + Nghe Clip 6 (Mới)
+* **Thứ Bảy (Day 6 Test)**: **Iron Reflex 90 giây** (5 phút trước giờ thi) — Nhìn Cue Sheet tóm tắt nhanh Clip 6 & ôn lướt Clip 1–5 không vấp
+
+#### D. Thang Điểm Đánh Giá Kỹ Năng Nghe & Tường Thuật (Dual-Mode Scoring Rubric — 10 Điểm)
+> **🔄 Quy chuẩn phối hợp tối ưu:** **Lần nghe đầu tiên (Fresh Listen) dùng Mode B** (soi nghe trọn từ & sửa lỗi ngữ pháp) $\rightarrow$ **Ngày hôm sau Review (Active Recall) dùng Mode A** (ép phản xạ tóm tắt gọn 15 giây từ Cue Sheet).
+
+* **Chế độ A — 15-Second Gist Summary (Dùng cho Active Recall ngày hôm sau & Nói nhanh):**
+  * **Core Fact Accuracy (4 Pts):** Đủ 3W (Who – What – Action).
+  * **Speed & Reflex (3 Pts):** Nói gọn trong 15–20 giây (~45–55 từ), không khựng quá 2 giây.
+  * **Natural Phrasing (3 Pts):** Dùng đúng chunks bản ngữ.
+* **Chế độ B — Full-Detail Precision Check (Dùng cho Lần nghe đầu tiên — Kể chi tiết để soi nghe trọn từ):** 🌟
+  * **Precision Detail Coverage (5 Pts):** Đối chiếu 1-1 từng chi tiết nhỏ (tên riêng, con số, vật dụng, lý do phụ, hướng dẫn cụ thể) với Transcript gốc để phát hiện lỗi nghe sót hoặc nghe nhầm.
+  * **Grammar & Reporting Accuracy (2.5 Pts):** Chia đúng thì quá khứ tường thuật, đúng trật tự từ và giới từ, tránh nối câu dài lê thê (*run-on sentences*).
+  * **Natural Phrasing & Native Chunks (2.5 Pts):** Vận dụng mượt các cụm từ đắt giá trong bài và tránh bẫy Vietlish.
 
 ---
 

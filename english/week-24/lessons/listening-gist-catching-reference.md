@@ -10,22 +10,36 @@
 
 ---
 
-## 🎯 How to Use This Reference for Self-Evaluation
+## 🎯 How to Use This Reference & Strict Evaluation Protocol
 
-When practicing **1-Minute Gist-Catching & Verbal Summary** (Drill 2 in [daily-listening-and-speaking-reflex-guide.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/daily-listening-and-speaking-reflex-guide.md)):
+When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speaking-reflex-guide.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/daily-listening-and-speaking-reflex-guide.md)):
 
-1. **Pass 1 (Gist Pass)**: Listen to the audio once through without reading the transcript. Focus only on the macro picture: **WHO** is speaking, **WHAT** is the obstacle, and what **ACTION** is taken.
-2. **Pass 2 (Precision Pass)**: Listen a second time to catch constraints (names, times, policy rules, location details).
-3. **Instant Verbal Output (The 15-Second Rule)**: Stop the audio and immediately speak your summary out loud in English within 15–20 seconds using the **3W Framework**.
-4. **Compare & Score**: Read the transcript, 3W Key Elements, and Benchmark Model Summary below to score your performance out of 10 points.
+1. **Pass 1 (Gist Pass)**: Nghe trọn vẹn lần 1 không nhìn Transcript. Chỉ tập trung bắt bức tranh **3W**: **WHO** (ai?), **WHAT** (vấn đề gì?), **ACTION** (chốt giải quyết thế nào?).
+2. **Pass 2 (Precision Pass)**: Nghe lại lần 2 để nhặt toàn bộ chi tiết nhỏ (tên riêng, đánh vần, mốc thời gian, lời xin lỗi, vật dụng, hướng chỉ đường).
+3. **Output & Lịch Cặp Đôi Chuẩn (Recommended 2-Stage Flow)**:
+   * **Lần nghe đầu tiên (Day 1 — Fresh Listen) $\rightarrow$ Dùng Mode B (Full-Detail Precision Check):** Tường thuật đầy đủ mọi tình tiết từ đầu đến cuối để kiểm toán 100% độ nghe từng từ, phát hiện lỗi ngữ pháp và tạo bản Polish chuẩn bản ngữ.
+   * **Buổi Review ngày hôm sau (Day 2 — Active Recall) $\rightarrow$ Dùng Mode A (15-Second Gist Summary):** Không bật lại audio; chỉ nhìn [verbal-recall-cues.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/verbal-recall-cues.md) rồi nói/viết nhanh bản tóm tắt 45–55 từ trong 15–20 giây để rèn phản xạ báo cáo gọn (Daily Standup).
+4. **Strict Evaluation & Logging (Chấm chặt tay & Ghi nhật ký):**
+   * Đối chiếu kết quả và lưu điểm cho **từng lần nghe** (*Attempt 1 - Mode B*, *Attempt 2 - Mode A*) vào file riêng của mỗi audio tại [listening-practice-log.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-practice-log.md).
+   * Mỗi bài nộp ở **Mode B** được đánh giá khắt khe theo 3 bước: (1) **Chấm điểm trừ chi tiết**, (2) **Phân tích sửa lỗi & nâng cấp từng câu/đoạn**, (3) **Bản Polish hoàn chỉnh giữ đủ 100% ý**.
 
-### 📊 Universal 10-Point Scoring Rubric
+### 📊 Universal 10-Point Scoring Rubric (Strict Dual-Mode Evaluation)
 
+#### Mode A: 15-Second Gist Summary (Phản xạ tóm tắt nhanh 3W)
 | Component | Max Points | Evaluation Criteria |
 | :--- | :---: | :--- |
 | **1. Core Fact Accuracy (3W)** | **4 Pts** | Captured the core situation, conflict, and final resolution without missing key facts (1 pt per fact). |
-| **2. Speed & Reflex** | **3 Pts** | Began speaking within 3 seconds of the audio ending; finished summary in under 20 seconds without long hesitations. |
+| **2. Speed & Reflex** | **3 Pts** | Began speaking within 3 seconds of the audio ending; finished summary in under 20 seconds (~45–55 words). |
 | **3. Natural Phrasing & Chunks** | **3 Pts** | Used native phrasal verbs, idioms, and collocations; completely avoided word-by-word translation. |
+
+#### Mode B: Full-Detail Precision Check — Strict Standard (Kể chi tiết kiểm tra độ nghe trọn từ) 🌟
+*(Không giới hạn độ dài, nhưng chấm khắt khe từng lỗi chi tiết, ngắt câu và ngữ pháp tường thuật)*
+
+| Component | Max Points | Strict Grading & Deduction Criteria |
+| :--- | :---: | :--- |
+| **1. Precision Detail Coverage** | **5.0 Pts** | • **-0.5 pt** mỗi chi tiết bị nghe lệch nghĩa (*e.g., confirmation number vs. confirmation email on phone*).<br>• **-0.25 pt** mỗi chi tiết phụ bị sót (mốc thời gian *last week*, lời xin lỗi, vật dụng *key card*, hướng chỉ đường chi tiết). |
+| **2. Grammar & Reporting Accuracy** | **2.5 Pts** | • **-0.5 pt** cho lỗi nối câu dài lê thê (*run-on sentences / comma splices* bằng `;` hoặc `,`).<br>• **-0.25 pt** cho mỗi nhóm lỗi thì quá khứ (*find $\rightarrow$ found*, *point $\rightarrow$ pointed*), lùi thì (*can $\rightarrow$ could*), trật tự danh từ (*room number*), hoặc giới từ (*listen to*). |
+| **3. Natural Phrasing & Flow** | **2.5 Pts** | • **-0.5 pt** nếu lặp từ nối rời rạc (`then... but... then...`) thay vì dùng `When / Since / With that / So he offered to...`.<br>• **-0.5 pt** cho các cụm cứng/sai sắc thái (*completed listening*, *or somewhat*, dịch thô Vietlish). |
 
 ---
 
