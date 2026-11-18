@@ -78,6 +78,9 @@ Người bản ngữ **chủ động KHÔNG LÙI THÌ** để giữ nguyên tín
 * Trong ngành dịch vụ gia dụng và viễn thông (Internet, Cable TV, Smart Home):
   * **`professional installation`**: Kỹ thuật viên của hãng đến tận nhà đi dây, bắt ốc vít và kiểm tra đường truyền cho bạn.
   * **`self-installation` / `self-install kit`**: Hãng gửi hộp thiết bị về và khách hàng phải tự cắm dây làm theo sách hướng dẫn.
+* **❓ Tại sao `professional installation` KHÔNG có mạo từ `a` hay `the`? (Zero Article Rule)** 🌟
+  1. **Không dùng `a` vì là Danh từ KHÔNG đếm được (Uncountable Service Noun):** Khi nói đến một **loại hình dịch vụ hoặc khái niệm nói chung**, `installation` không đếm được $\rightarrow$ Cấm dùng `a` (giống như *provide **free shipping***, *offer **technical support***, *need **maintenance***).
+  2. **Không dùng `the` vì mang nghĩa chung chung (General Policy):** Mạo từ `the` chỉ dùng khi chỉ đích danh **một lần/ca lắp đặt cụ thể đã biết** (ví dụ: *"**The** installation at my house took two hours"* = Buổi lắp đặt ở nhà tôi mất 2 tiếng). Còn ở đây là nói về **chính sách dịch vụ nói chung** của công ty $\rightarrow$ Bắt buộc dùng **Zero Article (không mạo từ)**.
 
 ---
 

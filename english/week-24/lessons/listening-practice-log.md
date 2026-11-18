@@ -11,8 +11,8 @@
 | :---: | :--- | :---: | :--- | :---: | :---: | :--- |
 | **Audio 1** | Hotel Check-In & First-Name Mix-up | 1 | `Audio 1 - Attempt 1 (Fresh Listen)` | **6.5 / 10** | **6.5 / 10** | 📄 [audio-1-hotel-check-in.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-1-hotel-check-in.md) |
 | **Audio 2** | Retail Return & Store Credit Policy | 1 | `Audio 2 - Attempt 1 (Fresh Listen)` | **5.25 / 10** | **5.25 / 10** | 📄 [audio-2-retail-return.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-2-retail-return.md) |
-| **Audio 3** | Office Equipment Request & Urgent Printing | 0 | — | — | — | 📄 [audio-3-office-equipment.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-3-office-equipment.md) |
-| **Audio 4** | Client Meeting Travel Logistics | 0 | — | — | — | 📄 [audio-4-travel-logistics.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-4-travel-logistics.md) |
+| **Audio 3** | Dental Appointment Rescheduling & Work Conflict | 1 | `Audio 3 - Attempt 1 (Fresh Listen)` | **5.5 / 10** | **5.5 / 10** | 📄 [audio-3-office-equipment.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-3-office-equipment.md) |
+| **Audio 4** | Commercial Office Tour & Soundproofing Concerns | 1 | `Audio 4 - Attempt 1 (Fresh Listen)` | **5.0 / 10** | **5.0 / 10** | 📄 [audio-4-travel-logistics.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-4-travel-logistics.md) |
 | **Audio 5** | Catering Adjustment & Menu Negotiation | 0 | — | — | — | 📄 [audio-5-catering-negotiation.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-5-catering-negotiation.md) |
 | **Audio 6** | Quarterly Software Rollout Delay | 0 | — | — | — | 📄 [audio-6-software-rollout.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-6-software-rollout.md) |
 
