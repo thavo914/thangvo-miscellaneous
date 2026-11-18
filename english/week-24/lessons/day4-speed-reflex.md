@@ -65,6 +65,13 @@ estimated_time: "90–120 mins"
 > **📚 Tài liệu Note bổ trợ trong Block 2 (Drills 2, 3, 7, 15)**:  
 > [pattern-unfulfilled-plans-was-scheduled-to-vs-supposed-to.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/pattern-unfulfilled-plans-was-scheduled-to-vs-supposed-to.md) • [pattern-polite-alternative-offer-if-youd-prefer-and-show-how-to.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/pattern-polite-alternative-offer-if-youd-prefer-and-show-how-to.md) • [pattern-emphatic-affirmation-i-sure-did-and-ask-for-help.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/pattern-emphatic-affirmation-i-sure-did-and-ask-for-help.md) • [grammar-quantifiers-determiners-singular-vs-plural-any-all-some.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/grammar-quantifiers-determiners-singular-vs-plural-any-all-some.md)
 
+### 🧱 5-Minute Chunking Warm-Up (Keith Method) 🌟
+*Luyện nói nguyên cụm âm thanh (1 hơi/cụm) trước khi vào phản xạ 3 giây:*
+* **3 Verb Chunks**: `I've-been-trying-to` | `I-figured-it-would` | `I-need-it-up-and-running`
+* **3 Adverbial Chunks**: `at-the-last-minute` | `just-fine` | `for-now`
+* **15s Mini-Story (Ghép Lego trơn miệng)**:
+  > *"I've-been-trying-to print these reports, because I-figured-it-would work just-fine. The technician cancelled at-the-last-minute, so what matters now is I-need-it-up-and-running as a workaround for-now!"*
+
 ---
 
 ## ⚡ Block 2: 3-Second Quick-Fire Reflex Drills (35–45 Mins)

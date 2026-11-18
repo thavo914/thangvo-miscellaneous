@@ -63,6 +63,13 @@ estimated_time: "90–120 mins"
 > **📚 Tài liệu Note bổ trợ trong Block 2 (Drills 9–14)**:  
 > [pattern-empathy-pivot-refusal-and-latest-diagnostic-equipment.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/pattern-empathy-pivot-refusal-and-latest-diagnostic-equipment.md) • [grammar-refer-vs-recommend-vs-suggest.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/grammar-refer-vs-recommend-vs-suggest.md) • [grammar-prepositions-at-vs-on-street-and-general-hospital.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/grammar-prepositions-at-vs-on-street-and-general-hospital.md) • [idiom-customer-reassurance-be-in-good-hands.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/idiom-customer-reassurance-be-in-good-hands.md) • [vocabulary-memorial-hospital-and-discourse-marker-to-be-honest.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-memorial-hospital-and-discourse-marker-to-be-honest.md) • [collocation-multiple-unpleasant-experiences-and-understatement.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/collocation-multiple-unpleasant-experiences-and-understatement.md)
 
+### 🧱 5-Minute Chunking Warm-Up (Keith Method) 🌟
+*Luyện nói nguyên cụm âm thanh (1 hơi/cụm) trước khi vào phản xạ 3 giây:*
+* **3 Verb Chunks**: `I'd-like-to-start-it-off` | `we-will-be-letting` | `would-pick-it-up`
+* **3 Adverbial Chunks**: `to-be-honest` | `in-no-time` | `on-the-same-page`
+* **15s Mini-Story (Ghép Lego trơn miệng)**:
+  > *"To-be-honest, I'd-like-to-start-it-off by getting everyone on-the-same-page. Because-of-how-great the team has been performing, we-will-be-letting everyone pick-it-up in-no-time!"*
+
 ---
 
 ## ⚡ Block 2: 3-Second Quick-Fire Reflex Drills (35–45 Mins)

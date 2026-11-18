@@ -172,6 +172,18 @@ Khi vừa nghe xong đoạn audio ở Bước 3, hãy áp dụng ngay một tron
 
 ---
 
+### 🧱 Optional Drill D: The 5-Minute Chunking Fluency Drill (Keith Speaking Academy Method) 🌟
+*Nói bằng "âm thanh nguyên cụm" (Sounds & Chunks) thay vì ghép từng từ rời rạc*
+
+* **Tư duy gốc:** Não người bản ngữ nghĩ bằng **âm thanh nguyên khối** (*"wen-ai-say"* chứ không phải *"WEN - AI - SAY"* — giống như cầm cả nải chuối thay vì nhặt từng quả).
+* **Quy trình 5 phút thực hành mỗi ngày:**
+  1. **Phút 1 — Lặp 3 Verb Chunks *(Cái bạn làm)*:** Đọc cả cụm như 1 âm thanh liền mạch và thay phần đuôi (*ví dụ: `I-tend-to` + `wake up early / have a big breakfast`; `I'm-in-charge-of` + `the pipeline / the campaign`*).
+  2. **Phút 2 — Lặp 2–3 Adverbial Chunks *(Khung thời gian / Thái độ)*:** Nén thành 1 nhịp (*`At-the-moment`*, *`By-and-large`*, *`To-be-honest`*, *`In-the-first-place`*).
+  3. **Phút 3–4 — Ghép Lego thành câu dài:** Kết hợp `[Adverb Chunk] + [Verb Chunk] + [Action] + because / since...`.
+  4. **Phút 5 — Mini-Story "Phi Logic" (Playful Fluency):** Tự bịa một câu chuyện ngắn 3–4 câu nối các chunks lại — **không cần hợp lý về mặt nội dung** (*ví dụ: "At the moment I'm in charge of the printer because I'm on holiday"*). Mục đích là giải phóng não khỏi việc nghĩ ý hay, dồn 100% lực cho cơ miệng luyện phát âm nguyên khối trơn tru! Sau đó nếu còn thời gian, hãy kể lại một mini-story thật về công việc của bạn và thu âm nghe lại.
+
+---
+
 ## 🌐 5. Nguồn Nghe Đề Xuất Được Tuyển Chọn
 
 1. **Tình huống Công sở & Giao tiếp hàng ngày**:

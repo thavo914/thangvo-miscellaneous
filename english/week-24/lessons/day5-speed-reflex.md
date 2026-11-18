@@ -62,6 +62,13 @@ estimated_time: "90–120 mins"
 > **📚 Tài liệu Note bổ trợ trong Block 2 (Drills 2, 8, 9)**:  
 > [vocabulary-reaction-thats-outrageous-and-price-indignation.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-reaction-thats-outrageous-and-price-indignation.md) • [grammar-conversational-ellipsis-data-from-two-years-ago.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/grammar-conversational-ellipsis-data-from-two-years-ago.md) • [pattern-retrospective-difficulty-it-was-a-difficult-thing-to.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/pattern-retrospective-difficulty-it-was-a-difficult-thing-to.md)
 
+### 🧱 5-Minute Chunking Warm-Up (Keith Method) 🌟
+*Luyện nói nguyên cụm âm thanh (1 hơi/cụm) trước khi vào phản xạ 3 giây:*
+* **3 Verb Chunks**: `it-shouldn't-take-this-long` | `guide-me-through` | `I've-been-telling-you-to`
+* **3 Adverbial Chunks**: `over-the-phone` | `no-longer` | `in-the-long-run`
+* **15s Mini-Story (Ghép Lego trơn miệng)**:
+  > *"It-shouldn't-take-this-long to get set up! They no-longer send technicians, so they guide-me-through the steps over-the-phone. I've-been-telling-you-to switch platforms because it pays off in-the-long-run!"*
+
 ---
 
 ## ⚡ Block 2: 3-Second Quick-Fire Reflex Drills (35–45 Mins)

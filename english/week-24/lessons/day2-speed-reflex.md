@@ -63,6 +63,13 @@ estimated_time: "90–120 mins"
 > **📚 Tài liệu Note bổ trợ trong Block 2 (Drills 3, 4, 8, 13)**:  
 > [pattern-negative-agreement-im-not-sure-either.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/pattern-negative-agreement-im-not-sure-either.md) • [vocabulary-brick-and-mortar-store-and-emphatic-did.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-brick-and-mortar-store-and-emphatic-did.md) • [vocabulary-test-out-vs-try-and-cant-wait.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-test-out-vs-try-and-cant-wait.md) • [vocabulary-food-critique-flavor-combinations-and-dipped-in-sauce.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-food-critique-flavor-combinations-and-dipped-in-sauce.md)
 
+### 🧱 5-Minute Chunking Warm-Up (Keith Method) 🌟
+*Luyện nói nguyên cụm âm thanh (1 hơi/cụm) trước khi vào phản xạ 3 giây:*
+* **3 Verb Chunks**: `I-have-my-eyes-on` | `I-can't-seem-to` | `I-think-I'll-just`
+* **3 Adverbial Chunks**: `in-person` | `this-afternoon` | `not-really-my-thing`
+* **15s Mini-Story (Ghép Lego trơn miệng)**:
+  > *"Honestly, spicy wraps are not-really-my-thing. I-have-my-eyes-on a new camera, but I-can't-seem-to decide without seeing it in-person—so I-think-I'll-just drop-by this-afternoon!"*
+
 ---
 
 ## ⚡ Block 2: 3-Second Quick-Fire Reflex Drills (35–45 Mins)

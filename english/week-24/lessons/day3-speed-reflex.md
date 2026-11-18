@@ -62,6 +62,13 @@ estimated_time: "90–120 mins"
 > **📚 Tài liệu Note bổ trợ trong Block 2 (Drills 1–6, 15)**:  
 > [vocabulary-corporate-events-client-reception-and-synonyms.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-corporate-events-client-reception-and-synonyms.md) • [vocabulary-business-quotes-estimates-and-totally-off.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-business-quotes-estimates-and-totally-off.md) • [vocabulary-spending-money-quite-a-lot-and-cost-expressions.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-spending-money-quite-a-lot-and-cost-expressions.md) • [vocabulary-business-tier-upscale-and-premium-spectrum.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-business-tier-upscale-and-premium-spectrum.md) • [vocabulary-extended-time-vs-long-time-and-the-last-time.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/notes/vocabulary-extended-time-vs-long-time-and-the-last-time.md)
 
+### 🧱 5-Minute Chunking Warm-Up (Keith Method) 🌟
+*Luyện nói nguyên cụm âm thanh (1 hơi/cụm) trước khi vào phản xạ 3 giây:*
+* **3 Verb Chunks**: `we've-just-received-word` | `we-could-switch-from` | `let-me-pull-up`
+* **3 Adverbial Chunks**: `by-fifteen-percent` | `instead` | `something-upscale`
+* **15s Mini-Story (Ghép Lego trơn miệng)**:
+  > *"We've-just-received-word that we need to cut the budget by-fifteen-percent. Since clients expect something-upscale, we-could-switch-from a sit-down dinner to a cocktail reception instead—let-me-pull-up the quotes right now!"*
+
 ---
 
 ## ⚡ Block 2: 3-Second Quick-Fire Reflex Drills (35–45 Mins)

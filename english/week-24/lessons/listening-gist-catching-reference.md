@@ -53,6 +53,17 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * **Man**: *"No problem, as long as I have a room!"*
 * **Woman**: *"Absolutely. You're all set in Room 412. Here's your key card. The elevators are just around the corner to your left."*
 
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Man**: `Hi,` / `I have a reservation` / `for tonight.` / `The name is Peterson,` / `Michael Peterson.`
+* **Woman**: `Good evening, sir.` / `Let me check that` / `for you.` / `Hmm, I'm not seeing` / `a reservation under Peterson.` / `Could you spell` / `your last name` / `for me?`
+* **Man**: `P-E-T-E-R-S-O-N.` / `I booked it online` / `last week.` / `Actually,` / `I have the confirmation email` / `right here on my phone` / `if that helps.`
+* **Woman**: `Oh, that would be` / `very helpful.` / `Let me see...` / `Ah, I see what happened.` / `The booking was entered` / `under your first name, Michael,` / `rather than` / `your last name.` / `I do apologize` / `for the confusion.`
+* **Man**: `No problem,` / `as long as` / `I have a room!`
+* **Woman**: `Absolutely.` / `You're all set` / `in Room 412.` / `Here's your key card.` / `The elevators are` / `just around the corner` / `to your left.`
+
+</details>
+
 ### 🔑 3W Key Elements
 * **Who**: A hotel guest (Michael Peterson) and the front desk receptionist.
 * **What**: The receptionist couldn't find his booking under his last name Peterson, but after checking his confirmation email, discovered the reservation was accidentally recorded under his first name Michael.
@@ -80,6 +91,17 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * **Man**: *"I understand. The thing is, our store policy requires a receipt for cash refunds. However, since you have the card, I can verify the purchase in our system and offer you store credit for the full amount."*
 * **Woman**: *"That's fine with me. I'll probably just pick out a different color anyway."*
 * **Man**: *"Perfect. Let me just scan the item and pull up the transaction. This will only take a moment."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Woman**: `Excuse me,` / `I'd like to return` / `this shirt.` / `I bought it` / `last weekend,` / `but when I got home` / `I realized` / `the color doesn't match` / `what I needed it for.`
+* **Man**: `Of course,` / `I can help you` / `with that.` / `Do you have` / `your receipt?`
+* **Woman**: `Unfortunately, no.` / `I think I threw it away` / `by accident.` / `But I paid with` / `my credit card,` / `would that work` / `instead?`
+* **Man**: `I understand.` / `The thing is,` / `our store policy requires` / `a receipt` / `for cash refunds.` / `However,` / `since you have the card,` / `I can verify the purchase` / `in our system` / `and offer you store credit` / `for the full amount.`
+* **Woman**: `That's fine with me.` / `I'll probably just` / `pick out` / `a different color` / `anyway.`
+* **Man**: `Perfect.` / `Let me just` / `scan the item` / `and pull up` / `the transaction.` / `This will only take` / `a moment.`
+
+</details>
 
 ### 🔑 3W Key Elements
 * **Who**: A female customer and a retail store associate.
@@ -110,6 +132,18 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * **Man**: *"Tuesday morning works perfectly. Thank you for fitting me in."*
 * **Woman**: *"You're welcome, Mr. Wright. We'll see you next Tuesday at nine. Have a good day."*
 
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Woman**: `Good morning,` / `Riverside Dental Clinic.` / `How may I help you?`
+* **Man**: `Hello,` / `this is Thomas Wright.` / `I have an appointment` / `scheduled for this Thursday` / `at two o'clock,` / `but I'm afraid` / `I need to reschedule.` / `Something's come up` / `at work.`
+* **Woman**: `I see.` / `Let me check` / `what we have available.` / `Is there a particular day` / `that works better` / `for you?`
+* **Man**: `Ideally` / `sometime next week.` / `My schedule should be` / `much clearer` / `by then.` / `My manager just informed me` / `about an important client meeting` / `on Thursday` / `that I can't miss.`
+* **Woman**: `Alright,` / `I have an opening` / `next Tuesday` / `at nine in the morning.` / `Would that suit you?`
+* **Man**: `Tuesday morning` / `works perfectly.` / `Thank you for` / `fitting me in.`
+* **Woman**: `You're welcome, Mr. Wright.` / `We'll see you` / `next Tuesday at nine.` / `Have a good day.`
+
+</details>
+
 ### 🔑 3W Key Elements
 * **Who**: Thomas Wright and the receptionist at Riverside Dental Clinic.
 * **What**: Thomas needed to reschedule his dental checkup on Thursday at 2:00 PM due to an unavoidable client meeting called by his manager.
@@ -136,6 +170,16 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * **Woman**: *"That's a very common concern with downtown properties. But I should mention that all the windows in this building were replaced last year with double-glazed, soundproof glass. You'd be surprised how quiet it is even during rush hour."*
 * **Man**: *"Oh, that's reassuring. What about parking? Do tenants have access to the garage downstairs?"*
 * **Woman**: *"Yes, the lease includes five reserved spaces in the underground garage, with the option to rent additional ones if needed."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Woman**: `So this is` / `the main office area.` / `As you can see,` / `it's about two thousand square feet` / `with plenty of natural light` / `from these floor-to-ceiling windows.`
+* **Man**: `The view is really impressive.` / `You can see` / `the whole city center` / `from here.` / `But I have to say,` / `we're on a fairly busy street.` / `I'm a bit concerned about` / `the noise level` / `during the day.` / `Our staff need to make` / `a lot of phone calls.`
+* **Woman**: `That's a very common concern` / `with downtown properties.` / `But I should mention` / `that all the windows in this building` / `were replaced last year` / `with double-glazed, soundproof glass.` / `You'd be surprised` / `how quiet it is` / `even during rush hour.`
+* **Man**: `Oh, that's reassuring.` / `What about parking?` / `Do tenants have access to` / `the garage downstairs?`
+* **Woman**: `Yes,` / `the lease includes` / `five reserved spaces` / `in the underground garage,` / `with the option to rent` / `additional ones` / `if needed.`
+
+</details>
 
 ### 🔑 3W Key Elements
 * **Who**: A commercial leasing agent (Woman) and a prospective corporate tenant (Man).
@@ -165,6 +209,17 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * **Man**: *"Well, the grocery store on Fifth Avenue has a decent selection of pre-made cakes. They're not as fancy, but they'll work in a pinch. We could stop by on the way to the office tomorrow morning."*
 * **Woman**: *"That's probably our best option at this point. I'll make sure we leave early enough to pick one up."*
 
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Man**: `Have you ordered the cake` / `for Mr. Henderson's retirement party yet?` / `I just realized` / `we never confirmed it.`
+* **Woman**: `Oh no,` / `I completely forgot.` / `Let me call the bakery` / `right now.` / `What was the name of the place again?`
+* **Man**: `Sweet Delights` / `on Oak Street.` / `But wait,` / `I think they require` / `forty-eight hours' notice` / `for custom orders.` / `And the party is` / `tomorrow afternoon.`
+* **Woman**: `You're right.` / `There's no way` / `they can do it in time.` / `What should we do?`
+* **Man**: `Well,` / `the grocery store on Fifth Avenue` / `has a decent selection of` / `pre-made cakes.` / `They're not as fancy,` / `but they'll work in a pinch.` / `We could stop by` / `on the way to the office` / `tomorrow morning.`
+* **Woman**: `That's probably` / `our best option` / `at this point.` / `I'll make sure` / `we leave early enough` / `to pick one up.`
+
+</details>
+
 ### 🔑 3W Key Elements
 * **Who**: Two coworkers organizing Mr. Henderson's retirement celebration.
 * **What**: They forgot to place the custom cake order at Sweet Delights on Oak Street, which requires 48 hours' advance notice, but the event is tomorrow afternoon.
@@ -191,6 +246,16 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * **Man**: *"Ah, that explains it. I wish someone had sent out a reminder. Is there anything I can do in the meantime? I have a report due at noon."*
 * **Woman**: *"Well, if you have any documents saved locally on your computer, you could work on those. And once the system is back up, you shouldn't have any trouble uploading your files."*
 * **Man**: *"Good idea. I think I have an older draft on my desktop. I'll work on that for now."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Man**: `Hi,` / `I'm having trouble` / `logging into the system` / `this morning.` / `It keeps saying` / `my credentials are invalid,` / `but I'm certain` / `I'm typing the right password.`
+* **Woman**: `Yes,` / `we've had a few calls` / `about this already.` / `The system is currently down` / `for scheduled maintenance.` / `We're installing` / `some security upgrades,` / `and everything should be` / `back online` / `by ten o'clock.`
+* **Man**: `Ah, that explains it.` / `I wish someone had sent out` / `a reminder.` / `Is there anything I can do` / `in the meantime?` / `I have a report` / `due at noon.`
+* **Woman**: `Well,` / `if you have any documents` / `saved locally on your computer,` / `you could work on those.` / `And once the system is back up,` / `you shouldn't have any trouble` / `uploading your files.`
+* **Man**: `Good idea.` / `I think I have` / `an older draft` / `on my desktop.` / `I'll work on that` / `for now.`
+
+</details>
 
 ### 🔑 3W Key Elements
 * **Who**: An employee facing login issues and an IT support representative.
