@@ -2,7 +2,7 @@
 
 > **Target Skill**: Real-Time Listening Comprehension, 3W Gist Extraction & 15-Second Verbal Summaries  
 > **Source Material**: Workplace & Business Strategy Audio Transcripts (TOEIC Part 3)  
-> **Current Status**: Clips 1–2 Initial Set (Targeting 6 Clips Total)  
+> **Current Status**: Complete 6-Clip Master Reference (Clips 1–6)  
 > **Scoring Scale**: 10 Points per Clip  
 > **Passing Benchmark**: 8/10 (80% — Proficient B1–B2 Workplace Reflex)
 
@@ -80,4 +80,159 @@ When practicing **1-Minute Gist-Catching & Verbal Summary** (Drill 2 in [daily-l
 * [ ] **Fact 4 (1 pt)**: Deliverable & Timeline: Woman will prepare a proposal outlining costs and reach by Friday for the director's meeting.
 * [ ] **Reflex & Flow (3 pts)**: Transitioned cleanly through problem $\rightarrow$ strategy $\rightarrow$ deliverable in under 18 seconds.
 * [ ] **Native Chunks (3 pts)**: Used strategic business phrasing: `quarterly sales figures`, `down almost 15%`, `you might be onto something`, `targeted campaign`, `core customer base`, `put together a proposal`, `expected reach`.
+
+---
+
+## 📑 Clip 3: Last-Minute Client Meeting & Room B Booking (Questions 1–3)
+
+### 📜 Full Audio Transcript
+* **Man**: *"I just got off the phone with the clients from Axon Industries. They want to meet this morning to discuss the contract, but I forgot to reserve a room."*
+* **Woman**: *"This morning? That's short notice. What time are they coming in?"*
+* **Man**: *"Nine o'clock. I checked the booking system, and Room A is already taken. I think someone from finance has it all morning."*
+* **Woman**: *"Let me pull up the schedule. Okay, it looks like Room C is booked at nine as well, but Room B is free. It's a bit smaller, but it should work for four or five people."*
+* **Man**: *"That'll do. Can you book it for me while I send the clients a calendar invite with the location details?"*
+* **Woman**: *"Sure, I'm reserving it now."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Man**: `I just got off the phone` / `with the clients` / `from Axon Industries.` / `They want to meet this morning` / `to discuss the contract,` / `but I forgot to reserve a room.`
+* **Woman**: `This morning?` / `That's short notice.` / `What time` / `are they coming in?`
+* **Man**: `Nine o'clock.` / `I checked the booking system,` / `and Room A is already taken.` / `I think someone from finance` / `has it all morning.`
+* **Woman**: `Let me pull up the schedule.` / `Okay,` / `it looks like Room C is booked at nine` / `as well,` / `but Room B is free.` / `It's a bit smaller,` / `but it should work` / `for four or five people.`
+* **Man**: `That'll do.` / `Can you book it for me` / `while I send the clients` / `a calendar invite` / `with the location details?`
+* **Woman**: `Sure,` / `I'm reserving it now.`
+
+</details>
+
+### 🔑 3W Key Elements
+* **Who**: Two office colleagues coordinating a last-minute meeting room for visiting clients from Axon Industries.
+* **What**: The clients are arriving at 9:00 AM to discuss a contract, but the man forgot to book a room; Rooms A and C are already occupied at 9:00 AM, leaving only the smaller Room B available for 4–5 people.
+* **Action/Next**: The woman agreed to reserve Room B immediately while the man sends the clients a calendar invite with the location details.
+
+### 🎙️ Benchmark Model Verbal Summary (15 Seconds)
+> *"A colleague forgot to book a meeting room for Axon Industries clients arriving at nine this morning to discuss a contract. Since Rooms A and C were already taken, his coworker agreed to reserve the smaller Room B while he sent out a calendar invite."*
+
+### 📋 Clip 3 Scoring Checklist (10 Points)
+* [ ] **Fact 1 (1 pt)**: Context & Time: Axon Industries clients arriving at 9:00 AM on short notice to discuss a contract.
+* [ ] **Fact 2 (1 pt)**: Obstacle: Man forgot to reserve a room; Room A (finance all morning) and Room C (at 9:00) are booked.
+* [ ] **Fact 3 (1 pt)**: Solution: Room B is free—smaller, but fits 4–5 people.
+* [ ] **Fact 4 (1 pt)**: Split action: Woman reserves Room B while man sends the calendar invite with location details.
+* [ ] **Reflex & Flow (3 pts)**: Initiated within 3 seconds; smooth delivery in under 18 seconds without run-on stalling.
+* [ ] **Native Chunks (3 pts)**: Used natural workplace chunks: `just got off the phone`, `short notice`, `already taken`, `pull up the schedule`, `That'll do`, `calendar invite`.
+
+---
+
+## 📑 Clip 4: Wrong Chair Shipped & Express Replacement (Questions 4–6)
+
+### 📜 Full Audio Transcript
+* **Woman**: *"Hi, I've got an unhappy customer on hold. She ordered the Executive model office chair, but she received the Standard model instead. She's asking for an explanation."*
+* **Man**: *"Let me check the order log. Ah, I see what happened. We had a labeling issue in the warehouse last week. Some of the boxes were tagged incorrectly before shipping."*
+* **Woman**: *"So it was our mistake, not hers. What's the fastest way to fix this?"*
+* **Man**: *"I'll arrange for a courier to pick up the wrong chair tomorrow morning. Meanwhile, I can have the correct model shipped out today on express delivery. She should have it within forty-eight hours."*
+* **Woman**: *"That sounds fair. I'll let her know and apologize on behalf of the company. Hopefully that'll smooth things over."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Woman**: `Hi,` / `I've got an unhappy customer` / `on hold.` / `She ordered` / `the Executive model office chair,` / `but she received` / `the Standard model instead.` / `She's asking for` / `an explanation.`
+* **Man**: `Let me check` / `the order log.` / `Ah, I see what happened.` / `We had a labeling issue` / `in the warehouse last week.` / `Some of the boxes` / `were tagged incorrectly` / `before shipping.`
+* **Woman**: `So it was our mistake,` / `not hers.` / `What's the fastest way` / `to fix this?`
+* **Man**: `I'll arrange for a courier` / `to pick up the wrong chair` / `tomorrow morning.` / `Meanwhile,` / `I can have the correct model` / `shipped out today` / `on express delivery.` / `She should have it` / `within forty-eight hours.`
+* **Woman**: `That sounds fair.` / `I'll let her know` / `and apologize` / `on behalf of the company.` / `Hopefully` / `that'll smooth things over.`
+
+</details>
+
+### 🔑 3W Key Elements
+* **Who**: A customer service representative (with a customer on hold) and a warehouse/operations colleague.
+* **What**: A customer ordered an Executive office chair but received the Standard model due to a warehouse labeling/tagging mistake last week.
+* **Action/Next**: The man will arrange a courier pickup tomorrow morning and send the right chair today via express delivery (arriving within 48 hours), while the woman updates the customer and apologizes on behalf of the company.
+
+### 🎙️ Benchmark Model Verbal Summary (15 Seconds)
+> *"An unhappy customer received a Standard chair instead of the Executive model she ordered because of a warehouse labeling mistake. To fix it, the man arranged a courier pickup tomorrow and express shipping for the right chair today so it arrives within 48 hours, while the woman went back on the line to apologize."*
+
+### 📋 Clip 4 Scoring Checklist (10 Points)
+* [ ] **Fact 1 (1 pt)**: Issue: Customer on hold received the Standard chair instead of the Executive model.
+* [ ] **Fact 2 (1 pt)**: Root cause: Warehouse labeling issue last week (boxes tagged incorrectly before shipping).
+* [ ] **Fact 3 (1 pt)**: Resolution & Timeline: Courier picks up wrong chair tomorrow morning; correct chair shipped today via express delivery (within 48 hours).
+* [ ] **Fact 4 (1 pt)**: Follow-up: Woman updates customer and apologizes on behalf of the company to smooth things over.
+* [ ] **Reflex & Flow (3 pts)**: Maintained clear past/future reporting without dropping `be` or mixing up speakers.
+* [ ] **Native Chunks (3 pts)**: Used service & logistics chunks: `on hold`, `labeling issue`, `tagged incorrectly`, `express delivery`, `on behalf of`, `smooth things over`.
+
+---
+
+## 📑 Clip 5: Weekend Inventory Count & Temp Agency Workers (Questions 7–9)
+
+### 📜 Full Audio Transcript
+* **Woman**: *"I've been looking at the schedule for the inventory count this weekend, and I'm a bit worried. We have over three thousand items to count, but only six people signed up to help."*
+* **Man**: *"That does sound tight. How long do you think it will take with that many people?"*
+* **Woman**: *"Based on last year, we'd be looking at twelve hours at least. And some of the staff have already said they can only stay until the afternoon."*
+* **Man**: *"What if we brought in some temporary workers? There's an agency we've used before for seasonal help. They could send a few people on short notice."*
+* **Woman**: *"That's a good idea. Even two or three extra pairs of hands would make a big difference. Can you contact them today?"*
+* **Man**: *"I'll call them right after this meeting."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Woman**: `I've been looking at` / `the schedule` / `for the inventory count this weekend,` / `and I'm a bit worried.` / `We have over three thousand items` / `to count,` / `but only six people` / `signed up to help.`
+* **Man**: `That does sound tight.` / `How long do you think` / `it will take` / `with that many people?`
+* **Woman**: `Based on last year,` / `we'd be looking at` / `twelve hours at least.` / `And some of the staff` / `have already said` / `they can only stay` / `until the afternoon.`
+* **Man**: `What if we brought in` / `some temporary workers?` / `There's an agency` / `we've used before` / `for seasonal help.` / `They could send a few people` / `on short notice.`
+* **Woman**: `That's a good idea.` / `Even two or three` / `extra pairs of hands` / `would make a big difference.` / `Can you contact them today?`
+* **Man**: `I'll call them` / `right after this meeting.`
+
+</details>
+
+### 🔑 3W Key Elements
+* **Who**: Two managers/colleagues planning a weekend inventory count.
+* **What**: They need to count over 3,000 items this weekend, which takes at least 12 hours, but only 6 staff signed up and some can only stay until the afternoon.
+* **Action/Next**: The man suggested hiring 2–3 temporary workers from a seasonal staffing agency they used before and agreed to call the agency right after the meeting.
+
+### 🎙️ Benchmark Model Verbal Summary (15 Seconds)
+> *"Two coworkers were worried about counting over 3,000 inventory items this weekend with only six staff, especially since some have to leave in the afternoon and the job takes at least twelve hours. The man suggested calling a temp agency they've used before right after the meeting to bring in extra help."*
+
+### 📋 Clip 5 Scoring Checklist (10 Points)
+* [ ] **Fact 1 (1 pt)**: Workload: Over 3,000 items to count during this weekend's inventory count.
+* [ ] **Fact 2 (1 pt)**: Staffing gap: Only 6 people signed up, and some can only stay until the afternoon (job takes at least 12 hours).
+* [ ] **Fact 3 (1 pt)**: Solution: Bring in temporary workers (2–3 extra pairs of hands) from a seasonal agency used previously.
+* [ ] **Fact 4 (1 pt)**: Next step: Man will call the agency right after the meeting.
+* [ ] **Reflex & Flow (3 pts)**: Clear causal flow (*workload $\rightarrow$ shortage $\rightarrow$ temp agency*) under 18 seconds.
+* [ ] **Native Chunks (3 pts)**: Used staffing & planning chunks: `inventory count`, `signed up to help`, `looking at [12 hours]`, `temporary workers`, `on short notice`, `extra pairs of hands`, `make a big difference`.
+
+---
+
+## 📑 Clip 6: Parking Garage Closure & Shuttle Bus Schedule (Questions 10–12)
+
+### 📜 Full Audio Transcript
+* **Man**: *"Did you see the email about the parking garage? Apparently it's going to be closed all of next week for repainting."*
+* **Woman**: *"Yes, I read that this morning. We're supposed to use the overflow lot on Riverside Drive instead."*
+* **Man**: *"That lot is at least a fifteen-minute walk from here. I'm not looking forward to that, especially if it rains."*
+* **Woman**: *"Actually, they're running a shuttle bus between the lot and the main entrance. It leaves every ten minutes starting at seven thirty. I can forward you the schedule if you'd like."*
+* **Man**: *"That would be great, thanks. I guess it won't be so bad if I don't have to walk the whole way."*
+* **Woman**: *"No problem. I'll send it over as soon as I get back to my desk."*
+
+<details><summary>🧱 Chunked Transcript (Luyện Đọc & Nghe Nguyên Khối Âm Thanh — Keith Method)</summary>
+
+* **Man**: `Did you see the email` / `about the parking garage?` / `Apparently` / `it's going to be closed` / `all of next week` / `for repainting.`
+* **Woman**: `Yes,` / `I read that this morning.` / `We're supposed to use` / `the overflow lot` / `on Riverside Drive instead.`
+* **Man**: `That lot is at least` / `a fifteen-minute walk from here.` / `I'm not looking forward to that,` / `especially if it rains.`
+* **Woman**: `Actually,` / `they're running a shuttle bus` / `between the lot` / `and the main entrance.` / `It leaves every ten minutes` / `starting at seven thirty.` / `I can forward you the schedule` / `if you'd like.`
+* **Man**: `That would be great, thanks.` / `I guess it won't be so bad` / `if I don't have to walk` / `the whole way.`
+* **Woman**: `No problem.` / `I'll send it over` / `as soon as I get back` / `to my desk.`
+
+</details>
+
+### 🔑 3W Key Elements
+* **Who**: Two office coworkers discussing next week's parking arrangements.
+* **What**: The company parking garage will be closed all next week for repainting, requiring staff to use the overflow lot on Riverside Drive (a 15-minute walk away).
+* **Action/Next**: The woman reassured him that a shuttle bus will run every 10 minutes starting at 7:30 AM between the lot and the main entrance, and promised to forward him the schedule once she returns to her desk.
+
+### 🎙️ Benchmark Model Verbal Summary (15 Seconds)
+> *"Two coworkers discussed that the parking garage will be closed all next week for repainting, forcing staff to park at the Riverside Drive overflow lot fifteen minutes away. However, the woman explained there will be a shuttle bus running every ten minutes from 7:30 AM, and offered to forward him the schedule."*
+
+### 📋 Clip 6 Scoring Checklist (10 Points)
+* [ ] **Fact 1 (1 pt)**: Disruption: Parking garage closed all of next week for repainting.
+* [ ] **Fact 2 (1 pt)**: Alternative & Concern: Overflow lot on Riverside Drive is at least a 15-minute walk (problematic if it rains).
+* [ ] **Fact 3 (1 pt)**: Mitigation: Shuttle bus runs between the lot and main entrance every 10 minutes starting at 7:30 AM.
+* [ ] **Fact 4 (1 pt)**: Next step: Woman will forward the schedule as soon as she gets back to her desk.
+* [ ] **Reflex & Flow (3 pts)**: Smooth delivery under 18 seconds using `will be closed` / `supposed to use` accurately.
+* [ ] **Native Chunks (3 pts)**: Used commuter & office chunks: `overflow lot`, `fifteen-minute walk`, `looking forward to`, `running a shuttle bus`, `send it over`, `as soon as I get back`.
+
 

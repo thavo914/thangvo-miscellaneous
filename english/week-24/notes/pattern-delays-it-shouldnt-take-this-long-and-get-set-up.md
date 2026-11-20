@@ -19,6 +19,29 @@ $$\textbf{It shouldn't take + [this long / so long] + to get + [Object] + [V3/ed
 
 ---
 
+## 🧱 1B. Sound-Block Chunking & 5-Minute Drill (Keith Method)
+
+Thay vì đọc rời rạc từng từ (*It - shouldn't - take - this - long...*), hãy nén câu này thành **2 khối âm thanh nguyên khối**:
+
+```
+  [It-shouldn't-take-this-long]   /   [to-get-your-cable-TV-set-up].
+              └─                                    └─
+    Chunk 1: Starter Frame               Chunk 2: Causative Action
+  (Đọc 1 hơi: it-shouldn't-take...)    (Kẹp tân ngữ: to-get-[X]-set-up)
+```
+
+* **Luyện đổi đuôi (`Slot-Swapping` — 1 phút đọc to):**
+  * `It-shouldn't-take-this-long` + `to-get-it-set-up`.
+  * `It-shouldn't-take-this-long` + `to-get-my-account-set-up`.
+  * `It-shouldn't-take-this-long` + `to-get-the-staging-server-set-up`.
+  * `It-shouldn't-take-this-long` + `to-get-this-ticket-approved`.
+
+* **15s Mini-Story (Ghép Lego với Adverbial Chunks):**
+  * *Đời thường:* `"To-be-honest, I've-been-waiting all morning. It-shouldn't-take-this-long to-get-the-internet-set-up!"`
+  * *Tech/Data:* `"At-the-moment, we're still blocked on access. Honestly, it-shouldn't-take-this-long to-get-our-IAM-roles-set-up—let's ping DevOps!"`
+
+---
+
 ## 🧠 2. Bản Chất Ngữ Pháp & Cụm Từ Cốt Lõi
 
 ### 1. `It shouldn't take...` (Kỳ vọng hợp lý bị phá vỡ — Broken Standard)

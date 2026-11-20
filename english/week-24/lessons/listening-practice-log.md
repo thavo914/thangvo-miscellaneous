@@ -13,8 +13,8 @@
 | **Audio 2** | Retail Return & Store Credit Policy | 1 | `Audio 2 - Attempt 1 (Fresh Listen)` | **5.25 / 10** | **5.25 / 10** | 📄 [audio-2-retail-return.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-2-retail-return.md) |
 | **Audio 3** | Dental Appointment Rescheduling & Work Conflict | 1 | `Audio 3 - Attempt 1 (Fresh Listen)` | **5.5 / 10** | **5.5 / 10** | 📄 [audio-3-office-equipment.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-3-office-equipment.md) |
 | **Audio 4** | Commercial Office Tour & Soundproofing Concerns | 1 | `Audio 4 - Attempt 1 (Fresh Listen)` | **5.0 / 10** | **5.0 / 10** | 📄 [audio-4-travel-logistics.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-4-travel-logistics.md) |
-| **Audio 5** | Catering Adjustment & Menu Negotiation | 0 | — | — | — | 📄 [audio-5-catering-negotiation.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-5-catering-negotiation.md) |
-| **Audio 6** | Quarterly Software Rollout Delay | 0 | — | — | — | 📄 [audio-6-software-rollout.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-6-software-rollout.md) |
+| **Audio 5** | Retirement Party Cake & Grocery Store Backup Plan | 1 | `Audio 5 - Attempt 1 (Fresh Listen)` | **5.75 / 10** | **5.75 / 10** | 📄 [audio-5-catering-negotiation.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-5-catering-negotiation.md) |
+| **Audio 6** | Scheduled System Maintenance & Offline Workaround | 1 | `Audio 6 - Attempt 1 (Fresh Listen)` | **6.75 / 10** | **6.75 / 10** | 📄 [audio-6-software-rollout.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-logs/audio-6-software-rollout.md) |
 
 ---
 

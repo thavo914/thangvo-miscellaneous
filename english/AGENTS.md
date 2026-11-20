@@ -91,3 +91,17 @@ Whenever the user writes, asks about, or tests an English sentence in the chat:
 - **Mandatory Directive**: The agent **MUST** actively evaluate the sentence's naturalness (identifying if it sounds like textbook English, slight Vietlish, or if a native speaker/engineer would say it differently).
 - **Proactive Suggestions**: Proactively offer 1–2 more natural, punchier, or idiomatic native alternatives (e.g., rapid daily spoken reflexes vs. polished workplace communication).
 - **Grammar & Collocation Nuance**: Briefly highlight *why* the suggested phrasing feels more natural (e.g., verb choice, preposition habits, word order).
+
+---
+
+## 6. Mandatory Sound-Block Chunking Rule (Keith Speaking Academy Method)
+Whenever generating, updating, or reviewing **English curriculum notes, daily speed-reflex lessons, listening transcripts, or speaking drills** (excluding strict `parse_vocab.py` database import files):
+- **Core Rule**: Apply the **Sound-Block Chunking Method** as documented in [chunk-text-and-lessons.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/.antigravity/workflows/chunk-text-and-lessons.md) so the learner trains spoken sound blocks instead of translating word-by-word.
+- **Chunking Categories**:
+  - **Adverbial / Time / Discourse Chunks**: e.g., `At the moment`, `By and large`, `To be honest`, `If that's the case`.
+  - **Verb / Starter Chunks**: e.g., `I tend to`, `I'm used to`, `I find it easy to`, `It shouldn't take this long to`, `get [something] set up`.
+  - **Object / Complement / Clause Chunks**: Breath-friendly 2–4 word sound units separated visually with `/` or `—` when drilling pronunciation and rhythm.
+- **Complex Structures & 90/10 Grammar Logic Guard**:
+  - Do **not** force every sentence into a rigid `[Adverbial] + [Verb] + [Object]` template. Use flexible/complex patterns (e.g., `It shouldn't take this long + to [verb chunk]`, conditional starters, passive/causative chunks like `get [something] [V-ed]`) as natural sound blocks.
+  - Keep **90% of examples logically accurate** and natural; reserve the **10% Absurd/Illogical Mini-Story** explicitly for rapid 15-second fluency warm-ups so rhythm and linking take priority over overthinking.
+- **Listening & Transcript Materials**: Include collapsible `🧱 Chunked Transcript` blocks showing sound-block breaks (`/`) and key reusable `[Verb/Starter]` and `[Adverbial]` chunks extracted from the audio.

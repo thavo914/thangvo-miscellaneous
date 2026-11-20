@@ -13,6 +13,7 @@ description: The core topic-agnostic project backbone of the English learning sy
 > - **The 3-Second Rule**: Train involuntary spoken reflexes — hear/read a Vietnamese prompt and fire out natural B1-B2 spoken English within 3 seconds.
 > - **Day 6 Review Test (90 Mins / 100 Pts)**: A rigorous 4-part written milestone test validating mastery of collocations, Vietlish trap avoidance, sentence formulas, and contextual dialogue transcreation.
 > - **Plain English & Functional Self-Explanation**: All content strictly follows [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md). Strictly avoid academic bloat, show-off vocabulary (*utilize*, *facilitate*), and empty corporate clichés (*bring to the table*, *synergy*).
+> - **Mandatory Sound-Block Chunking (Keith Method)**: Every generated lesson, note, and transcript reference must apply the Sound-Block Chunking workflow ([chunk-text-and-lessons.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/.antigravity/workflows/chunk-text-and-lessons.md)), linking directly to definition notes (`file:///...`) and embedding daily 5-minute chunking drills.
 
 ---
 
@@ -67,6 +68,10 @@ Each daily file contains a complete 4-block training engine taking 90–120 minu
   * Dynamic formula box with bracketed components: e.g. `[Effort] + is what has made + [Subject] + [Adjective]`.
   * Communicative function & Why native speakers use it.
   * 3 quick slot-filling prompts per formula with collapsed answers.
+* **🧱 5-Minute Chunking Warm-Up (Keith Method — MANDATORY)**:
+  * **3 Verb / Starter Chunks** (e.g., `I tend to...`, `It shouldn't take this long to...`, `get [something] set up`) + **3 Adverbial Chunks** (e.g., `At the moment`, `By and large`, `On top of that`), broken into sound blocks (`/`).
+  * **15-Second Rapid Mini-Story Drill**: 3–4 connected sentences combining today's chunks at natural speaking speed (following the 90/10 logic guard in [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md)).
+  * **Transcripts / Reference Sheets**: When generating listening or reading reference files, include a collapsible `🧱 Chunked Transcript` section with sound-block markers (`/`) and extracted reusable chunks.
 
 ### Block 2: 3-Second Quick-Fire Reflex Drills ⚡ (35–45 Mins)
 * **15–20 Rapid Situational Prompts**:

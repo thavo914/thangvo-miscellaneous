@@ -12,6 +12,7 @@ description: Propose and preview a cohesive curriculum blueprint for the upcomin
 >   - Prioritize natural, high-frequency spoken English for daily workplace syncs, coffee talk, and engineering teamwork.
 >   - Strictly avoid show-off words (*utilize, facilitate, commence*), empty corporate buzzwords (*bring to the table, synergy, go above and beyond*), and stiff academic bloat.
 >   - Keep formulas breath-friendly (12–20 words on average).
+>   - **Mandatory Sound-Block Chunking**: Apply the Keith Speaking Academy chunking framework ([chunk-text-and-lessons.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/.antigravity/workflows/chunk-text-and-lessons.md)) across all proposed lessons, transcripts, and formula drills.
 > - **Git Rules**: Keep all generated files and proposals in the local working tree only. **Do not auto-commit or auto-push** without explicit user permission.
 
 ---
