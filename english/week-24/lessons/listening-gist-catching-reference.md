@@ -278,7 +278,7 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 ## ⚡ "In-the-Room" Hot-Seat Q&A Drills (Phản Xạ Đối Đáp Trực Diện Với Sếp — Ngôi Thứ Nhất `I / We`)
 
 > **Cách luyện tập (5 phút sau khi tóm tắt 3W)**:  
-> Thay vì đóng vai người ngoài kể lại câu chuyện (*"A guest arrived...", "Two coworkers discussed..."*), hãy tưởng tượng **bạn chính là nhân viên trong từng Clip trên** và **sếp người Nam Phi đang bước vào hỏi trực diện với tốc độ rất nhanh**. Bạn có **3 giây** để bật ra câu trả lời ngôi thứ nhất (`I / We`) theo trục **Linear Flow (`Status ➔ Root Cause ➔ Action/ETA`)**:
+> Thay vì đóng vai người ngoài kể lại câu chuyện (*"A guest arrived...", "Two coworkers discussed..."*), hãy tưởng tượng **bạn chính là nhân viên trong từng Clip trên** và **quản lý đang bước vào hỏi trực diện với tốc độ rất nhanh**. Bạn có **3 giây** để bật ra câu trả lời ngôi thứ nhất (`I / We`) theo trục **Linear Flow (`Status ➔ Root Cause ➔ Action/ETA`)**:
 
 ### 🔥 Clip 1 Hot-Seat (Bạn là Lễ tân khách sạn, Quản lý hỏi nhanh):
 * **Manager**: *"Hey, I saw Mr. Peterson waiting at the front desk for quite a while. What was the holdup with his check-in?"*

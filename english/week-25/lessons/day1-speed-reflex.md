@@ -15,7 +15,7 @@ estimated_time: "90–120 mins"
 ## 🎯 Block 1: Story Mission, Linearthinking Dissection & Pattern Activation (15–20 Mins)
 
 ### 📖 Today's Story Brief:
-> *It's Monday morning. You are in a strategy meeting with a marketing consultant and your fast-talking South African Manager to review the launch of "Qwixx Dish Pods" and your team's analytics subscription ("Phenix Stream"). Vendor ad prices have skyrocketed over the past year, so you must justify your workflow with real consumer data, explain why your team focused on online influencers and word of mouth rather than expensive TV commercials, and promise to have your assistant send over the final deck by Monday afternoon.*
+> *It's Monday morning. You are in a strategy meeting with a marketing consultant and your fast-talking Engineering Manager to review the launch of "Qwixx Dish Pods" and your team's analytics subscription ("Phenix Stream"). Vendor ad prices have skyrocketed over the past year, so you must justify your workflow with real consumer data, explain why your team focused on online influencers and word of mouth rather than expensive TV commercials, and promise to have your assistant send over the final deck by Monday afternoon.*
 
 ### 🧠 Linearthinking Dissection (`Simplify: S - V - O Skeleton`)
 Before speaking long sentences, strip away the modifiers to lock in the <10-word core skeleton:
@@ -218,7 +218,7 @@ Before speaking long sentences, strip away the modifiers to lock in the <10-word
 
 ## 🎙️ Block 4: High-Velocity Boss Hot-Seat & ChatGPT Voice Mode (25–35 Mins)
 
-### ⚡ Part A: Fast South African Manager Hot-Seat Drill (3-Second Reflex)
+### ⚡ Part A: Fast-Talking Manager Hot-Seat Drill (3-Second Reflex)
 > 🎙️ **Manager (speaking fast)**: *"Listen, I just saw our marketing spend report—why did we cut back on TV commercials for Qwixx Dish Pods and dump most of the budget into social media influencers? Do we actually have numbers to justify this, and when can I see the full breakdown?"*
 
 * **Step 1 — Fire a Tactical Buffer (1s)**:
@@ -232,7 +232,7 @@ Before speaking long sentences, strip away the modifiers to lock in the <10-word
 ---
 
 ### 🤖 Part B: Copy & Paste ChatGPT Voice Mode Battle Prompt (<300 chars):
-> `Act as my fast-talking South African Manager. Ask me how I analyze campaign data, why we used influencers over TV ads as prices skyrocketed, and when I'll send the deck. Force me to reply in 3s using S-V-O chunks. Critique my phrasing every 2 turns.`
+> `Act as my fast-talking Engineering Manager. Ask me how I analyze campaign data, why we used influencers over TV ads as prices skyrocketed, and when I'll send the deck. Force me to reply in 3s using S-V-O chunks. Critique my phrasing every 2 turns.`
 
 ### 🎯 Voice Mode Mission Objectives:
 1. Explain your process using `The first step I always take is to look at the data...` + `back it up with data`.

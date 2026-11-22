@@ -219,7 +219,7 @@ estimated_time: "90–120 mins"
 
 ## 🎙️ Block 4: High-Velocity Boss Hot-Seat & ChatGPT Voice Mode (25–35 Mins)
 
-### ⚡ Part A: Fast South African Manager Hot-Seat Drill (3-Second Reflex)
+### ⚡ Part A: Fast-Talking Manager Hot-Seat Drill (3-Second Reflex)
 > 🎙️ **Manager (speaking fast)**: *"Hey, quick check on weekend coverage! We have a major warehouse schema migration scheduled for Saturday night, and Chloe told me she won't be around. Are you and Ron available to monitor the deployment, or do you guys have conflict plans?"*
 
 * **Step 1 — Fire a Tactical Buffer (1s)**:

@@ -1,7 +1,7 @@
 # 🎯 Daily English Listening & Speaking Reflex Playbook (Cẩm Nang Luyện Phản Xạ Nghe - Nói Hàng Ngày)
 
 > **Target Audience**: Data Engineers, Software Engineers & Working Professionals (CEFR B1–B2)  
-> **Core Objective**: Eliminating mental translation lag, avoiding the passive knowledge trap, handling fast-speaking native managers (e.g., South African / UK / US leads), and converting listening inputs directly into active 3-second workplace speaking reflexes.  
+> **Core Objective**: Eliminating mental translation lag, avoiding the passive knowledge trap, handling fast-speaking native managers and teammates, and converting listening inputs directly into active 3-second workplace speaking reflexes.  
 > **Core Daily Commitment**: ~80–85 Minutes / Day (50–55m Core Listening & Summary + 25–35m High-Velocity Workplace & Manager Q&A Reflex Block)
 
 ---
@@ -71,9 +71,9 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì 2 
 ### ⏱️ Bước 3: Gist-Catching & Verbal Summary — Nghe Bắt Ý & Tóm Tắt 15 Giây (10 Phút)
 *Chiến lược 2 lần nghe (Bài Mới) & Active Verbal Recall (Bài Cũ) — Huấn luyện xử lý thông tin tầng vĩ mô*
 
-* **Tài liệu học tập hàng tuần**:
-  * **File Master Reference (Đầy đủ Transcript, 3W, Bài mẫu & Bảng điểm)**: [Week 23 Reference](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-23/lessons/listening-gist-catching-reference.md) | [Week 24 Reference](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/listening-gist-catching-reference.md) | [Week 25 Reference](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md)
-  * **File Cue Sheet (Chuyên dùng để Review Bài Cũ — Chỉ có Tiêu đề & Chunks, chống nhìn trộm)**: [Week 23 Cues](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-23/lessons/verbal-recall-cues.md) | [Week 24 Cues](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/verbal-recall-cues.md) | [Week 25 Cues](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-25/lessons/verbal-recall-cues.md)
+* **Tài liệu học tập hàng tuần (Chuẩn 4 Clips / Tuần = 2 Part 3 Conversations + 2 Part 4 Monologues)**:
+  * **File Master Reference (Đầy đủ Audio Hyperlinks, Transcript, 3W, Bài mẫu & Bảng điểm)**: [Week 23 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-23/lessons/listening-gist-catching-reference.md) | [Week 24 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-24/lessons/listening-gist-catching-reference.md) | [Week 25 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md) | [Week 26 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/listening-gist-catching-reference.md)
+  * **File Cue Sheet (Chuyên dùng để Review Bài Cũ — Chỉ có Tiêu đề & Chunks, chống nhìn trộm)**: [Week 23 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-23/lessons/verbal-recall-cues.md) | [Week 24 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-24/lessons/verbal-recall-cues.md) | [Week 25 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/verbal-recall-cues.md) | [Week 26 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/verbal-recall-cues.md)
 
 #### A. Đối với Bài Mới (Fresh Clip) — Quy trình 2 lần nghe (The 2-Pass Strategy)
 1. **Pass 1 (The Gist Pass - Bắt khung xương 3W)**:
@@ -93,13 +93,13 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì 2 
 3. **Kích hoạt Active Verbal Recall (15 Giây)**: Bấm đồng hồ 15 giây, **tự nói to bản tóm tắt bằng trí nhớ**! Ép bản thân phải vận dụng lại các từ đã note (như *jamming*, *was supposed to*, *up and running*, *work in a pinch*).
 4. **Đối chiếu khi bị nghẽn**: Chỉ khi nào nói bị tắc tị hoặc quên hẳn cốt truyện thì mới bấm nghe lại 30 giây hoặc bấm link đối chiếu đáp án chi tiết.
 
-#### C. Lịch Trình Luyện Cuốn Chiếu 6 Clip Trong 5 Ngày (The 5-Day 6-Clip Rolling Cycle)
-* **Thứ Hai (Day 1)**: Nghe Clip 1 (Mới) + Clip 2 (Mới)
-* **Thứ Ba (Day 2)**: Review Clip 1 + Clip 2 (Active Verbal Recall) + Nghe Clip 3 (Mới)
-* **Thứ Tư (Day 3)**: Review Clip 3 (Active Verbal Recall) + Nghe Clip 4 (Mới)
-* **Thứ Năm (Day 4)**: Review Clip 4 (Active Verbal Recall) + Nghe Clip 5 (Mới)
-* **Thứ Sáu (Day 5)**: Review Clip 5 (Active Verbal Recall) + Nghe Clip 6 (Mới)
-* **Thứ Bảy (Day 6 Test)**: **Iron Reflex 90 giây** (5 phút trước giờ thi) — Nhìn Cue Sheet tóm tắt nhanh Clip 6 & ôn lướt Clip 1–5 không vấp
+#### C. Lịch Trình Luyện Cuốn Chiếu 4 Clips Trong 5 Ngày (The 5-Day 4-Clip Balanced Cycle: 2 Part 3 + 2 Part 4)
+* **Thứ Hai (Day 1)**: Nghe mới **Clip 1 (TOEIC Part 3)** — Mode B Full-Detail
+* **Thứ Ba (Day 2)**: Review **Clip 1** (Active Verbal Recall) + Nghe mới **Clip 2 (TOEIC Part 3)** — Mode B
+* **Thứ Tư (Day 3)**: Review **Clip 2** (Active Verbal Recall) + Nghe mới **Clip 3 (TOEIC Part 4 Monologue)** — Mode B
+* **Thứ Năm (Day 4)**: Review **Clip 3** (Active Verbal Recall) + Nghe mới **Clip 4 (TOEIC Part 4 Monologue)** — Mode B
+* **Thứ Sáu (Day 5)**: Review **Clip 4** (Active Verbal Recall) + Đấu phản xạ **Hot-Seat Q&A** cả 4 Clips
+* **Thứ Bảy (Day 6 Test)**: **Iron Reflex 60 giây** (5 phút trước giờ thi) — Nhìn Cue Sheet tóm tắt nhanh Clips 1–4 không vấp
 
 #### D. Thang Điểm Đánh Giá Kỹ Năng Nghe & Tường Thuật (Dual-Mode Scoring Rubric — 10 Điểm)
 > **🔄 Quy chuẩn phối hợp tối ưu:** **Lần nghe đầu tiên (Fresh Listen) dùng Mode B** (soi nghe trọn từ & sửa lỗi ngữ pháp) $\rightarrow$ **Ngày hôm sau Review (Active Recall) dùng Mode A** (ép phản xạ tóm tắt gọn 15 giây từ Cue Sheet).
@@ -134,22 +134,22 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì 2 
 ---
 
 ### ⚡ Bước 5: High-Velocity Workplace & Manager Q&A Reflex Block (25–35 Phút — BẮT BUỘC CHO DATA ENGINEER)
-*Bứt phá điểm nghẽn đối đáp tức thời với Sếp bản ngữ nói nhanh (South African / Native Tech Lead), xóa bỏ 3–5 giây "đơ não" và rèn phản xạ giải thích sự cố, báo cáo tiến độ, phản biện (push back)*
+*Bứt phá điểm nghẽn đối đáp tức thời với Sếp / Tech Lead bản ngữ nói nhanh, xóa bỏ 3–5 giây "đơ não" và rèn phản xạ giải thích sự cố, báo cáo tiến độ, phản biện (push back)*
 
 > [!IMPORTANT]
 > **Tại sao cần Block 25–35 phút này?**
-> Nghe chép chính tả (Bước 1) và Tóm tắt 3W (Bước 3) mới chỉ giúp bạn đóng vai **"Người quan sát thuật lại câu chuyện" (3rd-Person Observer)**. Nhưng khi họp 1-1 hoặc Standup với sếp người Nam Phi nói cực nhanh, bạn là **"Người trong cuộc bị hỏi xoáy trực tiếp" (1st-Person Responder)**. Block 5 này chuyển hóa bạn từ *Người kể chuyện* sang *Người đối đáp trực diện*.
+> Nghe chép chính tả (Bước 1) và Tóm tắt 3W (Bước 3) mới chỉ giúp bạn đóng vai **"Người quan sát thuật lại câu chuyện" (3rd-Person Observer)**. Nhưng khi họp 1-1 hoặc Standup với quản lý bản ngữ nói nhanh, bạn là **"Người trong cuộc bị hỏi xoáy trực tiếp" (1st-Person Responder)**. Block 5 này chuyển hóa bạn từ *Người kể chuyện* sang *Người đối đáp trực diện*.
 
 #### 🕒 Phân bổ 25–35 Phút Thực Chiến Hàng Ngày:
 1. **Phút 1–5 | Speed-Laddered Listening + "In-the-Room" Hot-Seat (5 Phút)**:
-   * Lấy ngay bài TOEIC vừa nghe ở Bước 3, bật tốc độ **1.25x** để quen áp lực tốc độ nói nhanh của sếp.
-   * Ngay khi audio dừng, trả lời to **Câu hỏi Hot-Seat ("In-the-Room" Roleplay)** được thiết kế ở cuối mỗi Clip trong file Reference (đóng vai bạn chính là nhân viên trong đoạn băng đó đang bị sếp chất vấn trực tiếp: *"What happened? What's our workaround? When will it be fixed?"*).
+   * Lấy ngay bài TOEIC vừa nghe ở Bước 3, bật tốc độ **1.25x** để quen áp lực tốc độ nói nhanh.
+   * Ngay khi audio dừng, trả lời to **Câu hỏi Hot-Seat ("In-the-Room" Roleplay)** được thiết kế ở cuối mỗi Clip trong file Reference (đóng vai bạn chính là nhân viên trong đoạn băng đó đang bị quản lý chất vấn trực tiếp: *"What happened? What's our workaround? When will it be fixed?"*).
 2. **Phút 5–20 | Interactive Linearthinking Sparring với Antigravity trên Chat (15 Phút)**:
-   * Gõ `/linearthinking` (chọn **Mode 4: High-Velocity Boss & Data Engineering Q&A**).
-   * Antigravity sẽ đóng vai **Sếp người Nam Phi nói nhanh, trực diện**, ném cho bạn 3–4 tình huống thực tế của Data Engineer (*pipeline failed, upstream schema change, late dashboard delivery, pushing back on unrealistic ad-hoc requests*) kèm câu hỏi dồn dập.
+   * Gõ `/linearthinking` (chọn **Mode 4: High-Velocity Manager & Data Engineering Q&A**).
+   * Antigravity sẽ đóng vai **Tech Lead / Engineering Manager nói nhanh, trực diện**, ném cho bạn 3–4 tình huống thực tế của Data Engineer (*pipeline failed, upstream schema change, late dashboard delivery, pushing back on unrealistic ad-hoc requests*) kèm câu hỏi dồn dập.
    * Bạn gõ hoặc đọc (voice-to-text) câu trả lời ngay trong 3–5 giây theo trục **Linear Flow + Sound-Block Chunking**. Antigravity sẽ chấm điểm cấu trúc `S - V - O`, sửa lỗi dịch ngầm và cung cấp câu mẫu nâng cấp.
-3. **Phút 20–30 | Hands-Free ChatGPT Voice Mode — "Fast South African Tech Lead" (10–15 Phút)**:
-   * Đeo tai nghe, bật ChatGPT Voice Mode và nạp **Battle Prompt Sếp Nam Phi nói nhanh** (bên dưới) để đấu khẩu liên tục không nhìn màn hình.
+3. **Phút 20–30 | Hands-Free ChatGPT Voice Mode — "Fast-Talking Tech Lead" (10–15 Phút)**:
+   * Đeo tai nghe, bật ChatGPT Voice Mode và nạp **Battle Prompt Tech Lead nói nhanh** (bên dưới) để đấu khẩu liên tục không nhìn màn hình.
 
 ---
 
@@ -184,10 +184,10 @@ Mọi câu hỏi của sếp trong công việc hàng ngày đều quy về 3 nh
 
 ---
 
-#### 🎙️ Bộ Vũ Khí 3: Battle Prompt ChatGPT Voice Mode — "Fast South African Tech Lead"
+#### 🎙️ Bộ Vũ Khí 3: Battle Prompt ChatGPT Voice Mode — "Fast-Talking Tech Lead"
 Copy nguyên văn đoạn lệnh dưới đây (<300 ký tự) vào ChatGPT Voice Mode mỗi ngày 10 phút:
 
-> *"Act as my fast-talking South African Data Engineering Manager. Run a rapid 1-on-1 standup. Ask tough follow-up questions about pipeline delays, schema changes, and deadlines. Force me to answer in 3 seconds using clear S-V-O logic. Critique my phrasing after every 2 turns."*
+> *"Act as my fast-talking Data Engineering Manager. Run a rapid 1-on-1 standup. Ask tough follow-up questions about pipeline delays, schema changes, and deadlines. Force me to answer in 3 seconds using clear S-V-O logic. Critique my phrasing after every 2 turns."*
 
 ---
 

@@ -15,7 +15,7 @@ estimated_time: "90–120 mins"
 ## 🎯 Block 1: Story Mission, Linearthinking Dissection & Pattern Activation (15–20 Mins)
 
 ### 📖 Today's Story Brief:
-> *It's Friday morning—the climax of Week 25. First, you step onto the Town Hall stage as the newly appointed Branch Director for Buzz Marketing's West Coast expansion to put office rumors to rest and invite internal talent to apply for senior roles in Los Angeles. Second, right after the Town Hall, you switch roles into a high-stakes 1-on-1 with your South African Engineering Director to throw your hat in the ring and ask to be considered for the Lead Data Engineer position at the new California branch!*
+> *It's Friday morning—the climax of Week 25. First, you step onto the Town Hall stage as the newly appointed Branch Director for Buzz Marketing's West Coast expansion to put office rumors to rest and invite internal talent to apply for senior roles in Los Angeles. Second, right after the Town Hall, you switch roles into a high-stakes 1-on-1 with your Engineering Director to throw your hat in the ring and ask to be considered for the Lead Data Engineer position at the new California branch!*
 
 ### 🧠 Linearthinking Dissection (`Read Connection: The 7-Part Executive Monologue Blueprint`)
 See how all 6 staged notes link together in a single, unbroken causal chain:
@@ -215,7 +215,7 @@ See how all 6 staged notes link together in a single, unbroken causal chain:
 
 ## 🎙️ Block 4: High-Velocity Boss Hot-Seat & ChatGPT Voice Mode (25–35 Mins)
 
-### ⚡ Part A: Fast South African Manager Hot-Seat Drill (3-Second Reflex)
+### ⚡ Part A: Fast-Talking Director Hot-Seat Drill (3-Second Reflex)
 > 🎙️ **Director (speaking fast after Town Hall)**: *"So I heard you want to throw your hat in the ring and be considered for the Lead Data Engineer role at the new Los Angeles branch! If you relocate to California and start training in January, who's going to take over your current pipelines here, and why are you the best internal pick for LA?"*
 
 * **Step 1 — Fire a Tactical Buffer (1s)**:
@@ -229,7 +229,7 @@ See how all 6 staged notes link together in a single, unbroken causal chain:
 ---
 
 ### 🤖 Part B: Copy & Paste ChatGPT Voice Mode Battle Prompt (<300 chars):
-> `Act as my fast South African Director hosting a Q&A on our new California office. First ask me to deliver my 7-sentence Town Hall expansion announcement. Then grill me on why I should be considered for a senior role from within the company. Critique my chunks.`
+> `Act as my fast-talking Engineering Director hosting a Q&A on our new California office. First ask me to deliver my 7-sentence Town Hall expansion announcement. Then grill me on why I should be considered for a senior role from within the company. Critique my chunks.`
 
 ### 🎯 Voice Mode Mission Objectives:
 1. Deliver all 7 sentences of the California Town Hall monologue from memory with natural sound-block pauses (`/`).

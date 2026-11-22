@@ -15,7 +15,7 @@ estimated_time: "90–120 mins"
 ## 🎯 Block 1: Story Mission, Linearthinking Dissection & Pattern Activation (15–20 Mins)
 
 ### 📖 Today's Story Brief:
-> *It's Thursday at 1:30 PM. You just got back from lunch and face a double crisis. First, your desk console/company phone won't work properly—you tried unplugging the power cord and plugging it back in, and now it just won't power on at all! You call IT support, who tells you to stay put and comes over to show you that you must fix the cord in place by twisting it (`"I should've read the manual in the first place!"`). Right after the phone comes back online, your fast-talking South African Manager calls: an upstream data producer pushed a breaking schema change during lunch, threatening the SLA for your downstream data consumers!*
+> *It's Thursday at 1:30 PM. You just got back from lunch and face a double crisis. First, your desk console/company phone won't work properly—you tried unplugging the power cord and plugging it back in, and now it just won't power on at all! You call IT support, who tells you to stay put and comes over to show you that you must fix the cord in place by twisting it (`"I should've read the manual in the first place!"`). Right after the phone comes back online, your fast-talking Engineering Manager calls: an upstream data producer pushed a breaking schema change during lunch, threatening the SLA for your downstream data consumers!*
 
 ### 🧠 Linearthinking Vocabulary Mental Model (`Cause ➔ Problem ➔ Solution`)
 * **Target Architecture Pair**: `upstream data producers` $\longleftrightarrow$ `downstream data consumers`
@@ -217,7 +217,7 @@ estimated_time: "90–120 mins"
 
 ## 🎙️ Block 4: High-Velocity Boss Hot-Seat & ChatGPT Voice Mode (25–35 Mins)
 
-### ⚡ Part A: Fast South African Manager Hot-Seat Drill (3-Second Reflex)
+### ⚡ Part A: Fast-Talking Manager Hot-Seat Drill (3-Second Reflex)
 > 🎙️ **Manager (speaking fast)**: *"Hey, I tried calling your desk extension three times after lunch and it went straight to voicemail! More importantly, the Finance team just pinged me saying their downstream BI reports are failing after the 1 PM ingestion run. What happened to your phone, and what's breaking our downstream data consumers?"*
 
 * **Step 1 — Fire a Tactical Buffer (1s)**:
@@ -231,7 +231,7 @@ estimated_time: "90–120 mins"
 ---
 
 ### 🤖 Part B: Copy & Paste ChatGPT Voice Mode Battle Prompt (<300 chars):
-> `Act as my fast South African Tech Lead. First ask why my desk phone didn't work after lunch. Then grill me on why an upstream data producer broke our downstream data consumers. Force me to use 'won't power on', 'fix in place', 'in the first place', and 'honour the data contract'.`
+> `Act as my fast-talking Tech Lead. First ask why my desk phone didn't work after lunch. Then grill me on why an upstream data producer broke our downstream data consumers. Force me to use 'won't power on', 'fix in place', 'in the first place', and 'honour the data contract'.`
 
 ### 🎯 Voice Mode Mission Objectives:
 1. Explain the hardware hiccup using `got back from lunch`, `hear a dial tone, but can't make calls out`, `tried unplugging... and plugging it back in`, `just won't power on`, and `fix it in place by twisting it`.

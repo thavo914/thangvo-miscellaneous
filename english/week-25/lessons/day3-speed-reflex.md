@@ -197,7 +197,7 @@ Notice how the 5 sentences form a razor-sharp **4-Step Compliance Chain**:
 
 ## 🎙️ Block 4: High-Velocity Boss Hot-Seat & ChatGPT Voice Mode (25–35 Mins)
 
-### ⚡ Part A: Fast South African Manager Hot-Seat Drill (3-Second Reflex)
+### ⚡ Part A: Fast-Talking Manager Hot-Seat Drill (3-Second Reflex)
 > 🎙️ **Manager (speaking fast)**: *"Hey, I heard one of our junior engineers almost exported raw customer tables to a local CSV file for testing! How are you briefing the team on data governance so nobody accidentally leaks PII?"*
 
 * **Step 1 — Fire a Tactical Buffer (1s)**:

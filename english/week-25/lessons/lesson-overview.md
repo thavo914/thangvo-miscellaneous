@@ -58,5 +58,5 @@ Every day follows a balanced, action-packed 4-block engine focusing on active sp
 * **Block 1 (15–20 Mins)**: Story Mission, Linearthinking Dissection (`S - V - O` Skeletons) & Pattern Activation 🎯 + **🧱 5-Minute Chunking Warm-Up (Keith Method)**.
 * **Block 2 (35–45 Mins)**: 3-Second Quick-Fire Reflex Drills ⚡ (16–18 rapid situational prompts + De-Vietlish traps + Sound-Block slashes `/`).
 * **Block 3 (20–25 Mins)**: Storyline Transcreation & Dialogue Breakdown 🎭 (Multi-turn conversational roleplay transcreation).
-* **Block 4 (25–35 Mins)**: High-Velocity South African Manager Hot-Seat & ChatGPT Voice Mode Simulation 🎙️ (Tactical buffers + 3-Sentence Linear Frames + Hands-free voice battle).
+* **Block 4 (25–35 Mins)**: High-Velocity Manager Hot-Seat & ChatGPT Voice Mode Simulation 🎙️ (Tactical buffers + 3-Sentence Linear Frames + Hands-free voice battle).
 * **Listening & Active Recall Companion**: Pair this week's practice with [listening-gist-catching-reference.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md) and [verbal-recall-cues.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/verbal-recall-cues.md).
