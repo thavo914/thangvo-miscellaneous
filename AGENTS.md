@@ -2,8 +2,8 @@
 
 ## 1. English Curriculum & Communication Guidelines
 When generating, modifying, or discussing English learning materials, lesson plans, vocabulary, translations, or speaking drills:
-- Strictly adhere to the **Plain English & Functional Self-Explanation** rules defined in [english/AGENTS.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/AGENTS.md).
-- **Core Directive**: Prioritize clarity, simplicity, and the ability to explain oneself naturally.
+- Strictly adhere to the **Plain English & Functional Self-Explanation**, **Linearthinking**, and **Sound-Block Chunking** rules defined in [english/AGENTS.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/AGENTS.md) and [.antigravity/workflows/linearthinking.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/.antigravity/workflows/linearthinking.md).
+- **Core Directive**: Prioritize clarity, simplicity, logical linear structure (`S - V - O` skeletons, `Cause ➔ Problem ➔ Solution` chains), and the ability to explain oneself naturally in rhythmic sound blocks.
 - **Strictly Avoid**: Show-off vocabulary, overly complex or convoluted grammar, academic bloat, and empty corporate buzzwords/clichés (*bring to the table*, *go above and beyond*, *synergy*, etc.).
 - **Spontaneous Natural Translation (Must-Do)**: Whenever the user writes in Vietnamese in chat, the agent **MUST** proactively provide a natural, native English translation of that sentence or thought (B1–B2 spoken/workplace phrasing) to build the user's intuitive English reflexes.
 - **Proactive Naturalness Check & Alternative Phrasing (Must-Do)**: Whenever the user writes or tests an English sentence in chat, the agent **MUST** actively evaluate whether it sounds natural, and proactively suggest 1–2 more natural, concise, or idiomatic native ways to express it (contrasting daily spoken reflexes with workplace styles).

@@ -273,4 +273,60 @@ When practicing **Listening & Retelling** (Drill 2 in [daily-listening-and-speak
 * [ ] **Reflex & Flow (3 pts)**: Fast start (< 3s); continuous verbal delivery without hesitation in under 18 seconds.
 * [ ] **Native Chunks (3 pts)**: Used core workplace collocations: `invalid credentials`, `scheduled maintenance`, `in the meantime`, `saved locally`, `back online`.
 
+---
+
+## ⚡ "In-the-Room" Hot-Seat Q&A Drills (Phản Xạ Đối Đáp Trực Diện Với Sếp — Ngôi Thứ Nhất `I / We`)
+
+> **Cách luyện tập (5 phút sau khi tóm tắt 3W)**:  
+> Thay vì đóng vai người ngoài kể lại câu chuyện (*"A guest arrived...", "Two coworkers discussed..."*), hãy tưởng tượng **bạn chính là nhân viên trong từng Clip trên** và **sếp người Nam Phi đang bước vào hỏi trực diện với tốc độ rất nhanh**. Bạn có **3 giây** để bật ra câu trả lời ngôi thứ nhất (`I / We`) theo trục **Linear Flow (`Status ➔ Root Cause ➔ Action/ETA`)**:
+
+### 🔥 Clip 1 Hot-Seat (Bạn là Lễ tân khách sạn, Quản lý hỏi nhanh):
+* **Manager**: *"Hey, I saw Mr. Peterson waiting at the front desk for quite a while. What was the holdup with his check-in?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Direct Answer] ➔ [2. Root Cause] ➔ [3. Resolution]`
+  * **Spoken Reflex**: *"Everything is sorted out now.` / `The main issue was that` / `his booking was accidentally entered` / `under his first name, Michael,` / `instead of his last name.` / `Once I verified` / `his confirmation email,` / `I apologized for the mix-up` / `and got him checked into` / `Room 412.`"*
+  </details>
+
+### 🔥 Clip 2 Hot-Seat (Bạn là Nhân viên quầy dịch vụ, Quản lý cửa hàng hỏi):
+* **Manager**: *"That customer at the counter didn't have a paper receipt for the shirt. How did you handle her refund request without breaking store policy?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Policy Held] ➔ [2. Verification Method] ➔ [3. Final Outcome]`
+  * **Spoken Reflex**: *"I didn't issue a cash refund` / `since she threw away her receipt.` / `Instead, because she paid` / `with her credit card,` / `I pulled up the transaction` / `in our system` / `and offered her store credit` / `for the full amount,` / `which she was happy to take.`"*
+  </details>
+
+### 🔥 Clip 3 Hot-Seat (Bạn là Thomas Wright, Sếp hỏi về lịch chiều thứ Năm):
+* **Manager**: *"Thomas, don't forget we have that critical client meeting this Thursday at 2 PM. Didn't you say you had a dentist appointment around then?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Reassurance] ➔ [2. Action Taken] ➔ [3. New Schedule]`
+  * **Spoken Reflex**: *"No worries, I'm completely free` / `for the client meeting.` / `As soon as you informed me,` / `I called the dental clinic` / `to reschedule.` / `They had an opening` / `next Tuesday at 9 AM,` / `so I moved my appointment` / `to next week.`"*
+  </details>
+
+### 🔥 Clip 4 Hot-Seat (Bạn là người đi khảo sát văn phòng mới, báo cáo lại cho Sếp):
+* **Manager**: *"So you toured the downtown office space today. It's on a super busy street—won't the traffic noise disrupt our team's phone calls?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Acknowledge & Reassure] ➔ [2. Technical Reason] ➔ [3. Bonus Perk]`
+  * **Spoken Reflex**: *"I had the exact same concern,` / `but noise won't be an issue.` / `The agent confirmed that` / `all the windows were replaced last year` / `with double-glazed, soundproof glass.` / `On top of that,` / `the lease includes` / `five reserved parking spaces` / `in the underground garage.`"*
+  </details>
+
+### 🔥 Clip 5 Hot-Seat (Bạn là người phụ trách tiệc chia tay Mr. Henderson, Sếp hỏi):
+* **Manager**: *"Mr. Henderson's retirement party is tomorrow afternoon! Are we all set with the custom cake from Sweet Delights?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Honest Status] ➔ [2. Constraint] ➔ [3. Workaround Plan]`
+  * **Spoken Reflex**: *"To be honest,` / `we forgot to confirm the order,` / `and the bakery requires` / `48 hours' notice.` / `However, we already have` / `a backup plan.` / `We're going to stop by` / `the Fifth Avenue grocery store` / `early tomorrow morning` / `to pick up a pre-made cake` / `on our way in.`"*
+  </details>
+
+### 🔥 Clip 6 Hot-Seat (Bạn là Nhân viên đang làm báo cáo nộp lúc 12h trưa, Sếp nhắn hỏi):
+* **Manager**: *"Hey, I heard the internal portal is down right now! Are we going to miss the noon deadline for our quarterly report?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Reassure Deadline] ➔ [2. System Status & ETA] ➔ [3. Offline Workaround]`
+  * **Spoken Reflex**: *"We're still on track` / `to hit the noon deadline.` / `IT told me the system is down` / `for scheduled security maintenance,` / `but it'll be back online` / `by 10 o'clock.` / `In the meantime,` / `I'm working offline` / `on a local draft on my desktop` / `and I'll upload it` / `as soon as the system is back up.`"*
+  </details>
+
+
 

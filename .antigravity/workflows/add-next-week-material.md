@@ -51,6 +51,11 @@ Analyze the user's input and organize it into the following standardized section
    - Target item (e.g., `for [Noun/Adjective] use`, `point of failure`, `push back on`).
    - Category: Grammar Structure, Technical Collocation, Idiomatic Boundary Expression, or Vocabulary Pattern.
    - Core Meaning in Plain English + Vietnamese translation.
+   - **Linearthinking Dissection**:
+     - **Noise Stripped (Modifiers)**: Secondary clauses/prepositional phrases removed.
+     - **Core Skeleton (`S - V - O`)**: Stripped-down core meaning in under 10 words.
+     - **Logical Chain (`Cause ➔ Problem ➔ Solution` or `Condition ➔ Action ➔ Goal`)**: How the target expression connects in a logical mental model.
+     - **Sound-Block Chunking (`/`)**: Rhythmic breath segmentation of the source sentence.
 
 2. **Categorized Practical Usages**:
    - Group the expressions by authentic domains (e.g., *Licensing & Compliance*, *Internal Security & Access*, *Hardware & Technical Load*, *Daily Workplace*).

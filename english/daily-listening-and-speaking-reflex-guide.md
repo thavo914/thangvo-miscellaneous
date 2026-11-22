@@ -1,8 +1,8 @@
 # 🎯 Daily English Listening & Speaking Reflex Playbook (Cẩm Nang Luyện Phản Xạ Nghe - Nói Hàng Ngày)
 
 > **Target Audience**: Data Engineers, Software Engineers & Working Professionals (CEFR B1–B2)  
-> **Core Objective**: Eliminating mental translation lag, avoiding the passive knowledge trap, and converting listening inputs directly into active 3-second speaking reflexes.  
-> **Core Daily Commitment**: ~50–55 Minutes / Day (Balanced: Micro-Listening $\rightarrow$ In-depth Analysis $\rightarrow$ Verbal Output)
+> **Core Objective**: Eliminating mental translation lag, avoiding the passive knowledge trap, handling fast-speaking native managers (e.g., South African / UK / US leads), and converting listening inputs directly into active 3-second workplace speaking reflexes.  
+> **Core Daily Commitment**: ~80–85 Minutes / Day (50–55m Core Listening & Summary + 25–35m High-Velocity Workplace & Manager Q&A Reflex Block)
 
 ---
 
@@ -130,6 +130,64 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì 2 
     * Đưa ra lệnh nhập vai ép dùng từ:
       > *"Act as my Tech Lead. Let's do a 3-minute daily standup. Ask me about our database status and sprint progress. I will answer each question within 3 seconds using the phrases 'up and running' and 'I figured it would work just fine'. Correct my mistakes immediately."*
     * **Nguyên tắc**: **Tuyệt đối không bấm Pause!** Bắt buộc trả lời trong 3 giây.
+
+---
+
+### ⚡ Bước 5: High-Velocity Workplace & Manager Q&A Reflex Block (25–35 Phút — BẮT BUỘC CHO DATA ENGINEER)
+*Bứt phá điểm nghẽn đối đáp tức thời với Sếp bản ngữ nói nhanh (South African / Native Tech Lead), xóa bỏ 3–5 giây "đơ não" và rèn phản xạ giải thích sự cố, báo cáo tiến độ, phản biện (push back)*
+
+> [!IMPORTANT]
+> **Tại sao cần Block 25–35 phút này?**
+> Nghe chép chính tả (Bước 1) và Tóm tắt 3W (Bước 3) mới chỉ giúp bạn đóng vai **"Người quan sát thuật lại câu chuyện" (3rd-Person Observer)**. Nhưng khi họp 1-1 hoặc Standup với sếp người Nam Phi nói cực nhanh, bạn là **"Người trong cuộc bị hỏi xoáy trực tiếp" (1st-Person Responder)**. Block 5 này chuyển hóa bạn từ *Người kể chuyện* sang *Người đối đáp trực diện*.
+
+#### 🕒 Phân bổ 25–35 Phút Thực Chiến Hàng Ngày:
+1. **Phút 1–5 | Speed-Laddered Listening + "In-the-Room" Hot-Seat (5 Phút)**:
+   * Lấy ngay bài TOEIC vừa nghe ở Bước 3, bật tốc độ **1.25x** để quen áp lực tốc độ nói nhanh của sếp.
+   * Ngay khi audio dừng, trả lời to **Câu hỏi Hot-Seat ("In-the-Room" Roleplay)** được thiết kế ở cuối mỗi Clip trong file Reference (đóng vai bạn chính là nhân viên trong đoạn băng đó đang bị sếp chất vấn trực tiếp: *"What happened? What's our workaround? When will it be fixed?"*).
+2. **Phút 5–20 | Interactive Linearthinking Sparring với Antigravity trên Chat (15 Phút)**:
+   * Gõ `/linearthinking` (chọn **Mode 4: High-Velocity Boss & Data Engineering Q&A**).
+   * Antigravity sẽ đóng vai **Sếp người Nam Phi nói nhanh, trực diện**, ném cho bạn 3–4 tình huống thực tế của Data Engineer (*pipeline failed, upstream schema change, late dashboard delivery, pushing back on unrealistic ad-hoc requests*) kèm câu hỏi dồn dập.
+   * Bạn gõ hoặc đọc (voice-to-text) câu trả lời ngay trong 3–5 giây theo trục **Linear Flow + Sound-Block Chunking**. Antigravity sẽ chấm điểm cấu trúc `S - V - O`, sửa lỗi dịch ngầm và cung cấp câu mẫu nâng cấp.
+3. **Phút 20–30 | Hands-Free ChatGPT Voice Mode — "Fast South African Tech Lead" (10–15 Phút)**:
+   * Đeo tai nghe, bật ChatGPT Voice Mode và nạp **Battle Prompt Sếp Nam Phi nói nhanh** (bên dưới) để đấu khẩu liên tục không nhìn màn hình.
+
+---
+
+#### 🛡️ Bộ Vũ Khí 1: Tactical Buffers & Echo-Back Clarifiers (Khung Chặn Tốc Độ & Xác Nhận Ý S-V-O)
+Khi sếp bản ngữ bắn một tràng tiếng Anh tốc độ cao hoặc dùng từ lướt âm khiến bạn chỉ bắt được 60–70% thông tin, **TUYỆT ĐỐI KHÔNG IM LẶNG ĐƠ 3–5 GIÂY** để dịch trong đầu! Hãy phản xạ bật ngay 1 trong 3 cụm **"Chặn & Khóa Khung S-V-O"** sau trong vòng 1 giây:
+
+| Tình huống thực tế | 🧱 Sound-Block Tactical Buffer (Bật ra trong 1 giây) | Tác dụng tâm lý & Kỹ thuật Linearthinking |
+| :--- | :--- | :--- |
+| **1. Sếp nói quá nhanh / nhiều ý cùng lúc** *(Cần ép sếp chốt lại lõi S-V-O)* | • `Just to make sure` / `we're on the same page,` / `you're asking if` / `[S + V], right?`<br>• `So the main priority right now` / `is to [V0 + Object],` / `correct?` | Dùng kỹ thuật **Simplify** ngay trong lúc nghe: Lọc bỏ râu ria của sếp, nhắc lại đúng bộ khung `S - V - O` cốt lõi để xác nhận mình hiểu đúng trước khi trả lời. |
+| **2. Cần 3 giây để não sắp xếp trục trả lời** *(Chống khoảng lặng chết)* | • `That's a fair question` — `let me break it down` / `into two parts.`<br>• `Looking at the current pipeline,` / `here's where we stand.`<br>• `Right,` / `so from a technical standpoint...` | Mua cho não bộ đúng 2–3 giây quý giá để dựng trục Linear (`Status ➔ Root Cause ➔ Next Action`) trong khi miệng vẫn phát ra âm thanh tự nhiên, chuyên nghiệp. |
+| **3. Sếp lướt âm / dùng từ lóng nghe không rõ 1 từ khóa** *(Hỏi lại đúng điểm mù, không hỏi "Can you repeat?")* | • `Sorry,` / `I caught the part about [X],` / `but could you clarify` / `what you meant by [Y]?`<br>• `Wait a second` — `are we talking about` / `the staging cluster` / `or production?` | Người bản xứ rất nể cách hỏi lại **chỉ định rõ phần đã nghe được (`caught the part about X`)** và khoanh vùng đúng từ bị lướt. Sếp sẽ lập tức nói chậm lại và giải thích rõ từ đó. |
+
+---
+
+#### 📐 Bộ Vũ Khí 2: 3 Khung Xương Sống Trả Lời Công Việc Data Engineering (3-Sentence Linear Frames)
+Mọi câu hỏi của sếp trong công việc hàng ngày đều quy về 3 nhóm này. Hãy thuộc lòng 3 trục tuyến tính này để mở miệng là có sẵn đường ray:
+
+##### Frame 1: Báo cáo sự cố & Giải pháp tạm thời (Incident, Bug & Workaround)
+* **Trục Linear**: `[1. Current Status / Impact] ➔ [2. Root Cause (because/due to)] ➔ [3. Workaround & ETA (so/in the meantime)]`
+* **Mẫu Sound-Block**:
+  > *"Right now, / **the daily sales pipeline is delayed** / by an hour. / **The main issue was that** / the upstream API changed its schema / without notice. / **In the meantime**, / I've applied a quick patch / to bypass the broken field, / **so the data will be up to date** / by 11 AM."*
+
+##### Frame 2: Báo cáo tiến độ & Điểm nghẽn (Standup Update & Blocker Escalation)
+* **Trục Linear**: `[1. Completed Milestone] ➔ [2. Current Blocker (however/but)] ➔ [3. Action Needed from Boss/Team]`
+* **Mẫu Sound-Block**:
+  > *"I've finished migrating / **the customer tables** / to the staging environment. / **However, I'm currently blocked by** / a permission issue / on the production bucket. / **Could you help me approve** / the IAM ticket / **so I can run** / the final test this afternoon?"*
+
+##### Frame 3: Phản biện / Thương lượng lại deadline (Pushing Back & Trade-off Negotiation)
+* **Trục Linear**: `[1. Acknowledge Priority] ➔ [2. Resource/Risk Constraint (if we... then...)] ➔ [3. Propose Trade-off Option]`
+* **Mẫu Sound-Block**:
+  > *"I understand / **this ad-hoc report is urgent** / for the client meeting. / **However, if I jump on this now**, / the core ETL migration / will be pushed back to tomorrow. / **Would you prefer me to** / prioritize this report first, / **or finish the migration** / as planned?"*
+
+---
+
+#### 🎙️ Bộ Vũ Khí 3: Battle Prompt ChatGPT Voice Mode — "Fast South African Tech Lead"
+Copy nguyên văn đoạn lệnh dưới đây (<300 ký tự) vào ChatGPT Voice Mode mỗi ngày 10 phút:
+
+> *"Act as my fast-talking South African Data Engineering Manager. Run a rapid 1-on-1 standup. Ask tough follow-up questions about pipeline delays, schema changes, and deadlines. Force me to answer in 3 seconds using clear S-V-O logic. Critique my phrasing after every 2 turns."*
 
 ---
 

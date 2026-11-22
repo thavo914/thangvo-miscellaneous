@@ -105,3 +105,18 @@ Whenever generating, updating, or reviewing **English curriculum notes, daily sp
   - Do **not** force every sentence into a rigid `[Adverbial] + [Verb] + [Object]` template. Use flexible/complex patterns (e.g., `It shouldn't take this long + to [verb chunk]`, conditional starters, passive/causative chunks like `get [something] [V-ed]`) as natural sound blocks.
   - Keep **90% of examples logically accurate** and natural; reserve the **10% Absurd/Illogical Mini-Story** explicitly for rapid 15-second fluency warm-ups so rhythm and linking take priority over overthinking.
 - **Listening & Transcript Materials**: Include collapsible `🧱 Chunked Transcript` blocks showing sound-block breaks (`/`) and key reusable `[Verb/Starter]` and `[Adverbial]` chunks extracted from the audio.
+
+---
+
+## 7. Mandatory Linearthinking Methodology (Tư Duy Tuyến Tính)
+Whenever explaining reading comprehension, dissecting complex sentences, teaching vocabulary, or coaching spoken responses (and across `/linearthinking`, `/add-next-week-material`, and `/generate-english-lesson`), combine **Linearthinking** with **Plain English & Sound-Block Chunking**:
+- **No Word-by-Word Translation**: Eliminate Vietnamese word-by-word translation habits. Always construct the core English skeleton (`Subject - Verb - Object`) first before adding modifiers.
+- **Simplify & Read Connection (Reading & Sentence Dissection)**:
+  - **Simplify**: Strip away secondary modifiers (relative clauses, participial phrases, prepositional phrases, parenthetical clauses) to expose the core `S - V - O` skeleton (<10 words), then reconstruct how the modifiers add conditions or context.
+  - **Read Connection**: Explicitly map the logical link between clauses or consecutive sentences (`Cause ➔ Effect`, `Problem ➔ Mechanism ➔ Solution`, `Contrast`, `Elaboration`).
+- **Specify & Linear Flow (Speaking & Response Training)**:
+  - **Specify**: Break broad or abstract prompts into 2–3 concrete, specific angles before speaking.
+  - **Linear Flow**: Organize spoken responses along a straight causal axis (`Direct Answer ➔ Specify & Cause–Effect ➔ Concrete Example / Next Action`, compatible with `O-R-E-O` and `S-T-A-R`) connected by clear logical markers (`because, so, however, therefore, as a result, instead of`), and slice the final model sentences into **Sound-Block Chunks** (`/`).
+- **Vocabulary by Mental Model (`Cause ➔ Problem ➔ Solution`)**:
+  - Group vocabulary into logical cause–problem–solution chains and natural workplace collocations rather than isolated word lists so the learner retains words as an interconnected system.
+

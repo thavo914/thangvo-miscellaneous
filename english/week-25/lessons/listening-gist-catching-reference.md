@@ -235,4 +235,60 @@ When practicing **1-Minute Gist-Catching & Verbal Summary** (Drill 2 in [daily-l
 * [ ] **Reflex & Flow (3 pts)**: Smooth delivery under 18 seconds using `will be closed` / `supposed to use` accurately.
 * [ ] **Native Chunks (3 pts)**: Used commuter & office chunks: `overflow lot`, `fifteen-minute walk`, `looking forward to`, `running a shuttle bus`, `send it over`, `as soon as I get back`.
 
+---
+
+## ⚡ "In-the-Room" Hot-Seat Q&A Drills (Phản Xạ Đối Đáp Trực Diện Với Sếp — Ngôi Thứ Nhất `I / We`)
+
+> **Cách luyện tập (5 phút sau khi tóm tắt 3W)**:  
+> Hãy tưởng tượng **bạn chính là người phụ trách trong từng Clip trên** và **sếp bản ngữ đang hỏi xoáy trực diện**. Bật ngay câu trả lời ngôi thứ nhất (`I / We`) trong **3 giây** theo trục **Linear Flow (`Status ➔ Root Cause ➔ Next Action/ETA`)**:
+
+### 🔥 Clip 1 Hot-Seat (Sếp hỏi về lô hàng thiết bị văn phòng phục vụ báo cáo quý):
+* **Manager**: *"Did the office supplies arrive? We need everything ready for the quarterly reports this afternoon!"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Partial Status] ➔ [2. Root Cause] ➔ [3. Immediate Action]`
+  * **Spoken Reflex**: *"The delivery just arrived,` / `and all five color cartridges are here,` / `but we're short two units` / `on the other item.` / `Since the packing slip` / `only lists three,` / `it's clearly an order-entry mistake` / `on the vendor's end.` / `I'm calling the supplier right now` / `to have them rush` / `the missing units over.`"*
+  </details>
+
+### 🔥 Clip 2 Hot-Seat (Giám đốc hỏi nhanh về doanh số khu vực miền Tây bị tụt 15%):
+* **Director**: *"I just saw the West region sales numbers—we're down nearly 15% year-over-year! What's driving this drop and how are we fixing it?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Root Cause] ➔ [2. Proposed Solution] ➔ [3. Deliverable & ETA]`
+  * **Spoken Reflex**: *"The main issue is` / `our low online visibility` — `our competitors have been very active` / `on social media` / `while we've barely posted.` / `To fix this,` / `we want to run a targeted ad campaign` / `aimed at our core 25-to-40 customer base.` / `We're putting together` / `a cost and reach proposal` / `by this Friday` / `for your review.`"*
+  </details>
+
+### 🔥 Clip 3 Hot-Seat (Sếp hỏi về phòng họp tiếp khách Axon Industries lúc 9h sáng nay):
+* **Manager**: *"The Axon Industries clients are walking in at 9 AM to discuss the contract! Which conference room did you book for us?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Direct Answer] ➔ [2. Constraint] ➔ [3. Current Action]`
+  * **Spoken Reflex**: *"We're meeting in Room B.` / `Since the client requested the meeting` / `on such short notice,` / `Rooms A and C were already taken` / `for the morning.` / `Room B is a bit smaller,` / `but it fits five people easily,` / `and I'm sending out` / `the calendar invite right now.`"*
+  </details>
+
+### 🔥 Clip 4 Hot-Seat (Trưởng bộ phận CSKH hỏi về khách hàng VIP đang chờ máy vì giao nhầm ghế):
+* **Manager**: *"Why has that customer been on hold for so long? What went wrong with her order and how are we resolving it?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Problem & Root Cause] ➔ [2. Logistics Fix & ETA] ➔ [3. Customer Communication]`
+  * **Spoken Reflex**: *"She ordered the Executive chair` / `but received the Standard model` / `because of a warehouse labeling error` / `last week.` / `We've arranged a courier` / `to pick up the wrong chair tomorrow,` / `and we're shipping the right one today` / `via express delivery` / `so she'll have it within 48 hours.` / `I'm getting back on the line now` / `to apologize and confirm.`"*
+  </details>
+
+### 🔥 Clip 5 Hot-Seat (Giám đốc vận hành hỏi về kế hoạch kiểm kho 3.000 mặt hàng cuối tuần này):
+* **Director**: *"We have over 3,000 items to count this weekend. Do we have enough people on the roster to finish on time?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Staffing Bottleneck] ➔ [2. Risk] ➔ [3. Mitigation Plan]`
+  * **Spoken Reflex**: *"Right now we're a bit short-handed` / `with only six people signed up.` / `Since the count takes at least 12 hours` / `and some staff have to leave early,` / `we decided to bring in` / `two or three temporary workers.` / `We're calling our seasonal staffing agency` / `right after this meeting` / `to lock them in.`"*
+  </details>
+
+### 🔥 Clip 6 Hot-Seat (Đồng nghiệp hỏi bạn về việc bãi đỗ xe đóng cửa tuần tới):
+* **Coworker**: *"Hey, I heard the main parking garage is closed all next week! Do we really have to walk 15 minutes in the rain from the Riverside lot?"*
+* <details><summary>💡 3-Second Linear Model Answer (Sound-Block Chunked)</summary>
+  
+  * **Linear Axis**: `[1. Reassurance] ➔ [2. Shuttle Details] ➔ [3. Helpful Follow-up]`
+  * **Spoken Reflex**: *"Thankfully, no` — `you don't have to walk` / `the whole way.` / `The company is running a shuttle bus` / `between the overflow lot` / `and the main entrance` / `every 10 minutes` / `starting at 7:30 AM.` / `I'll forward you the schedule` / `as soon as I get back` / `to my desk.`"*
+  </details>
+
+
 

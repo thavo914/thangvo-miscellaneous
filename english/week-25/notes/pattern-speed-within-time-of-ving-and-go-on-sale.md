@@ -92,3 +92,31 @@ $$\textbf{within + [Time] + of + [V-ing / Noun]}$$
 ### C. 15-Second Rapid Mini-Story (Fluency Flow)
 Đọc to một mạch trong 15 giây để nối nhịp các cụm:
 > **`[Guess what I got here!]` `[[Three tickets] / [to Rock Rose's concert!]]` `[[I heard] / [the tickets were all sold out] / [within 5 minutes] / [of going on sale,] / [so I'm super lucky!]]`**
+
+---
+
+## 🎯 4. Lesson Integration Blueprint (For `/generate-english-lesson`)
+
+### A. Grammar & Sentence Template Slot Formulas:
+* **Formula 1 (Rapid Timeframe Reaction Pattern)**:
+  $$\text{[Event / System Status] + within + [Time Duration] + of + [V-ing / Noun]}$$
+  * *Engineering Example*: *"The production pipeline threw an out-of-memory error within 10 minutes of going live."*
+* **Formula 2 (High-Demand Event / Product Release)**:
+  $$\text{[Product / Ticket] + [sold out / were all taken] + within + [Time Duration] + of going on sale}$$
+  * *Event Example*: *"Concert tickets were all sold out within 5 minutes of going on sale."*
+
+### B. Practice Drills:
+* **Drill 1 (SLA Incident Response)**:
+  * *Prompt*: Bạn báo cáo với Tech Lead rằng đội on-call đã xử lý và phục hồi dịch vụ thanh toán trong vòng 15 phút kể từ khi nhận được cảnh báo.
+  * *Suggested Answer*: *"Our team restored the payment service within 15 minutes of receiving the alert."*
+* **Drill 2 (High-Demand Launch)**:
+  * *Prompt*: Kể lại với đồng nghiệp rằng đợt mở bán tai nghe mới cháy hàng chỉ trong vòng 30 phút kể từ lúc mở bán trên trang web.
+  * *Suggested Answer*: *"The new wireless earbuds sold out within 30 minutes of going on sale."*
+
+### C. Translation & Production Prompt:
+* **Vietnamese Prompt*: *"Tôi nghe nói toàn bộ số vé xem trận chung kết đã được bán sạch chỉ trong vòng 5 phút kể từ khi mở bán."*
+* **Model Answer*: *"I heard the tickets for the final match were all sold out within 5 minutes of going on sale."*
+
+### D. AI Speaking Simulation Prompt (ChatGPT Voice Mode):
+* *"Let's roleplay a casual Monday morning catch-up. You ask me if I managed to grab tickets for the big weekend concert or tech conference. I will reply using the fast-timeframe pattern: 'I heard the tickets were all sold out within 5 minutes of going on sale...' Please assess my natural pause between chunks, connected speech (/wɪˈðɪn faɪv ˈmɪnɪts əv ˈɡoʊɪŋ ɒn seɪl/), and casual intonation."*
+
