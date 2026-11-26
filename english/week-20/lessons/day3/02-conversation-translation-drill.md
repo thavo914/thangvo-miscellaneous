@@ -24,15 +24,25 @@ date: 2026-10-11
 *Bối cảnh: Hoàng (Engineering Lead) và Thắng (Senior Data Engineer) trao đổi trong phòng họp về kế hoạch tuyển thêm kỹ sư dữ liệu, lịch phỏng vấn và sắp xếp công việc cuối quý.*
 
 1. **Hoàng:** Thắng này, bên HR vừa báo là chúng ta đang tìm kiếm tuyển dụng một kỹ sư dữ liệu cấp cao để lấp vào vị trí còn trống trong quý này.
+Hoang: Hey Thang, our HR just informed us that we are looking to hire a senior data engineer to fill the position this quarter.
 2. **Thắng:** Tin tốt quá anh. Tụi mình đang bị quá tải với các pipeline luồng dữ liệu, nên việc có người mới sẽ giúp chia bớt việc cho cả team.
+Thang: That's a great news. We're been spread pretty thin across our streaming data pipeline, so having a new person on board will really help take some workload off our plate.
 3. **Hoàng:** Đúng vậy. Anh định nhờ em tiến hành các buổi phỏng vấn chuyên môn bắt đầu từ thứ Hai tuần tới, liệu có ổn không?
+Hoang: Exactly. I was hoping you could conduct the interview, starting from next Monday. How does that sound?
 4. **Thắng:** Thứ Hai thì em e là không tiện lắm anh ạ. Đợt này em đang phải trực on-call và tối ưu cụm database, nên em sẽ không thể đáp ứng thời gian nhiều như công việc phỏng vấn đòi hỏi được.
+Thang: Monday might be a bit tricky. I'm on primary on-call duty and optimizing our database cluster, so I will not be available as much as the job requires.
 5. **Hoàng:** Anh hiểu. Em nghĩ em có thể thu xếp bao nhiêu buổi trong tuần tới?
+Hoang: I understand. How many sessions do you think you can spare next week?
 6. **Thắng:** Em nghĩ tầm hai buổi vào sáng thứ Năm thì em có thể thu xếp ổn thỏa. Miễn là các bạn ứng viên đã hoàn thành điền đơn và bài kiểm tra kỹ thuật trước.
+Thang: I think I can make that work for two sessions on Thursday morning, as long as the candidates fill out the application and pass the coding screening beforehand.
 7. **Hoàng:** Hợp lý đấy. Hay là anh đặt thêm một cuộc họp với bên tuyển dụng chiều nay để thống nhất lại tiêu chí chấm điểm nhé?
+Hoang: Fair enough. Should I set up an extra alignment call with recruiting this afternoon to review the rubric?
 8. **Thắng:** Dạ không cần thiết phải làm vậy đâu anh. Em đã có sẵn khung câu hỏi rồi, em sẽ gửi lại cho anh xem qua.
-9. **Hoàng:** Tuyệt vời. Vậy em gửi lại khung câu hỏi cho anh nhé.
+Thang: That's not necessary. I already have a standardized rubric ready; I'll send it over for you to have a quick look.
+9.  **Hoàng:** Tuyệt vời. Vậy em gửi lại khung câu hỏi cho anh nhé.
+Hoang: Awesome, sounds like a plan.
 10. **Thắng:** Dạ vâng, em sẽ gửi email mẫu đăng ký và bộ câu hỏi đánh giá cho mọi người ngay khi cuộc họp này kết thúc.
+Thang: Sounds good! I'll email out the candidate evaluation form and the coding rubric to everyone at the conclusion of this meeting.
 
 ---
 
@@ -66,13 +76,13 @@ Translate the 10 turns above into natural English. Do not translate word-for-wor
 
 ### Side-by-Side Contrastive Notes (Vietlish Traps vs. Native Upgrades)
 
-| Turn | ❌ Literal Vietlish Trap | ✅ Natural Native English | Linguistic Rationale |
-| :--- | :--- | :--- | :--- |
-| 1 | *hire a new position* | *be looking to hire ... to **fill the position*** | Bạn tuyển một **con người** (*hire a person*), nhưng bạn lấp đầy một **vị trí** (*fill a position*). |
-| 3 | *make the interviews* | * **conduct the interviews** * | Động từ chuẩn mực cho phỏng vấn, khảo sát, nghiên cứu luôn là **conduct**. |
-| 4 | *cannot free my time like the job needs* | * **not be available as much as the job requires** * | Cụm từ chuyên nghiệp để từ chối khéo khi lịch trình không cho phép mà không bị mang tiếng lười. |
-| 8 | *No need to do that* | * **That won't be necessary** * | `No need` nghe cộc lốc và suồng sã; `That won't be necessary` cực kỳ lịch thiệp. |
-| 10 | *in the end of meeting* | * **at the conclusion of the meeting** * | Giới từ chuẩn cho thời điểm kết thúc một sự kiện chính thức là **AT the conclusion of...**. |
+| Turn | ❌ Literal Vietlish Trap                  | ✅ Natural Native English                             | Linguistic Rationale                                                                                 |
+| :--- | :--------------------------------------- | :--------------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| 1    | *hire a new position*                    | *be looking to hire ... to **fill the position***    | Bạn tuyển một **con người** (*hire a person*), nhưng bạn lấp đầy một **vị trí** (*fill a position*). |
+| 3    | *make the interviews*                    | * **conduct the interviews** *                       | Động từ chuẩn mực cho phỏng vấn, khảo sát, nghiên cứu luôn là **conduct**.                           |
+| 4    | *cannot free my time like the job needs* | * **not be available as much as the job requires** * | Cụm từ chuyên nghiệp để từ chối khéo khi lịch trình không cho phép mà không bị mang tiếng lười.      |
+| 8    | *No need to do that*                     | * **That won't be necessary** *                      | `No need` nghe cộc lốc và suồng sã; `That won't be necessary` cực kỳ lịch thiệp.                     |
+| 10   | *in the end of meeting*                  | * **at the conclusion of the meeting** *             | Giới từ chuẩn cho thời điểm kết thúc một sự kiện chính thức là **AT the conclusion of...**.          |
 </details>
 
 ---

@@ -39,13 +39,17 @@ Lan: I completely agree. Last time our boss said he would approve the headcount 
 4. **Thắng**: *"Chuẩn luôn. Hôm thứ Ba vừa rồi mình có tham gia phỏng vấn một bạn ứng viên. Bạn ấy có vẻ là một mảnh ghép rất phù hợp cho văn hóa nhóm mình—kỹ thuật chắc tay mà tính cách lại rất khiêm tốn, biết lắng nghe."*
 Thang: Exactly. I joined an interview last Tuesday, and he seemed like a great match for our team culture. He has solid technical foundations and is also humble and a great listener.
 5. **Lan**: *"Thế thì tuyệt quá! Mong là sớm có người mới để san sẻ việc. Mà này, hôm qua có người trong phòng marketing hỏi tôi là Thắng có tính nhảy việc sang công ty khác không khi thấy khối lượng việc nhiều như vậy?"*
-Lan: That's fantastic! Hopefully we can bring someone on board to share the load. Bye the way,     
+Lan: That's fantastic! Hopefully we can bring someone on board to share the load. Bye the way, someone in marketing asked me yesterday if you were planning to jump ship with all this workload.
 6. **Thắng**: *"Không bao giờ có chuyện đó đâu Lan. Công ty hiện tại đối đãi với tôi rất tốt, đặc biệt là các sếp luôn hỗ trợ tối đa khi tôi cần sắp xếp giờ giấc làm việc linh hoạt."*
-8. **Lan**: *"Đúng là ban lãnh đạo bên mình rất biết lắng nghe nhân viên."*
-9. **Thắng**: *"Ừ, đợt tôi bận việc gia đình, sếp còn chủ động tạo một ngoại lệ đặc biệt để tôi làm việc từ xa trọn vẹn cả tuần mà không hề gây khó dễ. Người ta đối xử tốt với mình như vậy, mình tuyệt đối không thể bỏ mặc anh em bơ vơ giữa lúc dự án kho dữ liệu đang gấp rút được."*
-10. **Lan**: *"Nghe ông nói vậy tôi thấy an tâm hẳn. Làm việc cùng một người có trách nhiệm và biết trước biết sau như ông thật sự rất thoải mái."*
-11. **Thắng**: *"Cảm ơn Lan nhé. Thôi hai đứa mình tranh thủ uống xong ly cà phê rồi lên họp với sếp để thúc đẩy việc tuyển người mới luôn đi."*
-
+Thang: No way, Lan. I have been treated really well by my current company, especially with how leadership supported me whenever I needed flexible working hours. 
+7. **Lan**: *"Đúng là ban lãnh đạo bên mình rất biết lắng nghe nhân viên."*
+Lan: That's true. Our management team really listens to their people.
+8. **Thắng**: *"Ừ, đợt tôi bận việc gia đình, sếp còn chủ động tạo một ngoại lệ đặc biệt để tôi làm việc từ xa trọn vẹn cả tuần mà không hề gây khó dễ. Người ta đối xử tốt với mình như vậy, mình tuyệt đối không thể bỏ mặc anh em bơ vơ giữa lúc dự án kho dữ liệu đang gấp rút được."*
+Thang: I remember that time I had some family issues, our boss even made an exception for me to work from home for the whole week without any pushback. I would never leave my teammates high and dry while the data warehouse project is rushing.
+9.  **Lan**: *"Nghe ông nói vậy tôi thấy an tâm hẳn. Làm việc cùng một người có trách nhiệm và biết trước biết sau như ông thật sự rất thoải mái."*
+Lan: I feel relieved to hear that. It's really comfortable to work with someone as responsible and considerate as you.
+10. **Thắng**: *"Cảm ơn Lan nhé. Thôi hai đứa mình tranh thủ uống xong ly cà phê rồi lên họp với sếp để thúc đẩy việc tuyển người mới luôn đi."*
+Thang: Thnak you. Let's finish our coffee and go to the meeting with the boss to push for the new hire.
 ---
 
 ## ✍️ Task 1: Active Translation & Transcreation
