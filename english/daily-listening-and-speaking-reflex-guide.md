@@ -68,50 +68,45 @@ Hầu hết người học tiếng Anh lâu năm vẫn phản xạ chậm vì 2 
 
 ---
 
-### ⏱️ Bước 3: Gist-Catching & Verbal Summary — Nghe Bắt Ý & Tóm Tắt 15 Giây (10 Phút)
-*Chiến lược 2 lần nghe (Bài Mới) & Active Verbal Recall (Bài Cũ) — Huấn luyện xử lý thông tin tầng vĩ mô*
+### ⏱️ Bước 3: Reversed Listening & Chunked Shadowing — Đọc Hiểu Trước, Mở Tai & Nhại Theo Sau (10–15 Phút) 🌟
+*Phương pháp Đảo Ngược (Comprehensible Input + Sound Mapping): Xóa bỏ hoàn toàn cảm giác "nghe mù bị ngợp", dồn 100% băng thông não bộ để tai bắt tốc độ nói nhanh và miệng bật nguyên cụm âm thanh!*
 
 * **Tài liệu học tập hàng tuần (Chuẩn 4 Clips / Tuần = 2 Part 3 Conversations + 2 Part 4 Monologues)**:
-  * **File Master Reference (Đầy đủ Audio Hyperlinks, Transcript, 3W, Bài mẫu & Bảng điểm)**: [Week 23 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-23/lessons/listening-gist-catching-reference.md) | [Week 24 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-24/lessons/listening-gist-catching-reference.md) | [Week 25 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md) | [Week 26 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/listening-gist-catching-reference.md)
-  * **File Cue Sheet (Chuyên dùng để Review Bài Cũ — Chỉ có Tiêu đề & Chunks, chống nhìn trộm)**: [Week 23 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-23/lessons/verbal-recall-cues.md) | [Week 24 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-24/lessons/verbal-recall-cues.md) | [Week 25 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/verbal-recall-cues.md) | [Week 26 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/verbal-recall-cues.md)
+  * **File Master Reference (Đầy đủ Audio Hyperlinks, Chunked Transcript, 3W & Hot-Seat Q&A)**: [Week 23 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-23/lessons/listening-gist-catching-reference.md) | [Week 24 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-24/lessons/listening-gist-catching-reference.md) | [Week 25 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md) | [Week 26 Reference](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/listening-gist-catching-reference.md)
+  * **File Cue Sheet (Chuyên dùng để Review Bài Cũ — Chỉ có Tiêu đề & Chunks)**: [Week 23 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-23/lessons/verbal-recall-cues.md) | [Week 24 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-24/lessons/verbal-recall-cues.md) | [Week 25 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/verbal-recall-cues.md) | [Week 26 Cues](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/verbal-recall-cues.md)
 
-#### A. Đối với Bài Mới (Fresh Clip) — Quy trình 2 lần nghe (The 2-Pass Strategy)
-1. **Pass 1 (The Gist Pass - Bắt khung xương 3W)**:
-   * Nghe trọn vẹn lần 1. Không nhìn transcript, không cầm bút ghi chép.
-   * Chỉ tập trung bắt **bức tranh toàn cảnh 3W**: **WHO** (ai?), **WHAT** (vấn đề gì?), **ACTION** (họ chốt làm gì?). Bỏ qua mọi số liệu, giờ giấc phụ.
-2. **Pass 2 (The Precision Pass - Bắt chi tiết ràng buộc)**:
-   * Nghe lại lần 2. Do não đã biết trước mạch câu chuyện, băng thông nhận thức được giải phóng 60%.
-   * Não thảnh thơi nhặt các thông tin chi tiết: thời gian (*2 PM meeting*), lý do hủy hẹn (*cancelled last minute*), địa điểm lựa chọn (*4th floor*).
-3. **Tóm tắt bằng miệng ngay lập tức (15 Giây)**:
-   * Bấm dừng audio và **lập tức nói to 1–2 câu tóm tắt trong 15 giây** theo Khung 3W mẫu ở Mục 3.
-4. **Đối chiếu Transcript**: Mở file Reference kiểm tra xem mình đã tóm tắt trúng 100% ý chính chưa và ghi chép 2–3 chunks hay.
+#### A. Đối với Bài Mới (Fresh Clip) — Quy trình Đảo Ngược 4 Bước (The Reversed 4-Step Protocol)
+> 💡 **Tại sao đảo ngược lại hiệu quả gấp đôi?** Khi bạn đọc hiểu 100% nội dung và từ mới trước, não bộ **không còn bị đơ khi gặp từ lạ**. Nhờ vậy, lúc bật audio 45–60s liên tục, 100% sự tập trung của bạn được dồn vào việc **khớp mặt chữ với âm thanh nối/nuốt tốc độ nhanh** — bạn sẽ cảm nhận rõ rệt tai mình "thông" hơn mỗi ngày!
 
-#### B. Đối với Bài Cũ (Review Clip) — Quy tắc Active Verbal Recall (Tuyệt Đối Không Nghe Lại Từ Đầu!)
-> ⚠️ **NGUYÊN TẮC THÉP**: Khi review bài cũ, **TUYỆT ĐỐI KHÔNG BẬT AUDIO NGHE LẠI TỪ ĐẦU!** (Nghe lại thụ động sẽ làm não lười biếng và không hình thành phản xạ tự truy xuất từ vựng).
-1. **Mở File Cue Sheet riêng biệt** ([verbal-recall-cues.md](file:///c:/Users/adm.thangvm/repos/thangvo-miscellaneous/english/week-24/lessons/verbal-recall-cues.md)): Tuyệt đối không mở file Reference để tránh bị lộ kịch bản.
-2. **Nhìn Tiêu đề + Target Chunks**: Chỉ nhìn vào tiêu đề bài (ví dụ: *The Jammed Copier* hoặc *Hotel Check-In*) và 3–4 cụm từ bắt buộc.
-3. **Kích hoạt Active Verbal Recall (15 Giây)**: Bấm đồng hồ 15 giây, **tự nói to bản tóm tắt bằng trí nhớ**! Ép bản thân phải vận dụng lại các từ đã note (như *jamming*, *was supposed to*, *up and running*, *work in a pinch*).
-4. **Đối chiếu khi bị nghẽn**: Chỉ khi nào nói bị tắc tị hoặc quên hẳn cốt truyện thì mới bấm nghe lại 30 giây hoặc bấm link đối chiếu đáp án chi tiết.
+1. **Bước 1 — Đọc & Hiểu 100% Chunked Transcript (2 Phút)**:
+   * Mở mục **`🧱 Chunked Transcript`** trong file Reference.
+   * Đọc lướt toàn bộ đoạn hội thoại/độc thoại một lần, tra nhanh 1–2 từ mới nếu có để đảm bảo **hiểu 100% cốt truyện 3W** và các cụm ngắt nhịp (`/`).
+2. **Bước 2 — Nghe Khớp Âm Thanh (Audio-Text Sync — 2 Phút)**:
+   * Bật audio tốc độ **1.0x**, mắt nhìn theo từng cụm `/` trong Chunked Transcript.
+   * Gạch chân hoặc chú ý những chỗ người bản xứ **nối âm, nuốt âm hoặc nhấn trọng âm** khác với cách mình tưởng tượng (*ví dụ: `sort-it-out`, `put-together-a`, `make-your-way-to`*).
+3. **Bước 3 — Nhại Đuổi (Chunked Shadowing — 4 Phút)**:
+   * **Lượt 1 (Nhìn chữ, 1.0x)**: Bật audio và đọc đuổi theo ngay sau người nói 0.5 giây, bắt chước y hệt ngữ điệu lên xuống và chỗ ngắt hơi (`/`).
+   * **Lượt 2 (Nhắm mắt / Không nhìn chữ, 1.0x ➔ 1.25x)**: Gấp Transcript lại, nghe trọn vẹn 1 lần ở `1.0x` (hoặc thử thách `1.25x`) để kiểm chứng tai mình đã nghe rõ từng cụm âm thanh mà không cần chữ.
+4. **Bước 4 — Bật Phản Xạ Ngôi Thứ Nhất (Hot-Seat Q&A — 2 Phút)**:
+   * Kéo xuống mục **`⚡ "In-the-Room" Hot-Seat Q&A`** ở cuối file Reference và trả lời to thành tiếng câu hỏi của quản lý/đồng nghiệp bằng ngôi thứ nhất (`I / We`). *(Không cần gượng ép tóm tắt ngôi thứ 3 nếu thấy khô khan!)*
+
+#### B. Đối với Bài Cũ (Review Clip Ngày Hôm Sau — 3 Phút)
+1. **Không đọc lại Transcript dài**: Mở [verbal-recall-cues.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/verbal-recall-cues.md) nhìn nhanh 4–5 **Target Chunks**.
+2. **Nghe mù 1 lần ở tốc độ 1.15x–1.25x** (nhắm mắt kiểm tra xem tai đã tự động bắt dính 90–100% đoạn audio hôm qua chưa).
+3. **Trả lời lại câu Hot-Seat Q&A** (hoặc tóm tắt nhanh 15 giây) có dùng ít nhất 2 Target Chunks.
 
 #### C. Lịch Trình Luyện Cuốn Chiếu 4 Clips Trong 5 Ngày (The 5-Day 4-Clip Balanced Cycle: 2 Part 3 + 2 Part 4)
-* **Thứ Hai (Day 1)**: Nghe mới **Clip 1 (TOEIC Part 3)** — Mode B Full-Detail
-* **Thứ Ba (Day 2)**: Review **Clip 1** (Active Verbal Recall) + Nghe mới **Clip 2 (TOEIC Part 3)** — Mode B
-* **Thứ Tư (Day 3)**: Review **Clip 2** (Active Verbal Recall) + Nghe mới **Clip 3 (TOEIC Part 4 Monologue)** — Mode B
-* **Thứ Năm (Day 4)**: Review **Clip 3** (Active Verbal Recall) + Nghe mới **Clip 4 (TOEIC Part 4 Monologue)** — Mode B
-* **Thứ Sáu (Day 5)**: Review **Clip 4** (Active Verbal Recall) + Đấu phản xạ **Hot-Seat Q&A** cả 4 Clips
-* **Thứ Bảy (Day 6 Test)**: **Iron Reflex 60 giây** (5 phút trước giờ thi) — Nhìn Cue Sheet tóm tắt nhanh Clips 1–4 không vấp
+* **Thứ Hai (Day 1)**: Bài mới **Clip 1 (TOEIC Part 3)** — Quy trình Đảo Ngược 4 Bước
+* **Thứ Ba (Day 2)**: Review **Clip 1** (Nghe 1.25x + Hot-Seat) + Bài mới **Clip 2 (TOEIC Part 3)**
+* **Thứ Tư (Day 3)**: Review **Clip 2** (Nghe 1.25x + Hot-Seat) + Bài mới **Clip 3 (TOEIC Part 4 Monologue)**
+* **Thứ Năm (Day 4)**: Review **Clip 3** (Nghe 1.25x + Hot-Seat) + Bài mới **Clip 4 (TOEIC Part 4 Monologue)**
+* **Thứ Sáu (Day 5)**: Review **Clip 4** (Nghe 1.25x + Hot-Seat) + Chạy tốc độ **Hot-Seat Q&A** cả 4 Clips
+* **Thứ Bảy (Day 6 Test)**: Nghe lại không nhìn chữ cả 4 Clips ở `1.0x–1.15x` để đo độ tiến bộ thực tế của tai!
 
-#### D. Thang Điểm Đánh Giá Kỹ Năng Nghe & Tường Thuật (Dual-Mode Scoring Rubric — 10 Điểm)
-> **🔄 Quy chuẩn phối hợp tối ưu:** **Lần nghe đầu tiên (Fresh Listen) dùng Mode B** (soi nghe trọn từ & sửa lỗi ngữ pháp) $\rightarrow$ **Ngày hôm sau Review (Active Recall) dùng Mode A** (ép phản xạ tóm tắt gọn 15 giây từ Cue Sheet).
-
-* **Chế độ A — 15-Second Gist Summary (Dùng cho Active Recall ngày hôm sau & Nói nhanh):**
-  * **Core Fact Accuracy (4 Pts):** Đủ 3W (Who – What – Action).
-  * **Speed & Reflex (3 Pts):** Nói gọn trong 15–20 giây (~45–55 từ), không khựng quá 2 giây.
-  * **Natural Phrasing (3 Pts):** Dùng đúng chunks bản ngữ.
-* **Chế độ B — Full-Detail Precision Check (Dùng cho Lần nghe đầu tiên — Kể chi tiết để soi nghe trọn từ):** 🌟
-  * **Precision Detail Coverage (5 Pts):** Đối chiếu 1-1 từng chi tiết nhỏ (tên riêng, con số, vật dụng, lý do phụ, hướng dẫn cụ thể) với Transcript gốc để phát hiện lỗi nghe sót hoặc nghe nhầm.
-  * **Grammar & Reporting Accuracy (2.5 Pts):** Chia đúng thì quá khứ tường thuật, đúng trật tự từ và giới từ, tránh nối câu dài lê thê (*run-on sentences*).
-  * **Natural Phrasing & Native Chunks (2.5 Pts):** Vận dụng mượt các cụm từ đắt giá trong bài và tránh bẫy Vietlish.
+#### D. Tiêu Chí Tự Đo Lường Tiến Bộ (Thay Thế Chấm Điểm Khắt Khe Gây Áp Lực)
+* ✅ **Tai (Listening Lock)**: Ngày hôm sau nhắm mắt nghe lại ở `1.0x–1.25x`, hiểu liền mạch ≥ 90% không bị "trắng não" ở giữa câu.
+* ✅ **Miệng (Shadowing Flow)**: Nhại theo kịp tốc độ `1.0x` theo từng cụm (`/`) mà không bị hụt hơi hay vấp nối âm.
+* ✅ **Phản xạ (Hot-Seat Output)**: Bật ra được câu trả lời ngôi thứ nhất (`I / We`) trong 3 giây có dùng 2–3 chunks đắt giá từ bài nghe.
 
 ---
 

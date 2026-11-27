@@ -38,7 +38,7 @@ Thứ Bảy (Day 6) : Iron Reflex (5 phút trước giờ thi) — Nhìn Cue She
   * *Who*: Hai nhân viên kiểm kê đơn hàng văn phòng phẩm.
   * *What*: Số lượng giao thực tế lệch với đơn đặt thế nào, phiếu giao hàng ghi gì?
   * *Action*: Hai người thống nhất xử lý ra sao với bên cung cấp?
-* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#clip-1-toeic-part-3-office-supply-delivery-shortage--supplier-reconciliation-test-3-questions-79)
+* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#-audio-block-1-toeic-part-3-office-supply-delivery-shortage--supplier-reconciliation)
 
 ---
 
@@ -55,7 +55,7 @@ Thứ Bảy (Day 6) : Iron Reflex (5 phút trước giờ thi) — Nhìn Cue She
   * *Who*: Hai quản lý kinh doanh.
   * *What*: Doanh số khu vực nào bị giảm và nguyên nhân cốt lõi là gì?
   * *Action*: Giải pháp đề xuất là gì và người phụ nữ chốt hạn nộp proposal khi nào?
-* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#clip-2-toeic-part-3-regional-sales-slump--targeted-social-media-campaign-test-3-questions-1012)
+* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#-audio-block-2-toeic-part-3-regional-sales-slump--targeted-social-media-campaign)
 
 ---
 
@@ -72,7 +72,7 @@ Thứ Bảy (Day 6) : Iron Reflex (5 phút trước giờ thi) — Nhìn Cue She
   * *Who*: Nhân viên hãng hàng không thông báo cho hành khách chuyến bay 209 đi Chicago.
   * *What*: Cổng khởi hành bị đổi từ đâu sang đâu và vì lý do gì?
   * *Action*: Hành khách cần làm gì ngay trong 20 phút tới và nhân viên ở cổng mới hỗ trợ việc gì?
-* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#clip-3-toeic-part-4-flight-209-to-chicago--departure-gate-change-part-4---test-1-questions-13)
+* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#-audio-block-3-toeic-part-4-flight-209-to-chicago--departure-gate-change)
 
 ---
 
@@ -89,4 +89,4 @@ Thứ Bảy (Day 6) : Iron Reflex (5 phút trước giờ thi) — Nhìn Cue She
   * *Who*: Phát thanh viên siêu thị Henderson's thông báo cho khách mua sắm buổi tối.
   * *What*: Cửa hàng còn bao lâu nữa thì đóng cửa và chương trình khuyến mãi nào sắp hết hạn tối nay?
   * *Action*: Khách hàng được nhắc làm ngay 2 việc gì trước giờ đóng cửa?
-* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#clip-4-toeic-part-4-department-store-closing--winter-clearance-finale-part-4---test-1-questions-46)
+* 👉 [🔍 Bấm vào đây để đối chiếu Transcript & Đáp án chi tiết](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-25/lessons/listening-gist-catching-reference.md#-audio-block-4-toeic-part-4-department-store-closing--winter-clearance-finale)

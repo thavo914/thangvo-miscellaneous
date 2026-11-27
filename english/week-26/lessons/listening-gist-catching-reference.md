@@ -10,19 +10,17 @@
 
 ---
 
-## 🎯 How to Use This Reference & Strict Evaluation Protocol
+## 🎯 How to Use This Reference (Reversed Protocol: Read First ➔ Audio-Text Sync ➔ Shadowing ➔ Hot-Seat)
 
-When practicing **1-Minute Gist-Catching & Verbal Summary** (Drill 3 in [daily-listening-and-speaking-reflex-guide.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/daily-listening-and-speaking-reflex-guide.md)):
+When practicing **Reversed Listening & Chunked Shadowing** (Step 3 in [daily-listening-and-speaking-reflex-guide.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/daily-listening-and-speaking-reflex-guide.md)):
 
-1. **Pass 1 (Gist Pass)**: Listen to the audio once through without reading the transcript. Focus only on the macro picture: **WHO** is speaking/addressed, **WHAT** is the obstacle or update, and what **ACTION** is required.
-2. **Pass 2 (Precision Pass)**: Listen a second time to catch specific constraints (numbers, routes, room names, root causes, deadlines).
-3. **Recommended 2-Stage Flow (4-Clip Weekly Rolling Schedule)**:
-   * **Monday (Day 1)**: Fresh Listen Clip 1 (Part 3 — Mode B Full-Detail Precision Check)
-   * **Tuesday (Day 2)**: Review Clip 1 (Mode A Active Recall from [verbal-recall-cues.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/verbal-recall-cues.md)) + Fresh Listen Clip 2 (Part 3 — Mode B)
-   * **Wednesday (Day 3)**: Review Clip 2 (Mode A Active Recall) + Fresh Listen Clip 3 (Part 4 Monologue — Mode B)
-   * **Thursday (Day 4)**: Review Clip 3 (Mode A Active Recall) + Fresh Listen Clip 4 (Part 4 Monologue — Mode B)
-   * **Friday (Day 5)**: Review Clip 4 (Mode A Active Recall) + Full 4-Clip Hot-Seat Q&A Speed Run
-4. **Compare & Score**: Read the transcript, 3W Key Elements, and Benchmark Model Summary below to score your performance out of 10 points.
+1. **Step 1 — Read & Understand 100% First (2 Mins)**: Open **`🧱 Chunked Transcript`** first! Read through the text and clear any unknown words so your brain understands 100% of the story and sound blocks (`/`).
+2. **Step 2 — Audio-Text Sync (2 Mins)**: Play the audio at **1.0x** while following the `/` markers with your eyes. Notice how native speakers link or reduce words (*e.g., `just-got-off-the-phone`, `your-best-bet`*).
+3. **Step 3 — Chunked Shadowing & Blind Speed Check (4 Mins)**:
+   * *Round 1 (Eyes on text, 1.0x)*: Shadow 0.5s behind the speaker, matching rhythm and intonation.
+   * *Round 2 (Eyes closed, 1.0x ➔ 1.25x)*: Close the transcript and listen straight through to verify your ear locks onto every chunk without text.
+4. **Step 4 — 1st-Person Hot-Seat Q&A (2 Mins)**: Jump to **`⚡ "In-the-Room" Hot-Seat Q&A`** at the bottom and answer the direct question out loud in 3 seconds using `I / We`.
+5. **Next-Day Review (3 Mins)**: Check [verbal-recall-cues.md](file:///c:/Users/Admin/source/repos/thangvo-miscellaneous/english/week-26/lessons/verbal-recall-cues.md), listen blind once at **1.15x–1.25x**, and re-answer the Hot-Seat Q&A (or give a quick 15s summary).
 
 ### 📊 Universal 10-Point Scoring Rubric
 
