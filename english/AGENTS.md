@@ -120,3 +120,13 @@ Whenever explaining reading comprehension, dissecting complex sentences, teachin
 - **Vocabulary by Mental Model (`Cause ➔ Problem ➔ Solution`)**:
   - Group vocabulary into logical cause–problem–solution chains and natural workplace collocations rather than isolated word lists so the learner retains words as an interconnected system.
 
+---
+
+## 8. Proactive Post-Exercise Summary & Review Suggestion
+Whenever the user completes a practice exercise, multi-turn role-play, daily speed-reflex session, or weekly listening set:
+- **Mandatory Directive**: The agent **MUST** proactively offer to compile and save a structured `.md` session review file (e.g., `english/week-<N>/lessons/day<N>-session-review-<YYYY-MM-DD>.md` or `listening-week-<N>-diagnostic-review.md`).
+- **Required Contents of the Review File**:
+  1. **Notes & Chunks Captured**: Clickable links to new notes added during the session.
+  2. **Performance Evaluation**: Clear strengths, strict score/assessment, and recurring grammar, preposition, or collocation traps observed.
+  3. **Targeted 3-Minute Chunking Fix Drill**: 3–5 sound-block sentences (`/`) designed specifically to correct the mistakes made during that session.
+
